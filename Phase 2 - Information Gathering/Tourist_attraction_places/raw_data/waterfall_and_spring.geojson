@@ -1,0 +1,2935 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.1 084b4234",
+  "osm3s": {
+    "timestamp_osm_base": "2024-11-13T15:06:01Z",
+    "timestamp_areas_base": "2024-11-13T11:53:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 182981020,
+  "lat": 46.0075682,
+  "lon": 11.2656884,
+  "tags": {
+    "drinking_water": "no",
+    "name": "Sorgente del Brenta",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 270176737,
+  "lat": 45.8804228,
+  "lon": 10.8242897,
+  "tags": {
+    "drinking_water": "yes",
+    "ele": "1116",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 287670802,
+  "lat": 46.2552996,
+  "lon": 11.6661973,
+  "tags": {
+    "amenity": "drinking_water",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 316143276,
+  "lat": 45.8552932,
+  "lon": 11.0482711,
+  "tags": {
+    "name": "Sorgente del Pra",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 395572833,
+  "lat": 45.8385841,
+  "lon": 10.8084198,
+  "tags": {
+    "amenity": "drinking_water",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 412896164,
+  "lat": 45.9994077,
+  "lon": 11.0257886,
+  "tags": {
+    "name": "Acqua del Nassent",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 415121011,
+  "lat": 46.3454691,
+  "lon": 10.7017626,
+  "tags": {
+    "amenity": "drinking_water",
+    "fixme": "spring?",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 415121017,
+  "lat": 46.3443652,
+  "lon": 10.7034689,
+  "tags": {
+    "amenity": "drinking_water",
+    "fixme": "spring?",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 431332071,
+  "lat": 45.8774596,
+  "lon": 11.0948287,
+  "tags": {
+    "ele": "805",
+    "name": "Sorgente dei Fontanei",
+    "natural": "spring",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 434169550,
+  "lat": 46.0412184,
+  "lon": 11.1524680,
+  "tags": {
+    "amenity": "drinking_water",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 434490006,
+  "lat": 45.9241770,
+  "lon": 10.7614562,
+  "tags": {
+    "amenity": "watering_place",
+    "drinking_water": "yes",
+    "fee": "no",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 449551737,
+  "lat": 45.9295377,
+  "lon": 11.1679834,
+  "tags": {
+    "drinking_water": "yes",
+    "ele": "1497",
+    "name": "Costila",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 469259903,
+  "lat": 45.7870416,
+  "lon": 10.9604230,
+  "tags": {
+    "name": "Sorgente degli Albi",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 517848242,
+  "lat": 45.8593881,
+  "lon": 10.6125847,
+  "tags": {
+    "name": "Fontana Scaia",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 568483351,
+  "lat": 45.8995457,
+  "lon": 10.9862549,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 650278474,
+  "lat": 46.4875383,
+  "lon": 11.2083670,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-10-02",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 665811102,
+  "lat": 46.0554640,
+  "lon": 11.1593019,
+  "tags": {
+    "ele": "615.0",
+    "name": "Acque di Gabbiolo",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 670666302,
+  "lat": 45.8013743,
+  "lon": 10.9687318,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 671676962,
+  "lat": 45.9740685,
+  "lon": 10.9276922,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 697016019,
+  "lat": 45.8567432,
+  "lon": 11.1206973,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 706714407,
+  "lat": 45.9583175,
+  "lon": 11.1230916,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 854470397,
+  "lat": 46.2457671,
+  "lon": 11.0118431,
+  "tags": {
+    "name": "Busoni",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 865231653,
+  "lat": 45.8282786,
+  "lon": 11.1298975,
+  "tags": {
+    "amenity": "watering_place",
+    "name": "Sette Albi",
+    "natural": "spring",
+    "place": "locality"
+  }
+},
+{
+  "type": "node",
+  "id": 868231294,
+  "lat": 46.0646869,
+  "lon": 11.0191395,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Piociosa",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 868579419,
+  "lat": 46.0611484,
+  "lon": 11.0324771,
+  "tags": {
+    "name": "Fonte Brenta",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 897699374,
+  "lat": 46.1659722,
+  "lon": 10.9255054,
+  "tags": {
+    "name": "Quelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 970731494,
+  "lat": 45.8454855,
+  "lon": 10.7685388,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 979881248,
+  "lat": 45.9155731,
+  "lon": 11.0872467,
+  "tags": {
+    "name": "Albiolo",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 991209330,
+  "lat": 45.8395224,
+  "lon": 10.6546738,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 991209524,
+  "lat": 45.8334671,
+  "lon": 10.6360378,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1086974828,
+  "lat": 46.0865180,
+  "lon": 11.1739873,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1100567370,
+  "lat": 46.4073604,
+  "lon": 10.7897336,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1100568138,
+  "lat": 46.4073049,
+  "lon": 10.7910294,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1106942567,
+  "lat": 46.4715498,
+  "lon": 10.9995329,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1307293587,
+  "lat": 45.9788361,
+  "lon": 11.3151425,
+  "tags": {
+    "amenity": "drinking_water",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1307437588,
+  "lat": 45.9596824,
+  "lon": 10.9854271,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1323664527,
+  "lat": 46.0708288,
+  "lon": 11.3243169,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1357185949,
+  "lat": 46.0552604,
+  "lon": 10.8471215,
+  "tags": {
+    "name": "Rio Bianco",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1358282302,
+  "lat": 46.4207505,
+  "lon": 11.6858390,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2022-07-04",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1370480050,
+  "lat": 46.1160585,
+  "lon": 11.5166364,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1379316451,
+  "lat": 46.4311398,
+  "lon": 11.1901398,
+  "tags": {
+    "amenity": "drinking_water",
+    "ele": "1440",
+    "mapillary": "175349107804075",
+    "name": "Sorgente Tranzi",
+    "name:de": "Tranzi Quelle",
+    "name:it": "Sorgente Tranzi",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1381060990,
+  "lat": 45.9273299,
+  "lon": 11.1905332,
+  "tags": {
+    "name": "Sorgente Fontanelle",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1390255251,
+  "lat": 46.1152931,
+  "lon": 11.5226751,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1393347170,
+  "lat": 45.7308841,
+  "lon": 11.0782268,
+  "tags": {
+    "amenity": "drinking_water",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1434242428,
+  "lat": 46.3492918,
+  "lon": 11.6985838,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-08-29",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1470721169,
+  "lat": 46.4992927,
+  "lon": 11.6831829,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1716103416,
+  "lat": 45.8818528,
+  "lon": 11.0978973,
+  "tags": {
+    "name": "Gritter",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1734673721,
+  "lat": 46.1882786,
+  "lon": 11.3647541,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1734673723,
+  "lat": 46.1918050,
+  "lon": 11.3538355,
+  "tags": {
+    "amenity": "drinking_water",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1759885141,
+  "lat": 45.8599580,
+  "lon": 11.1222036,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1766653684,
+  "lat": 46.0800620,
+  "lon": 11.3674180,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1767601066,
+  "lat": 46.0545536,
+  "lon": 10.6442076,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1767616807,
+  "lat": 46.0491806,
+  "lon": 10.6622324,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1768503859,
+  "lat": 45.9347749,
+  "lon": 11.3510697,
+  "tags": {
+    "name": "Fonte Costesin (Obartrogar)",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1820543013,
+  "lat": 46.1527898,
+  "lon": 11.5232361,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1826303777,
+  "lat": 45.8943591,
+  "lon": 10.7549284,
+  "tags": {
+    "name": "Acqua de Droghe",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1841866748,
+  "lat": 45.9602396,
+  "lon": 10.8958936,
+  "tags": {
+    "description": "no drinking water",
+    "name": "Fonti Albi",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1890686732,
+  "lat": 46.1803230,
+  "lon": 11.8158476,
+  "tags": {
+    "name": "Acqua del Faoro",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 1988491455,
+  "lat": 45.9301012,
+  "lon": 10.9973373,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 2058863324,
+  "lat": 45.9893453,
+  "lon": 10.8305348,
+  "tags": {
+    "drinking_water": "no",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 2148402110,
+  "lat": 45.9349817,
+  "lon": 11.0382157,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 2389289094,
+  "lat": 46.2201457,
+  "lon": 11.8354776,
+  "tags": {
+    "amenity": "drinking_water",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 2407057493,
+  "lat": 46.1616505,
+  "lon": 10.9180756,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 2407622385,
+  "lat": 46.3026188,
+  "lon": 11.6355344,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 2435294258,
+  "lat": 46.1940767,
+  "lon": 11.0599127,
+  "tags": {
+    "amenity": "drinking_water",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 2459048749,
+  "lat": 45.9998885,
+  "lon": 11.0663042,
+  "tags": {
+    "name": "Acqua Negra",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 2459048750,
+  "lat": 46.0003401,
+  "lon": 11.0574796,
+  "tags": {
+    "name": "Acqua dei Aseni",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 2489823745,
+  "lat": 46.2157076,
+  "lon": 11.8581276,
+  "tags": {
+    "name": "Sorgente Laibi",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 2491763005,
+  "lat": 46.2152482,
+  "lon": 11.8779083,
+  "tags": {
+    "name": "Sorgente Acque Nere",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 2491763009,
+  "lat": 46.2287498,
+  "lon": 11.8703653,
+  "tags": {
+    "name": "Sorgente Minarale",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 2715234070,
+  "lat": 45.9737906,
+  "lon": 11.0147203,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 2741644999,
+  "lat": 46.1256951,
+  "lon": 11.0543089,
+  "tags": {
+    "name": "Sorgente di Gardenal",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 2745665182,
+  "lat": 46.1409382,
+  "lon": 11.0415463,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 2794308159,
+  "lat": 46.3415934,
+  "lon": 11.5922720,
+  "tags": {
+    "amenity": "drinking_water",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 2956168562,
+  "lat": 46.1511517,
+  "lon": 11.9080482,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3094311389,
+  "lat": 46.1837968,
+  "lon": 11.9149749,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3275196666,
+  "lat": 45.8841843,
+  "lon": 10.9317409,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3291048467,
+  "lat": 45.8658418,
+  "lon": 10.9463095,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3440143579,
+  "lat": 46.0346120,
+  "lon": 11.6598179,
+  "tags": {
+    "name": "Fontana Paradiso",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3455376415,
+  "lat": 46.4173720,
+  "lon": 11.6826363,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3465086224,
+  "lat": 46.1481185,
+  "lon": 11.5227132,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3496947451,
+  "lat": 45.9641014,
+  "lon": 10.9771623,
+  "tags": {
+    "name": "Sorgente Zurlon",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3496957983,
+  "lat": 45.9772409,
+  "lon": 10.9879341,
+  "tags": {
+    "name": "Sorgente Lavachel",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3497833003,
+  "lat": 45.8532287,
+  "lon": 10.6199719,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3497833005,
+  "lat": 45.8576978,
+  "lon": 10.6191249,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3497833006,
+  "lat": 45.8591146,
+  "lon": 10.6164776,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3661599886,
+  "lat": 46.2296771,
+  "lon": 11.5743521,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3661627776,
+  "lat": 46.2680424,
+  "lon": 11.5804917,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3661820804,
+  "lat": 46.2041557,
+  "lon": 11.5390007,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3667763454,
+  "lat": 46.4062871,
+  "lon": 11.7352997,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3667763600,
+  "lat": 46.4153773,
+  "lon": 11.7360610,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3679225105,
+  "lat": 45.9736600,
+  "lon": 11.3620865,
+  "tags": {
+    "ele": "1647",
+    "name": "Sorgente di val Postesina",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3700666728,
+  "lat": 46.3396532,
+  "lon": 10.6181549,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Fontanino di Pejo",
+    "natural": "spring",
+    "noref": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 3723752570,
+  "lat": 46.4114911,
+  "lon": 11.7875463,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3761993193,
+  "lat": 46.4241212,
+  "lon": 11.6483858,
+  "tags": {
+    "amenity": "drinking_water",
+    "check_date": "2024-07-22",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3824389422,
+  "lat": 45.7231955,
+  "lon": 11.0097763,
+  "tags": {
+    "intermittent": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3837190536,
+  "lat": 46.1353092,
+  "lon": 11.5241367,
+  "tags": {
+    "amenity": "watering_place",
+    "material": "wood",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3878786202,
+  "lat": 46.0520752,
+  "lon": 11.2757701,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Sorgente Beber",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3889229435,
+  "lat": 46.0523876,
+  "lon": 11.2831074,
+  "tags": {
+    "drinking_water": "no",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3901176787,
+  "lat": 46.0506853,
+  "lon": 11.5570554,
+  "tags": {
+    "amenity": "fountain",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3923743290,
+  "lat": 46.0440030,
+  "lon": 11.3132754,
+  "tags": {
+    "name": "Sorgente Acqua Forte",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 3927027483,
+  "lat": 46.4641127,
+  "lon": 11.2081468,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Sorgente Vel",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4000683555,
+  "lat": 46.0501421,
+  "lon": 11.5615170,
+  "tags": {
+    "amenity": "fountain",
+    "fixme": "da verificare posizione",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4026573737,
+  "lat": 46.1148110,
+  "lon": 11.2699483,
+  "tags": {
+    "name": "Sorgente Ferruginosa del Cané",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4026576350,
+  "lat": 46.1222150,
+  "lon": 11.2832717,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4149241481,
+  "lat": 46.0375979,
+  "lon": 11.0111963,
+  "tags": {
+    "name": "\"sorgente + fontanella\"",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4156244576,
+  "lat": 46.1290148,
+  "lon": 11.2867532,
+  "tags": {
+    "name": "Acqua de la Cava",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4187709215,
+  "lat": 46.4683771,
+  "lon": 11.7250323,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4199168350,
+  "lat": 45.9788203,
+  "lon": 11.0344645,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4200600459,
+  "lat": 46.0474683,
+  "lon": 11.5452855,
+  "tags": {
+    "name": "Sorgente Molinetto",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4217002865,
+  "lat": 46.2593694,
+  "lon": 11.6248731,
+  "tags": {
+    "amenity": "drinking_water",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4271749341,
+  "lat": 46.2280118,
+  "lon": 10.9703801,
+  "tags": {
+    "amenity": "drinking_water",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4271750471,
+  "lat": 46.2337416,
+  "lon": 10.9727070,
+  "tags": {
+    "amenity": "drinking_water",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4272328525,
+  "lat": 46.1581118,
+  "lon": 10.8945621,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4296665693,
+  "lat": 46.0280037,
+  "lon": 10.9757272,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4312751631,
+  "lat": 46.2168440,
+  "lon": 11.0347340,
+  "tags": {
+    "fixme": "position",
+    "name": "Acquasanta",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4319518921,
+  "lat": 46.2822084,
+  "lon": 11.6500507,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4359226001,
+  "lat": 46.2568483,
+  "lon": 10.9466046,
+  "tags": {
+    "name": "Sorgente Roccione",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4404410547,
+  "lat": 45.8981807,
+  "lon": 11.0870551,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4409692905,
+  "lat": 45.8756709,
+  "lon": 10.5082913,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4423871223,
+  "lat": 46.2192245,
+  "lon": 10.9378602,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4501438412,
+  "lat": 46.3613222,
+  "lon": 10.6974610,
+  "tags": {
+    "name": "Fontana Matta",
+    "name:en": "Mad Fontain",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4526821816,
+  "lat": 45.7253168,
+  "lon": 10.9630217,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4526824400,
+  "lat": 45.7251977,
+  "lon": 10.9629687,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4601543398,
+  "lat": 45.8334024,
+  "lon": 10.5980527,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4616350071,
+  "lat": 46.1086475,
+  "lon": 11.2704915,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4618737882,
+  "lat": 46.1349857,
+  "lon": 11.2851725,
+  "tags": {
+    "name": "Acqua de la Canela",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4640146480,
+  "lat": 46.1365437,
+  "lon": 11.2917100,
+  "tags": {
+    "name": "Fontane Frede",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4665146605,
+  "lat": 46.1084146,
+  "lon": 11.2759252,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4767901598,
+  "lat": 46.1010294,
+  "lon": 11.2510631,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Acqua del diaolo",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4775334232,
+  "lat": 45.8715058,
+  "lon": 11.1586366,
+  "tags": {
+    "name": "Acqua Rosa",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4792143574,
+  "lat": 46.3369159,
+  "lon": 11.6683926,
+  "tags": {
+    "amenity": "drinking_water",
+    "amenity_1": "watering_place",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4830247959,
+  "lat": 45.8792725,
+  "lon": 10.8216208,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring",
+    "source": "gps"
+  }
+},
+{
+  "type": "node",
+  "id": 4899781759,
+  "lat": 46.0394177,
+  "lon": 11.1945561,
+  "tags": {
+    "name": "Fontana dei mughi",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4922687174,
+  "lat": 45.9203258,
+  "lon": 10.5111564,
+  "tags": {
+    "intermittent": "no",
+    "name": "Sorgente del Passo di Bruffione",
+    "natural": "spring",
+    "operator": "CAI"
+  }
+},
+{
+  "type": "node",
+  "id": 4936811749,
+  "lat": 46.1405651,
+  "lon": 11.2978394,
+  "tags": {
+    "name": "Albiol",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4943649022,
+  "lat": 45.9871275,
+  "lon": 10.8963538,
+  "tags": {
+    "name:cs": "Studánka",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4946082277,
+  "lat": 46.0948936,
+  "lon": 11.2268115,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4987050093,
+  "lat": 46.2654620,
+  "lon": 10.8375755,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 4989735388,
+  "lat": 46.2942117,
+  "lon": 10.7429032,
+  "tags": {
+    "amenity": "drinking_water",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 5008448151,
+  "lat": 46.2515193,
+  "lon": 10.8967927,
+  "tags": {
+    "intermittent": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 5017560814,
+  "lat": 46.2373249,
+  "lon": 11.5791436,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 5024979458,
+  "lat": 46.2451969,
+  "lon": 11.5917120,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 5030212398,
+  "lat": 46.3010429,
+  "lon": 11.8157641,
+  "tags": {
+    "amenity": "drinking_water",
+    "name": "Sorgenti del Travignolo",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 5067274811,
+  "lat": 46.1470349,
+  "lon": 11.5175311,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 5070884886,
+  "lat": 46.0773672,
+  "lon": 11.0017622,
+  "tags": {
+    "name": "Sorgente Ronc",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 5074830871,
+  "lat": 46.0424524,
+  "lon": 10.9832399,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 5089536317,
+  "lat": 46.1110750,
+  "lon": 11.2361228,
+  "tags": {
+    "name": "Fontana vecia",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 5154263616,
+  "lat": 45.7822528,
+  "lon": 11.0875945,
+  "tags": {
+    "name": "Fonte dell'Astea",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 5236772779,
+  "lat": 45.8532505,
+  "lon": 11.0967997,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 5284419382,
+  "lat": 46.1153119,
+  "lon": 11.2432632,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 5318733180,
+  "lat": 46.4182155,
+  "lon": 11.7797852,
+  "tags": {
+    "intermittent": "no",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 5401012893,
+  "lat": 46.0421242,
+  "lon": 10.8865511,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 5536619929,
+  "lat": 46.1126811,
+  "lon": 11.2401231,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 5588832467,
+  "lat": 46.0647156,
+  "lon": 11.5807338,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 5615491268,
+  "lat": 46.1259875,
+  "lon": 11.7474264,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 5638487054,
+  "lat": 46.1299499,
+  "lon": 11.2794682,
+  "tags": {
+    "loc_name": "Aquadóto del Pùzzel",
+    "name": "Acqua Forte di Costalta",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 5766180099,
+  "lat": 45.7260118,
+  "lon": 10.8639845,
+  "tags": {
+    "name": "Sorgente Acquenere",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 5836766273,
+  "lat": 46.2818790,
+  "lon": 10.6229612,
+  "tags": {
+    "amenity": "drinking_water",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 5839576046,
+  "lat": 45.9710630,
+  "lon": 10.7836029,
+  "tags": {
+    "ele": "1785",
+    "intermittent": "yes",
+    "name": "Acqua de Nardis",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 5895885179,
+  "lat": 45.9949806,
+  "lon": 11.1856514,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 5968481961,
+  "lat": 45.9797509,
+  "lon": 10.7582604,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 6202092423,
+  "lat": 45.9409656,
+  "lon": 10.8178693,
+  "tags": {
+    "drinking_water": "no",
+    "intermittent": "no",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 6291516350,
+  "lat": 46.0384275,
+  "lon": 11.2386574,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 6546913832,
+  "lat": 45.8127890,
+  "lon": 10.9519074,
+  "tags": {
+    "name": "Sorgente Pradarc",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 6550851954,
+  "lat": 45.8453151,
+  "lon": 10.9123074,
+  "tags": {
+    "name": "Sorgente della Prea",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 6550879975,
+  "lat": 45.8470458,
+  "lon": 10.8794163,
+  "tags": {
+    "name": "Sorgente Varno",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 6550879976,
+  "lat": 45.8441385,
+  "lon": 10.8943804,
+  "tags": {
+    "name": "Sorgente Acqua d'Oro",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 6551180255,
+  "lat": 45.9507150,
+  "lon": 10.8127380,
+  "tags": {
+    "name": "Sorgente Seghe",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 6558153160,
+  "lat": 46.1703280,
+  "lon": 11.5212040,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 6558184932,
+  "lat": 46.1561413,
+  "lon": 11.5275474,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 6558207295,
+  "lat": 46.1560849,
+  "lon": 11.5258282,
+  "tags": {
+    "amenity": "drinking_water",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 6558318772,
+  "lat": 46.1076098,
+  "lon": 11.5431777,
+  "tags": {
+    "intermittent": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 6558339209,
+  "lat": 46.1143943,
+  "lon": 11.5532346,
+  "tags": {
+    "intermittent": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 6590836655,
+  "lat": 45.9904658,
+  "lon": 10.9605921,
+  "tags": {
+    "name": "Font. Fiaschet",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 6591081076,
+  "lat": 46.0342033,
+  "lon": 11.0136834,
+  "tags": {
+    "name": "Strengiador",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 6637007479,
+  "lat": 45.7101126,
+  "lon": 11.0969925,
+  "tags": {
+    "fee": "yes",
+    "name": "Sorgente la Picolota",
+    "natural": "spring",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6770754985,
+  "lat": 46.2030866,
+  "lon": 10.9332706,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 6792877987,
+  "lat": 45.8544916,
+  "lon": 10.7541869,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 6877687574,
+  "lat": 45.7537445,
+  "lon": 10.9651035,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 6877687584,
+  "lat": 45.7623835,
+  "lon": 10.9743102,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7083972071,
+  "lat": 45.8576869,
+  "lon": 10.5784028,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Menè",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7093408719,
+  "lat": 45.8577209,
+  "lon": 10.5831079,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7238926676,
+  "lat": 45.8019390,
+  "lon": 10.9705609,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7260492893,
+  "lat": 45.9557186,
+  "lon": 11.0121566,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7383300334,
+  "lat": 45.8714695,
+  "lon": 10.9637330,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7383374736,
+  "lat": 45.8756390,
+  "lon": 10.9731200,
+  "tags": {
+    "name": "pat",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7438368963,
+  "lat": 45.6896054,
+  "lon": 10.9613002,
+  "tags": {
+    "drinking_water": "no",
+    "intermittent": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7499321055,
+  "lat": 45.7229217,
+  "lon": 11.0384146,
+  "tags": {
+    "name": "Sorgente la veceta",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7528348273,
+  "lat": 45.9853745,
+  "lon": 10.9849892,
+  "tags": {
+    "drinking_water": "no",
+    "intermittent": "no",
+    "name": "Sorgente Fotri",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7546158624,
+  "lat": 45.7182444,
+  "lon": 11.0005331,
+  "tags": {
+    "name": "Sorgente Torneri",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7556525662,
+  "lat": 46.3181091,
+  "lon": 11.4487800,
+  "tags": {
+    "description": "Troppopieno acquedotto",
+    "drinking_water": "yes",
+    "fee": "no",
+    "intermittent": "no",
+    "name": "Troppopieno acquedotto",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7561867335,
+  "lat": 46.1097651,
+  "lon": 11.1572535,
+  "tags": {
+    "intermittent": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7618123410,
+  "lat": 45.8664736,
+  "lon": 10.8816710,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "yes",
+    "name": "Fonte Romani",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7622033391,
+  "lat": 46.0942988,
+  "lon": 10.9031019,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7658646488,
+  "lat": 46.2515218,
+  "lon": 11.5190302,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7658837387,
+  "lat": 46.2347217,
+  "lon": 11.5329358,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7660221912,
+  "lat": 46.2247507,
+  "lon": 11.5349493,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7660505658,
+  "lat": 46.2101675,
+  "lon": 11.5265820,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7660611192,
+  "lat": 46.2193290,
+  "lon": 11.5146553,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7666879693,
+  "lat": 45.9295899,
+  "lon": 11.2313639,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7726475176,
+  "lat": 46.5078090,
+  "lon": 11.7958895,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7811880162,
+  "lat": 46.1808133,
+  "lon": 11.4868859,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7829014175,
+  "lat": 45.8925951,
+  "lon": 11.1403682,
+  "tags": {
+    "intermittent": "no",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7863684251,
+  "lat": 46.2256775,
+  "lon": 10.8905971,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7872350667,
+  "lat": 45.9695691,
+  "lon": 11.2630233,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7883677963,
+  "lat": 46.2480923,
+  "lon": 10.7039109,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7900370479,
+  "lat": 45.9009594,
+  "lon": 10.5247843,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7902372072,
+  "lat": 46.3390665,
+  "lon": 10.6177886,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Fontanino di Celentino",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7963937639,
+  "lat": 45.9830762,
+  "lon": 11.2293956,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7968758004,
+  "lat": 46.1397569,
+  "lon": 11.5204417,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7968758005,
+  "lat": 46.1158618,
+  "lon": 11.5223008,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7968758006,
+  "lat": 46.1154355,
+  "lon": 11.5285877,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 7968758007,
+  "lat": 46.1119692,
+  "lon": 11.5312619,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8021534952,
+  "lat": 46.0980493,
+  "lon": 11.5778089,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8143269591,
+  "lat": 46.0729023,
+  "lon": 10.7016263,
+  "tags": {
+    "name": "Poz di Catàr",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8215174573,
+  "lat": 45.8829816,
+  "lon": 10.9216618,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8440274228,
+  "lat": 45.8289201,
+  "lon": 10.5796414,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8458467686,
+  "lat": 46.0810160,
+  "lon": 10.7078617,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8458477519,
+  "lat": 46.1234431,
+  "lon": 10.7673714,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8544140124,
+  "lat": 45.9828065,
+  "lon": 10.9680295,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8550506124,
+  "lat": 46.1270036,
+  "lon": 11.1575359,
+  "tags": {
+    "drinking_water": "untreated",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8550506125,
+  "lat": 46.1257281,
+  "lon": 11.1559990,
+  "tags": {
+    "drinking_water": "untreated",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8572827042,
+  "lat": 45.8643726,
+  "lon": 10.9531241,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8580650672,
+  "lat": 46.1300923,
+  "lon": 11.2766242,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8609832644,
+  "lat": 46.1142822,
+  "lon": 11.1516916,
+  "tags": {
+    "drinking_water": "no",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8666959049,
+  "lat": 45.7847338,
+  "lon": 10.9876277,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8666959050,
+  "lat": 45.7837425,
+  "lon": 10.9881654,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8666959051,
+  "lat": 45.7839519,
+  "lon": 10.9882379,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8670957520,
+  "lat": 46.1226565,
+  "lon": 11.1955441,
+  "tags": {
+    "drinking_water": "no",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8690524023,
+  "lat": 46.1097808,
+  "lon": 11.2222893,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8696341261,
+  "lat": 46.1189912,
+  "lon": 11.1874700,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 8765438393,
+  "lat": 45.8839336,
+  "lon": 10.9395529,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9046327252,
+  "lat": 46.1117623,
+  "lon": 11.2623882,
+  "tags": {
+    "name": "Acquedotto Val del Sas Bianch",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9046327253,
+  "lat": 46.1104594,
+  "lon": 11.2557224,
+  "tags": {
+    "name": "Acquedotto delle Sode",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9046327255,
+  "lat": 46.1089379,
+  "lon": 11.2599905,
+  "tags": {
+    "name": "Acquedotto Val del Foo",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9048236783,
+  "lat": 46.3852344,
+  "lon": 11.6461746,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring",
+    "source": "gps"
+  }
+},
+{
+  "type": "node",
+  "id": 9062287872,
+  "lat": 46.4204723,
+  "lon": 11.7694459,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9084257059,
+  "lat": 45.8272492,
+  "lon": 11.0407015,
+  "tags": {
+    "name": "Vasca del Cuco",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9145680378,
+  "lat": 45.8110299,
+  "lon": 11.1778016,
+  "tags": {
+    "intermittent": "no",
+    "name": "Sorgente Buse Bisorte",
+    "natural": "spring",
+    "wikimedia_commons": "File:Sorgente_Buse_Bisorte.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 9178182088,
+  "lat": 45.9409489,
+  "lon": 11.0377268,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Corzem",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9187108726,
+  "lat": 46.2422038,
+  "lon": 10.9088551,
+  "tags": {
+    "fixme": "location",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9205125810,
+  "lat": 46.0787239,
+  "lon": 10.6687366,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "yes",
+    "name": "sorgente dell'acquasanta",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9233014774,
+  "lat": 45.9656166,
+  "lon": 11.3065369,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9233081339,
+  "lat": 45.9657699,
+  "lon": 11.3065176,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9432008352,
+  "lat": 46.1246612,
+  "lon": 11.4377743,
+  "tags": {
+    "name": "Sorgente acqua mora",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9794565169,
+  "lat": 46.4543345,
+  "lon": 10.9991783,
+  "tags": {
+    "description": "Sorgente acqua potabile",
+    "drinking_water": "yes",
+    "name": "Sorgente ferro-magnesiaca",
+    "natural": "spring",
+    "source": "local knowledge"
+  }
+},
+{
+  "type": "node",
+  "id": 9796688608,
+  "lat": 45.9287556,
+  "lon": 11.2280193,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Sorgiva alla Stoan",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9908095097,
+  "lat": 46.2399705,
+  "lon": 11.6158117,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9908114347,
+  "lat": 46.2302054,
+  "lon": 11.6110670,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9908155283,
+  "lat": 45.9118776,
+  "lon": 11.1577828,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9912720068,
+  "lat": 45.8629962,
+  "lon": 11.1859034,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Visenbrùnile",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9913299417,
+  "lat": 45.9187300,
+  "lon": 11.1649613,
+  "tags": {
+    "drinking_water": "no",
+    "intermittent": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9914543473,
+  "lat": 46.3577195,
+  "lon": 11.7219250,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9942706133,
+  "lat": 46.4399138,
+  "lon": 10.8786047,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9945990649,
+  "lat": 46.0793807,
+  "lon": 10.9028182,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9956757175,
+  "lat": 45.9259682,
+  "lon": 11.1688978,
+  "tags": {
+    "drinking_water": "yes",
+    "material": "wood",
+    "name": "Sorgente Rindela",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9974552142,
+  "lat": 45.9449932,
+  "lon": 10.8846249,
+  "tags": {
+    "name": "Sorgente alle Fontane",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9998272516,
+  "lat": 46.4288657,
+  "lon": 10.8651878,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9998315830,
+  "lat": 46.4613503,
+  "lon": 10.9630611,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 9998324620,
+  "lat": 46.4403699,
+  "lon": 10.8982617,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 10011846433,
+  "lat": 45.8585627,
+  "lon": 11.0725712,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Orco",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 10011846873,
+  "lat": 45.8583778,
+  "lon": 11.0707689,
+  "tags": {
+    "access": "private",
+    "covered": "yes",
+    "drinking_water": "yes",
+    "name": "Spino",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 10018603580,
+  "lat": 45.9851775,
+  "lon": 10.5317873,
+  "tags": {
+    "drinking_water": "yes",
+    "natural": "spring",
+    "refitted": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10041106198,
+  "lat": 46.1921782,
+  "lon": 11.3540042,
+  "tags": {
+    "amenity": "drinking_water",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 10741289210,
+  "lat": 45.8794941,
+  "lon": 11.1265557,
+  "tags": {
+    "drinking_water": "no",
+    "intermittent": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 10743346515,
+  "lat": 46.2820816,
+  "lon": 10.8985052,
+  "tags": {
+    "description": "Fonte a 7/8 minuti dal bivacco: uscendo dalla porta ignorare il sentiero CAI 336/A o Sentiero G. Albasini e percorrere la buona traccia a sinistra in falsopiano o leggera discesa che in breve conduce alla fonte",
+    "name": "Fonte Bivacco Costanzi Albasini",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 10893523465,
+  "lat": 46.0844378,
+  "lon": 10.8767745,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Goccia",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 10897553260,
+  "lat": 46.0835940,
+  "lon": 10.8787688,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 10899391224,
+  "lat": 46.3309357,
+  "lon": 11.1022979,
+  "tags": {
+    "name": "Fontana del Pez",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 11005992501,
+  "lat": 46.4129945,
+  "lon": 11.1740217,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 11016167377,
+  "lat": 46.4215317,
+  "lon": 11.1924170,
+  "tags": {
+    "check_date": "2023-06-30",
+    "ele": "1400",
+    "name": "Sorgente Acqua Fredda",
+    "natural": "spring",
+    "note": "Struttura interrata chiusa, inizio acquedotto cittadino",
+    "source": "survey"
+  }
+},
+{
+  "type": "node",
+  "id": 11030513825,
+  "lat": 45.9367763,
+  "lon": 11.1879030,
+  "tags": {
+    "name": "Sorgente dell'Agnela",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 11034582778,
+  "lat": 45.9331373,
+  "lon": 10.6701534,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 11071967514,
+  "lat": 46.1387713,
+  "lon": 11.3203983,
+  "tags": {
+    "drinking_water": "yes",
+    "intermittent": "no",
+    "name": "Sorgente Acqua Fredda",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 11081826144,
+  "lat": 46.1940648,
+  "lon": 11.5030247,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 11081826145,
+  "lat": 46.2406591,
+  "lon": 11.6809856,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 11082704676,
+  "lat": 46.1024657,
+  "lon": 11.5614794,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 11119609996,
+  "lat": 45.8494157,
+  "lon": 11.1985476,
+  "tags": {
+    "drinking_water": "yes",
+    "name": "Fontanel dell'abez",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 11209760576,
+  "lat": 46.0124234,
+  "lon": 11.5035278,
+  "tags": {
+    "intermittent": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 11217720709,
+  "lat": 46.0164123,
+  "lon": 11.5050701,
+  "tags": {
+    "intermittent": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 11248966243,
+  "lat": 46.2952188,
+  "lon": 10.9244578,
+  "tags": {
+    "intermittent": "yes",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 11687740608,
+  "lat": 45.8663078,
+  "lon": 10.9965446,
+  "tags": {
+    "drinking_water": "no",
+    "drinking_water:legal": "no",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 11833356564,
+  "lat": 45.9035715,
+  "lon": 11.1275679,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 12003423042,
+  "lat": 46.1054685,
+  "lon": 11.4496281,
+  "tags": {
+    "drinking_water": "conditional",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 12003423043,
+  "lat": 46.1079148,
+  "lon": 11.4535723,
+  "tags": {
+    "drinking_water": "conditional",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 12082866729,
+  "lat": 46.1902403,
+  "lon": 10.8905278,
+  "tags": {
+    "name": "Sorgente",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 12094825180,
+  "lat": 46.0790742,
+  "lon": 10.8975948,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 12192682755,
+  "lat": 45.9626980,
+  "lon": 11.0099425,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 12246256584,
+  "lat": 45.9157232,
+  "lon": 11.0003321,
+  "tags": {
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 12252445354,
+  "lat": 46.1427965,
+  "lon": 11.4154467,
+  "tags": {
+    "description": "grata e tubo in PVC probabile arrivo alla fontana del Bivacco Caserote",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 12270576622,
+  "lat": 45.8489581,
+  "lon": 11.1597115,
+  "tags": {
+    "fixme": "correggere posizione e dettagli",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 12296193290,
+  "lat": 45.8210275,
+  "lon": 11.0438105,
+  "tags": {
+    "name": "Fontana de drento",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 12296193291,
+  "lat": 45.8360822,
+  "lon": 11.0480887,
+  "tags": {
+    "name": "Albi dei piovani",
+    "natural": "spring"
+  }
+},
+{
+  "type": "node",
+  "id": 12319173127,
+  "lat": 46.2382929,
+  "lon": 11.1203581,
+  "tags": {
+    "natural": "spring"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.1 084b4234",
+  "osm3s": {
+    "timestamp_osm_base": "2024-11-13T14:58:49Z",
+    "timestamp_areas_base": "2024-11-13T11:53:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "relation",
+  "id": 4710461,
+  "center": {
+    "lat": 45.8843322,
+    "lon": 10.6922633
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 51335822,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 342857152,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1236767337,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 334076241,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 334073649,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 333904666,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 440519761,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "name": "Rete di riserve Alpi Ledrensi",
+    "protect_class": "97",
+    "source": "Provincia autonoma di Trento",
+    "type": "multipolygon",
+    "website": "https://www.reteriservealpiledrensi.tn.it/",
+    "wikidata": "Q56257933"
+  }
+},
+{
+  "type": "relation",
+  "id": 15595792,
+  "center": {
+    "lat": 46.4904972,
+    "lon": 11.5869210
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 1157025538,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1154038784,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1157025537,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1154038785,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "leisure": "nature_reserve",
+    "name": "Naturpark Schlern-Rosengarten – Parco naturale dello Sciliar-Catinaccio",
+    "name:de": "Naturpark Schlern-Rosengarten",
+    "name:en": "Sciliar-Catinaccio Nature Park",
+    "protect_class": "4",
+    "protection_title": "Parco naturale",
+    "source": "EEA CDDA (v20)",
+    "start_date": "1974",
+    "type": "multipolygon",
+    "website": "https://parchi-naturali.provincia.bz.it/parco-naturale-sciliar-catinaccio.asp",
+    "wikidata": "Q520612",
+    "wikipedia": "it:Parco naturale dello Sciliar-Catinaccio"
+  }
+},
+{
+  "type": "relation",
+  "id": 15638582,
+  "center": {
+    "lat": 46.5369404,
+    "lon": 11.6685780
+  },
+  "members": [
+    {
+      "type": "way",
+      "ref": 1157025536,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1154038784,
+      "role": "outer"
+    },
+    {
+      "type": "way",
+      "ref": 1157025539,
+      "role": "outer"
+    }
+  ],
+  "tags": {
+    "boundary": "protected_area",
+    "name": "Landschaftsschutzgebiet Seiser Alm – Zona di Tutela Paesaggistica dell'Alpe di Siusi",
+    "name:de": "Landschaftsschutzgebiet Seiser Alm",
+    "name:it": "Zona di Tutela Paesaggistica dell'Alpe di Siusi",
+    "protect_class": "5",
+    "protection_title": "Zona di Tutela Paesaggistica",
+    "related_law": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Landschaftlicher_Gebietsplan_Seiser_Alm_%E2%80%93_Piano_Paesaggistico_Dell%27Alpe_di_Susi.pdf",
+    "source": "\"Piani paesaggistici: Delimitazioni dei Piani Paesaggistici\" dataset (http://geokatalog.buergernetz.bz.it)",
+    "start_date": "1992",
+    "type": "boundary",
+    "website": "https://seiseralm-schlerngebiet.com/seiseralm/wissenswertes/171-landschaftsschutzgebiet-seiser-alm.html"
+  }
+}
+
+  ]
+}

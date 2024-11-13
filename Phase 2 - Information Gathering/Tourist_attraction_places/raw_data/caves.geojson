@@ -1,0 +1,5316 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.1 084b4234",
+  "osm3s": {
+    "timestamp_osm_base": "2024-11-13T15:00:56Z",
+    "timestamp_areas_base": "2024-11-13T11:53:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 498740308,
+  "lat": 45.7821944,
+  "lon": 10.9926165,
+  "tags": {
+    "name": "Bus del nono",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 508788420,
+  "lat": 45.9214156,
+  "lon": 10.8880870,
+  "tags": {
+    "name": "Prigione del Sasso",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 600025838,
+  "lat": 45.8534376,
+  "lon": 11.0362043,
+  "tags": {
+    "name": "Grotta Damiano Chiesa",
+    "natural": "cave_entrance",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 610991691,
+  "lat": 45.8819343,
+  "lon": 10.8845066,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 641260808,
+  "lat": 46.1119712,
+  "lon": 11.3132041,
+  "tags": {
+    "historic": "ruins",
+    "man_made": "mine_entrance",
+    "name": "Miniera dell'Aubis",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 655124296,
+  "lat": 45.8353502,
+  "lon": 10.8060870,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 655124306,
+  "lat": 45.8362577,
+  "lon": 10.8087547,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 750561172,
+  "lat": 45.9624455,
+  "lon": 10.6465248,
+  "tags": {
+    "name": "gallerie di Peschiera",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 794180822,
+  "lat": 45.8057845,
+  "lon": 10.8834992,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 794180830,
+  "lat": 45.8071678,
+  "lon": 10.8846180,
+  "tags": {
+    "archaeological_site": "burial",
+    "historic": "archaeological_site",
+    "historic:civilization": "iron-age",
+    "name": "Busa Brodeghera;sepoltura della Seconda età del Ferro",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 831805714,
+  "lat": 45.7898636,
+  "lon": 10.9985791,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 974698899,
+  "lat": 45.9342851,
+  "lon": 10.9067835,
+  "tags": {
+    "abandoned:quarry": "yes",
+    "access": "yes",
+    "alt_name": "Cave di Oolite",
+    "fee": "no",
+    "name": "Cave Alte",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 974698929,
+  "lat": 45.9346702,
+  "lon": 10.9066705,
+  "tags": {
+    "access": "yes",
+    "alt_name": "Cave di Oolite",
+    "fee": "no",
+    "name": "Cave Alte",
+    "natural": "cave_entrance",
+    "note": "Nel XIX° secolo le cave erano note anche col nome di \"Cave Meneguzzi\", dai nomi di colui che le prese in concessione.",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 1106604484,
+  "lat": 46.0095554,
+  "lon": 10.9755049,
+  "tags": {
+    "access": "yes",
+    "archaeological_site": "tomb",
+    "historic": "archaeological_site",
+    "historic:civilization": "prehistoric",
+    "name": "La Cosìna",
+    "natural": "cave_entrance",
+    "opening_hours": "24/7",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 1212312727,
+  "lat": 45.7980935,
+  "lon": 11.0025599,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 1212312729,
+  "lat": 45.7989486,
+  "lon": 11.0031270,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 1347347828,
+  "lat": 45.8720637,
+  "lon": 10.9656780,
+  "tags": {
+    "name": "Grotta degli appestati",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 1398202075,
+  "lat": 46.1834487,
+  "lon": 10.6473776,
+  "tags": {
+    "name": "Osservatorio di guerra austrungarico",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 1411507619,
+  "lat": 45.8763655,
+  "lon": 11.1352360,
+  "tags": {
+    "access": "private",
+    "barrier": "gate",
+    "name": "Finestra Valduga",
+    "natural": "cave_entrance",
+    "operator": "Dolomiti Energia"
+  }
+},
+{
+  "type": "node",
+  "id": 1412623162,
+  "lat": 45.8843458,
+  "lon": 11.0770216,
+  "tags": {
+    "access": "private",
+    "barrier": "gate",
+    "name": "Maso Mortal",
+    "natural": "cave_entrance",
+    "operator": "Dolomiti Energia"
+  }
+},
+{
+  "type": "node",
+  "id": 1412623163,
+  "lat": 45.8847151,
+  "lon": 11.0786075,
+  "tags": {
+    "access": "private",
+    "barrier": "gate",
+    "name": "Pozzo Maso Mortal",
+    "natural": "cave_entrance",
+    "operator": "Dolomiti Energia"
+  }
+},
+{
+  "type": "node",
+  "id": 1551514534,
+  "lat": 46.0720053,
+  "lon": 10.8451173,
+  "tags": {
+    "access": "yes",
+    "name": "Arca di Fraporte",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 1583263213,
+  "lat": 45.9271146,
+  "lon": 10.9263258,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 1640524704,
+  "lat": 45.8886666,
+  "lon": 11.0679093,
+  "tags": {
+    "man_made": "adit",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 1640524744,
+  "lat": 45.8891237,
+  "lon": 11.0671382,
+  "tags": {
+    "man_made": "adit",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 1647578077,
+  "lat": 45.8499905,
+  "lon": 10.9235374,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 1836348421,
+  "lat": 46.4700023,
+  "lon": 11.8751282,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 1844348279,
+  "lat": 46.1357658,
+  "lon": 10.5865048,
+  "tags": {
+    "name": "galleria Corno di Cavento",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 1848848050,
+  "lat": 46.1248838,
+  "lon": 11.6667427,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 1887528050,
+  "lat": 46.0555098,
+  "lon": 10.8387990,
+  "tags": {
+    "name": "Grotta Battisti",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 1997750083,
+  "lat": 45.8721961,
+  "lon": 10.9809583,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 2066685144,
+  "lat": 45.7921493,
+  "lon": 10.9075451,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 2066685163,
+  "lat": 45.7929695,
+  "lon": 10.9071326,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 2073143449,
+  "lat": 46.3083403,
+  "lon": 11.7966189,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 2203455370,
+  "lat": 45.7574082,
+  "lon": 10.9893626,
+  "tags": {
+    "name": "Centrale Idroelettrica di Ala",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 2355971892,
+  "lat": 45.8124531,
+  "lon": 11.1223778,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 2371162456,
+  "lat": 45.9951297,
+  "lon": 11.6016642,
+  "tags": {
+    "archaeological_site": "settlement",
+    "historic": "archaeological_site",
+    "name": "Riparo Dalmeri",
+    "natural": "cave_entrance",
+    "wikidata": "Q20963301"
+  }
+},
+{
+  "type": "node",
+  "id": 2378422899,
+  "lat": 46.0885855,
+  "lon": 11.6814614,
+  "tags": {
+    "name": "Grotta di Castel Tesino",
+    "natural": "cave_entrance",
+    "wikidata": "Q3777061",
+    "wikipedia": "it:Grotta di Castello Tesino"
+  }
+},
+{
+  "type": "node",
+  "id": 2388250860,
+  "lat": 46.4752418,
+  "lon": 11.6820670,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 2520320544,
+  "lat": 45.9781545,
+  "lon": 11.3595443,
+  "tags": {
+    "name": "Bus de le Zaule",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 2741681966,
+  "lat": 46.1300329,
+  "lon": 11.0643899,
+  "tags": {
+    "name": "Abisso di Lamar",
+    "natural": "cave_entrance",
+    "note": "Pericoloso solo per speleologi esperti",
+    "wikidata": "Q3603719",
+    "wikipedia": "it:Abisso di Lamar"
+  }
+},
+{
+  "type": "node",
+  "id": 2836281132,
+  "lat": 45.9888791,
+  "lon": 11.3744918,
+  "tags": {
+    "ele": "1700",
+    "name": "Grotta di Costalta",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 2905502437,
+  "lat": 46.0611476,
+  "lon": 11.5477486,
+  "tags": {
+    "description:it": "6° Reggimento 1° gruppo fotoelettrico stazione-III.C. 1917| Ricovero=B gruppo elettrogeno",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1917"
+  }
+},
+{
+  "type": "node",
+  "id": 2905502440,
+  "lat": 46.0592849,
+  "lon": 11.5489228,
+  "tags": {
+    "description:it": "Entrata caposaldo.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 2905502441,
+  "lat": 46.0595428,
+  "lon": 11.5486038,
+  "tags": {
+    "description:it": "Probabile postazione sentinella.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 2905502442,
+  "lat": 46.0595712,
+  "lon": 11.5486970,
+  "tags": {
+    "description:it": "Probabile postazione sentinella.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 2905502443,
+  "lat": 46.0608425,
+  "lon": 11.5473221,
+  "tags": {
+    "description:it": "Probabile postazione, da definire meglio.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 2956168524,
+  "lat": 46.1494527,
+  "lon": 11.8919518,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3022648106,
+  "lat": 46.0074146,
+  "lon": 11.6192771,
+  "tags": {
+    "access": "yes",
+    "name": "Grotta del Calgeron",
+    "natural": "cave_entrance",
+    "wikidata": "Q3776996",
+    "wikipedia": "it:Grotta Calgeron"
+  }
+},
+{
+  "type": "node",
+  "id": 3182294964,
+  "lat": 45.9382551,
+  "lon": 10.9093807,
+  "tags": {
+    "alt_name": "Grotta di Patone",
+    "name": "Bus del Diaol Grotta di Patone",
+    "natural": "cave_entrance",
+    "wikidata": "Q3777079",
+    "wikipedia": "it:Grotta di Patone"
+  }
+},
+{
+  "type": "node",
+  "id": 3182294965,
+  "lat": 45.8583563,
+  "lon": 10.8292033,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3327559926,
+  "lat": 46.0410676,
+  "lon": 11.4531932,
+  "tags": {
+    "access": "yes",
+    "amenity": "shelter",
+    "height": "1.5",
+    "historic:military": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "old:military": "bunker",
+    "shelter_type": "rock_shelter",
+    "start_date": "1914",
+    "width": "1.5"
+  }
+},
+{
+  "type": "node",
+  "id": 3327559928,
+  "lat": 46.0410885,
+  "lon": 11.4529586,
+  "tags": {
+    "access": "yes",
+    "amenity": "shelter",
+    "height": "1.5",
+    "historic:military": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "old:military": "bunker",
+    "shelter_type": "rock_shelter",
+    "start_date": "1914",
+    "width": "1.5"
+  }
+},
+{
+  "type": "node",
+  "id": 3327561525,
+  "lat": 46.0431729,
+  "lon": 11.4531422,
+  "tags": {
+    "access": "no",
+    "barrier": "gate",
+    "gate:material": "metal",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "old:military": "bunker",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 3327562014,
+  "lat": 46.0419868,
+  "lon": 11.4530532,
+  "tags": {
+    "access": "yes",
+    "amenity": "shelter",
+    "historic:military": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "old:military": "bunker",
+    "shelter_type": "rock_shelter",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 3366555618,
+  "lat": 45.8546177,
+  "lon": 10.9106926,
+  "tags": {
+    "name": "Caverna Rossi",
+    "natural": "cave_entrance",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 3716957296,
+  "lat": 45.9299054,
+  "lon": 10.6947843,
+  "tags": {
+    "historic": "ruins",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3716957297,
+  "lat": 45.9303623,
+  "lon": 10.6954262,
+  "tags": {
+    "historic": "ruins",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3716957298,
+  "lat": 45.9333200,
+  "lon": 10.6965430,
+  "tags": {
+    "historic": "ruins",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3716957299,
+  "lat": 45.9347785,
+  "lon": 10.6974128,
+  "tags": {
+    "historic": "ruins",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3716957300,
+  "lat": 45.9348163,
+  "lon": 10.6974148,
+  "tags": {
+    "historic": "ruins",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3716957301,
+  "lat": 45.9351976,
+  "lon": 10.6977644,
+  "tags": {
+    "historic": "ruins",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3716957302,
+  "lat": 45.9386663,
+  "lon": 10.6984212,
+  "tags": {
+    "historic": "ruins",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3716957303,
+  "lat": 45.9395380,
+  "lon": 10.7018300,
+  "tags": {
+    "historic": "ruins",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3716957304,
+  "lat": 45.9414755,
+  "lon": 10.7027561,
+  "tags": {
+    "historic": "ruins",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3716957305,
+  "lat": 45.9453857,
+  "lon": 10.7035402,
+  "tags": {
+    "historic": "ruins",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3716957306,
+  "lat": 45.9468727,
+  "lon": 10.7044655,
+  "tags": {
+    "historic": "ruins",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3716957307,
+  "lat": 45.9472610,
+  "lon": 10.7047206,
+  "tags": {
+    "historic": "ruins",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3716957308,
+  "lat": 45.9475613,
+  "lon": 10.7048813,
+  "tags": {
+    "historic": "ruins",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3716957309,
+  "lat": 45.9502052,
+  "lon": 10.7077096,
+  "tags": {
+    "historic": "ruins",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3716957310,
+  "lat": 45.9506941,
+  "lon": 10.7086397,
+  "tags": {
+    "historic": "ruins",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3716957311,
+  "lat": 45.9536744,
+  "lon": 10.7103752,
+  "tags": {
+    "historic": "ruins",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3716957312,
+  "lat": 45.9548559,
+  "lon": 10.7122514,
+  "tags": {
+    "historic": "ruins",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3716957313,
+  "lat": 45.9549439,
+  "lon": 10.7171578,
+  "tags": {
+    "historic": "ruins",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3716957314,
+  "lat": 45.9549753,
+  "lon": 10.7172562,
+  "tags": {
+    "historic": "ruins",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3716957315,
+  "lat": 45.9549969,
+  "lon": 10.7174209,
+  "tags": {
+    "historic": "ruins",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3716957316,
+  "lat": 45.9638755,
+  "lon": 10.7299942,
+  "tags": {
+    "historic": "ruins",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3716957317,
+  "lat": 45.9671799,
+  "lon": 10.7430947,
+  "tags": {
+    "historic": "ruins",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3740433897,
+  "lat": 45.8084956,
+  "lon": 11.1209519,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3740433898,
+  "lat": 45.8084970,
+  "lon": 11.1210464,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3740433903,
+  "lat": 45.8086677,
+  "lon": 11.1211756,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3740433906,
+  "lat": 45.8087175,
+  "lon": 11.1212837,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3740434412,
+  "lat": 45.8093725,
+  "lon": 11.1215683,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3740434692,
+  "lat": 45.8119117,
+  "lon": 11.1227881,
+  "tags": {
+    "name": "Bocca del Leone",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3740434705,
+  "lat": 45.8123667,
+  "lon": 11.1223973,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3787532446,
+  "lat": 45.8866042,
+  "lon": 10.9617267,
+  "tags": {
+    "name": "Giazera Stenone",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3787532447,
+  "lat": 45.8882549,
+  "lon": 10.9620671,
+  "tags": {
+    "name": "Giazera bassa",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3802666300,
+  "lat": 45.8763618,
+  "lon": 10.5969231,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3802666320,
+  "lat": 45.8766867,
+  "lon": 10.5971526,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3813729311,
+  "lat": 45.8964851,
+  "lon": 10.7202490,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3813729315,
+  "lat": 45.8965547,
+  "lon": 10.7201010,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3814275357,
+  "lat": 46.3101271,
+  "lon": 11.7960306,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3901176788,
+  "lat": 46.0528341,
+  "lon": 11.5474673,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 3924221266,
+  "lat": 45.8902113,
+  "lon": 11.0616321,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3965874079,
+  "lat": 46.0497297,
+  "lon": 11.5445762,
+  "tags": {
+    "description:it": "Entrata a tunnel comunicante",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 3965874080,
+  "lat": 46.0497653,
+  "lon": 11.5444412,
+  "tags": {
+    "description:it": "Entrata a tunnel comunicante",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 3978094865,
+  "lat": 46.0690698,
+  "lon": 11.4637430,
+  "tags": {
+    "access": "no",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 3978094872,
+  "lat": 46.0703085,
+  "lon": 11.4648447,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "lockable": "yes",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 3978096396,
+  "lat": 46.0685073,
+  "lon": 11.4633354,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 3978096398,
+  "lat": 46.0686059,
+  "lon": 11.4633406,
+  "tags": {
+    "access": "no",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "lockable": "yes",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 3978703178,
+  "lat": 46.0716043,
+  "lon": 11.4665251,
+  "tags": {
+    "lockable": "yes",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3978712105,
+  "lat": 46.0712496,
+  "lon": 11.4655738,
+  "tags": {
+    "lockable": "yes",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3978712655,
+  "lat": 46.0709746,
+  "lon": 11.4658422,
+  "tags": {
+    "lockable": "yes",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 3999834427,
+  "lat": 46.2190952,
+  "lon": 11.0636026,
+  "tags": {
+    "name": "Grotta della Lovara",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4000683543,
+  "lat": 46.0501297,
+  "lon": 11.5625389,
+  "tags": {
+    "height": "1",
+    "natural": "cave_entrance",
+    "width": "1.5"
+  }
+},
+{
+  "type": "node",
+  "id": 4025807145,
+  "lat": 45.9114760,
+  "lon": 10.6484623,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4025807146,
+  "lat": 45.9135113,
+  "lon": 10.6494326,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4046357280,
+  "lat": 45.8763004,
+  "lon": 10.6898645,
+  "tags": {
+    "name": "Ingresso osservatorio Grota de Rinalt",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4081170497,
+  "lat": 46.0329571,
+  "lon": 11.4828660,
+  "tags": {
+    "description:it": "Ex-polveriera Austroungarica, primo magazzino.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "mapillary": "844779112775141",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 4081175936,
+  "lat": 46.0407215,
+  "lon": 11.5003523,
+  "tags": {
+    "bunker_type": "pillbox",
+    "description:it": "Fessura probabile per mitragliatrice anti-aerea.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 4081177810,
+  "lat": 46.0362009,
+  "lon": 11.4833028,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4124579908,
+  "lat": 46.0478879,
+  "lon": 10.7318238,
+  "tags": {
+    "name": "Bus de la Bastía",
+    "name:it": "Bastia Baticler",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4158878590,
+  "lat": 46.0486620,
+  "lon": 10.7492309,
+  "tags": {
+    "name": "Grotta Barisela",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4187709266,
+  "lat": 46.4779939,
+  "lon": 11.7757203,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4202986282,
+  "lat": 45.8603016,
+  "lon": 10.6360556,
+  "tags": {
+    "name": "Coel dei Gnatoi",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4239202972,
+  "lat": 46.1002103,
+  "lon": 11.2597551,
+  "tags": {
+    "description": "Postazione in caverna della prima guerra mondiale",
+    "name": "Bus del Canon",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4241436371,
+  "lat": 45.9553763,
+  "lon": 11.1760260,
+  "tags": {
+    "access": "yes",
+    "fee": "no",
+    "name": "Bus del la Giaz",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4251488315,
+  "lat": 46.2256815,
+  "lon": 11.0264934,
+  "tags": {
+    "access": "no",
+    "fixme": "position",
+    "name": "Bus dela Spia",
+    "natural": "cave_entrance",
+    "wikidata": "Q16534260",
+    "wikipedia": "it:Bus dela Spia"
+  }
+},
+{
+  "type": "node",
+  "id": 4351027502,
+  "lat": 46.1792097,
+  "lon": 11.5478894,
+  "tags": {
+    "description:it": "Probabile postazione sentinella.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 4352875568,
+  "lat": 46.1718490,
+  "lon": 10.9470690,
+  "tags": {
+    "description": "Cavità naturale verticale",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4359040092,
+  "lat": 46.1373011,
+  "lon": 10.8341678,
+  "tags": {
+    "name": "Bus de la Regina - La Finestra",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4373902420,
+  "lat": 45.8713616,
+  "lon": 10.6912412,
+  "tags": {
+    "end_date": "1918",
+    "historic": "yes",
+    "man_made": "yes",
+    "military": "shelter",
+    "natural": "cave_entrance",
+    "start_date": "1915",
+    "survey:date": "2016-08-17"
+  }
+},
+{
+  "type": "node",
+  "id": 4388840110,
+  "lat": 46.0154788,
+  "lon": 11.5618708,
+  "tags": {
+    "fee": "no",
+    "name": "Coalo de la Taiarona",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388840111,
+  "lat": 46.0151200,
+  "lon": 11.5618155,
+  "tags": {
+    "name": "Coalo del Bracalgiòn",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388840112,
+  "lat": 46.0201094,
+  "lon": 11.5784912,
+  "tags": {
+    "name": "Coalo della polveriera",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388840113,
+  "lat": 46.0048385,
+  "lon": 11.5880890,
+  "tags": {
+    "name": "Coalo sotto il Pozzo della Singala",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388840114,
+  "lat": 46.0240068,
+  "lon": 11.5576525,
+  "tags": {
+    "name": "Cogolo dei Agnei",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388840115,
+  "lat": 46.0053936,
+  "lon": 11.5850409,
+  "tags": {
+    "name": "Covolo delle Balze",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388840116,
+  "lat": 46.0201159,
+  "lon": 11.5609870,
+  "tags": {
+    "name": "Crepa del Colon",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388840117,
+  "lat": 46.0095685,
+  "lon": 11.5896134,
+  "tags": {
+    "name": "Grotta dei Camosci",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388840118,
+  "lat": 46.0056723,
+  "lon": 11.5854543,
+  "tags": {
+    "name": "Grotta dei Due Ingressi",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388840119,
+  "lat": 46.0053932,
+  "lon": 11.5854542,
+  "tags": {
+    "name": "Grotta del Muschio",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388840120,
+  "lat": 46.0063165,
+  "lon": 11.5944989,
+  "tags": {
+    "name": "Grotta del Soffio",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388840121,
+  "lat": 46.0063111,
+  "lon": 11.5862591,
+  "tags": {
+    "name": "Grotta dell' Orso",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388840122,
+  "lat": 46.0181626,
+  "lon": 11.5809973,
+  "tags": {
+    "name": "Grotta della Bigonda",
+    "natural": "cave_entrance",
+    "wikidata": "Q3777045",
+    "wikipedia": "it:Grotta della Bigonda"
+  }
+},
+{
+  "type": "node",
+  "id": 4388840123,
+  "lat": 46.0042871,
+  "lon": 11.5901815,
+  "tags": {
+    "name": "Grotta della Porta",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388840124,
+  "lat": 46.0160877,
+  "lon": 11.5668209,
+  "tags": {
+    "name": "Grotta delle Taie",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388840125,
+  "lat": 46.0053976,
+  "lon": 11.5868494,
+  "tags": {
+    "name": "Grotta dello Sbircio",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388840126,
+  "lat": 46.0056058,
+  "lon": 11.5799460,
+  "tags": {
+    "name": "Pozzo Nicola",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388840127,
+  "lat": 46.0063131,
+  "lon": 11.5825910,
+  "tags": {
+    "name": "Pozzo della Saetta",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388840128,
+  "lat": 46.0047330,
+  "lon": 11.5879808,
+  "tags": {
+    "name": "Pozzo della Singala",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388842583,
+  "lat": 46.0653772,
+  "lon": 11.5552389,
+  "tags": {
+    "name": "Pozzo delle Fratte",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388861181,
+  "lat": 46.0088652,
+  "lon": 11.6171894,
+  "tags": {
+    "name": "Grotta del Corvo",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388861182,
+  "lat": 46.0086712,
+  "lon": 11.6178003,
+  "tags": {
+    "name": "Grotta del Salto",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388876644,
+  "lat": 46.0934588,
+  "lon": 11.6150319,
+  "tags": {
+    "name": "Antro a SSE di Sant' Antonio",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388876645,
+  "lat": 46.0801229,
+  "lon": 11.5926849,
+  "tags": {
+    "name": "Buco del Fango",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388876646,
+  "lat": 46.0792814,
+  "lon": 11.6212729,
+  "tags": {
+    "name": "Grotta 1 delle sabbie",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388876647,
+  "lat": 46.0792562,
+  "lon": 11.6211941,
+  "tags": {
+    "name": "Grotta 2 delle sabbie",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388876648,
+  "lat": 46.0776146,
+  "lon": 11.6209918,
+  "tags": {
+    "name": "Grotta dell' Asenaro",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388876649,
+  "lat": 46.0881760,
+  "lon": 11.6136137,
+  "tags": {
+    "name": "Grotta di Gange",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388876650,
+  "lat": 46.0752538,
+  "lon": 11.6298901,
+  "tags": {
+    "name": "Grotta di Lissa",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388881083,
+  "lat": 46.0877530,
+  "lon": 11.6811786,
+  "tags": {
+    "name": "Bus de l' Acqua",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388907858,
+  "lat": 46.1048373,
+  "lon": 11.6684993,
+  "tags": {
+    "name": "Caverna 2 di Malga Valfontane",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388907859,
+  "lat": 46.0903937,
+  "lon": 11.6568324,
+  "tags": {
+    "name": "Caverna dei Pastori",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388907860,
+  "lat": 46.0999517,
+  "lon": 11.6622601,
+  "tags": {
+    "name": "Cavernetta sotto Pozzo Lares",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388907861,
+  "lat": 46.1048374,
+  "lon": 11.6684958,
+  "tags": {
+    "name": "Grotta a Est di Malga Valfontane",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388907862,
+  "lat": 46.1117755,
+  "lon": 11.6915587,
+  "tags": {
+    "name": "Grotta a Sud di Malga Zanca",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388907863,
+  "lat": 46.1000236,
+  "lon": 11.6622636,
+  "tags": {
+    "name": "Pozzo Lares",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388907864,
+  "lat": 46.0993190,
+  "lon": 11.6654641,
+  "tags": {
+    "name": "Pozzo del dragone",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388907865,
+  "lat": 46.1116924,
+  "lon": 11.6988921,
+  "tags": {
+    "name": "Sorgente di Malga Arpaco",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388907866,
+  "lat": 46.1065615,
+  "lon": 11.6613364,
+  "tags": {
+    "name": "Uvada",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388960222,
+  "lat": 46.1199366,
+  "lon": 11.7225010,
+  "tags": {
+    "name": "Caverna dei ciclopi",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388960223,
+  "lat": 46.1204231,
+  "lon": 11.7209719,
+  "tags": {
+    "name": "Caverna del fiume scomparso",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388960224,
+  "lat": 46.1204265,
+  "lon": 11.7227193,
+  "tags": {
+    "name": "Caverna sentinella 1",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388960225,
+  "lat": 46.1204175,
+  "lon": 11.7227189,
+  "tags": {
+    "name": "Caverna sentinella 2�",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388960226,
+  "lat": 46.1202932,
+  "lon": 11.7226480,
+  "tags": {
+    "name": "Caverna sentinella 3",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388960227,
+  "lat": 46.1185840,
+  "lon": 11.7263818,
+  "tags": {
+    "name": "Grotta 1 delle Pale Rosse",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388960228,
+  "lat": 46.1340042,
+  "lon": 11.7262760,
+  "tags": {
+    "name": "Grotta della Fosca",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388960229,
+  "lat": 46.1339999,
+  "lon": 11.7268325,
+  "tags": {
+    "name": "Grotta della Volpe",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388960230,
+  "lat": 46.1290196,
+  "lon": 11.6935898,
+  "tags": {
+    "name": "Grotticella alla Casera Spessa",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4388960231,
+  "lat": 46.1198483,
+  "lon": 11.7224320,
+  "tags": {
+    "name": "Tana trifoglio",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390660635,
+  "lat": 46.0041255,
+  "lon": 11.6084148,
+  "tags": {
+    "name": "Covolo del Vento",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390660636,
+  "lat": 46.0040000,
+  "lon": 11.6059965,
+  "tags": {
+    "name": "Covolo della Tomba",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390660637,
+  "lat": 46.0047244,
+  "lon": 11.6077734,
+  "tags": {
+    "name": "Grotta 1 delle Beccarie",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390660638,
+  "lat": 46.0047243,
+  "lon": 11.6077737,
+  "tags": {
+    "name": "Grotta 2 delle Beccarie",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390660639,
+  "lat": 46.0073382,
+  "lon": 11.6115525,
+  "tags": {
+    "name": "Grotta dei Soeri",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390677241,
+  "lat": 45.9923717,
+  "lon": 11.6015017,
+  "tags": {
+    "name": "Grotta 1 dei Briganti",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390677242,
+  "lat": 45.9923382,
+  "lon": 11.6015500,
+  "tags": {
+    "name": "Grotta 2 dei Briganti",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390677243,
+  "lat": 46.0008889,
+  "lon": 11.5940213,
+  "tags": {
+    "name": "Pozzo Dogomale",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390677244,
+  "lat": 45.9995587,
+  "lon": 11.6097407,
+  "tags": {
+    "name": "Pozzo dei Caprioli",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390677245,
+  "lat": 45.9981143,
+  "lon": 11.6055919,
+  "tags": {
+    "name": "Pozzo dello sciamano",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390691799,
+  "lat": 45.9873309,
+  "lon": 11.5909969,
+  "tags": {
+    "name": "Buco del Pal",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390691800,
+  "lat": 45.9874651,
+  "lon": 11.5997844,
+  "tags": {
+    "name": "Pozzo Alessandro",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390691801,
+  "lat": 45.9906656,
+  "lon": 11.5868270,
+  "tags": {
+    "name": "Pozzo dei Cinque",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390691802,
+  "lat": 45.9817768,
+  "lon": 11.5918221,
+  "tags": {
+    "name": "Pozzo della Scura",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390719332,
+  "lat": 46.0065038,
+  "lon": 11.5673776,
+  "tags": {
+    "name": "Crepa della Barbana",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390719333,
+  "lat": 46.0070589,
+  "lon": 11.5671063,
+  "tags": {
+    "name": "Crepa della Catarinela",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390719334,
+  "lat": 46.0070528,
+  "lon": 11.5673772,
+  "tags": {
+    "name": "Occhio Destro Val delle Taie",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390719335,
+  "lat": 46.0070530,
+  "lon": 11.5673722,
+  "tags": {
+    "name": "Occhio Sinistro Val delle Taie",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390719336,
+  "lat": 46.0065003,
+  "lon": 11.5679329,
+  "tags": {
+    "name": "Sfesa del Sanguanelo",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390719337,
+  "lat": 46.0067210,
+  "lon": 11.5665223,
+  "tags": {
+    "name": "Tana dei Beatrichi",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390749838,
+  "lat": 46.0012190,
+  "lon": 11.4832120,
+  "tags": {
+    "name": "Buco del Baito",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390749840,
+  "lat": 46.0050564,
+  "lon": 11.4585208,
+  "tags": {
+    "name": "Busi della Lasta Rossa",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390749841,
+  "lat": 46.0073886,
+  "lon": 11.4559635,
+  "tags": {
+    "name": "Covolo della Val Fassinera",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390749842,
+  "lat": 46.0011095,
+  "lon": 11.4803788,
+  "tags": {
+    "name": "Pozzo I Baito Cuvolin",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390749843,
+  "lat": 46.0011719,
+  "lon": 11.4799941,
+  "tags": {
+    "name": "Pozzo II Baito Cuvolin",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390749844,
+  "lat": 46.0003917,
+  "lon": 11.4819352,
+  "tags": {
+    "name": "Pozzo III Baito Cuvolin",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390749845,
+  "lat": 46.0003377,
+  "lon": 11.4819328,
+  "tags": {
+    "name": "Pozzo IV Baito Cuvolin",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390749846,
+  "lat": 46.0002748,
+  "lon": 11.4819299,
+  "tags": {
+    "name": "Pozzo V Baito Cuvolin",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390749847,
+  "lat": 46.0031662,
+  "lon": 11.4818269,
+  "tags": {
+    "name": "Pozzo VI Baito Cuvolin",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390749848,
+  "lat": 46.0017801,
+  "lon": 11.4834825,
+  "tags": {
+    "name": "Pozzo VII Baito Cuvolin",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390749849,
+  "lat": 46.0043354,
+  "lon": 11.4835195,
+  "tags": {
+    "name": "Pozzo sotto Cima Undici",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4390794361,
+  "lat": 46.1306614,
+  "lon": 11.8131647,
+  "tags": {
+    "name": "Risorgiva di Val Noana",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4398186501,
+  "lat": 46.0615597,
+  "lon": 10.4890941,
+  "tags": {
+    "end_date": "1918",
+    "historic": "yes",
+    "man_made": "cave",
+    "military": "shelter",
+    "natural": "cave_entrance",
+    "start_date": "1915"
+  }
+},
+{
+  "type": "node",
+  "id": 4411116124,
+  "lat": 46.1557093,
+  "lon": 11.8038808,
+  "tags": {
+    "name": "Stoli",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4421811459,
+  "lat": 46.1405666,
+  "lon": 10.8670037,
+  "tags": {
+    "name": "Silvia",
+    "name:en": "Silvia's cave",
+    "name:it": "Grotta Silvia",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4441355180,
+  "lat": 46.0941841,
+  "lon": 11.3658131,
+  "tags": {
+    "amenity": "shelter",
+    "description:en": "Dimension ca. 4x2x2 m",
+    "natural": "cave_entrance",
+    "shelter_type": "rock_shelter"
+  }
+},
+{
+  "type": "node",
+  "id": 4470383224,
+  "lat": 46.0334487,
+  "lon": 11.5305277,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 4470383225,
+  "lat": 46.0334519,
+  "lon": 11.5303976,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 4470383935,
+  "lat": 46.0333490,
+  "lon": 11.5301924,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 4470383992,
+  "lat": 46.0331249,
+  "lon": 11.5297302,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 4470384055,
+  "lat": 46.0335613,
+  "lon": 11.5303766,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 4470384090,
+  "lat": 46.0331496,
+  "lon": 11.5301072,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 4471750581,
+  "lat": 45.8215102,
+  "lon": 10.5913193,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4475128376,
+  "lat": 46.1714363,
+  "lon": 11.5556284,
+  "tags": {
+    "access": "no",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 4497271515,
+  "lat": 46.0477314,
+  "lon": 11.5436406,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 4497271520,
+  "lat": 46.0475040,
+  "lon": 11.5450533,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 4497275372,
+  "lat": 46.0467655,
+  "lon": 11.5437160,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 4497275373,
+  "lat": 46.0466872,
+  "lon": 11.5440679,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 4497275395,
+  "lat": 46.0478290,
+  "lon": 11.5435051,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 4511942363,
+  "lat": 46.0480393,
+  "lon": 11.5433177,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 4511942371,
+  "lat": 46.0482667,
+  "lon": 11.5432295,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 4533683487,
+  "lat": 46.0480812,
+  "lon": 11.5443931,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 4533683488,
+  "lat": 46.0481074,
+  "lon": 11.5442629,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 4533699889,
+  "lat": 46.0482709,
+  "lon": 11.5437052,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 4533699890,
+  "lat": 46.0483023,
+  "lon": 11.5436217,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 4572848621,
+  "lat": 46.2942139,
+  "lon": 11.4613693,
+  "tags": {
+    "fee": "no",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4581080408,
+  "lat": 46.0692247,
+  "lon": 11.4646177,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 4581080409,
+  "lat": 46.0696216,
+  "lon": 11.4648176,
+  "tags": {
+    "access": "no",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 4685492856,
+  "lat": 46.0686241,
+  "lon": 11.5433149,
+  "tags": {
+    "access": "private",
+    "bunker_type": "pillbox",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4695921996,
+  "lat": 46.1162799,
+  "lon": 11.2767013,
+  "tags": {
+    "name": "Postazione Austriaca 1915/1918",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4933645339,
+  "lat": 45.9824170,
+  "lon": 10.8691606,
+  "tags": {
+    "name": "Bus de la Giana",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4936444790,
+  "lat": 45.9437933,
+  "lon": 10.8532418,
+  "tags": {
+    "name": "Coel dei Zenteneri",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 4949251907,
+  "lat": 46.0632017,
+  "lon": 11.5528031,
+  "tags": {
+    "description:it": "Tunnel che forse portava al caposaldo, attualmente accesso ostruito.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 4958841945,
+  "lat": 46.0384856,
+  "lon": 11.5099069,
+  "tags": {
+    "description:it": "Probabile postazione di guardia.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 4959579643,
+  "lat": 46.0407745,
+  "lon": 11.4997895,
+  "tags": {
+    "description:it": "Entrata a Bunker per probabile difesa aerea",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 4978058993,
+  "lat": 46.0528508,
+  "lon": 11.5484948,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 4978058994,
+  "lat": 46.0528618,
+  "lon": 11.5484106,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 4999329559,
+  "lat": 45.8277593,
+  "lon": 11.0956823,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 5000242671,
+  "lat": 46.1484430,
+  "lon": 11.0382825,
+  "tags": {
+    "name": "Bus del Giaz",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 5009897097,
+  "lat": 46.0607225,
+  "lon": 11.5470972,
+  "tags": {
+    "description:it": "Probabile postazione sentinella.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 5009897098,
+  "lat": 46.0610269,
+  "lon": 11.5469527,
+  "tags": {
+    "description:it": "Probabile entrata tunnel, da capire.",
+    "disused:military": "bunker",
+    "historic": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 5033253746,
+  "lat": 45.9332792,
+  "lon": 10.9063392,
+  "tags": {
+    "abandoned:quarry": "yes",
+    "access": "yes",
+    "alt_name": "cave intermedie",
+    "fee": "no",
+    "name": "Cave Medie",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 5033253748,
+  "lat": 45.9311013,
+  "lon": 10.9048171,
+  "tags": {
+    "abandoned:quarry": "yes",
+    "access": "yes",
+    "alt_name": "predere di Nogaiole",
+    "fee": "no",
+    "name": "Cave Basse",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 5047531805,
+  "lat": 45.7687919,
+  "lon": 11.1506027,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 5057079816,
+  "lat": 45.8695738,
+  "lon": 10.7788412,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 5155292855,
+  "lat": 45.9781115,
+  "lon": 11.6563377,
+  "tags": {
+    "name": "Grotta di Ernesto",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 5209584360,
+  "lat": 46.0212502,
+  "lon": 11.0682776,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 5237738267,
+  "lat": 46.0985385,
+  "lon": 11.5009636,
+  "tags": {
+    "description:it": "Possibile stolo della guerra 1914-18, da definire.",
+    "natural": "cave_entrance",
+    "shelter": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 5296198933,
+  "lat": 46.0814037,
+  "lon": 11.4967838,
+  "tags": {
+    "description:it": "Entrata tunnel che porta a vecchia casa.",
+    "historic": "yes",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 5296198936,
+  "lat": 46.0825333,
+  "lon": 11.4969705,
+  "tags": {
+    "description:it": "Storico tunnel deviazione temporanea acqua per lavori costruzione serre.",
+    "height": "2",
+    "historic": "yes",
+    "man_made": "adit",
+    "natural": "cave_entrance",
+    "width": "1.5"
+  }
+},
+{
+  "type": "node",
+  "id": 5296198941,
+  "lat": 46.0823694,
+  "lon": 11.4967520,
+  "tags": {
+    "description:it": "Storico tunnel deviazione temporanea acqua per lavori costruzione serre.",
+    "height": "2",
+    "historic": "yes",
+    "layer": "-1",
+    "man_made": "adit",
+    "natural": "cave_entrance",
+    "width": "2"
+  }
+},
+{
+  "type": "node",
+  "id": 5296243505,
+  "lat": 46.0315842,
+  "lon": 11.5230072,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 5303024436,
+  "lat": 46.0720134,
+  "lon": 11.5867700,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 5303024437,
+  "lat": 46.0728179,
+  "lon": 11.5870639,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "note:it": "presenza ooggetti depositati all'interno, accesso privato?",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 5312638977,
+  "lat": 45.9523706,
+  "lon": 11.1126591,
+  "tags": {
+    "access": "yes",
+    "description": "Bus de la Vecia",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 5453802639,
+  "lat": 46.0335253,
+  "lon": 11.4823672,
+  "tags": {
+    "description:it": "Ex-polveriera Austroungarica, probabile riparo per sentinelle.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 5453802640,
+  "lat": 46.0333333,
+  "lon": 11.4826333,
+  "tags": {
+    "description:it": "Ex-polveriera Austroungarica, probabile riparo per sentinelle.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 5483449116,
+  "lat": 46.0334648,
+  "lon": 11.4824196,
+  "tags": {
+    "description:it": "Ex-polveriera Austroungarica, probabile secondo magazzino.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 5483449117,
+  "lat": 46.0334369,
+  "lon": 11.4824670,
+  "tags": {
+    "description:it": "Ex-polveriera Austroungarica, probabile riparo per sentinelle.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "mapillary": "5415138305226907",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 5498419696,
+  "lat": 46.0358276,
+  "lon": 11.5167035,
+  "tags": {
+    "description:it": "Tunnel che portava a Boccardin, oggi chiuso da terra.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 5498419699,
+  "lat": 46.0373903,
+  "lon": 11.5201646,
+  "tags": {
+    "description:it": "Erosione naturale di 1.5 Mt.",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 5503819187,
+  "lat": 46.0374405,
+  "lon": 11.5147665,
+  "tags": {
+    "description:it": "Probabile tunnel di collegamento con sottostante oggetto id:5498419696, oggi non praticabile.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 5503819188,
+  "lat": 46.0381563,
+  "lon": 11.5113040,
+  "tags": {
+    "description:it": "Probabile postazione di guardia.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 5509362675,
+  "lat": 46.1300562,
+  "lon": 11.2764748,
+  "tags": {
+    "name": "Sorgente Ferrugginosa",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 5537655398,
+  "lat": 46.0613373,
+  "lon": 11.5500534,
+  "tags": {
+    "description:it": "Probabile postazione artiglieria.",
+    "disused:military": "bunker",
+    "historic": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 5537655399,
+  "lat": 46.0610376,
+  "lon": 11.5493426,
+  "tags": {
+    "description:it": "Probabile postazione sentinella.",
+    "disused:military": "bunker",
+    "historic": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 5564912165,
+  "lat": 46.0620323,
+  "lon": 11.5689496,
+  "tags": {
+    "bunker_type": "pillbox",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 5567355718,
+  "lat": 46.0726500,
+  "lon": 11.5856197,
+  "tags": {
+    "description:it": "Postazioni profonde 3 o 4 metri, forse ripari militari a difesa passaggio.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 5567355719,
+  "lat": 46.0726392,
+  "lon": 11.5855543,
+  "tags": {
+    "description:it": "Postazioni profonde 3 o 4 metri, forse ripari militari a difesa passaggio.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 5588831100,
+  "lat": 46.0436995,
+  "lon": 11.5885394,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 5588832442,
+  "lat": 46.0470920,
+  "lon": 11.5815988,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 5588832465,
+  "lat": 46.0638192,
+  "lon": 11.5826748,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 5623282428,
+  "lat": 46.4249312,
+  "lon": 11.7549416,
+  "tags": {
+    "amenity": "place_of_worship",
+    "denomination": "catholic",
+    "name": "Madonnina della Luce",
+    "natural": "cave_entrance",
+    "religion": "christian"
+  }
+},
+{
+  "type": "node",
+  "id": 5696997807,
+  "lat": 46.0406047,
+  "lon": 11.5000167,
+  "tags": {
+    "description:it": "Probabile sito bunker, attualmente coperto.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "note:it": "Non certa la presenza di bunker, solo ipotesi.",
+    "obstacle": "heap",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 5696997930,
+  "lat": 46.0407460,
+  "lon": 11.4995943,
+  "tags": {
+    "description:it": "Probabile sito bunker, attualmente coperto.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "note:it": "Non certa la presenza di bunker, solo ipotesi.",
+    "obstacle": "heap",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 5697243953,
+  "lat": 45.9241224,
+  "lon": 10.8765265,
+  "tags": {
+    "access": "private",
+    "name": "Bus de la stria",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 5715639873,
+  "lat": 46.0430101,
+  "lon": 11.4915982,
+  "tags": {
+    "natural": "cave_entrance",
+    "note:it": "Attualmente descritta come piccola grotta naturale."
+  }
+},
+{
+  "type": "node",
+  "id": 5732005216,
+  "lat": 46.1793133,
+  "lon": 11.5478129,
+  "tags": {
+    "description:it": "Probabile postazione sentinella.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 5734608358,
+  "lat": 46.0391594,
+  "lon": 11.5043237,
+  "tags": {
+    "description:it": "Postazioni sentinella a difesa tunnel.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 5734608359,
+  "lat": 46.0391895,
+  "lon": 11.5043067,
+  "tags": {
+    "description:it": "Postazioni sentinella a difesa tunnel.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 5734610443,
+  "lat": 46.0392198,
+  "lon": 11.5040161,
+  "tags": {
+    "description:it": "Entrata tunnel bunker.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 5734610448,
+  "lat": 46.0442188,
+  "lon": 11.4992912,
+  "tags": {
+    "natural": "cave_entrance",
+    "note:it": "Non si capisce se postazione militare o semplice buco."
+  }
+},
+{
+  "type": "node",
+  "id": 5761420164,
+  "lat": 46.0407888,
+  "lon": 11.5125715,
+  "tags": {
+    "description:it": "Probabile postazione di guardia.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 5761420165,
+  "lat": 46.0408070,
+  "lon": 11.5125138,
+  "tags": {
+    "description:it": "Probabile postazione di guardia.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 5761420166,
+  "lat": 46.0405993,
+  "lon": 11.5121572,
+  "tags": {
+    "description:it": "Probabile postazione di guardia.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 5761420167,
+  "lat": 46.0405619,
+  "lon": 11.5120976,
+  "tags": {
+    "description:it": "Probabile postazione di guardia.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 5761420168,
+  "lat": 46.0406086,
+  "lon": 11.5119220,
+  "tags": {
+    "description:it": "Probabile postazione di guardia.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 5761420169,
+  "lat": 46.0400508,
+  "lon": 11.5133348,
+  "tags": {
+    "description:it": "Probabile postazione di guardia.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 5761420173,
+  "lat": 46.0398981,
+  "lon": 11.5135887,
+  "tags": {
+    "description:it": "Probabile postazione di guardia.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 5768819314,
+  "lat": 46.0825347,
+  "lon": 11.4969670,
+  "tags": {
+    "description:it": "Storico tunnel deviazione temporanea acqua per lavori costruzione serre.",
+    "height": "2",
+    "historic": "yes",
+    "layer": "-1",
+    "man_made": "adit",
+    "natural": "cave_entrance",
+    "width": "1.5"
+  }
+},
+{
+  "type": "node",
+  "id": 5771750129,
+  "lat": 46.1765839,
+  "lon": 11.0783847,
+  "tags": {
+    "name": "Bus dele Anguane",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 5794210498,
+  "lat": 45.8389574,
+  "lon": 10.9668519,
+  "tags": {
+    "access": "no",
+    "alt_name": "Pontesel de le Strie;Corona di Besagno;Castel di Besagno",
+    "archaeological_site": "fortification",
+    "historic": "archaeological_site",
+    "historic:civilization": "medieval",
+    "name": "Covolo di Besagno",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 5841777341,
+  "lat": 45.8432906,
+  "lon": 10.7831034,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 5869475647,
+  "lat": 45.9872734,
+  "lon": 11.5983573,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 5972375786,
+  "lat": 45.8155700,
+  "lon": 11.1680000,
+  "tags": {
+    "ele": "1951",
+    "name": "Galleria Monte Buso",
+    "name:en": "Monte Buso tunnel",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 6126216279,
+  "lat": 46.0395368,
+  "lon": 11.5203465,
+  "tags": {
+    "description:it": "Possibile postazione o riparo militare.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 6221079112,
+  "lat": 46.0189124,
+  "lon": 10.9725664,
+  "tags": {
+    "access": "yes",
+    "name": "Bus de le Anguane (Forra)",
+    "natural": "cave_entrance",
+    "note": "(posizione imprecisa)"
+  }
+},
+{
+  "type": "node",
+  "id": 6432437061,
+  "lat": 45.9650268,
+  "lon": 11.3062798,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 6512000478,
+  "lat": 45.8471693,
+  "lon": 10.7668328,
+  "tags": {
+    "access": "yes",
+    "fee": "no",
+    "natural": "cave_entrance",
+    "note": "man_made, not natural"
+  }
+},
+{
+  "type": "node",
+  "id": 6516265324,
+  "lat": 46.0484020,
+  "lon": 11.5446353,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 6516283335,
+  "lat": 46.0483853,
+  "lon": 11.5445854,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 6533787406,
+  "lat": 46.0467230,
+  "lon": 11.5483280,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 6534728632,
+  "lat": 45.8796628,
+  "lon": 10.8849189,
+  "tags": {
+    "fee": "no",
+    "name": "Marmitta dei Giganti Piccola",
+    "natural": "cave_entrance",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 6534808101,
+  "lat": 45.8800633,
+  "lon": 10.8852769,
+  "tags": {
+    "fee": "no",
+    "name": "Marmitta dei Giganti",
+    "natural": "cave_entrance",
+    "tourism": "attraction",
+    "website": "https://www.gardatrentino.it/it/marmitte-dei-giganti-nago-torbole/",
+    "wheelchair": "yes",
+    "wikidata": "Q97940454",
+    "wikipedia": "it:Marmitte dei giganti (Nago-Torbole)"
+  }
+},
+{
+  "type": "node",
+  "id": 6534818165,
+  "lat": 45.8791966,
+  "lon": 10.8693824,
+  "tags": {
+    "access": "private",
+    "fee": "no",
+    "natural": "cave_entrance",
+    "note": "Marmitta dei giganti"
+  }
+},
+{
+  "type": "node",
+  "id": 6549328741,
+  "lat": 46.0691480,
+  "lon": 11.4635199,
+  "tags": {
+    "access": "no",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 6562414496,
+  "lat": 45.8795263,
+  "lon": 10.8848483,
+  "tags": {
+    "fee": "no",
+    "name": "Marmitta dei Giganti Granda",
+    "natural": "cave_entrance",
+    "wheelchair": "no",
+    "wikimedia_commons": "File:Marmite_dei_Giganti_near_Nago.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 6588140005,
+  "lat": 45.8615592,
+  "lon": 11.0302588,
+  "tags": {
+    "name": "Busa dell'Adamo",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 6590362714,
+  "lat": 45.9880816,
+  "lon": 10.9604952,
+  "tags": {
+    "fee": "yes",
+    "fixme": "Posizione approssimativa",
+    "name": "Covel dei Mustedì",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 6591081077,
+  "lat": 46.0340059,
+  "lon": 11.0137531,
+  "tags": {
+    "name": "Caverna Strengiador",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 6592783751,
+  "lat": 45.9162427,
+  "lon": 10.8193853,
+  "tags": {
+    "name": "Busa de la Giana",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 6609147120,
+  "lat": 46.0474151,
+  "lon": 11.5469850,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 6655145962,
+  "lat": 46.3446618,
+  "lon": 10.6268564,
+  "tags": {
+    "name": "Fori della Grande Guerra",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 6672468735,
+  "lat": 45.8752973,
+  "lon": 10.9279483,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 6672468739,
+  "lat": 45.8728490,
+  "lon": 10.9320380,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 6672468740,
+  "lat": 45.8732842,
+  "lon": 10.9310402,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 6744747993,
+  "lat": 45.8899756,
+  "lon": 10.6676198,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 6787837814,
+  "lat": 45.7204444,
+  "lon": 11.0226249,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 6816681989,
+  "lat": 45.8861297,
+  "lon": 10.9708781,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 6920018364,
+  "lat": 46.0734096,
+  "lon": 11.5836605,
+  "tags": {
+    "description:it": "Postazioni forse riparo militare a difesa passaggio, entrata sotto livello suolo.",
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 7056745272,
+  "lat": 46.0750455,
+  "lon": 11.0818959,
+  "tags": {
+    "name": "Stoi",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 7096396415,
+  "lat": 46.0542614,
+  "lon": 11.5495656,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 7142808437,
+  "lat": 45.8877008,
+  "lon": 10.9907753,
+  "tags": {
+    "name": "Crepa di Castel Corno",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 7167018392,
+  "lat": 46.0941058,
+  "lon": 11.1529390,
+  "tags": {
+    "name": "Stoi Bassi",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 7253394677,
+  "lat": 45.8838808,
+  "lon": 11.1721517,
+  "tags": {
+    "access": "yes",
+    "amenity": "shelter",
+    "natural": "cave_entrance",
+    "shelter_type": "rock_shelter"
+  }
+},
+{
+  "type": "node",
+  "id": 7253394678,
+  "lat": 45.8801809,
+  "lon": 11.1768582,
+  "tags": {
+    "access": "yes",
+    "amenity": "shelter",
+    "natural": "cave_entrance",
+    "shelter_type": "rock_shelter"
+  }
+},
+{
+  "type": "node",
+  "id": 7399353900,
+  "lat": 45.9654182,
+  "lon": 10.8169346,
+  "tags": {
+    "access": "yes",
+    "direction": "270",
+    "fee": "no",
+    "name": "Camerona",
+    "natural": "cave_entrance",
+    "source": "http://www.protezionecivile.tn.it/territorio/geologia/Geositi/-Grottecarsismo/pagina13.html"
+  }
+},
+{
+  "type": "node",
+  "id": 7417988553,
+  "lat": 45.7607026,
+  "lon": 11.0351872,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 7417988554,
+  "lat": 45.7606633,
+  "lon": 11.0353347,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 7418048395,
+  "lat": 45.7638294,
+  "lon": 11.0399294,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 7418048520,
+  "lat": 45.7590681,
+  "lon": 11.0511276,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 7418048540,
+  "lat": 45.7596472,
+  "lon": 11.0496202,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 7418048541,
+  "lat": 45.7576786,
+  "lon": 11.0526404,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 7544977931,
+  "lat": 46.4062480,
+  "lon": 11.1611264,
+  "tags": {
+    "name": "Grotta del colera",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 7577227719,
+  "lat": 45.8813265,
+  "lon": 10.9054981,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 7660985383,
+  "lat": 45.7261693,
+  "lon": 10.8439048,
+  "tags": {
+    "amenity": "rock_shelter",
+    "man_made": "adit",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 7660985384,
+  "lat": 45.7265427,
+  "lon": 10.8441803,
+  "tags": {
+    "amenity": "rock_shelter",
+    "man_made": "adit",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 7677686775,
+  "lat": 45.8378645,
+  "lon": 10.9986738,
+  "tags": {
+    "fee": "no",
+    "name": "Grotta all'Adige",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 7881117381,
+  "lat": 46.4725098,
+  "lon": 11.7133135,
+  "tags": {
+    "name": "Bus de la Giacia",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 8010399575,
+  "lat": 46.0593893,
+  "lon": 10.9342943,
+  "tags": {
+    "access": "yes",
+    "name": "Sorgente Masere",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 8066052039,
+  "lat": 45.9658912,
+  "lon": 10.9017350,
+  "tags": {
+    "access": "yes",
+    "fee": "no",
+    "name": "Coel",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 8071977660,
+  "lat": 45.7932370,
+  "lon": 11.0679464,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 8145311981,
+  "lat": 45.8210683,
+  "lon": 10.8995781,
+  "tags": {
+    "name": "Abisso di Val del Parol",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 8164698080,
+  "lat": 46.0666579,
+  "lon": 10.9593869,
+  "tags": {
+    "access": "yes",
+    "fee": "no",
+    "name": "Rifugio antiaereo",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 8516069987,
+  "lat": 46.0431681,
+  "lon": 11.4529489,
+  "tags": {
+    "access": "yes",
+    "barrier": "gate",
+    "gate:material": "metal",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "old:military": "bunker",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 8554017004,
+  "lat": 46.0710549,
+  "lon": 10.9917755,
+  "tags": {
+    "amenity": "shelter",
+    "historic": "yes",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "shelter_type": "rock_shelter"
+  }
+},
+{
+  "type": "node",
+  "id": 8567017244,
+  "lat": 46.2366726,
+  "lon": 11.0725799,
+  "tags": {
+    "name": "Sanbastian",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 8567017254,
+  "lat": 46.2353368,
+  "lon": 11.0660782,
+  "tags": {
+    "loc_name": "Busi del Diaol",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 8567017255,
+  "lat": 46.2352756,
+  "lon": 11.0660461,
+  "tags": {
+    "loc_name": "Busi del Diaol",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 8583360081,
+  "lat": 46.0709336,
+  "lon": 10.9918242,
+  "tags": {
+    "amenity": "shelter",
+    "historic": "yes",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "shelter_type": "rock_shelter"
+  }
+},
+{
+  "type": "node",
+  "id": 8638083266,
+  "lat": 45.7552353,
+  "lon": 11.0687256,
+  "tags": {
+    "name": "Busoni di Perobia",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 8810704412,
+  "lat": 45.8670917,
+  "lon": 10.8976249,
+  "tags": {
+    "name": "Crepa alle Daine",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 8841258234,
+  "lat": 45.8965510,
+  "lon": 10.7197329,
+  "tags": {
+    "name": "Galleria Lamarmora",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 8863861556,
+  "lat": 46.1047587,
+  "lon": 11.0721058,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 8901959086,
+  "lat": 45.8714195,
+  "lon": 10.7808160,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 8947028124,
+  "lat": 45.9623761,
+  "lon": 10.6441365,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 8952104327,
+  "lat": 46.3465445,
+  "lon": 10.6292318,
+  "tags": {
+    "description": "short human made tunnel",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 8952106863,
+  "lat": 46.3507035,
+  "lon": 10.6279350,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9007788179,
+  "lat": 46.0526553,
+  "lon": 11.5477949,
+  "tags": {
+    "disused:military": "bunker",
+    "historic": "bunker",
+    "man_made": "yes",
+    "natural": "cave_entrance",
+    "start_date": "1914"
+  }
+},
+{
+  "type": "node",
+  "id": 9028096356,
+  "lat": 45.8797341,
+  "lon": 10.8683037,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9031474523,
+  "lat": 45.9327093,
+  "lon": 10.8978000,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9031474524,
+  "lat": 45.9327235,
+  "lon": 10.8978412,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9031474525,
+  "lat": 45.9327340,
+  "lon": 10.8978694,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9031474526,
+  "lat": 45.9327438,
+  "lon": 10.8978939,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9090357459,
+  "lat": 45.9312976,
+  "lon": 10.9049864,
+  "tags": {
+    "abandoned:quarry": "yes",
+    "access": "yes",
+    "alt_name": "predere di Nogaiole",
+    "fee": "no",
+    "name": "Cave Basse",
+    "natural": "cave_entrance",
+    "note": "Nel XIX° secolo le cave erano note anche col nome di \"Cave Negri\", dai nomi di colui che le prese in concessione."
+  }
+},
+{
+  "type": "node",
+  "id": 9090357460,
+  "lat": 45.9333925,
+  "lon": 10.9063865,
+  "tags": {
+    "abandoned:quarry": "yes",
+    "access": "yes",
+    "alt_name": "cave intermedie",
+    "fee": "no",
+    "name": "Cave Medie",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9090357461,
+  "lat": 45.9351503,
+  "lon": 10.9067375,
+  "tags": {
+    "access": "yes",
+    "alt_name": "Cave di Oolite",
+    "fee": "no",
+    "name": "Cave Alte",
+    "natural": "cave_entrance",
+    "tourism": "attraction"
+  }
+},
+{
+  "type": "node",
+  "id": 9148553503,
+  "lat": 45.9343269,
+  "lon": 10.8280890,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9316508996,
+  "lat": 46.3465091,
+  "lon": 10.6421806,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9569396011,
+  "lat": 45.7869525,
+  "lon": 10.9866758,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9580151044,
+  "lat": 46.0764656,
+  "lon": 11.0773076,
+  "tags": {
+    "name": "Stoi",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9795102995,
+  "lat": 46.0968505,
+  "lon": 11.1442796,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9881424933,
+  "lat": 46.1147313,
+  "lon": 11.5705828,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9881453236,
+  "lat": 46.1144942,
+  "lon": 11.5710882,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9881457498,
+  "lat": 46.1145532,
+  "lon": 11.5708076,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9881457499,
+  "lat": 46.1147631,
+  "lon": 11.5705701,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9881481572,
+  "lat": 46.1138998,
+  "lon": 11.5699568,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9881482614,
+  "lat": 46.1141164,
+  "lon": 11.5701406,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9881483474,
+  "lat": 46.1144738,
+  "lon": 11.5705101,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9881484646,
+  "lat": 46.1145886,
+  "lon": 11.5706826,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9881486490,
+  "lat": 46.1145391,
+  "lon": 11.5703957,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9881487448,
+  "lat": 46.1139443,
+  "lon": 11.5699188,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9882754837,
+  "lat": 46.1142728,
+  "lon": 11.5699401,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9918665527,
+  "lat": 46.0644376,
+  "lon": 10.9975825,
+  "tags": {
+    "alt_name": "Grotta di San Martino",
+    "fee": "no",
+    "name": "Grotta dell'eremita",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9958994170,
+  "lat": 46.1470523,
+  "lon": 11.0482688,
+  "tags": {
+    "name": "Grotta Cesare Battisti",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974436874,
+  "lat": 45.8742678,
+  "lon": 10.8869225,
+  "tags": {
+    "alt_name": "Grotta del Poeta",
+    "name": "Grotta di Guisse",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974436875,
+  "lat": 45.8739466,
+  "lon": 10.8864960,
+  "tags": {
+    "name": "La Camereta",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974467254,
+  "lat": 45.8688154,
+  "lon": 10.8992722,
+  "tags": {
+    "name": "Grotta Bianca Bini",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974467255,
+  "lat": 45.8672801,
+  "lon": 10.8990684,
+  "tags": {
+    "fee": "yes",
+    "name": "Grotta I° della Spurga",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974467263,
+  "lat": 45.8707240,
+  "lon": 10.9170433,
+  "tags": {
+    "name": "Crepa del Lago",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974467264,
+  "lat": 45.8771678,
+  "lon": 10.9276404,
+  "tags": {
+    "name": "Bus de la Vecia del Grom",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974489953,
+  "lat": 45.9281306,
+  "lon": 10.8883731,
+  "tags": {
+    "name": "Grotta del Colodri",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974489954,
+  "lat": 45.9376157,
+  "lon": 10.9103993,
+  "tags": {
+    "name": "Grotta delle radici",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974489955,
+  "lat": 45.9376080,
+  "lon": 10.9103368,
+  "tags": {
+    "name": "Caverna dei traditori",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974489956,
+  "lat": 45.9364642,
+  "lon": 10.9095972,
+  "tags": {
+    "name": "Grotta Pianaùra",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974500475,
+  "lat": 45.9914496,
+  "lon": 10.8658802,
+  "tags": {
+    "name": "Buco del Trapano Selvaggio",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974500476,
+  "lat": 45.9815317,
+  "lon": 10.8705948,
+  "tags": {
+    "name": "Grotta della Botte",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974500477,
+  "lat": 45.9757616,
+  "lon": 10.8687113,
+  "tags": {
+    "name": "Crepa di Cengia Grande",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974500478,
+  "lat": 45.9851897,
+  "lon": 10.8544201,
+  "tags": {
+    "name": "Grotta 6 di Val Lomasona",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974500479,
+  "lat": 45.9847883,
+  "lon": 10.8544290,
+  "tags": {
+    "name": "Grotta 7 di Val Lomasona",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974500480,
+  "lat": 45.9843409,
+  "lon": 10.8543186,
+  "tags": {
+    "name": "Grotta 8 di Val Lomasona",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974531258,
+  "lat": 45.9426052,
+  "lon": 10.8517062,
+  "tags": {
+    "name": "Arca glaciale di Treni",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974538126,
+  "lat": 45.9400502,
+  "lon": 10.9120294,
+  "tags": {
+    "name": "Covelo sopra Le Giare",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974552138,
+  "lat": 45.9453790,
+  "lon": 10.8851854,
+  "tags": {
+    "name": "Grotta IV alle Fontane",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974552139,
+  "lat": 45.9451291,
+  "lon": 10.8847723,
+  "tags": {
+    "name": "Grotta alle Fontane",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974552140,
+  "lat": 45.9452017,
+  "lon": 10.8849732,
+  "tags": {
+    "name": "Grotta II alle Fontane",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974552141,
+  "lat": 45.9452893,
+  "lon": 10.8851152,
+  "tags": {
+    "name": "Grotta III alle Fontane",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974552145,
+  "lat": 45.9477793,
+  "lon": 10.8817778,
+  "tags": {
+    "name": "Coel de Mandrea",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974555949,
+  "lat": 45.9655108,
+  "lon": 10.8305539,
+  "tags": {
+    "name": "Pozzo del Monte Misone",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974568670,
+  "lat": 45.8380805,
+  "lon": 10.6921929,
+  "tags": {
+    "name": "Grotta di Tremalzo",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974573235,
+  "lat": 45.8650333,
+  "lon": 10.8208106,
+  "tags": {
+    "name": "Caverna di Biacesa",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974576303,
+  "lat": 45.9142924,
+  "lon": 10.7129269,
+  "tags": {
+    "name": "Bus de l' Avel",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974578883,
+  "lat": 45.9097779,
+  "lon": 10.6757712,
+  "tags": {
+    "name": "Caverna Massangla",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974579165,
+  "lat": 45.8766355,
+  "lon": 10.6755291,
+  "tags": {
+    "name": "Spluga de Romal",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974579166,
+  "lat": 45.9001370,
+  "lon": 10.6766610,
+  "tags": {
+    "name": "Pozzo ai Calippi",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974579167,
+  "lat": 45.9050178,
+  "lon": 10.6903900,
+  "tags": {
+    "name": "Caverna alle Caldere",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974579168,
+  "lat": 45.9036329,
+  "lon": 10.6862708,
+  "tags": {
+    "name": "Pozzo Val dell' Acqua",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974584523,
+  "lat": 45.8912059,
+  "lon": 10.7744928,
+  "tags": {
+    "name": "Pozzo Taia Nova",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974584527,
+  "lat": 45.8922887,
+  "lon": 10.7726099,
+  "tags": {
+    "name": "Coel de Tane",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974587334,
+  "lat": 45.9165004,
+  "lon": 10.6660931,
+  "tags": {
+    "name": "Caverna in località Orzer",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974588075,
+  "lat": 45.9678612,
+  "lon": 10.9327598,
+  "tags": {
+    "name": "Risorgenza Albanella",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974588076,
+  "lat": 45.9668009,
+  "lon": 10.9404242,
+  "tags": {
+    "name": "Caverna dei rifiuti",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974591571,
+  "lat": 45.8950496,
+  "lon": 10.6929099,
+  "tags": {
+    "name": "Pozzo Monte Plagna",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974591572,
+  "lat": 45.8944187,
+  "lon": 10.6942564,
+  "tags": {
+    "name": "Bus a la Gola",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974591573,
+  "lat": 45.8951579,
+  "lon": 10.6956351,
+  "tags": {
+    "name": "Covelo presso Bus a la Gola",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974591574,
+  "lat": 45.8874272,
+  "lon": 10.6867838,
+  "tags": {
+    "name": "Caverna della reginella",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974593268,
+  "lat": 45.8498180,
+  "lon": 10.6534582,
+  "tags": {
+    "name": "Bus ai Prati del Monte",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974606908,
+  "lat": 45.8885270,
+  "lon": 10.6315502,
+  "tags": {
+    "name": "Pozzo di Maina",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974620286,
+  "lat": 45.8451140,
+  "lon": 10.6919443,
+  "tags": {
+    "name": "Bus del Mughé",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974625674,
+  "lat": 45.9697860,
+  "lon": 10.8764145,
+  "tags": {
+    "name": "Bus de l'orco",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974629918,
+  "lat": 45.9762724,
+  "lon": 10.9073167,
+  "tags": {
+    "name": "Grotta dell'Angione",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974644428,
+  "lat": 45.9743331,
+  "lon": 10.8883510,
+  "tags": {
+    "name": "Caverna di San Giovanni",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974703325,
+  "lat": 46.0157557,
+  "lon": 10.9717585,
+  "tags": {
+    "name": "Grotta delle Crepe",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974703326,
+  "lat": 46.0142655,
+  "lon": 10.9707822,
+  "tags": {
+    "name": "Crepa del Santuario",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974703327,
+  "lat": 46.0095190,
+  "lon": 10.9755163,
+  "tags": {
+    "name": "La Cosina",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974734399,
+  "lat": 46.0931700,
+  "lon": 11.0549873,
+  "tags": {
+    "name": "Lora II di Terlago",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974734400,
+  "lat": 46.0933560,
+  "lon": 11.0551161,
+  "tags": {
+    "name": "Lora III di Terlago",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974734401,
+  "lat": 46.0910485,
+  "lon": 11.0524501,
+  "tags": {
+    "name": "Lora I di Terlago",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974734402,
+  "lat": 46.0998578,
+  "lon": 11.0577038,
+  "tags": {
+    "alt_name": "Lora del Treboldi",
+    "name": "Lora IV di Terlago",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974742848,
+  "lat": 46.0369435,
+  "lon": 11.0122477,
+  "tags": {
+    "name": "Caverna Strengiador",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974762098,
+  "lat": 46.0905504,
+  "lon": 11.0352870,
+  "tags": {
+    "name": "Crepa Camillo",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974763940,
+  "lat": 46.1224384,
+  "lon": 11.0591614,
+  "tags": {
+    "name": "Pozzo del Lago Santo",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974774898,
+  "lat": 46.0806458,
+  "lon": 11.0899736,
+  "tags": {
+    "name": "Bocca della Cengia",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974775146,
+  "lat": 46.0558182,
+  "lon": 11.1374054,
+  "tags": {
+    "access": "no",
+    "name": "Caverna Gocciadoro",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974777196,
+  "lat": 45.8744836,
+  "lon": 10.9973945,
+  "tags": {
+    "name": "Le Spurghe I",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974777197,
+  "lat": 45.8737655,
+  "lon": 11.0032054,
+  "tags": {
+    "name": "Bus del Mossano",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974784735,
+  "lat": 45.8363755,
+  "lon": 10.9436190,
+  "tags": {
+    "name": "Bus de la Volp",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974785165,
+  "lat": 45.8885497,
+  "lon": 10.9225798,
+  "tags": {
+    "name": "Grotta de la Poza de Mez",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974785166,
+  "lat": 45.8888932,
+  "lon": 10.9218664,
+  "tags": {
+    "name": "Bus dei Cavici",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974785167,
+  "lat": 45.8889977,
+  "lon": 10.9213085,
+  "tags": {
+    "name": "Caverna 1° di Narango",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974785168,
+  "lat": 45.8890127,
+  "lon": 10.9206111,
+  "tags": {
+    "name": "Caverna 2° di Narango",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974787187,
+  "lat": 45.8821135,
+  "lon": 10.9693104,
+  "tags": {
+    "name": "Pozzo Biaena",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974795152,
+  "lat": 45.8893298,
+  "lon": 10.9914320,
+  "tags": {
+    "name": "Grotta di Castelcorno",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974802037,
+  "lat": 45.8299251,
+  "lon": 10.9922842,
+  "tags": {
+    "name": "Bus de Trani",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974802038,
+  "lat": 45.8298859,
+  "lon": 10.9922547,
+  "tags": {
+    "name": "Bus de le vaschette",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974806530,
+  "lat": 45.8484989,
+  "lon": 10.9701587,
+  "tags": {
+    "name": "Buco 3° di Tierno",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974812338,
+  "lat": 45.8592420,
+  "lon": 10.8940665,
+  "tags": {
+    "name": "Grotta de le Gozze",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974812340,
+  "lat": 45.9259454,
+  "lon": 10.9619191,
+  "tags": {
+    "name": "Pozzo Val del diavolo",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9974816630,
+  "lat": 45.9422469,
+  "lon": 11.0235550,
+  "tags": {
+    "name": "Bus de le Guane",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 9990545384,
+  "lat": 45.9661712,
+  "lon": 10.7598376,
+  "tags": {
+    "historic": "ruins",
+    "historic:civilization": "world_war_1",
+    "inscription": "Grotta-galleria\nDoss de la Torta\n1915-1918 alt. 2097 m",
+    "name": "Grotta-galleria Doss de la Torta",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 10199777058,
+  "lat": 45.7645133,
+  "lon": 10.9144188,
+  "tags": {
+    "name": "Pozzo Beccaria",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 10219802221,
+  "lat": 45.9450942,
+  "lon": 11.3104112,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 10244321259,
+  "lat": 46.1558973,
+  "lon": 11.8045149,
+  "tags": {
+    "name": "Stoli",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 10709326272,
+  "lat": 46.0893491,
+  "lon": 11.6150992,
+  "tags": {
+    "name": "Grotta del Colo",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 10819094881,
+  "lat": 45.9642764,
+  "lon": 10.9009583,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 10856271960,
+  "lat": 45.8122028,
+  "lon": 11.1230172,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 10856271969,
+  "lat": 45.8122353,
+  "lon": 11.1232162,
+  "tags": {
+    "access": "no",
+    "name": "Ingresso superiore gallerie Corno Battisti",
+    "natural": "cave_entrance",
+    "note:it": "Collegamento fra ingresso superiore e pozzo della carrucola chiuso per crollo gallerie"
+  }
+},
+{
+  "type": "node",
+  "id": 10878161232,
+  "lat": 46.0985664,
+  "lon": 11.1421564,
+  "tags": {
+    "name": "Stoi",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 10913111178,
+  "lat": 45.8678195,
+  "lon": 10.7002277,
+  "tags": {
+    "historic": "ruins",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 11218204107,
+  "lat": 45.8503969,
+  "lon": 10.9603547,
+  "tags": {
+    "name": "Grotta del Colombo",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 11226962565,
+  "lat": 45.8793480,
+  "lon": 10.7295591,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 11307427146,
+  "lat": 45.7198938,
+  "lon": 11.0219296,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 11385475542,
+  "lat": 46.1620824,
+  "lon": 10.9484634,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 11389602795,
+  "lat": 45.8720575,
+  "lon": 10.9364389,
+  "tags": {
+    "description": "Piccola insenatura dove fuoriesce una sortiva",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 11510012267,
+  "lat": 45.8632684,
+  "lon": 10.8209164,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 11530620158,
+  "lat": 46.0980391,
+  "lon": 11.2488131,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 11581599614,
+  "lat": 46.4547640,
+  "lon": 11.1437803,
+  "tags": {
+    "name": "Grotta Coronaccia",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 11739726878,
+  "lat": 46.1064202,
+  "lon": 11.1261517,
+  "tags": {
+    "access": "no",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 11865825041,
+  "lat": 46.0764835,
+  "lon": 11.1836980,
+  "tags": {
+    "ele": "770",
+    "name": "Bus dei Ascari",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 11897150469,
+  "lat": 45.8692841,
+  "lon": 10.7484645,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 11985797575,
+  "lat": 45.7028076,
+  "lon": 11.1342359,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 12087617406,
+  "lat": 46.1575188,
+  "lon": 10.9279439,
+  "tags": {
+    "name": "Bus del Lupo",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 12093059821,
+  "lat": 46.2532858,
+  "lon": 10.6011295,
+  "tags": {
+    "access": "yes",
+    "fee": "no",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 12093061624,
+  "lat": 46.2529096,
+  "lon": 10.6008712,
+  "tags": {
+    "access": "yes",
+    "fee": "no",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 12123977435,
+  "lat": 45.8295445,
+  "lon": 10.9391402,
+  "tags": {
+    "name": "Piccola grotta",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 12124039308,
+  "lat": 45.8333039,
+  "lon": 10.9338655,
+  "tags": {
+    "name": "Piccola grotta",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 12176582581,
+  "lat": 45.8166640,
+  "lon": 10.9742152,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 12201099136,
+  "lat": 45.8099692,
+  "lon": 10.9995798,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+}
+
+  ]
+}

@@ -1,0 +1,357 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.1 084b4234",
+  "osm3s": {
+    "timestamp_osm_base": "2024-11-13T15:04:01Z",
+    "timestamp_areas_base": "2024-11-13T11:53:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 281733083,
+  "lat": 46.2687455,
+  "lon": 11.4185482,
+  "tags": {
+    "created_by": "Potlatch 0.10",
+    "name": "Acropark",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 323291851,
+  "lat": 46.3065052,
+  "lon": 11.7400951,
+  "tags": {
+    "name": "Recinto dei Cervi - Località Paneveggio",
+    "tourism": "zoo"
+  }
+},
+{
+  "type": "node",
+  "id": 482698647,
+  "lat": 46.0811597,
+  "lon": 11.2662447,
+  "tags": {
+    "leisure": "park"
+  }
+},
+{
+  "type": "node",
+  "id": 622616259,
+  "lat": 46.3580505,
+  "lon": 10.6685605,
+  "tags": {
+    "name": "Area faunistica Parco Nazionale dello Stelvio",
+    "tourism": "zoo"
+  }
+},
+{
+  "type": "node",
+  "id": 727323903,
+  "lat": 46.4760949,
+  "lon": 11.7465941,
+  "tags": {
+    "leisure": "miniature_golf"
+  }
+},
+{
+  "type": "node",
+  "id": 739370753,
+  "lat": 46.1569960,
+  "lon": 11.8160758,
+  "tags": {
+    "leisure": "miniature_golf",
+    "name": "Minigolf"
+  }
+},
+{
+  "type": "node",
+  "id": 766274000,
+  "lat": 45.9606241,
+  "lon": 10.9330869,
+  "tags": {
+    "name": "Open Art Gallery",
+    "opening_hours": "PH,Mo-Su 00:00-24:00+",
+    "tourism": "theme_park",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 836517068,
+  "lat": 45.9155146,
+  "lon": 11.0308754,
+  "tags": {
+    "leisure": "park",
+    "name": "Ingresso parco Gonzaga"
+  }
+},
+{
+  "type": "node",
+  "id": 2514470614,
+  "lat": 46.0290387,
+  "lon": 10.6425447,
+  "tags": {
+    "name": "Breg Adventure Park",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 3205895378,
+  "lat": 45.9902036,
+  "lon": 10.9266782,
+  "tags": {
+    "name": "Elias Rock Adventure Park & Big Zip Line",
+    "tourism": "theme_park"
+  }
+},
+{
+  "type": "node",
+  "id": 3916244677,
+  "lat": 46.0856211,
+  "lon": 11.2187745,
+  "tags": {
+    "fixme": "verify",
+    "leisure": "park",
+    "name": "biotopo Lago di Madrano"
+  }
+},
+{
+  "type": "node",
+  "id": 3916250461,
+  "lat": 46.0758259,
+  "lon": 11.2376172,
+  "tags": {
+    "leisure": "park",
+    "name": "biotopo Lago Costa"
+  }
+},
+{
+  "type": "node",
+  "id": 4900361406,
+  "lat": 46.2839186,
+  "lon": 10.6693478,
+  "tags": {
+    "description": "torbiera di Corredolo, riconosciuta come area protetta dalla provincia di Trento ed in gestione al Comune di Vermiglio",
+    "leisure": "park",
+    "name": "Biotopo di Corredolo",
+    "wikidata": "Q94944909"
+  }
+},
+{
+  "type": "node",
+  "id": 5755451808,
+  "lat": 45.8745548,
+  "lon": 11.2130845,
+  "tags": {
+    "leisure": "park",
+    "name": "orto botanico"
+  }
+},
+{
+  "type": "node",
+  "id": 6708335923,
+  "lat": 46.1292359,
+  "lon": 11.3525590,
+  "tags": {
+    "addr:city": "Palù del Fersina - Palai en Bersntol",
+    "addr:postcode": "38050",
+    "leisure": "park",
+    "name": "Albero dei desideri"
+  }
+},
+{
+  "type": "node",
+  "id": 7609037595,
+  "lat": 46.0077376,
+  "lon": 11.2907820,
+  "tags": {
+    "leisure": "miniature_golf",
+    "name": "Adventure minigolf"
+  }
+},
+{
+  "type": "node",
+  "id": 8240417034,
+  "lat": 45.9657729,
+  "lon": 10.9563558,
+  "tags": {
+    "addr:city": "Drena",
+    "addr:postcode": "38704",
+    "leisure": "park",
+    "name": "Parco delle feste"
+  }
+},
+{
+  "type": "node",
+  "id": 8602677694,
+  "lat": 46.0800792,
+  "lon": 10.9273655,
+  "tags": {
+    "name": "ATHABASKA fattoria didattica",
+    "tourism": "zoo",
+    "zoo": "petting_zoo"
+  }
+},
+{
+  "type": "node",
+  "id": 8806252786,
+  "lat": 45.9039746,
+  "lon": 11.0386010,
+  "tags": {
+    "access": "yes",
+    "leisure": "park",
+    "name": "Busa dei Cavai",
+    "operator": "comune di Rovereto"
+  }
+},
+{
+  "type": "node",
+  "id": 8976479124,
+  "lat": 46.0622442,
+  "lon": 11.6193178,
+  "tags": {
+    "addr:city": "Cinte Tesino",
+    "addr:postcode": "38050",
+    "addr:street": "Via Primo Maggio",
+    "email": "info@adventuredolomiti.it",
+    "name": "Adventure Dolomiti",
+    "opening_hours": "Mo-Su 09:00-17:30",
+    "operator": "Adventure Dolomiti",
+    "phone": "+393273938952",
+    "tourism": "theme_park",
+    "website": "https://adventuredolomiti.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 9494855595,
+  "lat": 45.9152736,
+  "lon": 11.0295700,
+  "tags": {
+    "addr:city": "Villa Lagarina",
+    "addr:postcode": "38060",
+    "addr:street": "Via Garibaldi",
+    "leisure": "park",
+    "name": "Parco Guerrieri Gonzaga",
+    "opening_hours": "We-Su 10:00-18:00",
+    "website": "https://www.parcoguerrierigonzaga.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 9973436092,
+  "lat": 46.1885016,
+  "lon": 11.6883077,
+  "tags": {
+    "name": "Area Cervi",
+    "tourism": "zoo",
+    "zoo": "wildlife_park"
+  }
+},
+{
+  "type": "node",
+  "id": 10223393645,
+  "lat": 46.2774427,
+  "lon": 11.1060659,
+  "tags": {
+    "leisure": "park",
+    "name": "punto informativo"
+  }
+},
+{
+  "type": "node",
+  "id": 11067225732,
+  "lat": 46.4317958,
+  "lon": 11.6876437,
+  "tags": {
+    "tourism": "zoo",
+    "zoo": "petting_zoo"
+  }
+},
+{
+  "type": "node",
+  "id": 11199844741,
+  "lat": 45.8701211,
+  "lon": 10.8746170,
+  "tags": {
+    "addr:city": "Nago-Torbole",
+    "leisure": "park",
+    "name": "Parco Pavese"
+  }
+},
+{
+  "type": "node",
+  "id": 11493806048,
+  "lat": 45.7873150,
+  "lon": 10.9397864,
+  "tags": {
+    "leisure": "miniature_golf"
+  }
+},
+{
+  "type": "node",
+  "id": 11962202358,
+  "lat": 46.4489105,
+  "lon": 11.1752917,
+  "tags": {
+    "leisure": "park",
+    "name": "pannello  informativo"
+  }
+},
+{
+  "type": "node",
+  "id": 11962202360,
+  "lat": 46.4458389,
+  "lon": 11.1702718,
+  "tags": {
+    "leisure": "park",
+    "name": "Pannello informativo"
+  }
+},
+{
+  "type": "node",
+  "id": 11962202361,
+  "lat": 46.4497885,
+  "lon": 11.1633053,
+  "tags": {
+    "leisure": "park",
+    "name": "Pannello informativo"
+  }
+},
+{
+  "type": "node",
+  "id": 12089253018,
+  "lat": 45.8738397,
+  "lon": 11.0310122,
+  "tags": {
+    "leisure": "park",
+    "name": "Parco Ex Marangoni"
+  }
+},
+{
+  "type": "node",
+  "id": 12173033113,
+  "lat": 45.8196013,
+  "lon": 10.9701953,
+  "tags": {
+    "leisure": "park"
+  }
+},
+{
+  "type": "node",
+  "id": 12298842435,
+  "lat": 45.9181547,
+  "lon": 11.0592336,
+  "tags": {
+    "leisure": "park",
+    "name": "Parco Des Tor"
+  }
+}
+
+  ]
+}

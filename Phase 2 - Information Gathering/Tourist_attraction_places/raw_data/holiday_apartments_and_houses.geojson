@@ -1,0 +1,3578 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API 0.7.62.1 084b4234",
+  "osm3s": {
+    "timestamp_osm_base": "2024-11-13T15:03:00Z",
+    "timestamp_areas_base": "2024-11-13T11:53:03Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 552938079,
+  "lat": 46.1862908,
+  "lon": 11.2520623,
+  "tags": {
+    "addr:city": "Segonzano",
+    "addr:housenumber": "51",
+    "addr:postcode": "38047",
+    "addr:street": "Frazione Piazzo",
+    "name": "Villa Scalco",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 614841298,
+  "lat": 46.3517088,
+  "lon": 10.9118135,
+  "tags": {
+    "addr:city": "Malé",
+    "addr:housenumber": "3",
+    "addr:street": "Via G. Bresadola",
+    "cuisine": "pizza",
+    "name": "Mengon Bruna",
+    "phone": "+39 0463 985404",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 701422235,
+  "lat": 45.8782317,
+  "lon": 10.8385465,
+  "tags": {
+    "addr:city": "Riva del Garda",
+    "addr:housenumber": "2",
+    "addr:postcode": "38066",
+    "addr:street": "Via Gargnano",
+    "email": "info@residence-excelsior.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Vecchio Porto Excelsior",
+    "phone": "+39 0464 521831",
+    "smoking": "outside",
+    "tourism": "apartment",
+    "website": "https://www.residence-excelsior.com/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 1445799609,
+  "lat": 45.9217731,
+  "lon": 10.8706983,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:housenumber": "4",
+    "addr:postcode": "38062",
+    "addr:street": "Via Ronchi",
+    "name": "guesthouse arco II",
+    "operator": "guesthouse arco",
+    "tourism": "apartment",
+    "website": "https://www.guesthouse-arco.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 1484801248,
+  "lat": 45.8850043,
+  "lon": 10.8413711,
+  "tags": {
+    "description": "holiday apartments",
+    "internet_access": "wlan",
+    "name": "Appartamenti Rocca",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 2657746429,
+  "lat": 46.0601129,
+  "lon": 11.1151920,
+  "tags": {
+    "addr:city": "Trento",
+    "addr:country": "IT",
+    "addr:housenumber": "13",
+    "addr:postcode": "38122",
+    "addr:street": "Piazza Delle Donne Lavoratrici",
+    "contact:email": "komodo.trento@gmail.com",
+    "contact:phone": "+39 346 2751251",
+    "contact:website": "http://www.komodoapartments.com/",
+    "entrance": "main",
+    "internet_access": "wlan",
+    "name": "Komodo",
+    "tourism": "apartment",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2835212501,
+  "lat": 45.9195740,
+  "lon": 10.8796480,
+  "tags": {
+    "addr:housenumber": "11",
+    "addr:street": "Via Torino",
+    "name": "Appartamenti Laly",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 3046567181,
+  "lat": 46.2648612,
+  "lon": 11.8047844,
+  "tags": {
+    "amenity": "restaurant",
+    "contact:email": "info@dameto.it",
+    "contact:facebook": "https://www.facebook.com/ristdameto",
+    "contact:phone": "+39 0439 769162",
+    "name": "Ristorante Bar Da Meto",
+    "tourism": "apartment",
+    "website": "http://www.dameto.it/index.html"
+  }
+},
+{
+  "type": "node",
+  "id": 3634668954,
+  "lat": 46.0351204,
+  "lon": 10.8734151,
+  "tags": {
+    "name": "Appartamenti Riccadonna Gaudenzio",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 3678412002,
+  "lat": 45.9239897,
+  "lon": 10.9014225,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:housenumber": "40",
+    "addr:postcode": "38062",
+    "addr:street": "Via Verde",
+    "name": "Appartamento turistico all'olivaia",
+    "tourism": "apartment",
+    "website": "http://www.appartamentoolivaia.it"
+  }
+},
+{
+  "type": "node",
+  "id": 3699555947,
+  "lat": 45.8688423,
+  "lon": 10.8753416,
+  "tags": {
+    "addr:city": "Torbole sul Garda",
+    "addr:country": "IT",
+    "addr:housenumber": "15",
+    "addr:postcode": "38069",
+    "addr:street": "Via Benaco",
+    "check_date": "2024-08-06",
+    "ele": "65",
+    "gnis:created": "2015/08/16",
+    "internet_access": "wlan",
+    "name": "Casa Beust",
+    "note": "Two Holiday Flats for accommodation.",
+    "operator": "Roberto Olivieri",
+    "phone": "+39 (0)464 505576",
+    "tourism": "apartment",
+    "website": "http://www.casabeust.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 3874353794,
+  "lat": 46.3078882,
+  "lon": 11.4604820,
+  "tags": {
+    "name": "Residence Gloria",
+    "tourism": "apartment",
+    "website": "https://www.valfiemme.com/residencegloria/"
+  }
+},
+{
+  "type": "node",
+  "id": 4327870392,
+  "lat": 45.8812579,
+  "lon": 10.8575248,
+  "tags": {
+    "addr:housenumber": "13",
+    "addr:postcode": "38066",
+    "addr:street": "Via Longa",
+    "email": "info@villaelvi.it",
+    "internet_access": "wlan",
+    "name": "Appartamenti Villa Elvi",
+    "opening_hours": "24/7",
+    "operator": "Elvira tedeschi",
+    "phone": "+39 0464 553070",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 4362675246,
+  "lat": 46.1298978,
+  "lon": 10.7563938,
+  "tags": {
+    "addr:city": "Caderzone Terme",
+    "addr:housenumber": "1",
+    "addr:postcode": "38080",
+    "addr:street": "Via D. Chiesa",
+    "internet_access:fee": "yes",
+    "name": "Appartamento Terme di Caderzone",
+    "rooms": "2",
+    "smoking": "no",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 4426899931,
+  "lat": 46.0483808,
+  "lon": 11.4069471,
+  "tags": {
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 4596313902,
+  "lat": 46.0525071,
+  "lon": 11.4947320,
+  "tags": {
+    "addr:city": "Castelnuovo",
+    "addr:country": "IT",
+    "addr:housenumber": "10",
+    "addr:postcode": "38050",
+    "addr:province": "TN",
+    "addr:street": "Piazza del Municipio",
+    "contact:email": "info@casagabriella-valsugana.it",
+    "contact:phone": "+39 0461 753436",
+    "name": "Casa Gabriella",
+    "number_of_apartments": "4",
+    "operator": "A.A.Z. S.A.S. di Zortea Aldo & C.",
+    "ref:vatin": "IT00485500227",
+    "tourism": "apartment",
+    "website": "https://www.casagabriella-valsugana.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 4806168387,
+  "lat": 46.4345532,
+  "lon": 11.1017893,
+  "tags": {
+    "name": "Casa Vacanza Iris",
+    "source": "Bing",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 4808435651,
+  "lat": 45.9152577,
+  "lon": 10.8713874,
+  "tags": {
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Arco Vacanze",
+    "number_of_apartments": "8",
+    "tourism": "apartment",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 4876578959,
+  "lat": 45.8655622,
+  "lon": 10.7453320,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "1",
+    "addr:postcode": "38067",
+    "addr:street": "Via Casarino",
+    "biergarten": "yes",
+    "name": "Maso dell'apicoltore",
+    "phone": "+39 345 715 8066",
+    "restaurant:type:it": "ristorante;pizzeria",
+    "tourism": "apartment",
+    "website": "https://www.masoapicoltore.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 4917660088,
+  "lat": 45.8780482,
+  "lon": 10.8918968,
+  "tags": {
+    "addr:city": "Nago-Torbole",
+    "addr:housenumber": "22",
+    "addr:postcode": "38069",
+    "addr:street": "Via Arturo de Bonetti",
+    "email": "info@gardawohnung.com",
+    "internet_access": "yes",
+    "name": "Appartamenti turistici \"Gardawohnung.com\"",
+    "rooms": "4",
+    "tourism": "apartment",
+    "website": "https://www.gardawohnung.com"
+  }
+},
+{
+  "type": "node",
+  "id": 5040025991,
+  "lat": 45.9182434,
+  "lon": 10.8938869,
+  "tags": {
+    "name": "Arco Charme",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 5152623842,
+  "lat": 46.4367424,
+  "lon": 11.6917473,
+  "tags": {
+    "email": "mailto:anigian1@yahoo.it",
+    "name": "Dallapozza Giancarlo",
+    "tourism": "apartment",
+    "website": "https://dallapozzagiancarlo.fassa.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 5438556262,
+  "lat": 46.2895271,
+  "lon": 11.5140867,
+  "tags": {
+    "addr:city": "Tesero",
+    "addr:housenumber": "34",
+    "addr:postcode": "38038",
+    "addr:street": "Via del Marco",
+    "email": "info@montebel.it",
+    "internet_access": "wlan",
+    "name": "Residence Montebel",
+    "smoking": "no",
+    "tourism": "apartment",
+    "website": "https://www.montebel.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 5484258023,
+  "lat": 46.4368959,
+  "lon": 11.6930524,
+  "tags": {
+    "addr:housenumber": "36",
+    "addr:postcode": "38036",
+    "addr:street": "Strada Jumela",
+    "email": "info@residenceholiday.net",
+    "internet_access": "wlan",
+    "name": "Residence Holiday",
+    "name:de": "Residence Holiday",
+    "name:en": "Residence Holiday",
+    "opening_hours": "24/7",
+    "phone": "+390462763783",
+    "tourism": "apartment",
+    "website": "https://www.residenceholiday.net/"
+  }
+},
+{
+  "type": "node",
+  "id": 6020524846,
+  "lat": 45.9208689,
+  "lon": 10.8890836,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:country": "IT",
+    "addr:housenumber": "5",
+    "addr:postcode": "38062",
+    "addr:street": "Vicolo delle Ere",
+    "description": "2 apartments with different addresses",
+    "name": "Living the Dream",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 6025457784,
+  "lat": 45.9209684,
+  "lon": 10.8890118,
+  "tags": {
+    "name": "Casa al Castello",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 6027936082,
+  "lat": 45.9207488,
+  "lon": 10.8891618,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:country": "IT",
+    "addr:housenumber": "14",
+    "addr:postcode": "38062",
+    "addr:street": "Via Giovanni Segantini",
+    "description": "2 apartments with different addresses",
+    "name": "Living the Dream",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 6412419471,
+  "lat": 45.9191030,
+  "lon": 10.8879558,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:country": "IT",
+    "addr:housenumber": "12",
+    "addr:street": "Via Sant'Anna",
+    "name": "Aquila",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 6504119641,
+  "lat": 46.1803891,
+  "lon": 11.0705492,
+  "tags": {
+    "addr:city": "Fai della Paganella",
+    "addr:housenumber": "1",
+    "addr:postcode": "38010",
+    "addr:street": "Piazza Trentina",
+    "capacity": "8",
+    "email": "info@castellofai.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "name": "Castello Fai",
+    "number_of_apartments": "2",
+    "operator": "Famiglia Hahn / van Skyhawk",
+    "reservation": "required",
+    "rooms": "2",
+    "smoking": "no",
+    "tourism": "apartment",
+    "website": "https://www.castellofai.com"
+  }
+},
+{
+  "type": "node",
+  "id": 6747186796,
+  "lat": 45.9139273,
+  "lon": 10.8830675,
+  "tags": {
+    "addr:housenumber": "26",
+    "addr:street": "Via Mantova",
+    "description": "Holiday home for tourists",
+    "name": "Villa Carmen",
+    "tourism": "apartment",
+    "website": "http://www.villacarmenarco.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 7200015328,
+  "lat": 45.8891195,
+  "lon": 10.8597613,
+  "tags": {
+    "addr:city": "Riva del Garda TN",
+    "addr:housenumber": "3",
+    "addr:postcode": "38066",
+    "addr:street": "Via Sant'Alessandro",
+    "name": "Residence Rivachiara",
+    "operator": "Hotel Riviera in Viale Rovereto, 95",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 7643221196,
+  "lat": 46.0104477,
+  "lon": 11.3012085,
+  "tags": {
+    "addr:city": "Levico Terme",
+    "addr:housenumber": "5",
+    "addr:postcode": "38056",
+    "addr:street": "Via 11 Febbraio",
+    "contact:mobile": "+39 393 3326295,+39 348 8243386",
+    "email": "coccolenelfienile@gmail.com",
+    "internet_access": "no",
+    "name": "Coccole nel fienile",
+    "tourism": "apartment",
+    "website": "https://coccolenelfienile.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 8305105584,
+  "lat": 45.9727298,
+  "lon": 10.9505750,
+  "tags": {
+    "addr:city": "Drena",
+    "addr:place": "Località Salim",
+    "addr:postcode": "38074",
+    "addr:state": "32",
+    "contact:email": "info@masosalim.it",
+    "contact:mobile": "+39 349 690 7793",
+    "contact:website": "http://www.masosalim.it",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "level": "3",
+    "name": "Maso Salim Relax Apartments",
+    "number_of_apartments": "3",
+    "operator": "Ram Tur S.r.l.",
+    "ref:vatin": "IT01220080228",
+    "smoking": "outside",
+    "stars": "3",
+    "swimming_pool": "outdoor",
+    "tourism": "apartment",
+    "wheelchair": "limited"
+  }
+},
+{
+  "type": "node",
+  "id": 8567859620,
+  "lat": 46.4164508,
+  "lon": 11.2066309,
+  "tags": {
+    "addr:city": "Ruffrè-Mendola",
+    "addr:housenumber": "4",
+    "addr:postcode": "38010",
+    "addr:street": "Via Gruppo Brenta",
+    "internet_access": "yes",
+    "internet_access:fee": "no",
+    "name": "Apartment Max",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 8808826888,
+  "lat": 45.9039948,
+  "lon": 10.8430653,
+  "tags": {
+    "name": "Casa Varone",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 8850053434,
+  "lat": 45.8914518,
+  "lon": 10.7271291,
+  "tags": {
+    "addr:city": "Pieve di Ledro",
+    "addr:housenumber": "56",
+    "addr:postcode": "38067",
+    "addr:street": "Via Nuova",
+    "name": "Appartamenti Ledrobenessere",
+    "phone": "+39 3491061874",
+    "tourism": "apartment",
+    "website": "https://www.appartamentiledrobenessere.it"
+  }
+},
+{
+  "type": "node",
+  "id": 8859234992,
+  "lat": 45.8860134,
+  "lon": 10.8396269,
+  "tags": {
+    "name": "Appartamenti Fabbri 1",
+    "tourism": "apartment",
+    "website": "https://appartamenti-fabbri-1-riva-del-garda.hotelmix.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 9051921907,
+  "lat": 45.8893118,
+  "lon": 10.7324582,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "8",
+    "addr:postcode": "38067",
+    "addr:street": "Via Giulio Grossi",
+    "name": "Casa Anna",
+    "tourism": "apartment",
+    "website": "https://www.booking.com/hotel/it/casa-anna-ledro"
+  }
+},
+{
+  "type": "node",
+  "id": 9134915222,
+  "lat": 45.9610181,
+  "lon": 10.9097747,
+  "tags": {
+    "addr:city": "Dro",
+    "addr:housenumber": "8",
+    "addr:postcode": "38074",
+    "addr:street": "Via Roma",
+    "name": "Appartamenti Antica Dro",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9144490187,
+  "lat": 46.4764633,
+  "lon": 11.7444405,
+  "tags": {
+    "name": "Ladina",
+    "tourism": "apartment",
+    "website": "https://www.ladina.net/"
+  }
+},
+{
+  "type": "node",
+  "id": 9144797396,
+  "lat": 46.4751512,
+  "lon": 11.7401007,
+  "tags": {
+    "name": "Bel Cesa Seren",
+    "stars": "4",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9145523043,
+  "lat": 46.4748891,
+  "lon": 11.7400246,
+  "tags": {
+    "name": "Ziria",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9466289971,
+  "lat": 45.9536561,
+  "lon": 10.9093499,
+  "tags": {
+    "addr:city": "Dro",
+    "addr:housenumber": "1",
+    "addr:postcode": "38074",
+    "addr:street": "Località Santa Lucia",
+    "name": "Appartamenti Al Vigneto",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9522424572,
+  "lat": 46.4166058,
+  "lon": 11.6699828,
+  "tags": {
+    "addr:city": "Vigo di Fassa",
+    "addr:housenumber": "19",
+    "addr:postcode": "38039",
+    "addr:street": "Strada de Somcosta",
+    "name": "Tieja de Gotart",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9674084640,
+  "lat": 45.8803903,
+  "lon": 10.8550253,
+  "tags": {
+    "addr:city": "Riva del Garda",
+    "addr:housenumber": "4",
+    "addr:postcode": "38066",
+    "addr:street": "Via H. e T. Mann",
+    "name": "Spiaggia Residence",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9798941342,
+  "lat": 46.0219200,
+  "lon": 10.9833147,
+  "tags": {
+    "addr:city": "Lasino",
+    "addr:housenumber": "16",
+    "addr:postcode": "38076",
+    "addr:street": "Via doss",
+    "contact:mobile": "+39 349 2316548",
+    "description": "Appartamento Vacanze",
+    "name": "La finestra sul Brenta",
+    "tourism": "apartment",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 9809543507,
+  "lat": 46.4572429,
+  "lon": 11.7995304,
+  "tags": {
+    "addr:housenumber": "17",
+    "addr:street": "Strada De Antersies",
+    "name": "Cesa Elena",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9819697616,
+  "lat": 45.9133007,
+  "lon": 10.8439059,
+  "tags": {
+    "addr:city": "Tenno",
+    "addr:housenumber": "20",
+    "addr:postcode": "38060",
+    "addr:street": "Via Gavazzo Vecchio",
+    "email": "info.gardaview@gmail.com",
+    "name": "Garda View Guest House",
+    "tourism": "apartment",
+    "website": "https://www.gardaview.it"
+  }
+},
+{
+  "type": "node",
+  "id": 9832793459,
+  "lat": 46.3157378,
+  "lon": 10.7967597,
+  "tags": {
+    "name": "Residence Piz Aot",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9836677204,
+  "lat": 45.9122315,
+  "lon": 10.8773369,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:housenumber": "27",
+    "addr:postcode": "38062",
+    "addr:street": "Via Narzelle",
+    "name": "Arco Top Floor",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9843190800,
+  "lat": 45.8763950,
+  "lon": 10.8751980,
+  "tags": {
+    "addr:city": "Nago-Torbole",
+    "addr:housenumber": "3",
+    "addr:postcode": "38069",
+    "addr:street": "Via Tòm del Sarca",
+    "email": "info@torboleholidayhouse.com",
+    "name": "Torbole Holiday House",
+    "phone": "+39 0464 505966",
+    "tourism": "apartment",
+    "website": "https://www.torboleholidayhouse.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 9843593398,
+  "lat": 45.8787126,
+  "lon": 11.0322150,
+  "tags": {
+    "name": "Cà della Roggia",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9844054612,
+  "lat": 45.8969612,
+  "lon": 10.8724706,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:housenumber": "6",
+    "addr:street": "Via Isce",
+    "name": "Casa mamma Pina",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9844196519,
+  "lat": 45.8948250,
+  "lon": 10.8699250,
+  "tags": {
+    "addr:housenumber": "11",
+    "addr:street": "Via Monte Brione",
+    "name": "Casa Andela",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9845797299,
+  "lat": 45.9579488,
+  "lon": 10.9073440,
+  "tags": {
+    "name": "Cà de L'Olif- Holiday Clima Apartments",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9845845613,
+  "lat": 45.9584405,
+  "lon": 10.9074469,
+  "tags": {
+    "addr:city": "Dro",
+    "addr:housenumber": "15",
+    "addr:postcode": "38074",
+    "addr:street": "Via Riccardo Zandonai",
+    "name": "Bed & Jump Acero Rosso",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9847519540,
+  "lat": 45.8782489,
+  "lon": 10.8735791,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:housenumber": "54",
+    "addr:postcode": "38062",
+    "addr:street": "Via Linfano",
+    "email": "carlysrooms@gmail.com",
+    "name": "Carly's rooms",
+    "phone": "+39 392 6211003",
+    "tourism": "apartment",
+    "website": "https://www.carlysrooms.com"
+  }
+},
+{
+  "type": "node",
+  "id": 9847571798,
+  "lat": 45.9190015,
+  "lon": 11.1865165,
+  "tags": {
+    "check_date": "2024-07-27",
+    "name": "Hotel Garden",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9847571799,
+  "lat": 45.9179147,
+  "lon": 11.1858818,
+  "tags": {
+    "addr:city": "Folgaria",
+    "addr:housenumber": "49",
+    "addr:postcode": "38064",
+    "addr:street": "Via Andrea Maffei",
+    "name": "Alpen Hotel Eghel",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9847977316,
+  "lat": 45.8934265,
+  "lon": 10.8667247,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:housenumber": "16",
+    "addr:postcode": "38062",
+    "addr:street": "Via Monte Brione",
+    "name": "Casa Alla Grotta",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9852340575,
+  "lat": 45.9132577,
+  "lon": 10.8807031,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:housenumber": "22",
+    "addr:postcode": "38062",
+    "addr:street": "Via San Sisto",
+    "name": "1Dest Easy & modern",
+    "tourism": "apartment",
+    "website": "https://1dest.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 9858414320,
+  "lat": 45.8999726,
+  "lon": 10.8657385,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:housenumber": "68",
+    "addr:postcode": "38062",
+    "addr:street": "Via Passirone",
+    "name": "Le Servite Apartments",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9861124453,
+  "lat": 45.8893780,
+  "lon": 10.8630140,
+  "tags": {
+    "addr:city": "Riva del Garda",
+    "addr:housenumber": "9",
+    "addr:postcode": "38066",
+    "addr:street": "Via Tenente Miorelli",
+    "name": "Garda Lake & Sun apartments",
+    "phone": "+39 349 7124173",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9861124454,
+  "lat": 45.8889847,
+  "lon": 10.8639581,
+  "tags": {
+    "addr:city": "Riva del Garda",
+    "addr:housenumber": "2d",
+    "addr:postcode": "38066",
+    "addr:street": "Via Tenente Miorelli",
+    "name": "Appartamento Terrazza Sugli Ulivi",
+    "phone": "+39 3285682238",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9863836499,
+  "lat": 45.9420783,
+  "lon": 10.9039557,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:postcode": "38074",
+    "addr:street": "Località Maso Giare",
+    "email": "info@masogiare.com",
+    "name": "Appartamento Maso Giare",
+    "phone": "+39 335 5945728",
+    "tourism": "apartment",
+    "website": "https://www.masogiare.com"
+  }
+},
+{
+  "type": "node",
+  "id": 9867509831,
+  "lat": 45.8825917,
+  "lon": 10.8571322,
+  "tags": {
+    "addr:city": "Riva del Garda",
+    "addr:housenumber": "5",
+    "addr:postcode": "38066",
+    "addr:street": "Via Belluno",
+    "name": "Casa Dalia",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9867509832,
+  "lat": 45.8824479,
+  "lon": 10.8568928,
+  "tags": {
+    "addr:city": "Riva del Garda",
+    "addr:housenumber": "12",
+    "addr:postcode": "38066",
+    "addr:street": "Via Restel de Fer",
+    "cuisine": "regional",
+    "email": "info@resteldefer.com",
+    "name": "Locanda Restel de Fer",
+    "phone": "+39 0464553481",
+    "tourism": "apartment",
+    "website": "https://www.resteldefer.com"
+  }
+},
+{
+  "type": "node",
+  "id": 9867509833,
+  "lat": 45.8824321,
+  "lon": 10.8569907,
+  "tags": {
+    "addr:city": "Riva del Garda",
+    "addr:housenumber": "14",
+    "addr:postcode": "38066",
+    "addr:street": "Via Restel de Fer",
+    "name": "Casa Erica",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9868091962,
+  "lat": 45.8857521,
+  "lon": 10.8596498,
+  "tags": {
+    "addr:city": "Riva del Garda",
+    "addr:housenumber": "39o",
+    "addr:postcode": "38066",
+    "addr:street": "Via Filanda",
+    "email": "info@casamariaapartments.it",
+    "name": "Casa Maria",
+    "phone": "+39 333 6409895",
+    "tourism": "apartment",
+    "website": "https://www.casamariaapartments.it"
+  }
+},
+{
+  "type": "node",
+  "id": 9868190970,
+  "lat": 45.8906752,
+  "lon": 10.8622032,
+  "tags": {
+    "addr:city": "Riva del Garda",
+    "addr:housenumber": "25",
+    "addr:postcode": "38066",
+    "addr:street": "Via Sant'Alessandro",
+    "email": "info@maffeiapartments.it",
+    "name": "Maffei Apartments",
+    "phone": "+39 3387450000",
+    "tourism": "apartment",
+    "website": "https://www.maffeiapartments.it"
+  }
+},
+{
+  "type": "node",
+  "id": 9869823067,
+  "lat": 45.8886955,
+  "lon": 10.8608627,
+  "tags": {
+    "addr:city": "Riva del Garda",
+    "addr:housenumber": "7",
+    "addr:postcode": "38066",
+    "addr:street": "Via Sant'Alessandro",
+    "name": "Toniol Apartment",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9871965662,
+  "lat": 45.8801798,
+  "lon": 10.8607485,
+  "tags": {
+    "addr:city": "Riva del Garda",
+    "addr:housenumber": "30",
+    "addr:postcode": "38066",
+    "addr:street": "Via Brione",
+    "email": "info@villasperanza-rivadelgarda.it",
+    "name": "Villa Speranza",
+    "phone": "+39 0464.552038",
+    "tourism": "apartment",
+    "website": "https://www.villasperanza-rivadelgarda.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 9873982871,
+  "lat": 46.3124539,
+  "lon": 11.6638426,
+  "tags": {
+    "name": "Hotel Bellamonte",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9873985056,
+  "lat": 46.3128081,
+  "lon": 11.6664031,
+  "tags": {
+    "addr:city": "Bellamonte",
+    "addr:housenumber": "27",
+    "addr:street": "Via Prai de Mont",
+    "name": "Park Hotel Sancelso",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9874067153,
+  "lat": 45.8875371,
+  "lon": 10.7308960,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "30",
+    "addr:postcode": "38067",
+    "addr:street": "Via Alzer",
+    "name": "Casa Enrico",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9874109534,
+  "lat": 45.8867946,
+  "lon": 10.7300003,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "14",
+    "addr:postcode": "38067",
+    "addr:street": "Via Alzer",
+    "name": "Casa Luisella",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9874114929,
+  "lat": 46.2332363,
+  "lon": 10.8245067,
+  "tags": {
+    "name": "Hotel Europa",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9874137373,
+  "lat": 45.8870253,
+  "lon": 10.7299133,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "12",
+    "addr:postcode": "38067",
+    "addr:street": "Via Alzer",
+    "email": "elisabettarigoldi@yahoo.com",
+    "name": "Casa Elisabetta",
+    "phone": "+39 3462852111",
+    "tourism": "apartment",
+    "website": "https://www.vallediledro.com/it/appartamento/casa-elisabetta-pieve-di-ledro"
+  }
+},
+{
+  "type": "node",
+  "id": 9874137374,
+  "lat": 45.8875444,
+  "lon": 10.7304927,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "8",
+    "addr:postcode": "38067",
+    "addr:street": "Via Alzer",
+    "name": "Da Maria Rosa",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9874137375,
+  "lat": 45.8871094,
+  "lon": 10.7305570,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "34",
+    "addr:postcode": "38067",
+    "addr:street": "Via Alzer",
+    "name": "Casa Tumis",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9874137376,
+  "lat": 45.8868480,
+  "lon": 10.7296209,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "10",
+    "addr:postcode": "38067",
+    "addr:street": "Via Alzer",
+    "name": "Casa Stefania",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9874178934,
+  "lat": 45.8853432,
+  "lon": 10.7309068,
+  "tags": {
+    "addr:city": "Pieve di Ledro",
+    "addr:housenumber": "54",
+    "addr:postcode": "38067",
+    "addr:street": "Via Alzer",
+    "name": "Casa Lori 1",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9874178935,
+  "lat": 45.8861330,
+  "lon": 10.7299734,
+  "tags": {
+    "addr:city": "Pieve di Ledro",
+    "addr:housenumber": "46",
+    "addr:postcode": "38067",
+    "addr:street": "Via Alzer",
+    "name": "Casa Alberta",
+    "note": "(Check-in at Via alla Colonia, 6)",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9874218291,
+  "lat": 45.8994957,
+  "lon": 10.7235949,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "6",
+    "addr:postcode": "38067",
+    "addr:street": "Via alla Colonia",
+    "name": "LLH Casa Elena",
+    "tourism": "apartment",
+    "website": "https://www.ledrolakeholiday.com"
+  }
+},
+{
+  "type": "node",
+  "id": 9876039990,
+  "lat": 45.8841448,
+  "lon": 10.7304780,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:postcode": "38067",
+    "addr:street": "Via Alzer",
+    "name": "Residence Scandoler",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9876053361,
+  "lat": 45.8842154,
+  "lon": 10.7293093,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "4",
+    "addr:postcode": "38067",
+    "addr:street": "Via Scandoler",
+    "name": "Gemma",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9876061734,
+  "lat": 45.8858922,
+  "lon": 10.7305068,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "44",
+    "addr:postcode": "38067",
+    "addr:street": "Via Alzer",
+    "name": "Casa Lucia",
+    "tourism": "apartment",
+    "website": "https://www.affittivacanzecrosina.com"
+  }
+},
+{
+  "type": "node",
+  "id": 9876391329,
+  "lat": 45.8999102,
+  "lon": 10.7261516,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "3",
+    "addr:postcode": "38067",
+    "addr:street": "Via Daves",
+    "name": "Casa Giulia",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9884877114,
+  "lat": 45.9033121,
+  "lon": 10.8611479,
+  "tags": {
+    "addr:city": "Riva del Garda",
+    "addr:housenumber": "55",
+    "addr:postcode": "38066",
+    "addr:street": "Località San Tomaso",
+    "email": "info@residencegemma.it",
+    "name": "Residence Gemma",
+    "phone": "+39 348 1218472",
+    "tourism": "apartment",
+    "website": "https://www.residencegemma.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 9884980701,
+  "lat": 45.9050857,
+  "lon": 10.8607989,
+  "tags": {
+    "addr:city": "Riva del Garda",
+    "addr:postcode": "38066",
+    "addr:street": "Località San Tomaso",
+    "email": "info@villaluxuryhousespa.it",
+    "name": "Villa Luxury House & Spa",
+    "phone": "+39 345 9748120",
+    "tourism": "apartment",
+    "website": "https://www.villaluxuryhousespa.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 9884980703,
+  "lat": 45.9046588,
+  "lon": 10.8621448,
+  "tags": {
+    "addr:city": "Riva del Garda",
+    "addr:housenumber": "63",
+    "addr:postcode": "38066",
+    "addr:street": "Località San Tomaso",
+    "email": "info@silvanasulgarda.it",
+    "name": "Appartamenti Silvana",
+    "phone": "+39 0464 520677",
+    "tourism": "apartment",
+    "website": "http://www.silvanasulgarda.it"
+  }
+},
+{
+  "type": "node",
+  "id": 9887268515,
+  "lat": 45.9003036,
+  "lon": 10.8578051,
+  "tags": {
+    "addr:city": "Riva del Garda",
+    "addr:housenumber": "29",
+    "addr:postcode": "38066",
+    "addr:street": "Via Ippolito Pederzolli",
+    "name": "LakeGarden Apartment",
+    "tourism": "apartment",
+    "website": "https://gestex.kross.travel/details/room/id/31"
+  }
+},
+{
+  "type": "node",
+  "id": 9891305873,
+  "lat": 45.9096063,
+  "lon": 10.8109039,
+  "tags": {
+    "addr:city": "Riva del Garda",
+    "addr:housenumber": "1",
+    "addr:postcode": "38066",
+    "addr:street": "Località Lavaroni",
+    "name": "House Casa Campi 2.0",
+    "phone": "+39 377 960 3210",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9891339831,
+  "lat": 45.9059053,
+  "lon": 10.8134924,
+  "tags": {
+    "addr:city": "Riva del Garda",
+    "addr:housenumber": "7",
+    "addr:postcode": "38066",
+    "addr:street": "Località Zucchetti",
+    "name": "Antica casa Ortensia",
+    "phone": "+39 0464 501197",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9891371237,
+  "lat": 45.9136136,
+  "lon": 10.8165576,
+  "tags": {
+    "addr:city": "Riva del Garda",
+    "addr:postcode": "38066",
+    "addr:street": "Località Zumiani",
+    "name": "La Poiana",
+    "phone": "+39 349 8176313",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9903486798,
+  "lat": 45.9079662,
+  "lon": 10.8497379,
+  "tags": {
+    "addr:city": "Riva del Garda",
+    "addr:housenumber": "3",
+    "addr:postcode": "38066",
+    "addr:street": "Via Basone",
+    "name": "Residenza alle Grazie",
+    "phone": "+39 335 7083083",
+    "tourism": "apartment",
+    "website": "https://www.residenzaallegrazie.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 9908995934,
+  "lat": 45.9111026,
+  "lon": 10.8523436,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:postcode": "38062",
+    "addr:street": "Piazza Interna Ceole",
+    "name": "Il giardino segreto",
+    "phone": "+39 340 125 1038",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9915364089,
+  "lat": 46.1395250,
+  "lon": 10.9590188,
+  "tags": {
+    "addr:city": "Molveno",
+    "addr:housenumber": "46",
+    "addr:postcode": "38018",
+    "addr:street": "Via Lungolago",
+    "name": "Residence al Caminetto",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9916479814,
+  "lat": 45.8993698,
+  "lon": 10.8664815,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:housenumber": "9",
+    "addr:postcode": "38062",
+    "addr:street": "Via Passirone",
+    "email": "info@pauselakegarda.it",
+    "name": "Appartamenti Pause Lake Garda",
+    "phone": "+39 3467147200",
+    "tourism": "apartment",
+    "website": "https://www.pauselakegarda.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 9916506353,
+  "lat": 45.8985848,
+  "lon": 10.8654271,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:housenumber": "10",
+    "addr:postcode": "38062",
+    "addr:street": "Via S. Tomè",
+    "name": "Appartamenti Casa Travaglia",
+    "phone": "+39 339 3020236",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9933012002,
+  "lat": 45.8979815,
+  "lon": 10.8545418,
+  "tags": {
+    "addr:city": "Riva del Garda",
+    "addr:housenumber": "20",
+    "addr:postcode": "38066",
+    "addr:street": "Località San Nazzaro",
+    "name": "Villa Orange",
+    "tourism": "apartment",
+    "website": "https://villa-orange-riva-del-garda.hotelmix.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 9938927267,
+  "lat": 46.0790968,
+  "lon": 11.1306674,
+  "tags": {
+    "addr:city": "Trento",
+    "addr:housenumber": "3",
+    "addr:street": "Via del Dos",
+    "internet_access": "wlan",
+    "name": "Trento View",
+    "tourism": "apartment",
+    "website": "https://www.trentoview.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 9941690074,
+  "lat": 45.8800227,
+  "lon": 10.7522317,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "10",
+    "addr:postcode": "38067",
+    "addr:street": "Via Lungolago",
+    "name": "Casa di Ledro \"Daldoss\"",
+    "phone": "+39 0464508161",
+    "tourism": "apartment",
+    "website": "http://www.casadiledro.com"
+  }
+},
+{
+  "type": "node",
+  "id": 9944342665,
+  "lat": 45.8824837,
+  "lon": 10.7522184,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "20",
+    "addr:postcode": "38067",
+    "addr:street": "Via Ptice",
+    "name": "Casa vacanze Luca e Cristina",
+    "phone": "+39 346 6376999",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9944700139,
+  "lat": 45.8816256,
+  "lon": 10.7512893,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "9",
+    "addr:postcode": "38067",
+    "addr:street": "Via Aldo Toccoli",
+    "name": "Casa Margherita",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9945133963,
+  "lat": 45.8819699,
+  "lon": 10.7507854,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "1",
+    "addr:postcode": "38067",
+    "addr:street": "Via Ptice",
+    "mobile": "+39 338 8893648",
+    "name": "Casa Martì",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9945271446,
+  "lat": 45.8819067,
+  "lon": 10.7504427,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "10",
+    "addr:postcode": "38067",
+    "addr:street": "Via Ptice",
+    "name": "Casa Monica",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9946561075,
+  "lat": 45.8808489,
+  "lon": 10.7553102,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "4",
+    "addr:postcode": "38067",
+    "addr:street": "Via Belvedere",
+    "email": "info@ladianella.com",
+    "name": "Villa La Dianella",
+    "tourism": "apartment",
+    "website": "https://www.ladianella.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 9946675565,
+  "lat": 45.8811148,
+  "lon": 10.7510246,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "1",
+    "addr:postcode": "38067",
+    "addr:street": "Via San Michele",
+    "name": "Casa Lena",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9946776567,
+  "lat": 45.8929184,
+  "lon": 10.7259896,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "78",
+    "addr:postcode": "38067",
+    "addr:street": "Via Nuova",
+    "name": "Casa Filanda",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9947177496,
+  "lat": 45.8823182,
+  "lon": 10.7529217,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "34",
+    "addr:postcode": "38067",
+    "addr:street": "Via San Michele",
+    "name": "Ledro Lake Suites",
+    "phone": "+39 347 0130936",
+    "tourism": "apartment",
+    "website": "https://www.ledrolakesuites.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 9947775711,
+  "lat": 45.8850976,
+  "lon": 10.7546878,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "5",
+    "addr:postcode": "38067",
+    "addr:street": "Via Dromaé",
+    "name": "Affittacamere B&B Ledro",
+    "phone": "+39 0464 517212",
+    "tourism": "apartment",
+    "website": "https://www.bbledro.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 9947775714,
+  "lat": 45.8846181,
+  "lon": 10.7548076,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "40",
+    "addr:postcode": "38067",
+    "addr:street": "Via Dromaé",
+    "name": "Residence Dromaè",
+    "note": "Check-in Via al Lago 7, Ledro - Frazione Molina",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9952301020,
+  "lat": 45.8741742,
+  "lon": 10.7664871,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "50a",
+    "addr:postcode": "38067",
+    "addr:street": "Via Maffei",
+    "email": "info@residencepalafitte.com",
+    "name": "Residence Palafitte",
+    "phone": "+39 0464 508141",
+    "tourism": "apartment",
+    "website": "https://www.residencepalafitte.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 9959464126,
+  "lat": 46.4358535,
+  "lon": 11.6912149,
+  "tags": {
+    "internet_access": "wlan",
+    "name": "Molin de Pezol",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9967188554,
+  "lat": 45.8712414,
+  "lon": 10.7729361,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "35",
+    "addr:postcode": "38067",
+    "addr:street": "Via Maffei",
+    "name": "Bed & Bike Ledro",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9967188555,
+  "lat": 45.8713431,
+  "lon": 10.7741994,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:postcode": "38067",
+    "name": "Casa Canali 2",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9967188556,
+  "lat": 45.8712936,
+  "lon": 10.7749089,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "6",
+    "addr:postcode": "38067",
+    "addr:street": "Via Don Lucillo Sartori",
+    "name": "Casa Viola",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9967188557,
+  "lat": 45.8717792,
+  "lon": 10.7759214,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "3",
+    "addr:postcode": "38067",
+    "addr:street": "Via Maffei",
+    "name": "Appartamento Aurelia",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9967188558,
+  "lat": 45.8717297,
+  "lon": 10.7758959,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "3c",
+    "addr:postcode": "38067",
+    "addr:street": "Via Maffei",
+    "name": "Appartamento Lago di Ledro",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9967188559,
+  "lat": 45.8730024,
+  "lon": 10.7678788,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "109",
+    "addr:postcode": "38067",
+    "addr:street": "Via Maffei",
+    "name": "Appartamento Speranza",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9967188560,
+  "lat": 45.8734413,
+  "lon": 10.7649941,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "7",
+    "addr:postcode": "38067",
+    "addr:street": "Via al Lago",
+    "name": "Chalet Sally",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9967191240,
+  "lat": 45.8705813,
+  "lon": 10.7753169,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "23",
+    "addr:postcode": "38067",
+    "addr:street": "Via Don Lucillo Sartori",
+    "name": "Casa Degara",
+    "phone": "+39 349 1373309",
+    "tourism": "apartment",
+    "website": "https://casadegara.oneminutesite.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 9967191241,
+  "lat": 45.8713750,
+  "lon": 10.7757662,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "7",
+    "addr:postcode": "38067",
+    "addr:street": "Via Don Girolamo Viviani",
+    "name": "Appartamento Jasmine",
+    "phone": "+49 89 21540286",
+    "tourism": "apartment",
+    "website": "https://appartamento-jasmine-molina-di-ledro.hotelmix.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 9967217223,
+  "lat": 45.8719878,
+  "lon": 10.7784460,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "2",
+    "addr:postcode": "38067",
+    "addr:street": "Via Maffei",
+    "email": "laresidenzagemma@gmail.com",
+    "name": "Residenza Gemma",
+    "tourism": "apartment",
+    "website": "https://residenzagemma.wixsite.com/gemma"
+  }
+},
+{
+  "type": "node",
+  "id": 9967551916,
+  "lat": 45.8710894,
+  "lon": 10.7820351,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "9",
+    "addr:postcode": "38067",
+    "addr:street": "Via San Carlo",
+    "name": "Sunshine House Yoga",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9967930371,
+  "lat": 45.8822990,
+  "lon": 10.7513923,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "15",
+    "addr:postcode": "38067",
+    "addr:street": "Via Ptice",
+    "name": "Villa Marilyn",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9967930372,
+  "lat": 45.8849092,
+  "lon": 10.7564040,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "50",
+    "addr:postcode": "38067",
+    "addr:street": "Via Dromaé",
+    "name": "Ledro Nest",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9967930373,
+  "lat": 45.8861695,
+  "lon": 10.7565797,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "23",
+    "addr:postcode": "38067",
+    "addr:street": "Via Dromaé",
+    "name": "Appartamento Bellavista",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9967930376,
+  "lat": 45.8842503,
+  "lon": 10.7543403,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "36",
+    "addr:postcode": "38067",
+    "addr:street": "Via Dromaé",
+    "name": "Seia Mountain Wellness",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9967937609,
+  "lat": 45.8841197,
+  "lon": 10.7537234,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "28",
+    "addr:postcode": "38067",
+    "addr:street": "Via Dromaé",
+    "name": "Ca' Albano",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9967944280,
+  "lat": 45.8823707,
+  "lon": 10.7515614,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "17",
+    "addr:postcode": "38067",
+    "addr:street": "Via Ptice",
+    "name": "Casa Rosa Mezzolago",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9974376216,
+  "lat": 45.8685040,
+  "lon": 10.7753913,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "1",
+    "addr:postcode": "38067",
+    "addr:street": "Via delle Decime",
+    "name": "Casa Felix",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9975278836,
+  "lat": 46.2327112,
+  "lon": 10.8254369,
+  "tags": {
+    "name": "Residenza 3- Tre",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9981338237,
+  "lat": 45.8714387,
+  "lon": 10.7624808,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "12",
+    "addr:postcode": "38067",
+    "addr:street": "Via dei Pastei",
+    "name": "Appartamento Belvedere",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 9991627563,
+  "lat": 45.8837934,
+  "lon": 10.8575334,
+  "tags": {
+    "addr:city": "Riva del Garda",
+    "addr:housenumber": "10",
+    "addr:postcode": "38066",
+    "addr:street": "Via Gorizia",
+    "name": "Essence suites",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 10010733451,
+  "lat": 45.8656635,
+  "lon": 10.8033010,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "1",
+    "addr:postcode": "38067",
+    "addr:street": "Via della Madonna",
+    "email": "segreteria@azionecattolicamantova.it",
+    "name": "Casa Pier Giorgio Frassati",
+    "phone": "+39 0464508133",
+    "tourism": "apartment",
+    "website": "https://www.azionecattolicamantova.it/casa-per-ferie-piergiorgio-frassati/"
+  }
+},
+{
+  "type": "node",
+  "id": 10013095496,
+  "lat": 45.8657620,
+  "lon": 10.8062437,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "7",
+    "addr:postcode": "38067",
+    "addr:street": "Via Giuseppe Cipelli",
+    "name": "Appartamenti vacanze Alexandra",
+    "phone": "+39 347 9072101",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 10013095497,
+  "lat": 45.8653085,
+  "lon": 10.8056428,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:postcode": "38067",
+    "addr:street": "Via del Dazi",
+    "name": "Garda Studio \"Mount 'N Lake\"",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 10015318206,
+  "lat": 45.8667830,
+  "lon": 10.8077059,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "3",
+    "addr:postcode": "38067",
+    "addr:street": "Via dei Toiane",
+    "name": "Villa Alma",
+    "phone": "+39 0464 508131",
+    "tourism": "apartment",
+    "website": "http://www.alma-grotte.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 10015329244,
+  "lat": 45.8664682,
+  "lon": 10.8090204,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "40",
+    "addr:postcode": "38067",
+    "addr:street": "Via dei Toiane",
+    "name": "Casa Giulia Slow Mountain",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 10035559815,
+  "lat": 45.8912263,
+  "lon": 10.7301262,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "34",
+    "addr:postcode": "38067",
+    "addr:street": "Via Sant'Antonio",
+    "name": "Casa Stefy",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 10035559816,
+  "lat": 45.8902275,
+  "lon": 10.7315317,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "21",
+    "addr:postcode": "38067",
+    "addr:street": "Via Sant'Antonio",
+    "name": "Casa Angelo",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 10042875739,
+  "lat": 46.3084656,
+  "lon": 10.7580004,
+  "tags": {
+    "addr:city": "Pellizzano",
+    "addr:housenumber": "5",
+    "addr:postcode": "38020",
+    "addr:street": "Piazza di Ognano",
+    "email": "info@deltom.it",
+    "name": "Residence Ca delle Margherite",
+    "phone": "+390463751204",
+    "tourism": "apartment",
+    "website": "https://www.deltom.it/it/building/details/4/ca-delle-margherite"
+  }
+},
+{
+  "type": "node",
+  "id": 10224437662,
+  "lat": 45.9184977,
+  "lon": 10.8938123,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:housenumber": "18",
+    "addr:postcode": "38062",
+    "addr:street": "Via della Provvidenza",
+    "name": "Music & Bike",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 10694022568,
+  "lat": 46.2598859,
+  "lon": 10.5840127,
+  "tags": {
+    "name": "Dinastia Case Snow Apartment",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 10963827309,
+  "lat": 45.9026692,
+  "lon": 10.8483455,
+  "tags": {
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11045330442,
+  "lat": 46.0699637,
+  "lon": 11.1193381,
+  "tags": {
+    "addr:city": "Trento",
+    "addr:housenumber": "14",
+    "addr:postcode": "38122",
+    "addr:street": "Via Torre Vanga",
+    "name": "House of Bruno / B&B Mia / Trento B&B",
+    "tourism": "apartment",
+    "website": "https://www.bbmia.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 11059120062,
+  "lat": 45.9245470,
+  "lon": 10.8972436,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:country": "IT",
+    "addr:housenumber": "4",
+    "addr:postcode": "38062",
+    "addr:street": "Via San Martino",
+    "email": "andreabona030474@gmail.com",
+    "mobile": "+39 340 2572345",
+    "name": "B&B Ai 4 colori",
+    "tourism": "apartment",
+    "website": "https://www.bedandbreakfastai4colori.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 11059150458,
+  "lat": 45.9270037,
+  "lon": 10.8965473,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:country": "IT",
+    "addr:housenumber": "5",
+    "addr:postcode": "38062",
+    "addr:street": "Via Dritta",
+    "name": "Le Falesie",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11059422070,
+  "lat": 45.9237066,
+  "lon": 10.9011122,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:country": "IT",
+    "addr:housenumber": "5",
+    "addr:postcode": "38062",
+    "addr:street": "Piazza Francesco Saverio Ribbia",
+    "name": "Massone Climbing Home",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11059490475,
+  "lat": 45.9242872,
+  "lon": 10.9005207,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:country": "IT",
+    "addr:housenumber": "8",
+    "addr:postcode": "38062",
+    "addr:street": "Via degli Olivi",
+    "name": "B&B Arco Antico",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11059577422,
+  "lat": 45.9226185,
+  "lon": 10.9035431,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:country": "IT",
+    "addr:housenumber": "5",
+    "addr:postcode": "38062",
+    "addr:street": "Via Verde",
+    "name": "La casa di Virginia",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11059613692,
+  "lat": 45.9268733,
+  "lon": 10.8947130,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:country": "IT",
+    "addr:housenumber": "61",
+    "addr:postcode": "38062",
+    "addr:street": "Viale Arciprete Francesco Santoni",
+    "name": "Costa d'Arco",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11059614694,
+  "lat": 45.9224296,
+  "lon": 10.9026045,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:country": "IT",
+    "addr:housenumber": "9",
+    "addr:postcode": "38062",
+    "addr:street": "Via Scipio Sighele",
+    "name": "Residenza Noemi",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11064557855,
+  "lat": 45.9133540,
+  "lon": 10.9156119,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:country": "IT",
+    "addr:housenumber": "58",
+    "addr:postcode": "38062",
+    "addr:street": "Località Gazzi",
+    "name": "Romatico Panorama",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11167084236,
+  "lat": 45.8919280,
+  "lon": 10.8374826,
+  "tags": {
+    "addr:city": "Riva del Garda",
+    "addr:country": "IT",
+    "addr:housenumber": "45 h",
+    "addr:postcode": "38066",
+    "addr:street": "Via Ardaro",
+    "building": "yes",
+    "email": "rivadelgarda2022@gmail.com",
+    "name": "Emma‘s Riva-Dream",
+    "operator": "Andrea De Bonis",
+    "phone": "+39 334 301 25 16",
+    "tourism": "apartment",
+    "website": "https://www.emmasrivadream.com"
+  }
+},
+{
+  "type": "node",
+  "id": 11167698897,
+  "lat": 45.8943546,
+  "lon": 10.8486275,
+  "tags": {
+    "addr:city": "Riva del Garda",
+    "addr:country": "IT",
+    "addr:housenumber": "1 a",
+    "addr:postcode": "38066",
+    "addr:street": "via Archimede Martini",
+    "building": "yes",
+    "email": "rivadelgarda2022@gmail.com",
+    "name": "Emma’s Riva-Dream deluxe",
+    "operator": "Andrea De Bonis",
+    "phone": "+39 334 301 25 16",
+    "tourism": "apartment",
+    "website": "https://www.emmasrivadream.com"
+  }
+},
+{
+  "type": "node",
+  "id": 11245385294,
+  "lat": 46.0454176,
+  "lon": 11.1049537,
+  "tags": {
+    "name": "Belvedere Apartements",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11348712699,
+  "lat": 46.1465262,
+  "lon": 10.9682948,
+  "tags": {
+    "addr:city": "Molveno",
+    "addr:housenumber": "44",
+    "addr:postcode": "38018",
+    "addr:street": "Via Belvedere",
+    "name": "Casa Angelo",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11398636545,
+  "lat": 45.8779206,
+  "lon": 10.6607271,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "31",
+    "addr:postcode": "38067",
+    "addr:street": "Via Ampola",
+    "email": "iagra1794@gmail.com",
+    "name": "Villa Iagra",
+    "phone": "+39 328 5549007",
+    "tourism": "apartment",
+    "website": "https://www.villaiagra1794.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 11456243615,
+  "lat": 45.8704967,
+  "lon": 10.7445576,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "65",
+    "addr:postcode": "38067",
+    "addr:street": "Via Val Maria",
+    "name": "Bungalow al Lago",
+    "tourism": "apartment",
+    "website": "https://www.greenholiday.com"
+  }
+},
+{
+  "type": "node",
+  "id": 11456243616,
+  "lat": 45.8704563,
+  "lon": 10.7444903,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "67",
+    "addr:postcode": "38067",
+    "addr:street": "Via Val Maria",
+    "name": "Bungalow al Lago",
+    "tourism": "apartment",
+    "website": "https://www.greenholiday.com"
+  }
+},
+{
+  "type": "node",
+  "id": 11456248556,
+  "lat": 45.8676589,
+  "lon": 10.7465115,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "6",
+    "addr:postcode": "38067",
+    "addr:street": "Via Malga Cita",
+    "name": "Casa Gabri",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11456433247,
+  "lat": 45.8695094,
+  "lon": 10.7465338,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "5",
+    "addr:postcode": "38067",
+    "addr:street": "Via Val Maria",
+    "name": "Casa Camilla",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11456605979,
+  "lat": 45.8689318,
+  "lon": 10.7395670,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "153",
+    "addr:postcode": "38067",
+    "addr:street": "Via Val Maria",
+    "name": "Casa Demadonna",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11459558092,
+  "lat": 45.8751867,
+  "lon": 10.7438562,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "38",
+    "addr:postcode": "38067",
+    "addr:street": "Via Val Maria",
+    "name": "Ferienhaus Krier",
+    "tourism": "apartment",
+    "website": "https://ferienhaus-krier.de/lago-di-ledro-trentino/"
+  }
+},
+{
+  "type": "node",
+  "id": 11459558094,
+  "lat": 45.8732251,
+  "lon": 10.7432330,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "30",
+    "addr:postcode": "38067",
+    "addr:street": "Via Val Maria",
+    "name": "Villa Carina",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11459642178,
+  "lat": 45.8780142,
+  "lon": 10.7432714,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "72",
+    "addr:postcode": "38067",
+    "addr:street": "Via Val Maria",
+    "name": "La Quieta",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11459990197,
+  "lat": 45.8771512,
+  "lon": 10.7442319,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "247",
+    "addr:postcode": "38067",
+    "addr:street": "Via Val Maria",
+    "name": "Villa Rosemary",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11460271741,
+  "lat": 45.8762240,
+  "lon": 10.7408805,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "8",
+    "addr:postcode": "38067",
+    "addr:street": "Via Europa",
+    "name": "Casa Ambra",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11461070515,
+  "lat": 45.8755907,
+  "lon": 10.7434164,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "237",
+    "addr:postcode": "38067",
+    "addr:street": "Via Val Maria",
+    "name": "Ca' del Bepi",
+    "tourism": "apartment",
+    "website": "https://www.cadelbepi.com"
+  }
+},
+{
+  "type": "node",
+  "id": 11461070517,
+  "lat": 45.8757577,
+  "lon": 10.7434206,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "241",
+    "addr:postcode": "38067",
+    "addr:street": "Via Val Maria",
+    "name": "Serena",
+    "tourism": "apartment",
+    "website": "https://www.greenholiday.com"
+  }
+},
+{
+  "type": "node",
+  "id": 11461160682,
+  "lat": 45.8767616,
+  "lon": 10.7442347,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "48",
+    "addr:postcode": "38067",
+    "addr:street": "Via Val Maria",
+    "name": "Villa Belli",
+    "tourism": "apartment",
+    "website": "https://www.greenholiday.com"
+  }
+},
+{
+  "type": "node",
+  "id": 11461160684,
+  "lat": 45.8781723,
+  "lon": 10.7447336,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "62",
+    "addr:postcode": "38067",
+    "addr:street": "Via Val Maria",
+    "name": "Residence Panorama",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11461464732,
+  "lat": 45.8795848,
+  "lon": 10.7390383,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "263",
+    "addr:postcode": "38067",
+    "addr:street": "Via Val Maria",
+    "name": "Chalet Le Querce",
+    "tourism": "apartment",
+    "website": "https://vallediledro.net/le-strutture/chalet-le-querce"
+  }
+},
+{
+  "type": "node",
+  "id": 11461499253,
+  "lat": 45.8804223,
+  "lon": 10.7376841,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "88",
+    "addr:postcode": "38067",
+    "addr:street": "Via val Maria",
+    "name": "Ledro House - Ca' Valentina",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11461512511,
+  "lat": 45.8769415,
+  "lon": 10.7422571,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "261",
+    "addr:postcode": "38067",
+    "addr:street": "Via Val Maria",
+    "name": "Casa Regina",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11461513231,
+  "lat": 45.8802922,
+  "lon": 10.7385642,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "84",
+    "addr:postcode": "38067",
+    "addr:street": "Via val Maria",
+    "name": "Ledro House - Ca' Romantica",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11461513232,
+  "lat": 45.8804683,
+  "lon": 10.7381094,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "86",
+    "addr:postcode": "38067",
+    "addr:street": "Via val Maria",
+    "name": "Ledro House - Casa Panorama",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11461513358,
+  "lat": 45.8795611,
+  "lon": 10.7383670,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "1",
+    "addr:postcode": "38067",
+    "addr:street": "Via del Roccolo",
+    "name": "Ledro House - Terrazze sul lago",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11461547290,
+  "lat": 45.8693370,
+  "lon": 10.7458757,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "27",
+    "addr:postcode": "38067",
+    "addr:street": "Via Val Maria",
+    "name": "Casa Carla",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11461547291,
+  "lat": 45.8692716,
+  "lon": 10.7460822,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "11",
+    "addr:postcode": "38067",
+    "addr:street": "Via Val Maria",
+    "name": "Casa Max",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11461775178,
+  "lat": 45.8710104,
+  "lon": 10.7422414,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:postcode": "38067",
+    "addr:street": "Via val Maria",
+    "name": "Haus Brigitte",
+    "tourism": "apartment",
+    "website": "https://hausbrigitte-ledro.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 11461775179,
+  "lat": 45.8698423,
+  "lon": 10.7412952,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "157",
+    "addr:postcode": "38067",
+    "addr:street": "Via val Maria",
+    "name": "Casa Civettini",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11462178875,
+  "lat": 45.8691873,
+  "lon": 10.7453870,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "49",
+    "addr:postcode": "38067",
+    "addr:street": "Via val Maria",
+    "name": "Casa Pippi",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11462197225,
+  "lat": 45.8677544,
+  "lon": 10.7458519,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:postcode": "38067",
+    "addr:street": "Via Malga Cita",
+    "name": "Casa Pineta",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11462235631,
+  "lat": 45.8662160,
+  "lon": 10.7456308,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:postcode": "38067",
+    "addr:street": "Via Casarino",
+    "name": "Casa Dazio",
+    "tourism": "apartment",
+    "website": "https://www.cadelbepi.com"
+  }
+},
+{
+  "type": "node",
+  "id": 11462235632,
+  "lat": 45.8763068,
+  "lon": 10.7435340,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:postcode": "38067",
+    "addr:street": "Via val Maria",
+    "name": "Casa Maria",
+    "tourism": "apartment",
+    "website": "https://www.cadelbepi.com"
+  }
+},
+{
+  "type": "node",
+  "id": 11462235633,
+  "lat": 45.8705365,
+  "lon": 10.7440740,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "97",
+    "addr:postcode": "38067",
+    "addr:street": "Via val Maria",
+    "name": "Bungalow al Lago",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11493908486,
+  "lat": 45.8683846,
+  "lon": 10.7756028,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "3",
+    "addr:postcode": "38067",
+    "addr:street": "Via delle Decime",
+    "name": "Green Garden",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11493908492,
+  "lat": 45.8667426,
+  "lon": 10.7640952,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "1",
+    "addr:postcode": "38067",
+    "addr:street": "Località Me",
+    "name": "Chalet Monica",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11504208389,
+  "lat": 45.8938502,
+  "lon": 10.6841979,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "13",
+    "addr:place": "Piazza Arrigo Boito",
+    "addr:postcode": "38067",
+    "name": "Ca' Leonardi",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11507241492,
+  "lat": 45.8929572,
+  "lon": 10.6901121,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "76",
+    "addr:postcode": "38067",
+    "addr:street": "Via Giuseppe Garibaldi",
+    "name": "Casa Anita",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11509486736,
+  "lat": 45.8859941,
+  "lon": 10.6980760,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "32",
+    "addr:postcode": "38067",
+    "addr:street": "Via Santa Lucia",
+    "mobile": "+39 348 0456616",
+    "name": "Villaggio Santa Lucia",
+    "phone": "+39 347 1975288",
+    "tourism": "apartment",
+    "website": "http://www.villaggiosantalucialedro.it"
+  }
+},
+{
+  "type": "node",
+  "id": 11509964972,
+  "lat": 45.8902693,
+  "lon": 10.6916964,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "17",
+    "addr:postcode": "38067",
+    "addr:street": "Via Monsignor Mario Ferrari",
+    "name": "Casa Sant'Isep",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11510439659,
+  "lat": 45.8948636,
+  "lon": 10.7084225,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "48",
+    "addr:postcode": "38067",
+    "addr:street": "Via Tovi",
+    "name": "Residence ai Tovi",
+    "phone": "+39 0464 590150",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11512657767,
+  "lat": 45.8964074,
+  "lon": 10.7156338,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "12",
+    "addr:postcode": "38067",
+    "addr:street": "Via Tovi",
+    "mobile": "+39 348 4624965",
+    "name": "Ca' mea Dina",
+    "phone": "+39 0464 592117",
+    "tourism": "apartment",
+    "website": "https://www.cameadina.com/it"
+  }
+},
+{
+  "type": "node",
+  "id": 11512669963,
+  "lat": 45.8964574,
+  "lon": 10.7136527,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "27",
+    "addr:postcode": "38067",
+    "addr:street": "Via Tovi",
+    "name": "Casa Teresa",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11512675631,
+  "lat": 45.8961006,
+  "lon": 10.7157835,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "9",
+    "addr:postcode": "38067",
+    "name": "Casa Mora",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11512720399,
+  "lat": 45.8964783,
+  "lon": 10.7120397,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "15",
+    "addr:postcode": "38067",
+    "addr:street": "Via Giacomo Cis",
+    "email": "info@residencealessio.it",
+    "mobile": "+39 329 8684201",
+    "name": "Residence Alessio",
+    "tourism": "apartment",
+    "website": "https://www.residencealessio.it/it"
+  }
+},
+{
+  "type": "node",
+  "id": 11518961570,
+  "lat": 45.8996929,
+  "lon": 10.7239634,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "6",
+    "addr:postcode": "38067",
+    "addr:street": "Via Venezia",
+    "name": "Guesthouse Ledro",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11524123048,
+  "lat": 45.9030921,
+  "lon": 10.7260738,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "15",
+    "addr:postcode": "38067",
+    "addr:street": "Via Doghen",
+    "name": "Casa Meri",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11524440571,
+  "lat": 45.8990466,
+  "lon": 10.7257372,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "13",
+    "addr:postcode": "38067",
+    "addr:street": "Via San Marco",
+    "name": "Koi House",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11524488247,
+  "lat": 45.8988188,
+  "lon": 10.7255584,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "14",
+    "addr:postcode": "38067",
+    "addr:street": "Via San Marco",
+    "name": "Casa Rosella",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11525108304,
+  "lat": 45.8664085,
+  "lon": 10.8061807,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "1",
+    "addr:postcode": "38067",
+    "addr:street": "Via Cantodori",
+    "name": "Ca Seli",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11527084051,
+  "lat": 45.9065914,
+  "lon": 10.7279003,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "1",
+    "addr:postcode": "38067",
+    "addr:street": "Via Bonomelli",
+    "email": "sierraledro@Yahoo.it",
+    "mobile": "+39 335 241966",
+    "name": "Cà Alice",
+    "phone": "+39 0464 591322",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11527100259,
+  "lat": 45.9070827,
+  "lon": 10.7275271,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "22",
+    "addr:postcode": "38067",
+    "addr:street": "Via Bonomelli",
+    "name": "Casa Maria",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11527818440,
+  "lat": 45.9066128,
+  "lon": 10.7287744,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "36",
+    "addr:postcode": "38067",
+    "addr:street": "Via dei Concei",
+    "email": "casaestervallediledro@gmail.com",
+    "mobile": "+39 329 4315114",
+    "name": "Casa Ester",
+    "phone": "+39 0464 590031",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11530557129,
+  "lat": 45.9054681,
+  "lon": 10.7287100,
+  "tags": {
+    "addr:housenumber": "11",
+    "addr:street": "Piazza indipendenza",
+    "name": "Casa Miravalle",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11530672622,
+  "lat": 45.9260430,
+  "lon": 10.7304652,
+  "tags": {
+    "addr:city": "Ldro",
+    "addr:postcode": "38067",
+    "name": "Rustico Pastoria",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11530672623,
+  "lat": 45.9260402,
+  "lon": 10.7303765,
+  "tags": {
+    "addr:city": "Ldro",
+    "addr:postcode": "38067",
+    "name": "Chalet Verde",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11530672624,
+  "lat": 45.9258116,
+  "lon": 10.7304027,
+  "tags": {
+    "addr:city": "Ldro",
+    "addr:postcode": "38067",
+    "name": "Chalet Rosso",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11530672625,
+  "lat": 45.9258284,
+  "lon": 10.7302899,
+  "tags": {
+    "addr:city": "Ldro",
+    "addr:postcode": "38067",
+    "name": "Chalet Arancio",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11530678291,
+  "lat": 45.9062750,
+  "lon": 10.7287244,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "21",
+    "addr:postcode": "38067",
+    "addr:street": "Via dei Concei",
+    "name": "La Fisarmonica",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11530678292,
+  "lat": 45.9064243,
+  "lon": 10.7295385,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:housenumber": "7",
+    "addr:postcode": "38067",
+    "addr:street": "Via Castello",
+    "email": "email@lakeproject.it",
+    "mobile": "+39 347 7482634",
+    "name": "Residenza al Castello",
+    "phone": "+39 0464 590150",
+    "tourism": "apartment",
+    "website": "https://www.lakeproject.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 11535080441,
+  "lat": 45.9147663,
+  "lon": 10.7262446,
+  "tags": {
+    "addr:city": "Lenzumo",
+    "addr:housenumber": "26",
+    "addr:postcode": "38067",
+    "addr:street": "Via Mario Bianchi",
+    "email": "leder@dalmozat.it",
+    "name": "Garnì dal Mozat",
+    "phone": "+39 0464 591040",
+    "tourism": "apartment",
+    "website": "http://www.dalmozat.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 11542449892,
+  "lat": 45.9213688,
+  "lon": 10.7327597,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:postcode": "38067",
+    "email": "info@vallediledro.net",
+    "mobile": "+39 348 1460963",
+    "name": "Chalet Beatrice",
+    "tourism": "apartment",
+    "website": "https://it.vallediledro.net"
+  }
+},
+{
+  "type": "node",
+  "id": 11542449893,
+  "lat": 45.9313887,
+  "lon": 10.7356710,
+  "tags": {
+    "addr:city": "Ledro",
+    "addr:postcode": "38067",
+    "email": "michisarti@virgilio.it",
+    "mobile": "+39 348 2374312",
+    "name": "Chalet Palò",
+    "phone": "+39 0464 591794",
+    "tourism": "apartment",
+    "website": "http://www.chalet-palo.it"
+  }
+},
+{
+  "type": "node",
+  "id": 11559805530,
+  "lat": 45.9059304,
+  "lon": 10.8867066,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:housenumber": "4",
+    "addr:postcode": "38062",
+    "addr:street": "Località Dossi",
+    "email": "info@fanum.it",
+    "name": "Pratosaiano Holiday",
+    "phone": "+39 348 9999888",
+    "tourism": "apartment",
+    "website": "https://www.pratosaiano.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 11594850665,
+  "lat": 45.9036406,
+  "lon": 10.8891563,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:postcode": "38062",
+    "name": "Casa al fico",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11619347846,
+  "lat": 45.9200719,
+  "lon": 10.8909354,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:housenumber": "14",
+    "addr:place": "Piazza Italia",
+    "addr:postcode": "38062",
+    "email": "info@residenzaklimahouse.it",
+    "name": "Residenza Klima House",
+    "phone": "+39 0464 518922",
+    "tourism": "apartment",
+    "website": "https://www.residenzaklimahouse.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 11623512462,
+  "lat": 45.9200735,
+  "lon": 10.8996778,
+  "tags": {
+    "addr:city": "Arco di Trento",
+    "addr:housenumber": "6",
+    "addr:postcode": "38062",
+    "addr:street": "Via Cappuccini",
+    "email": "contact@agriturlaterra.it",
+    "name": "Agritur La Terra",
+    "phone": "+39 0464 357695",
+    "tourism": "apartment",
+    "website": "https://www.agriturlaterra.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 11745848215,
+  "lat": 45.9273837,
+  "lon": 10.8817331,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:housenumber": "7",
+    "addr:postcode": "38062",
+    "addr:street": "Via alle Fontane di Làghel",
+    "name": "Residenza Mariella",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11813794619,
+  "lat": 45.8839029,
+  "lon": 10.8383105,
+  "tags": {
+    "name": "Exclusive Suites Riva",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11837596943,
+  "lat": 45.9259890,
+  "lon": 10.8974959,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:housenumber": "5",
+    "addr:postcode": "38062",
+    "addr:street": "Via Scaletta",
+    "name": "B&B Ruth",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11846821185,
+  "lat": 46.1552633,
+  "lon": 11.7337775,
+  "tags": {
+    "name": "Casa Maria",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11906572483,
+  "lat": 45.9141082,
+  "lon": 10.9175799,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:housenumber": "73",
+    "addr:postcode": "38062",
+    "addr:street": "Località Gazzi",
+    "name": "Arco Mountain Life",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11907061004,
+  "lat": 45.9053327,
+  "lon": 10.9303048,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:postcode": "38062",
+    "addr:street": "Località Gazzi",
+    "name": "Vello d'Arco",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11927577666,
+  "lat": 45.9104797,
+  "lon": 10.9034492,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:housenumber": "5c",
+    "addr:postcode": "38062",
+    "addr:street": "Via Giuseppe Mazzini",
+    "email": "info@residenza-cinisca.com",
+    "mobile": "+39 3381375551",
+    "name": "Residenza Cinisca",
+    "tourism": "apartment",
+    "website": "https://www.residenza-cinisca.com"
+  }
+},
+{
+  "type": "node",
+  "id": 11928192251,
+  "lat": 45.9170854,
+  "lon": 10.8904947,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:housenumber": "14a",
+    "addr:postcode": "38062",
+    "addr:street": "Via Canale",
+    "name": "Arco Home",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11928192252,
+  "lat": 45.9171601,
+  "lon": 10.8892206,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:housenumber": "21L",
+    "addr:postcode": "38062",
+    "addr:street": "Via Fitta",
+    "name": "Casa Torboli",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11928198803,
+  "lat": 45.9176163,
+  "lon": 10.8927865,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:housenumber": "2",
+    "addr:postcode": "38062",
+    "addr:street": "Via Indipendenza",
+    "email": "info@residenzasanrocco.it",
+    "mobile": "+39 340 4157127",
+    "name": "Residenza San Rocco",
+    "phone": "+39 0464 518922",
+    "tourism": "apartment",
+    "website": "https://www.residenzasanrocco.it"
+  }
+},
+{
+  "type": "node",
+  "id": 11928198804,
+  "lat": 45.9172030,
+  "lon": 10.8928641,
+  "tags": {
+    "addr:city": "Arco",
+    "addr:housenumber": "6",
+    "addr:place": "Piazza Trento",
+    "addr:postcode": "38062",
+    "email": "info@palazzooltre.it",
+    "mobile": "+39 347 7028153",
+    "name": "Palazzo Oltre",
+    "phone": "+39 339 3399166",
+    "tourism": "apartment",
+    "website": "https://www.palazzooltre.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 11956376243,
+  "lat": 45.8884213,
+  "lon": 11.0393460,
+  "tags": {
+    "name": "Ocra",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 11989730057,
+  "lat": 45.8980623,
+  "lon": 10.9746247,
+  "tags": {
+    "addr:city": "Ronzo-Chienis",
+    "addr:housenumber": "63",
+    "addr:postcode": "38060",
+    "addr:street": "Via Case Sparse",
+    "email": "baitabordala@yahoo.it",
+    "mobile": "+39 345 4026 419",
+    "name": "Chalet La Baita Bordala",
+    "phone": "+39 0464 802999",
+    "tourism": "apartment",
+    "website": "https://baitabordala.com"
+  }
+},
+{
+  "type": "node",
+  "id": 12006240099,
+  "lat": 45.8695679,
+  "lon": 10.9388324,
+  "tags": {
+    "addr:city": "Valle San Felice",
+    "addr:housenumber": "5",
+    "addr:postcode": "38065",
+    "addr:street": "Via 22 Maggio",
+    "email": "mara.bottanelli@libero.it",
+    "mobile": "+39 320 4145692",
+    "name": "Casa San Felice",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 12006306368,
+  "lat": 45.8689440,
+  "lon": 10.9382425,
+  "tags": {
+    "addr:city": "Valle San Felice",
+    "addr:housenumber": "5",
+    "addr:place": "Piazza San Felice",
+    "addr:postcode": "38065",
+    "name": "Le Cort Agriturismo",
+    "phone": "+39 0464 802022",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 12016594103,
+  "lat": 45.8605179,
+  "lon": 10.9389564,
+  "tags": {
+    "addr:city": "Mori",
+    "addr:postcode": "38065",
+    "addr:street": "Località Piantim",
+    "email": "info@cafabiani.it",
+    "mobile": "+39 349 0524451",
+    "name": "Cà Fabiani",
+    "tourism": "apartment",
+    "website": "http://www.cafabiani.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 12017159650,
+  "lat": 45.8699378,
+  "lon": 10.9425539,
+  "tags": {
+    "addr:city": "Valle San Felice",
+    "addr:housenumber": "9",
+    "addr:postcode": "38065",
+    "addr:street": "Località Pizzole",
+    "email": "info@arpadipietra.it",
+    "mobile": "+39 353 412 1993",
+    "name": "B&B Arpa di Pietra",
+    "tourism": "apartment",
+    "website": "https://www.arpadipietra.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 12090147977,
+  "lat": 45.8459770,
+  "lon": 10.9503497,
+  "tags": {
+    "addr:city": "Mori",
+    "addr:housenumber": "42",
+    "addr:place": "Sano",
+    "addr:postcode": "38065",
+    "name": "Appartamento nel verde",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 12104094537,
+  "lat": 45.8380424,
+  "lon": 10.9528924,
+  "tags": {
+    "addr:city": "Castione",
+    "addr:housenumber": "1",
+    "addr:postcode": "38060",
+    "addr:street": "Via Loppio",
+    "email": "bergaminicristian@yahoo.it",
+    "name": "Casa Liu",
+    "phone": "+39 339 6466628",
+    "tourism": "apartment"
+  }
+},
+{
+  "type": "node",
+  "id": 12231203820,
+  "lat": 46.0656230,
+  "lon": 11.1231248,
+  "tags": {
+    "addr:city": "Trento",
+    "addr:country": "IT",
+    "addr:housenumber": "43",
+    "addr:postcode": "38122",
+    "addr:street": "Via Giuseppe Mazzini",
+    "name": "yugogo",
+    "tourism": "apartment",
+    "website": "https://www.yugogo.it/",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12336883323,
+  "lat": 45.9447295,
+  "lon": 11.2657982,
+  "tags": {
+    "fixme": "position",
+    "name": "Enzo & Rossella",
+    "tourism": "apartment"
+  }
+}
+
+  ]
+}

@@ -5,8 +5,8 @@ import geopandas as gpd
 # DATA LOADING
 #gdf = gpd.read_file("Raw data/Trento_MunicipalityBorders.geojson")
 #df_population = pd.read_csv("Raw data/Pop_Trento2024.csv")
-gdf = gpd.read_file("Raw data/Trento_MunicipalityBorders.geojson")
-df_population = pd.read_csv("Raw data/Pop_Trento2024.csv")
+gdf = gpd.read_file("C:/Users/pelle/Desktop/Magistrale secondo anno/Knowledge Graph Engineering/KGE-git/KGE-Project-Tourism-Waste-Management-in-Trentino/Phase 2 - Information Gathering/Municipality/Raw data/Trento_MunicipalityBorders.geojson")
+df_population = pd.read_csv("C:/Users/pelle/Desktop/Magistrale secondo anno/Knowledge Graph Engineering/KGE-git/KGE-Project-Tourism-Waste-Management-in-Trentino/Phase 2 - Information Gathering/Municipality/Raw data/Pop_Trento2024.csv")
 
 # DATA CLEANING
 # Usefull tags
@@ -19,8 +19,7 @@ df_population = df_population[[istat_csv,population_column]]
 
 # Converting ISTAT codes in string for key usage
 df_population[istat_csv] = df_population[istat_csv].astype(str)
-print(gdf[istat_geojson].dtype)
-
+gdf[istat_geojson]=gdf[istat_geojson].astype(str)
 
 #gdf = gdf.merge(df_population[[istat_csv, population_column]],
  #               left_on=istat_geojson,

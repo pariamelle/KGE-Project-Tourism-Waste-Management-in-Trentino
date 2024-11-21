@@ -2,7 +2,7 @@ import pandas as pd
 import os
 
 # Directory of ISPRA files
-directory = "C:/Users/pelle/Desktop/Magistrale secondo anno/Knowledge Graph Engineering/KGE-git/KGE-Project-Tourism-Waste-Management-in-Trentino/Phase 2 - Information Gathering/Waste_Production/Raw data" 
+directory = "Raw data" 
 
 # Initialize an empty DataFrame to hold the merged data for all years
 Waste_Production = pd.DataFrame()

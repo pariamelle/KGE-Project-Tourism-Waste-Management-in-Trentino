@@ -32,8 +32,10 @@ gdf_new = gdf_new.drop(columns=[istat_csv])
 
 gdf_new.rename(columns={population_column: "Popolazione Totale"}, inplace=True)
 
-gdf_new = gdf_new.dropna(axis=1, how='all') #dealing with NaN
+# Select only the relevant columns: 'name', 'Popolazione Totale', 'ref:ISTAT', 'geometry'
+columns_to_keep = ['name', 'Popolazione Totale', 'ref:ISTAT', 'geometry']
+filtered_gdf = gdf_new[columns_to_keep]
 
 # Save the new updated file
 output_file = "Municipality"
-gdf_new.to_file(output_file, driver="GeoJSON")
+filtered_gdf.to_file(output_file, driver="GeoJSON")

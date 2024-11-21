@@ -7,35 +7,41 @@ directory = "C:/Users/pelle/Desktop/Magistrale secondo anno/Knowledge Graph Engi
 # Initialize an empty DataFrame to hold the merged data for all years
 Waste_Production = pd.DataFrame()
 
-columns = [
-    "Comune", "Istat", "Dato riferito a", "Frazione organica (t)", 
-    "Ing. misti a recupero (t)", "Carta e cartone (t)", "Altro RD (t)", 
-    "Legno (t)", "Metallo (t)", "Plastica (t)", "RAEE (t)", "Selettiva (t)", 
-    "Tessili (t)", "Vetro (t)", "Rifiuti da costruzione e demolizione (t)", 
-    "Pulizia Stradale a Recupero (t)"
-]
 
 for year in range(2014, 2023):
 
     file_Tren = os.path.join(directory, f"Anno_{year}-04022_RDFrazioniComunale.csv")
     
     if os.path.exists(file_Tren):
-        df_Tren = pd.read_csv(file_Tren, delimiter=';', decimal=',', header=0, index_col=None).reset_index()
-        df_Tren.columns=columns
+        df_Tren = pd.read_csv(file_Tren, delimiter=';', decimal=',', header=0).reset_index()
         print(df_Tren.head())
-        exit(1)
         df_Tren['Anno'] = year #create column with year
         Waste_Production = pd.concat([Waste_Production, df_Tren], ignore_index=True)
     
     else:
         print(f"Warning: {file_Tren} does not exist.")
 
-Waste_Production=Waste_Production.dropna(axis=1, how='all')
 
+# Changing the dataframe from large format into long format 
+Waste_Production_melted = pd.melt(
+    Waste_Production,
+    id_vars=["Comune", "Istat"],
+    value_vars=["Frazione organica (t)", "Ing. misti a recupero(t)","Carta e cartone (t)",
+                "Altro RD (t)","Legno (t)","Metallo (t)","Plastica (t)","RAEE (t)","Selettiva (t)",
+                "Tessili (t)","Vetro (t)","Rifiuti da costruzione e demolizione (t)",
+                "Pulizia Stradale a Recupero (t)"],
+    var_name="Waste type",
+    value_name="Quantity"
+)
+
+
+#getting rid of NaN
+df_cleaned = Waste_Production_melted.dropna(subset=["Quantity"])
+
+print(df_cleaned)
 # Specify the path and name for the output CSV file
-#output_path = "Waste_Production.csv"
-print(Waste_Production)
+output_path = "Waste_Production.csv"
 # Save the DataFrame to a CSV file
-#Waste_Production.to_csv(output_path, index=False)
+df_cleaned.to_csv(output_path, index=False)
 
 

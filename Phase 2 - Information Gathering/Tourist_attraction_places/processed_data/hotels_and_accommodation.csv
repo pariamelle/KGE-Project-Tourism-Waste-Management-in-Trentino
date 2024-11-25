@@ -1,4 +1,4 @@
-id,latitude,longitude,name,tourism_type,street,city,postcode,housenumber,cuisine,description,operator,website,phone,email
+id,latitude,longitude,name,type,street,city,postcode,housenumber,cuisine,description,operator,website,phone,email
 HnA_id_26859342,46.1663865,10.7498706,Camping Parco Adamello,camp_site,,,,,,,,https://campingparcoadamello.it,+393381919608,
 HnA_id_26859590,46.111111,11.048056,Lamar,camp_site,Via Selva Faeda,,38070,15,,,,https://laghidilamar.com/,+39 0461 860423,campeggio@laghidilamar.com
 HnA_id_26859712,45.7803581,10.9454085,Polsa,camp_site,,,,,,,,,,
@@ -308,7 +308,7 @@ HnA_id_2932894308,45.8540687,10.9680409,Da Neni,hotel,Via F. Filzi,Mori,38065,46
 HnA_id_2940145322,46.1925318,11.9407338,Campeggio Parrocchia Altavilla,camp_site,,,,,,,,,,
 HnA_id_3002405374,45.817303,10.9559839,Neni,hotel,,,,,,,,,,
 HnA_id_3075526096,46.1953127,11.6788605,,caravan_site,,,,,,,,,,
-HnA_id_3079095545,46.1898366,10.78737,Albergo Garni La Soldanella,,Via Vedretta di Lares,Sant'Antonio di Mavignola,38086,8,,,,,,
+HnA_id_3079095545,46.1898366,10.78737,Albergo Garni La Soldanella,accomodation:unknown,Via Vedretta di Lares,Sant'Antonio di Mavignola,38086,8,,,,,,
 HnA_id_3082747010,46.3156299,10.7735922,Agricampeggio Ai Gaggi,camp_site,,Claiano di Pellizzano,38020,3,,,,https://www.aigaggi.com/,+39 0463 89 00 62,info@aigaggi.com
 HnA_id_3096744951,46.3149489,11.1523097,Rifugio Predaia «ai Todes ci»,alpine_hut,Località Predaia,Tres,38010,,,,Todeschi S.r.l.,http://www.rifugiopredaia.com,+39 0463 463138,rifugiopredaia@tiscali.it
 HnA_id_3101758143,46.0353564,11.1264783,Al Marinaio,hotel,Via dei Marinai d'Italia,Trento,38123,28,,,Groff Giovanni S.R.L.,http://www.almarinaio.eu/,+39 0461 933053,info@almarinaio.eu

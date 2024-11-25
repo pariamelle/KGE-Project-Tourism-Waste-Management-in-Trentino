@@ -3,8 +3,8 @@ import numpy as np
 import geopandas as gpd
 
 # DATA LOADING
-gdf = gpd.read_file("C:/Users/pelle/Desktop/Magistrale secondo anno/Knowledge Graph Engineering/KGE-git/KGE-Project-Tourism-Waste-Management-in-Trentino/Phase 2 - Information Gathering/Municipality/Raw data/Trento_MunicipalityBorders.geojson") # use your path 
-df_population = pd.read_csv("C:/Users/pelle/Desktop/Magistrale secondo anno/Knowledge Graph Engineering/KGE-git/KGE-Project-Tourism-Waste-Management-in-Trentino/Phase 2 - Information Gathering/Municipality/Raw data/Pop_Trento2024.csv") # use your path
+gdf = gpd.read_file("Raw data/Trento_MunicipalityBorders.geojson") # use your path 
+df_population = pd.read_csv("Raw data/Pop_Trento2024.csv") # use your path
 
 # DATA CLEANING
 # Usefull tags

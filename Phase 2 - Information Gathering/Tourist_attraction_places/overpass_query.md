@@ -72,4 +72,4 @@ area["name"="Trento"]["ref:ISTAT"=022205]["boundary"="administrative"]->.searchA
   node["natural"="spring"](area.searchArea);
 );
 
-out center;
+out geom;

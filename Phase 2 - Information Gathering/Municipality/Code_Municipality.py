@@ -20,7 +20,6 @@ df_population[istat_csv] = df_population[istat_csv].astype(str)
 # Remove leading zeros from istat_geojson column in gdf
 gdf[istat_geojson] = gdf[istat_geojson].astype(str).str.lstrip('0')
 
-#gdf[istat_geojson]=gdf[istat_geojson].astype(str)
 
 #Merge the two dataset
 gdf_new = gdf.merge(df_population[[istat_csv, population_column]],
@@ -30,12 +29,12 @@ gdf_new = gdf.merge(df_population[[istat_csv, population_column]],
 
 gdf_new = gdf_new.drop(columns=[istat_csv])
 
-gdf_new.rename(columns={population_column: "Popolazione Totale"}, inplace=True)
 
-# Select only the relevant columns: 'name', 'Popolazione Totale', 'ref:ISTAT', 'geometry'
-columns_to_keep = ['name', 'Popolazione Totale', 'ref:ISTAT', 'geometry']
+
+columns_to_keep = ['name', 'Totale', 'ref:ISTAT', 'geometry']
 filtered_gdf = gdf_new[columns_to_keep]
+filtered_gdf.rename(columns={population_column: "population"}, inplace=True)
 
 # Save the new updated file
 output_file = "Municipality"
-filtered_gdf.to_file(output_file, driver="GeoJSON")
+filtered_gdf.to_csv(output_file, driver="GeoJSON")

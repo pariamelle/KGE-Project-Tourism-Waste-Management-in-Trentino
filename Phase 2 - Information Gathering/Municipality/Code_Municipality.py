@@ -3,8 +3,8 @@ import numpy as np
 import geopandas as gpd
 
 # DATA LOADING
-gdf = gpd.read_file("C:/Users/pelle/Desktop/Magistrale secondo anno/Knowledge Graph Engineering/KGE-git/KGE-Project-Tourism-Waste-Management-in-Trentino/Phase 2 - Information Gathering/Municipality/Raw data/Trento_MunicipalityBorders.geojson") # use your path 
-df_population = pd.read_csv("C:/Users/pelle/Desktop/Magistrale secondo anno/Knowledge Graph Engineering/KGE-git/KGE-Project-Tourism-Waste-Management-in-Trentino/Phase 2 - Information Gathering/Municipality/Raw data/Pop_Trento2024.csv") # use your path
+gdf = gpd.read_file("Raw data/Trento_MunicipalityBorders.geojson") # use your path 
+df_population = pd.read_csv("Raw data/Pop_Trento2024.csv") # use your path
 
 # DATA CLEANING
 # Usefull tags
@@ -20,7 +20,6 @@ df_population[istat_csv] = df_population[istat_csv].astype(str)
 # Remove leading zeros from istat_geojson column in gdf
 gdf[istat_geojson] = gdf[istat_geojson].astype(str).str.lstrip('0')
 
-#gdf[istat_geojson]=gdf[istat_geojson].astype(str)
 
 #Merge the two dataset
 gdf_new = gdf.merge(df_population[[istat_csv, population_column]],
@@ -30,10 +29,12 @@ gdf_new = gdf.merge(df_population[[istat_csv, population_column]],
 
 gdf_new = gdf_new.drop(columns=[istat_csv])
 
-gdf_new.rename(columns={population_column: "Popolazione Totale"}, inplace=True)
 
-gdf_new = gdf_new.dropna(axis=1, how='all') #dealing with NaN
+
+columns_to_keep = ['name', 'Totale', 'ref:ISTAT', 'geometry']
+filtered_gdf = gdf_new[columns_to_keep]
+filtered_gdf.rename(columns={population_column: "population"}, inplace=True)
 
 # Save the new updated file
 output_file = "Municipality"
-gdf_new.to_file(output_file, driver="GeoJSON")
+filtered_gdf.to_csv(output_file, driver="GeoJSON")

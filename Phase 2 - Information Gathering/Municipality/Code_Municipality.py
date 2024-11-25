@@ -37,4 +37,5 @@ filtered_gdf.rename(columns={population_column: "population"}, inplace=True)
 
 # Save the new updated file
 output_file = "Municipality"
-filtered_gdf.to_csv(output_file, driver="GeoJSON")
+# filtered_gdf.to_csv(output_file, driver="GeoJSON")
+#TO BE CHANGED

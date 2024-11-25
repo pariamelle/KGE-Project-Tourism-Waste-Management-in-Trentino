@@ -25,7 +25,7 @@ for year in range(2014, 2023):
 # Changing the dataframe from large format into long format 
 Waste_Production_melted = pd.melt(
     Waste_Production,
-    id_vars=["Comune", "Istat"],
+    id_vars=["Comune", "Istat", "Anno"],
     value_vars=["Frazione organica (t)", "Ing. misti a recupero(t)","Carta e cartone (t)",
                 "Altro RD (t)","Legno (t)","Metallo (t)","Plastica (t)","RAEE (t)","Selettiva (t)",
                 "Tessili (t)","Vetro (t)","Rifiuti da costruzione e demolizione (t)",
@@ -56,8 +56,8 @@ category_mapping = dict(zip(old_cat_names, new_cat_names))
 df_cleaned['Waste type'] = df_cleaned['Waste type'].replace(category_mapping)
 
 
-new_col_names = ['Municipality', 'ref: ISTAT']
-old_col_names = ["Comune", "Istat"]
+new_col_names = ['Municipality', 'ref: ISTAT', 'year']
+old_col_names = ["Comune", "Istat", "Anno"]
 # Create a mapping dictionary for columns
 column_mapping = dict(zip(old_col_names, new_col_names))
 # Rename columns in the DataFrame

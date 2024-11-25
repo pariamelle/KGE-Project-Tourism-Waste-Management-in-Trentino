@@ -1,1 +1,2 @@
-In this directory you have store all the material considered and created for the language definition phase
+- ## Language Resource Template
+- The LRT is posted in Google Sheet [link](https://docs.google.com/spreadsheets/d/1K_a7mcnslWeAz9-izZ82wUdQuOnnqUbs/edit?usp=sharing&ouid=117111515763620563741&rtpof=true&sd=true).

@@ -15,7 +15,7 @@ for year in range(2014, 2023):
     if os.path.exists(file_Tren):
         df_Tren = pd.read_csv(file_Tren, delimiter=';', decimal=',', header=0).reset_index()
         print(df_Tren.head())
-        df_Tren['Anno'] = year #create column with year
+        df_Tren['year'] = year #create column with year
         Waste_Production = pd.concat([Waste_Production, df_Tren], ignore_index=True)
     
     else:
@@ -25,7 +25,7 @@ for year in range(2014, 2023):
 # Changing the dataframe from large format into long format 
 Waste_Production_melted = pd.melt(
     Waste_Production,
-    id_vars=["Comune", "Istat", "Anno"],
+    id_vars=["Comune", "Istat", "year"],
     value_vars=["Frazione organica (t)", "Ing. misti a recupero(t)","Carta e cartone (t)",
                 "Altro RD (t)","Legno (t)","Metallo (t)","Plastica (t)","RAEE (t)","Selettiva (t)",
                 "Tessili (t)","Vetro (t)","Rifiuti da costruzione e demolizione (t)",
@@ -56,8 +56,8 @@ category_mapping = dict(zip(old_cat_names, new_cat_names))
 df_cleaned['Waste type'] = df_cleaned['Waste type'].replace(category_mapping)
 
 
-new_col_names = ['Municipality', 'ref: ISTAT', 'year']
-old_col_names = ["Comune", "Istat", "Anno"]
+new_col_names = ['Municipality', 'ref: ISTAT']
+old_col_names = ["Comune", "Istat"]
 # Create a mapping dictionary for columns
 column_mapping = dict(zip(old_col_names, new_col_names))
 # Rename columns in the DataFrame

@@ -1,0 +1,604 @@
+id,name,latitude,longitude,memorial_type,type,inscription
+memorial_id_64776777,Kaiserschuetzen 1917,45.9368351,11.0951798,war_memorial,memorial:war_memorial,
+monument_id_248947102,Monumento ad Alcide Degasperi,46.0678336,11.1275793,,monument,
+memorial_id_268437617,Caduti della Resistenza in Albania,46.0660591,11.1255131,statue,memorial:statue,
+memorial_id_269894250,Unnamed,45.8857878,10.8435203,bust,memorial:bust,
+memorial_id_269894274,San Giovanni Napomuceno,45.884126,10.8391446,statue,memorial:statue,
+monument_id_270099585,Campana dei Caduti,45.8740208,11.0389098,,monument,
+memorial_id_276248562,Monumento ai Caduti,46.1310995,11.2463352,war_memorial,memorial:war_memorial,
+memorial_id_292751346,Theodor Christomannos,46.413825,11.6230151,,memorial,
+monument_id_298491630,Castel Saiori,45.8003546,11.0058349,,castle,
+monument_id_302099274,Castello di Arco,45.9224802,10.8881639,,castle,
+memorial_id_306399106,Unnamed,45.8797994,11.0413851,,memorial,
+monument_id_307705093,Castel Corno,45.8891533,10.9916134,,castle,
+memorial_id_322065419,Armistizio del 29-10-1918,45.8180301,11.0111764,,memorial,
+monument_id_322071391,Madonna del Cacciatore,45.7904782,11.0331347,,monument,
+memorial_id_323204092,Unnamed,45.9029325,10.8608405,,memorial,
+memorial_id_335605395,Monumento alle Guide Alpine,46.230711,10.8274004,sculpture,memorial:sculpture,
+monument_id_335647222,Monumento ai Caduti,45.8885145,10.6702788,,monument,
+monument_id_364991102,Madonnina del Lago,45.9524269,11.0196472,,monument,
+memorial_id_379532622,Unnamed,45.8643541,10.8854771,,memorial,
+memorial_id_402814579,Monumento ai caduti,45.8579426,10.8993094,,memorial,
+memorial_id_412834792,Cros dei Francesi,46.1706715,11.0613118,,memorial,
+memorial_id_430368127,Memoriale Cesare Battisti e Fabio Filzi,45.8146632,11.124656,,memorial,
+memorial_id_469267431,Unnamed,45.7694743,10.9662699,,memorial,
+memorial_id_520498906,Monumento ai caduti,45.7992343,11.179623,,memorial,
+monument_id_520499052,Tomba Generale Vittorio Emanuele Rossi,45.7938002,11.1844281,,monument,
+monument_id_520499474,Arco Romano,45.7926983,11.1854947,,monument,
+memorial_id_540427490,Unnamed,45.9237397,10.6986613,,memorial,
+monument_id_552935671,Castello di Segonzano,46.1865692,11.2513554,,castle,
+memorial_id_616567418,Monumento ai caduti,45.8388729,10.9701187,,memorial,
+memorial_id_672805949,Adelpreto,45.8968793,11.0433165,,memorial,
+memorial_id_675334487,Monumento ai caduti,46.0492721,11.1439881,,memorial,
+memorial_id_701422166,Monumento ai caduti,45.8502703,10.8235693,obelisk,memorial:obelisk,
+monument_id_721098590,Cimitero militare monumentale austroungarico,46.0009878,10.6940124,,monument,
+memorial_id_734227540,Unnamed,45.8718338,10.774629,stele,memorial:stele,
+memorial_id_736936486,Kaiserschützen memorial,45.8279358,11.0518275,,memorial,
+memorial_id_739372013,Monumento ai Caduti,46.1518003,11.7975542,,memorial,
+memorial_id_748783526,Monumento dei caduti,45.8175742,10.9559581,sculpture,memorial:sculpture,
+memorial_id_754103250,Monumento ad Alois Storch,45.895813,10.8586307,war_memorial,memorial:war_memorial,
+monument_id_765601131,Ponte Balandino,46.0504072,10.8997846,,monument,
+memorial_id_769164995,Unnamed,45.8567054,10.8210897,,memorial,
+memorial_id_789964234,Al Fante d'Italia,45.8889338,11.0357337,war_memorial,memorial:war_memorial,
+memorial_id_796380013,Fausto Coppi,46.4881479,11.8114019,,memorial,
+memorial_id_813242389,Unnamed,45.783238,10.9122978,obelisk,memorial:obelisk,
+memorial_id_833834675,Unnamed,45.9327152,10.5363008,,memorial,
+monument_id_851097491,Unnamed,45.8846144,11.0179589,,monument,
+memorial_id_852064195,Unnamed,46.2638672,11.0862417,,memorial,
+memorial_id_852064717,Masi ai suoi caduti,46.245645,11.0678022,,memorial,
+memorial_id_859540405,Unnamed,46.2132802,11.0927704,,memorial,
+memorial_id_859560024,Luogo di nascita di Giovanni Antonio Scopoli,46.2910507,11.4605863,,memorial,
+memorial_id_888671497,Caduti di Nassirya,46.0855668,11.1188142,sculpture,memorial:sculpture,
+monument_id_928357843,Pio XII,46.2114387,11.0937177,,monument,
+memorial_id_930522302,Giacomo Bresadola,46.0721582,11.1201432,bust,memorial:bust,
+memorial_id_930522360,Giosuè Carducci,46.0720418,11.1202343,bust,memorial:bust,
+memorial_id_930522432,Antonio Gazzoletti,46.0722132,11.12046,bust,memorial:bust,
+memorial_id_930522481,Giuseppe Verdi,46.0717375,11.1198398,bust,memorial:bust,
+memorial_id_936516624,Giovanni Canestrini,46.0705151,11.1213585,bust,memorial:bust,
+memorial_id_939851061,Unnamed,46.0694905,11.1185666,,memorial,
+memorial_id_941969403,Monumento a Don Grazioli,46.1397591,11.1114677,statue,memorial:statue,
+memorial_id_948758492,Enrico Conci,46.0723389,11.1208411,bust,memorial:bust,
+memorial_id_950503722,Guglielmo Ranzi,46.0712885,11.120702,plaque,memorial:plaque,
+memorial_id_950503737,Famiglia Trentina,46.0703897,11.120492,sculpture,memorial:sculpture,
+memorial_id_950503807,Eusebio Francesco Chini,46.0709691,11.1206415,obelisk,memorial:obelisk,
+memorial_id_956203583,Unnamed,46.2152989,11.0929332,,memorial,
+memorial_id_956203626,Al Bersagliere,46.2116303,11.0941873,,memorial,
+memorial_id_959911027,Giovanni Prati,46.0717848,11.1210941,bust,memorial:bust,
+memorial_id_960695300,Antonio Rosmini,46.0609814,11.1251935,plaque,memorial:plaque,
+memorial_id_960695319,Unnamed,46.0730684,11.119743,,memorial,
+memorial_id_960695321,Monumento ai ferrovieri,46.0730331,11.1197147,war_memorial,memorial:war_memorial,Ai ferrovieri caduti per la patria e sul lavoro
+memorial_id_966971024,Luigi Negrelli,46.0719648,11.1209339,sculpture,memorial:sculpture,
+monument_id_973022397,Unnamed,46.2161285,11.0877354,,monument,
+memorial_id_975205647,Unnamed,46.2995861,11.4497067,war_memorial,memorial:war_memorial,
+memorial_id_975242535,Monumento ai Caduti,46.2885127,11.4613463,war_memorial,memorial:war_memorial,
+memorial_id_975266382,Unnamed,46.2741166,11.4168664,war_memorial,memorial:war_memorial,
+memorial_id_975288676,Unnamed,46.0770972,11.11957,obelisk,memorial:obelisk,
+memorial_id_1010809755,Martino Martini,46.0630917,11.1239357,statue,memorial:statue,
+monument_id_1024749083,Monumento al Marinaio,45.8840151,10.8402593,,monument,
+memorial_id_1024752266,Unnamed,45.8692439,10.8764661,stele,memorial:stele,
+memorial_id_1037290924,Enea Silvio Piccolomini,46.0675519,11.1200759,bust,memorial:bust,
+memorial_id_1079859437,Unnamed,46.209071,11.093628,,memorial,
+memorial_id_1100568084,Monumento ai Caduti,46.3527507,10.9144089,war_memorial,memorial:war_memorial,
+monument_id_1122600616,Giovanni Nepomuceno,46.1938328,11.1332573,,monument,
+monument_id_1122600753,Giovanni Nepomuceno,46.1949838,11.1329545,,monument,
+monument_id_1126325611,Castel Barco,45.9306089,11.0576106,,castle,
+memorial_id_1132433117,Monumento ai caduti,45.9349983,11.094176,war_memorial,memorial:war_memorial,CALLIANO in memoria di coloro che non sono tornati
+memorial_id_1136484210,Unnamed,46.2507819,11.1682994,,memorial,
+memorial_id_1156296729,Unnamed,46.0203919,11.1270777,statue,memorial:statue,
+memorial_id_1162579906,Unnamed,46.171033,11.2474095,,memorial,
+memorial_id_1297477206,Gardolo ai suoi caduti,46.1082602,11.1114517,war_memorial,memorial:war_memorial,
+monument_id_1300140587,Castello di Nomi,45.9308233,11.0733962,,castle,
+monument_id_1302589524,Unnamed,46.0720439,11.112492,,monument,
+memorial_id_1307223891,Cannone della Batteria Battisti,46.0729287,11.1132622,war_memorial,memorial:war_memorial,
+memorial_id_1311009128,Santa Chiara,46.0577667,11.1327771,statue,memorial:statue,
+memorial_id_1313426815,Unnamed,45.804498,10.8915345,,memorial,
+monument_id_1351405865,Unnamed,46.1664168,11.1098139,,monument,
+memorial_id_1362741221,Altare di Papa Giovanni Paolo II,46.1677914,10.5663573,stone,memorial:stone,A perenne ricordo della visita di Papa Giovanni Paolo II. 16-17 luglio 1984. Gli Alpini
+memorial_id_1363980661,Unnamed,46.0714371,11.0601754,war_memorial,memorial:war_memorial,"Guerra1940-1945 |
+Guerra A.O.I 1935-1936 |
+Guerra Mondiale1914-1918"
+monument_id_1381050980,Unnamed,46.2182198,11.0478546,,monument,
+memorial_id_1381659946,Unnamed,45.916789,11.0614351,,memorial,
+memorial_id_1392014621,Capitello di Sant'Antonio,45.9114997,11.0840245,,memorial,
+memorial_id_1392365853,Madonnina del Doss,46.301999,10.8773219,,memorial,
+memorial_id_1432766653,US Navy Neptune 1957 Air Crash,46.2435287,11.878037,,memorial,
+memorial_id_1451988615,Toss ai suoi caduti,46.2766199,11.0808855,war_memorial,memorial:war_memorial,
+monument_id_1525471505,Ai Caduti,46.1641485,11.0028366,,monument,
+memorial_id_1559031342,Obice a.u. 305,45.8867283,11.045503,war_memorial,memorial:war_memorial,
+memorial_id_1563100696,Luigi Negrelli,46.1744657,11.8267027,,memorial,
+monument_id_1563104190,Capitello San Antonio,46.1683593,11.7846801,,monument,
+monument_id_1590167269,Unnamed,46.299271,11.0311567,,monument,
+memorial_id_1593751061,Antonio Rosmini,45.8911293,11.0422036,bust,memorial:bust,
+memorial_id_1601137411,Memoriale Boninsegna 1916,45.8624129,10.8322553,,memorial,Volontario Guido Boninsegna caduto 10.04.1916
+memorial_id_1608853204,Unnamed,45.8773439,11.0971621,,memorial,
+monument_id_1619079060,All'Alpino,45.8859952,11.0402165,,monument,
+memorial_id_1660839180,Monumento ai Caduti,46.0850798,11.213966,war_memorial,memorial:war_memorial,
+memorial_id_1690521197,Unnamed,45.838636,10.7925557,,memorial,
+memorial_id_1809162158,Fornace ai Caduti,46.1179665,11.2074617,war_memorial,memorial:war_memorial,
+monument_id_1816253199,Ruderi Castel Pradaglia,45.879245,11.0145877,,castle,
+memorial_id_1838686226,Unnamed,45.8418638,11.0076363,,memorial,
+memorial_id_1840022067,Unnamed,46.4045842,11.7081389,,memorial,"Sentiero Attrezzato di Sas Aut dedicato a Franco Gadotti - Trento, 9.1.1955 Campanile Pradidali, 20.7.1976"
+memorial_id_1862189121,Targa commemorativa Paolo Giordani,45.8185221,11.1369601,,memorial,
+memorial_id_1869952963,Unnamed,46.0862048,11.1597423,,memorial,
+monument_id_1870055067,Castel Corona,46.2752225,11.0188891,,castle,
+memorial_id_1951231997,Fritz Jung - 1711,45.9441216,11.2697902,,memorial,
+memorial_id_1977210639,Unnamed,46.0693887,11.2061361,,memorial,
+monument_id_1987683774,Unnamed,46.274279,11.0509012,,monument,
+monument_id_2028320546,Monumento ai Caduti,45.9203677,10.6147059,,monument,
+monument_id_2073143301,Cristo Pensante,46.307279,11.794503,,monument,
+monument_id_2084546738,Madonina,46.4013055,11.0507432,,monument,
+memorial_id_2262103281,Statua di San Francesco,46.3679783,11.1062059,statue,memorial:statue,
+monument_id_2287289624,Eusebio Chini,46.304195,11.0713527,,monument,
+memorial_id_2367894141,Monumento ai caduti,45.9465134,10.6204569,,memorial,
+monument_id_2371280671,Unnamed,46.0882116,11.130423,,monument,
+memorial_id_2468231574,Ai Caduti,46.1574892,11.1524504,,memorial,
+monument_id_2482496403,Busto di Riccardo Zandonai,45.8910635,11.0432044,bust,monument:bust,
+memorial_id_2484775401,Monumento ai caduti,45.8866828,11.0455536,war_memorial,memorial:war_memorial,
+monument_id_2484801874,Fontana Vecchia,46.0729515,11.4937739,,monument,
+monument_id_2490633533,Unnamed,45.9131128,10.9029133,,monument,
+memorial_id_2535781340,Unnamed,46.2371277,11.9029923,,memorial,
+memorial_id_2858144515,Ex cimitero militare a.u.,45.858983,11.0838414,,memorial,
+memorial_id_2872557495,Artigliere Giuseppe Spagnoli,45.8150426,11.0568435,,memorial,
+memorial_id_2872599781,127a Batteria bombarde,45.8211611,11.0533244,,memorial,
+memorial_id_2888955295,Unnamed,45.7741624,11.1564969,,memorial,
+memorial_id_3113340843,Unnamed,45.8618382,10.828104,plaque,memorial:plaque,
+memorial_id_3127246070,Monumento ai Caduti di Tutte le Guerre,46.3354538,10.885545,,memorial,
+memorial_id_3138365005,Unnamed,46.2841128,10.8709367,,memorial,
+memorial_id_3138384015,Amici della Montagna 1995,46.291841,10.8730039,,memorial,
+memorial_id_3138518001,Lapidi in memoria di giovani partigiani (I Piccoli Maestri),46.0120053,11.5486935,plaque,memorial:plaque,url=https://www.caiasiago.it/sentiero-piccoli-maestri
+memorial_id_3139836799,Memoriale degli Arditi 23 Maggio 1918,45.8224374,11.0492402,,memorial,"AI COMBATTENTI
+DEL I° REPARTO D'ASSALTO
+CHE QUI CADDERO
+IL 23-5-1918"
+monument_id_3309582310,Castello di Castellano,45.9213722,11.0061893,,castle,
+memorial_id_3309824059,Unnamed,46.4874053,11.8121855,,memorial,
+memorial_id_3407628035,Monumento ai caduti,45.8635667,10.9478561,stele,memorial:stele,Tiroler Standschutzen
+monument_id_3414873825,Osservatorio,45.8626941,10.9491236,,castle,
+memorial_id_3491901400,Unnamed,45.8303086,10.5690204,stone,memorial:stone,
+monument_id_3646765865,Unnamed,45.797854,11.1753731,,monument,
+memorial_id_3679475811,Unnamed,45.9335084,10.5912507,stone,memorial:stone,CADUTI GARIBALDINI
+memorial_id_3686101725,Memoriale Don Italo Girardi,46.1512012,11.6356115,,memorial,
+memorial_id_3694365836,Unnamed,45.9266801,11.3361557,war_memorial,memorial:war_memorial,
+monument_id_3704653919,Monumento ai Caduti,45.7392618,11.0664551,,monument,
+memorial_id_3760589942,Unnamed,45.8863444,11.1606401,cross,memorial:cross,
+memorial_id_3780638158,Unnamed,45.7582118,11.1774148,stele,memorial:stele,
+monument_id_3790737265,Forno Maso Emer,46.0488286,11.2760712,,monument,
+memorial_id_3813729336,Lapide commemorativa,45.897028,10.7207048,,memorial,
+memorial_id_3813885819,Unnamed,45.8966409,10.7202958,,memorial,
+monument_id_3823187966,Fontana storica,46.0501359,11.2661003,,monument,
+monument_id_3904227788,Unnamed,45.8542796,10.5909663,,monument,
+monument_id_3918195752,monumento ai caduti,45.8839276,11.0702066,,monument,
+memorial_id_3920799713,Unnamed,46.0787877,11.5748724,plaque,memorial:plaque,Contrada Pradellano
+memorial_id_4005264317,Unnamed,46.1084589,11.1245416,,memorial,
+memorial_id_4015417181,Unnamed,46.1163809,11.1486666,,memorial,
+memorial_id_4016816832,Unnamed,46.1930559,11.3335295,plaque,memorial:plaque,
+memorial_id_4030361301,Unnamed,46.0009382,10.6942676,,memorial,
+memorial_id_4030361320,Unnamed,46.0012367,10.6945656,,memorial,
+memorial_id_4030361322,Unnamed,46.0013211,10.6944492,,memorial,
+memorial_id_4030361328,Unnamed,46.0015521,10.6945221,,memorial,
+memorial_id_4041680975,Osservatorio Grota de Rinalt,45.8763077,10.6898397,,memorial,
+monument_id_4054936848,Clementino Vannetti,45.890771,11.0439965,bust,monument:bust,
+memorial_id_4055023345,Unnamed,46.0347084,11.2207088,,memorial,
+memorial_id_4171979707,Unnamed,45.9273943,10.8908724,,memorial,
+monument_id_4239816964,Monumento ai caduti,45.9288209,11.0721352,,monument,
+memorial_id_4252859772,Unnamed,46.4681719,11.8697733,war_memorial,memorial:war_memorial,
+memorial_id_4279079337,Unnamed,46.0702383,11.4937816,,memorial,
+memorial_id_4279079338,Unnamed,46.0703639,11.4939412,,memorial,
+memorial_id_4279079339,Unnamed,46.0704871,11.4939416,,memorial,
+monument_id_4316268411,Giacomo Vittone,45.9298617,10.8259123,,monument,
+memorial_id_4323671491,Unnamed,46.4720437,11.8721262,,memorial,
+monument_id_4327010791,Castello della Rocca,46.0948327,11.2165482,,castle,
+monument_id_4339558197,Rest of Great War,46.3580059,11.7002477,,monument,
+memorial_id_4349716077,Cippo di confine 1746,45.862019,10.8270187,stone,memorial:stone,Erectus anno 1746
+memorial_id_4349718122,Memoriale Giacomo Cis,45.8762614,10.8382763,plaque,memorial:plaque,
+monument_id_4361758843,Sass Spacà,46.1740483,11.5893364,,monument,
+memorial_id_4369982157,Unnamed,45.8734092,10.7640777,stele,memorial:stele,
+memorial_id_4369982159,Unnamed,45.8712756,10.7593919,plaque,memorial:plaque,
+memorial_id_4369982160,Unnamed,45.8727102,10.7559409,plaque,memorial:plaque,
+memorial_id_4369982161,Unnamed,45.8727475,10.75698,plaque,memorial:plaque,
+monument_id_4370182331,Statua del Arrotino,46.154681,10.7661357,,monument,
+memorial_id_4375382430,Unnamed,45.8805042,10.7554119,stele,memorial:stele,
+memorial_id_4375382431,Unnamed,45.8854689,10.7430934,stele,memorial:stele,
+memorial_id_4375382434,Unnamed,45.8800617,10.7538121,stele,memorial:stele,
+memorial_id_4391080268,Unnamed,45.8912631,10.7896524,cross,memorial:cross,
+memorial_id_4396727344,Unnamed,45.8775069,10.7427751,stele,memorial:stele,
+memorial_id_4401768852,Unnamed,45.8995726,10.7246477,plaque,memorial:plaque,
+memorial_id_4401768853,Unnamed,45.900121,10.7252421,plaque,memorial:plaque,
+memorial_id_4409784142,Lapide agli Alpini Caduti e Dispersi,45.8867182,10.8434444,plaque,memorial:plaque,
+memorial_id_4409784143,Unnamed,45.8867712,10.8434894,plaque,memorial:plaque,
+memorial_id_4409784144,Monumento agli Alpini caduti,45.886688,10.8436216,stele,memorial:stele,
+memorial_id_4409784145,Lapide a ricordo del vecchio cimitero,45.8866693,10.8434443,plaque,memorial:plaque,
+memorial_id_4409784150,Unnamed,45.8867518,10.843445,plaque,memorial:plaque,
+memorial_id_4414912269,Unnamed,45.8888534,10.7326866,plaque,memorial:plaque,
+memorial_id_4419124694,Madonna del Carega,45.7153644,11.125133,,memorial,
+memorial_id_4426106994,Unnamed,45.8859551,10.7386935,plaque,memorial:plaque,
+memorial_id_4426106995,Unnamed,45.8828425,10.7492428,plaque,memorial:plaque,
+memorial_id_4426881828,Rachele Peterlini,45.886667,11.154397,,memorial,
+memorial_id_4429693864,Ettore Rover,46.0475502,11.4099402,plaque,memorial:plaque,Ettore Rover 1942 - 1972
+memorial_id_4429693865,Marco Pola,46.0493746,11.4082742,plaque,memorial:plaque,In questa casa nacque il poeta Marco Pola 29.08.1906 - 09.10.1991
+memorial_id_4432893261,Unnamed,45.9699572,10.7516121,,memorial,
+memorial_id_4466564545,Unnamed,46.1228987,11.4815,plaque,memorial:plaque,
+memorial_id_4470115795,Unnamed,45.8910146,10.6989791,plaque,memorial:plaque,
+memorial_id_4470120545,Unnamed,45.8858771,10.7844239,plaque,memorial:plaque,
+memorial_id_4470120546,Unnamed,45.8858879,10.7844114,plaque,memorial:plaque,
+memorial_id_4517842661,Unnamed,45.7248028,10.9716913,,memorial,
+memorial_id_4534672934,Unnamed,45.7567476,11.0050057,,memorial,
+memorial_id_4558146280,Unnamed,45.7578358,11.0054258,,memorial,
+monument_id_4561903463,Unnamed,46.1515842,11.0966066,,monument,
+memorial_id_4572899501,Unnamed,46.0686953,11.4625157,plaque,memorial:plaque,
+memorial_id_4596373803,Unnamed,46.0520429,11.4944265,plaque,memorial:plaque,
+memorial_id_4684036779,Unnamed,46.0680604,11.4962593,,memorial,
+memorial_id_4692003969,Unnamed,45.857859,10.909995,stone,memorial:stone,Ai combattenti
+memorial_id_4692003970,Czechoslovak legionaries,45.854625,10.9106616,plaque,memorial:plaque,
+monument_id_4704863487,Unnamed,45.8745254,11.1064313,,monument,
+monument_id_4704863569,Unnamed,45.8760038,11.0881534,,monument,
+monument_id_4765154173,Madonna,45.930732,11.0729663,,monument,
+memorial_id_4765154776,Immacolata della Guardia,45.907974,11.1312261,statue,memorial:statue,
+monument_id_4890327745,Monumento della Pace,45.9176236,11.0313512,,monument,
+memorial_id_4909085873,Santa Maria Goretti,45.9138797,11.1090938,,memorial,
+memorial_id_4913132148,Unnamed,46.1747411,11.8331643,plaque,memorial:plaque,
+memorial_id_4970035869,Unnamed,45.7667332,10.9341156,stone,memorial:stone,R. ESERCITO ITALIANO
+memorial_id_5000770882,Unnamed,46.0704206,10.5423516,plaque,memorial:plaque,
+memorial_id_5000770914,Unnamed,46.0717016,10.5412025,cross,memorial:cross,
+memorial_id_5036016186,Unnamed,45.9831577,10.8801419,,memorial,
+memorial_id_5036111244,I sentieri dell'amicizia,46.404962,11.825388,war_memorial,memorial:war_memorial,
+memorial_id_5037259449,6° Alpini Battaglione Sette Comuni,46.0073283,11.5644902,,memorial,
+memorial_id_5068234115,Obelisco di Val Miniera,46.3377863,11.7584727,,memorial,
+memorial_id_5078806521,Monumento Legionari Cecoslovacchi,45.9258335,10.8892472,,memorial,
+memorial_id_5085148165,Unnamed,45.8693472,10.9105364,,memorial,
+memorial_id_5114871245,Unnamed,45.8845225,10.8411079,statue,memorial:statue,
+monument_id_5145424181,Castello di Pergine,46.0592803,11.2492931,,castle,
+memorial_id_5248261677,Altare a Cesare Battisti,45.814725,11.1245826,,memorial,
+monument_id_5266511326,"Monumento ai ""Piloti di Montagna""",45.8811294,11.036181,,monument,Monumento ai piloti di montagna che hanno combattuto durante la seconda guerra mondiale
+monument_id_5271597193,Monumento ai caduti della I° guerra mondiale,45.8554307,11.0600442,,monument,
+memorial_id_5303540656,Targa d'ingresso di casa Ganarin,46.1169095,10.7572449,plaque,memorial:plaque,
+memorial_id_5310729531,Vecchio segnale di ingresso Sud del paese,46.1167909,10.7573585,plaque,memorial:plaque,
+memorial_id_5310729532,Vecchio segnale di ingresso Nord del paese,46.1186204,10.7589119,plaque,memorial:plaque,
+monument_id_5375949317,Cannone Alpino,45.7583139,11.0085745,,monument,
+monument_id_5389468391,Pietra Miliare,45.7589351,10.9967911,,monument,
+monument_id_5389482524,Statua di Papa Giovanni XXIII,45.7565445,11.0007999,,monument,
+monument_id_5391147330,Capitello Antico,45.77051,11.0027339,,monument,
+monument_id_5393716171,Unnamed,46.0632038,11.24169,,monument,
+monument_id_5401488516,Unnamed,46.0844761,10.9191661,,monument,
+memorial_id_5414546798,Ai Caduti,46.0400193,10.8755332,war_memorial,memorial:war_memorial,
+memorial_id_5580427135,Unnamed,45.9893832,11.6657386,war_memorial,memorial:war_memorial,
+memorial_id_5580611516,Unnamed,45.9906877,11.6688366,war_memorial,memorial:war_memorial,TEZZE AI SUOI CADUTI
+monument_id_5602471270,Monumento Gianni Caproni,45.9154683,10.8847481,,monument,Gianni Caproni Pioniere dell'Aeronautica
+memorial_id_5633422584,Unnamed,46.1980753,11.2932693,,memorial,
+memorial_id_5647427114,Unnamed,45.8647695,10.8046394,stele,memorial:stele,
+monument_id_5647579029,Unnamed,46.0673236,11.2455496,,monument,
+monument_id_5649181087,Unnamed,46.0667083,11.1604544,,monument,
+memorial_id_5712367909,Monumento ai caduti,46.037736,11.1068344,war_memorial,memorial:war_memorial,
+monument_id_5747778029,Castel Belvedere,46.1120109,11.238182,,castle,
+memorial_id_5749265914,Unnamed,46.3479941,10.7884602,war_memorial,memorial:war_memorial,
+monument_id_5761760124,Castel Cagnò,46.3888943,11.0369226,,castle,
+memorial_id_5773580591,Unnamed,46.0741976,11.4905983,stele,memorial:stele,
+monument_id_5812752537,Regole per i Jumper,45.9933548,10.9007299,,monument,
+memorial_id_5853271710,Unnamed,46.0673382,11.2456154,,memorial,
+monument_id_5865319476,Unnamed,46.0877376,11.295532,,monument,
+memorial_id_5898760565,Caduti Guerre Mondiale,45.889092,10.8615395,,memorial,
+memorial_id_5968629885,Unnamed,46.1645545,10.7649519,war_memorial,memorial:war_memorial,
+memorial_id_5968629886,Ai Caduti,46.1644632,10.7647356,war_memorial,memorial:war_memorial,
+monument_id_6021774388,Castello di Mostizzolo,46.3939367,11.0141545,,castle,
+monument_id_6090239908,Unnamed,46.2164418,11.1180186,,monument,
+memorial_id_6091059026,Monumento ai caduti di Dimaro e Carciato,46.3263274,10.8762324,war_memorial,memorial:war_memorial,
+memorial_id_6091068389,Monumento ai caduti,46.3219421,10.8720387,war_memorial,memorial:war_memorial,
+memorial_id_6092537711,Unnamed,46.3258522,10.8745379,plaque,memorial:plaque,Qui dove nacque viva perenne la memoria di Giovanni Serra che alla cura delle malattie dei tropici dedicò studio e fatiche Dimaro 8.1.1894 Modena 2.10.1959 il Comune pose nel 1983
+monument_id_6105527131,Monumento ai Caduti della Prima Guerra Mondiale,46.2369393,10.5812434,,monument,
+memorial_id_6106678877,Monumento ai caduti di Agnedo,46.0512365,11.5303107,war_memorial,memorial:war_memorial,
+monument_id_6124676295,Monumento ai caduti,46.0439904,11.5506206,,monument,
+monument_id_6184192633,Unnamed,46.375437,11.0760534,,monument,
+monument_id_6239423185,Unnamed,46.0062084,11.1281356,,monument,
+monument_id_6239423186,Unnamed,46.0062452,11.1281564,,monument,
+monument_id_6239423190,Don Dario Trentini,46.0064671,11.1277695,,monument,
+memorial_id_6263951899,DUKW 25 MIA Americans 1945,45.8695117,10.8748777,stele,memorial:stele,
+memorial_id_6263951900,Col. William O. Darby,45.8695757,10.8749428,stele,memorial:stele,
+memorial_id_6304404726,Ai combattenti del XXIX° Reparto d'Assalto - 23/5/1918,45.8237311,11.052672,yes,memorial:yes,"AI COMBATTENTI 
+DEL XXIX°
+REPARTO D'ASSALTO
+CHE QUI CADDERO
+IL 23 - 5 - 1918"
+memorial_id_6341426155,Unnamed,46.141536,10.9652232,,memorial,
+memorial_id_6534666053,Unnamed,45.8230859,10.9826348,plaque,memorial:plaque,1703 - 2003 Da qui passarono i francesi
+monument_id_6604430824,Unnamed,45.9270165,10.8914006,,monument,
+memorial_id_6611503195,Unnamed,46.3273616,10.7061037,plaque,memorial:plaque,Questa la casa avita di Giacomo Matteotti propugnò i diritti dei lavoratori affrontando consapevole il martirio oggi nel mondo intero simbolo di giustizia sociale e di libertà
+memorial_id_6620387292,Lon ai suoi caduti,46.0844752,10.9932699,war_memorial,memorial:war_memorial,
+memorial_id_6634749766,Sito Ritrovamento Alpino,46.4011465,11.7919329,,memorial,
+memorial_id_6704376050,Unnamed,46.2813322,10.580416,stone,memorial:stone,AI CADUTI DELL'ALBIOLO E DELLA CADI'
+memorial_id_6724217636,Unnamed,46.0064892,11.1635562,war_memorial,memorial:war_memorial,A RICORDO / DEI SOLDATI / DEL 61° REGGIMENTO FANTERIA BRIGATA SICILIA / CHE QUI CADDERO COMBATTENDO / IL 25 LUGLIO 1866 / PER LA REDENZIONE DI TRENTO / I TRENTINI FINALMENTE REDENTI / QUESTO CIPPO VOLLERO / CONSACRATO / GIUGNO 1924
+monument_id_6726222588,La trincea 2425m,46.3440708,11.7301507,,monument,
+monument_id_6738014493,Castel Penede,45.8740886,10.8860791,,castle,
+monument_id_6751934834,Unnamed,45.7943952,11.1843284,,monument,
+monument_id_6751979044,Unnamed,45.7955799,11.1757536,,monument,
+monument_id_6751987676,Unnamed,45.7940249,11.1767313,,monument,
+monument_id_6774850960,Busto di Clementino Vannetti,45.8856609,11.0091832,bust,monument:bust,
+memorial_id_6812119433,Unnamed,46.2048236,11.0860795,plaque,memorial:plaque,
+monument_id_6854160701,Unnamed,46.0074336,11.1294769,,monument,
+memorial_id_6919175143,Gianantonio Manci,46.0695481,11.1238772,plaque,memorial:plaque,
+memorial_id_6919188295,Giovanni Peterlongo,46.0696406,11.1201547,plaque,memorial:plaque,
+memorial_id_7146805203,Unnamed,46.0064952,11.1279591,plaque,memorial:plaque,
+memorial_id_7146805204,Unnamed,46.0041359,11.1304091,plaque,memorial:plaque,"IN QUESTA CASA NACQUE GUIDO POLI
+MEDAGLIA D'ORO CADUTO PER LA PATRIA
+ADDI XX GIUGNO MCMXVII"
+memorial_id_7146805207,Unnamed,46.0063534,11.1275202,plaque,memorial:plaque,"AL FANTE D'ITALIA CHE ENTRANDO PRIMO PER QUESTA VIA IL MEZZODÌ 3 NOVEMBRE 1918 FUGÒ LA BARBARIE AUSTRIACA E PORTÒ LA REDENZIONE
+- IL PAESE -"
+memorial_id_7252839012,Stele,45.7880045,10.9855048,stele,memorial:stele,FC
+memorial_id_7347505004,Unnamed,45.8911953,11.0349027,,memorial,
+memorial_id_7347567490,Unnamed,45.8910695,11.0351779,,memorial,
+memorial_id_7418607483,Erminio Azzolini,45.7572688,11.0205209,stone,memorial:stone,Memoria del comandante dei Vigili del fuoco deceduto in incendio boschivo
+memorial_id_7433417716,Statua a Padre Eusebio Chini,46.3064683,11.0754859,statue,memorial:statue,
+memorial_id_7500454049,Tomaso Lorenzi Anzol 23 giugno 1962,46.1156978,10.7106211,,memorial,
+memorial_id_7500549336,Nicolò Collini,46.1177198,10.71583,,memorial,
+memorial_id_7510041620,Unnamed,46.0467945,10.8876809,war_memorial,memorial:war_memorial,Monumento ai caduti
+monument_id_7644727580,Monumento ai caduti,45.8699882,11.0733351,,monument,
+memorial_id_7661089441,Unnamed,46.4104775,10.8188369,stele,memorial:stele,
+monument_id_7669722067,Unnamed,46.2853509,11.0375288,,monument,
+memorial_id_7709872270,Monumento alle vittime della frana di Venzan,46.2876463,11.5293487,yes,memorial:yes,ALLA MEMORIA dei 55 LAVORATORI TRAVOLTI nel FRANAMENTO avvenuto il GIORNO 19-1-1917 alle Ore 16:30
+memorial_id_7782176089,Unnamed,46.4015689,10.8462057,,memorial,
+memorial_id_7836853940,Bruno Federspiel,46.3959778,11.7614436,,memorial,Bruno Federspiel 1903-1983
+monument_id_7930996418,Unnamed,45.8973599,10.852296,,monument,
+memorial_id_7968757999,Unnamed,46.1168792,11.5465577,plaque,memorial:plaque,
+monument_id_7986243372,Unnamed,45.9113172,10.8125873,,monument,
+memorial_id_7994350189,Iscrizione,45.9009527,11.0205714,stele,memorial:stele,
+monument_id_8010529588,Unnamed,45.9206051,10.889669,,monument,
+memorial_id_8024868062,caduti delle guerre,45.8495128,10.5759035,,memorial,
+monument_id_8072204335,Unnamed,45.9140149,10.8456403,,monument,
+memorial_id_8080814090,Monumento ai caduti di Croviana,46.3457486,10.9046208,war_memorial,memorial:war_memorial,
+memorial_id_8168856642,Monumento ai caduti di Villa,46.0557041,11.5216709,war_memorial,memorial:war_memorial,
+monument_id_8231895105,Unnamed,45.9709159,10.9436231,,monument,
+memorial_id_8394011847,"Ranzo, ai suoi caduti",46.0639661,10.9430593,war_memorial,memorial:war_memorial,
+monument_id_8447541917,Unnamed,45.8847874,11.0178617,,monument,
+monument_id_8500637107,Unnamed,46.2077623,11.0912172,,monument,
+memorial_id_8501370515,Cannone della Batteria Battisti,46.0729416,11.1133084,war_memorial,memorial:war_memorial,
+memorial_id_8501370516,Cannone della Batteria Battisti,46.0729602,11.1133675,war_memorial,memorial:war_memorial,
+memorial_id_8501370517,Cannone della Batteria Battisti,46.0729751,11.1134077,war_memorial,memorial:war_memorial,
+monument_id_8584485809,Unnamed,46.2475043,11.0262555,,monument,
+memorial_id_8641598649,Unnamed,46.2225979,11.0828447,,memorial,
+memorial_id_8669878498,Unnamed,46.2581706,11.0326526,,memorial,
+monument_id_8669878778,Unnamed,46.2568613,11.0372311,,monument,
+monument_id_8669878779,Unnamed,46.2495928,11.0473913,,monument,
+memorial_id_8678727525,Unnamed,45.9947677,11.2172945,,memorial,
+memorial_id_8678741742,monumento ai caduti di Vattaro,45.9932153,11.2252235,war_memorial,memorial:war_memorial,
+monument_id_8712274647,Unnamed,46.236962,11.0330562,,monument,
+monument_id_8733760706,Unnamed,46.0022158,11.223773,,monument,
+memorial_id_8740712310,Casa natale Santa Paolina,46.0064135,11.198931,,memorial,
+monument_id_8750410660,Unnamed,46.0052187,11.1953024,,monument,
+memorial_id_8781408473,Monumento ai Caduti di Ville e Valternigo,46.1672361,11.158139,,memorial,
+monument_id_8806228526,Unnamed,45.8855112,10.8418535,,monument,
+monument_id_8841258257,Unnamed,45.8965654,10.7196536,,monument,
+monument_id_8841958362,Unnamed,45.8928622,10.7241795,,monument,
+memorial_id_8867383963,Unnamed,45.8994078,10.7246216,plaque,memorial:plaque,
+memorial_id_8867383964,Unnamed,45.8991463,10.7246886,plaque,memorial:plaque,
+memorial_id_8901885521,Unnamed,45.9035509,10.6724348,,memorial,
+monument_id_8976347881,Unnamed,45.9418047,10.8853646,,monument,
+memorial_id_8993502909,Unnamed,46.2985866,11.8052722,,memorial,
+memorial_id_9006986500,Luigi Negrelli,46.1747632,11.8275899,statue,memorial:statue,
+monument_id_9019710264,Unnamed,45.9352121,10.970542,,monument,
+memorial_id_9025304483,Tenente Felix Hecht,45.932331,10.6917854,stele,memorial:stele,
+memorial_id_9028928724,Unnamed,46.4104139,10.9683157,war_memorial,memorial:war_memorial,
+memorial_id_9050069647,Unnamed,46.1477907,11.4881627,,memorial,
+memorial_id_9059539505,Unnamed,46.0526604,11.3356694,war_memorial,memorial:war_memorial,
+monument_id_9065748210,Unnamed,45.9570377,10.9045782,,monument,
+monument_id_9078565409,Unnamed,45.9510971,10.900975,,monument,
+monument_id_9091051113,monumento ai caduti,46.3923724,11.1368501,,monument,
+monument_id_9125622460,Unnamed,45.8677531,10.8772512,,monument,
+memorial_id_9135733179,Targa caduti slavina 1916,46.0795204,10.6126078,plaque,memorial:plaque,
+memorial_id_9146936173,Unnamed,46.0964776,10.6011966,plaque,memorial:plaque,
+memorial_id_9157804244,Unnamed,46.0079373,10.9348803,,memorial,
+memorial_id_9423182183,Benedetti G.,45.8597259,10.9407899,war_memorial,memorial:war_memorial,
+memorial_id_9425792640,Agli Alpini,46.1186102,11.6885562,,memorial,
+memorial_id_9432228527,Unnamed,46.0111404,11.3024288,plaque,memorial:plaque,A MEMORIA / DEL GIORNO III NOVEMBRE MCMXVIII / ULTIMO DELLA SCHIAVITÙ / DEL TRENTINO / PRIMO DELLA NUOVA GRANDEZZA / D'ITALIA / LA CITTÀ DI LEVICO / ACCLAMANTE / ALL'ESERCITO LIBERATORE / POSE
+memorial_id_9432244934,Giulio Avancini,46.0112545,11.3023408,plaque,memorial:plaque,"IN QUESTA CASA / NACQUE / GIULIO AVANCINI / ALPINO, VOLONTARIO DI GUERRA / CADUTO PER LA PATRIA / ADDÌ XVI - VII - MCMXV. / A.N.A. / GRUPPO / DI LEVICO / A. XIII"
+monument_id_9460735350,Colonna della Madonnina,45.9137009,11.1877146,,monument,
+monument_id_9466196704,"Capitello di S. Rocco o ""delle guardie""",45.9460725,10.9029744,,monument,
+memorial_id_9466562491,lapide in ricordo di Don Giacomelli,46.2471944,11.6611892,,memorial,
+memorial_id_9530003077,Ex Cimitero Militare,46.2885204,11.5628697,cemetery,memorial:cemetery,
+memorial_id_9530030824,Ex Cimitero Militare,46.226671,11.5934941,cemetery,memorial:cemetery,
+monument_id_9535501985,monumento ai caduti,46.0532321,11.4938356,,monument,
+memorial_id_9547365976,Unnamed,45.9419831,10.6774369,,memorial,
+memorial_id_9561237552,Unnamed,45.7782678,11.0145899,plaque,memorial:plaque,"MARANI ESULTANTE 
+AL
+PRODE GEN. CANTORE
+CON ANIMO GRATO
+24 GIUGNO 1923"
+monument_id_9623611542,madonnina,45.8762399,10.9303908,,monument,
+memorial_id_9623744018,Maybe 1945,45.8945755,10.9207001,plaque,memorial:plaque,Aereo militare statunitense
+memorial_id_9645823021,famiglia Martini,45.9350135,11.0947092,plaque,memorial:plaque,
+memorial_id_9705325731,Unnamed,46.1385736,11.1185335,,memorial,2 ottobre 1809
+memorial_id_9790642399,Lapide Maria Andreatta,46.1791509,11.2977449,stone,memorial:stone,
+memorial_id_9796103964,Croce Anton Lazzeri,46.2088824,11.3510302,,memorial,
+memorial_id_9796136963,Croce Bruno Politzki,46.1905064,11.3661114,,memorial,
+memorial_id_9796983875,Unnamed,45.8695352,10.7788015,,memorial,
+memorial_id_9812767117,Unnamed,46.1893123,11.286208,,memorial,Dario Giacomozzi
+memorial_id_9812767118,Unnamed,46.188333,11.2856168,,memorial,Narciso Andreatta
+monument_id_9817164614,Unnamed,46.1755428,11.8284244,,monument,
+memorial_id_9840559601,Umberto Laezza,45.8848412,11.038695,plaque,memorial:plaque,1957 - 2015 Qui con i suoi amici istante dopo istante eroi
+memorial_id_9893557583,Unnamed,46.3999044,11.0045014,war_memorial,memorial:war_memorial,
+memorial_id_9942573357,Unnamed,45.8813153,10.7515845,war_memorial,memorial:war_memorial,
+memorial_id_9965338367,Unnamed,45.8717159,10.7744604,plaque,memorial:plaque,"In questa casa nacque
+addì 17 aprile 1798
+ANDREA MAFFEI
+poeta e filosofo insigne
+patriota sincero
+
+I cittadini di Molina redenta
+grati e memori del nobile esempio
+a imperitura memoria
+1920"
+memorial_id_9967136087,Unnamed,45.8711095,10.7751932,plaque,memorial:plaque,
+memorial_id_9969540562,Monumento a Giovanni Battista Righi,46.2315412,10.8274202,bust,memorial:bust,
+memorial_id_9969872697,Unnamed,46.0732306,10.9790754,plaque,memorial:plaque,Amadio Faes
+memorial_id_9974359353,Unnamed,45.8703718,10.7721186,plaque,memorial:plaque,
+monument_id_9982530994,Unnamed,46.3938263,11.1464058,,monument,
+monument_id_9983348719,El Ciuarol,45.8666104,10.7879299,,monument,"El Ciuarol
+Maestro di lavoro e di vita"
+memorial_id_10039737762,Andreas Hofer,46.1384886,11.1182848,,memorial,
+memorial_id_10156538101,Unnamed,46.1115666,11.1710709,,memorial,
+memorial_id_10259107268,Unnamed,46.0137532,11.2979217,,memorial,
+monument_id_10268577721,Unnamed,46.0489526,10.8739427,,monument,
+memorial_id_10284696206,Unnamed,45.9755274,11.5963697,plaque,memorial:plaque,Minati Adriano ...etc...
+monument_id_10561669462,Unnamed,45.912064,11.230753,,monument,
+memorial_id_10574663066,Unnamed,46.1072449,11.1039349,plaque,memorial:plaque,Bernardino Rossi
+monument_id_10694782481,150° C. Alpini,45.8210273,10.9787279,,monument,
+memorial_id_10721716573,Unnamed,46.1250436,11.1175069,war_memorial,memorial:war_memorial,
+memorial_id_10743822350,Unnamed,46.2925392,11.5080573,sculpture,memorial:sculpture,
+memorial_id_10870040228,Unnamed,46.0751677,11.0027526,war_memorial,memorial:war_memorial,1915-1918 - Im Gedenken an unsere Tiroler Standschützen
+memorial_id_10883748382,Terzo Mistero Gauduioso: la Natività,46.0950673,11.2337096,statue,memorial:statue,
+memorial_id_10883748386,Quarto Mistero Gaudioso: Presentazione al Tempio,46.0946409,11.232976,statue,memorial:statue,
+memorial_id_10905218488,Unnamed,46.0684502,11.1190432,,memorial,"Per Agitu, per tutte le donne vitime di violenza. Trento non dimentica"
+memorial_id_10917670306,Caduti in Venezia Giulia e Dalmazia,46.066606,11.1259405,plaque,memorial:plaque,
+memorial_id_10917670307,Divisione Acqui,46.066232,11.1257303,plaque,memorial:plaque,
+memorial_id_10917670311,Unnamed,46.065802,11.1249299,sculpture,memorial:sculpture,Il lavoro è per l'uomo e non l'uomo per il lavoro
+memorial_id_10924190730,Unnamed,46.1083514,11.142084,war_memorial,memorial:war_memorial,
+memorial_id_10933996782,Pedretti Lino,46.040916,10.5017981,,memorial,Pedretti Lino
+memorial_id_10933996783,stele 5 luglio 1915,46.040885,10.5009391,war_memorial,memorial:war_memorial,5 luglio 1915 - ai fratelli d'arma
+memorial_id_10968840680,FAR 149 BATT 5 1918,45.8898631,10.9224968,stele,memorial:stele,
+memorial_id_10969373218,Alessandro Spagolla,46.0534629,11.4573591,stele,memorial:stele,in questa casa nacque e visse il garibaldino Alessandro Spagolla
+monument_id_10989708456,Palazzo a Prato,46.1829606,11.2509763,,castle,
+memorial_id_10991708175,Ciao Silvano,46.0065937,10.7700972,campana_del_vento,memorial:campana_del_vento,Silvano Fedel
+memorial_id_11006215993,Unnamed,46.0749295,11.3020644,war_memorial,memorial:war_memorial,
+memorial_id_11007033090,Unnamed,46.4093866,11.1678391,plaque,memorial:plaque,
+memorial_id_11007033096,Unnamed,46.4092818,11.1674898,plaque,memorial:plaque,
+memorial_id_11010866042,Leggenda del Bus de Vela,46.0666311,11.1216208,stone,memorial:stone,Apriti o croz che i renderei mi sono addos
+memorial_id_11017964911,Francesco de Gerloni,46.0706637,11.1297678,plaque,memorial:plaque,
+memorial_id_11017964912,Damiano Chiesa,46.0706514,11.1297264,plaque,memorial:plaque,[segue] Qui condannato a morte dal tribunale di guerra dell'XI Armata austriaca il 19 maggio del 1916
+memorial_id_11017964913,Cesare Battisti,46.0706605,11.1297764,plaque,memorial:plaque,
+monument_id_11037124962,Unnamed,45.94942,11.2037969,,monument,
+memorial_id_11054811552,San Maurizio,46.4301752,11.8161017,statue,memorial:statue,
+memorial_id_11135786365,Piercarlo Bordin,46.2817165,10.937293,,memorial,
+memorial_id_11140711171,Gianni Kaisermann,46.2435032,10.9190175,stone,memorial:stone,
+memorial_id_11158539696,Terlago ai suoi caduti,46.0974603,11.0454426,war_memorial,memorial:war_memorial,
+memorial_id_11163209355,Stele commemorativa della strada militare di val Regana (sett. 1917),46.2027649,11.637589,stele,memorial:stele,8° Alpini B.ne Val. Natisone. La 216a compagnia trasse la strada fino a quota 2848 munì le inviolabili cime del massiccio d'Asta. Sett. 1917
+memorial_id_11175560212,Unnamed,46.0587684,11.1272696,plaque,memorial:plaque,
+memorial_id_11182801201,Unnamed,46.1247326,11.6676387,plaque,memorial:plaque,"Quì vola l'anima del dott. Rino Ballerin ideatore del ""Trodo Dei Fiori"" 1922-2008"
+memorial_id_11209855744,lapide,45.8520889,10.9070535,stone,memorial:stone,
+memorial_id_11209855745,lapide,45.8521141,10.9071182,stone,memorial:stone,
+memorial_id_11209855746,lapide,45.8521651,10.9071221,stone,memorial:stone,
+memorial_id_11224446463,Lapide di Marco Apuleio,46.071239,11.1149827,plaque,memorial:plaque,
+memorial_id_11244181412,Unnamed,46.0621204,11.23763,,memorial,
+memorial_id_11276083822,Memoriale dei serbi,45.9122456,10.9779981,war_memorial,memorial:war_memorial,"Prima guerra mondiale
+1914-1918
+Cimitero dei Serbi
+alla e per la memoria"
+memorial_id_11409644521,Unnamed,45.8894414,10.6705476,plaque,memorial:plaque,"Magazzino d'armi e viveri
+dell'esercito 
+napoleonico.
+Waffen und
+provianzlager
+vom napoleonichen heer"
+memorial_id_11409644524,Unnamed,45.8898037,10.6713777,plaque,memorial:plaque,"ANTICA CASA MERCANTILE
+DELLA REPUBBLICA
+DI VENEZIA
+ALTES HANDELSHAUS
+DER
+VENETIANICHEN REPUBLIK"
+memorial_id_11409644550,Unnamed,45.8902539,10.6721748,plaque,memorial:plaque,"IN QUESTA CASA NACQUE E SI SPENSE
+COSTANTINO RIBAGA
+LAUREATO IN SCIENZE NATURALI
+FU INSIGNE STUDIOSO DI
+ENTOMOLOGIA ALLE UNIVERSITA' DI
+WIENNA NAPOLI E FIRENZE SCOPRI' E
+DETTE IL NOME A SPECIE NUOVE DI INSETTI
+1870 - 1945"
+memorial_id_11409657469,Unnamed,45.8904308,10.6725068,plaque,memorial:plaque,"QUI NACQUE NEL 1800
+MARTINO RIBAGA
+DETTO IL GIGANTE DEI BARCHI
+ALTO SEI PIEDI E MEZZO SOLLEVAVA UN
+SOMARO CARICO DI SACCHI DI GRANO
+CADUTO IN MANO A UNO SPECULATORE
+FU PORTATO AD ESIBIRSI IN TUTTA EUROPA
+MORI' IN FRANCIA A SOLI 23 ANNI"
+memorial_id_11418357088,Unnamed,46.3091448,10.7419963,,memorial,
+monument_id_11435107932,Monumento ai caduti,46.0786005,10.7197862,,monument,
+memorial_id_11449067646,Unnamed,45.9675365,11.3561165,war_memorial,memorial:war_memorial,
+memorial_id_11457474194,Lapide,45.8578405,10.9099672,stone,memorial:stone,Maddalena Mario
+memorial_id_11457474195,Lapide,45.8578466,10.9099834,stone,memorial:stone,Bontadi Ivo
+memorial_id_11497450547,Unnamed,45.8937348,10.6862978,war_memorial,memorial:war_memorial,Tiarno per la pace
+monument_id_11505365811,Unnamed,45.9487745,10.6460831,,monument,
+memorial_id_11519263051,Unnamed,45.8992556,10.7252618,plaque,memorial:plaque,
+memorial_id_11521761384,Unnamed,46.0698372,11.667561,war_memorial,memorial:war_memorial,
+memorial_id_11533207349,Unnamed,45.9118903,10.7262264,plaque,memorial:plaque,"GARIBALDI
+FIN QUI GIUNSE
+PER OSSERVARE
+LA FUGA
+DEGLI AUSTRO-CROATI
+SCONFITTI A BEZZECCA"
+memorial_id_11577699809,Pietra d'inciampo Remo Ballardini,45.8869654,10.8423177,stolperstein,memorial:stolperstein,"QUI LAVORAVA
+REMO BALLARDINI
+NATO 1892
+ARRESTATO 28.6.1944
+MORTO IN SEGUITO
+19.10.1944
+RIVA DEL GARDA"
+memorial_id_11577699810,Pietra d'inciampo Eugenio Impera,45.8859585,10.8459595,stolperstein,memorial:stolperstein,"QUI ABITAVA
+EUGENIO IMPERA
+NATO 1925
+ASSASSINATO 28.6.1944
+RIVA DEL GARDA"
+memorial_id_11577699823,Pietra d'inciampo Antonio Gambaretto,45.8874784,10.8466311,stolperstein,memorial:stolperstein,"QUI LAVORAVA
+ANTONIO GAMBARETTO
+NATO 1913
+ASSASSINATO 28.6.1944
+RIVA DEL GARDA"
+memorial_id_11577699824,Pietra d'inciampo Enrico Meroni,45.8890643,10.844778,stolperstein,memorial:stolperstein,"QUI ABITAVA
+ENRICO MERONI
+NATO 1925
+ASSASSINATO 28.6.1944
+RIVA DEL GARDA"
+memorial_id_11577699833,Pietra d'inciampo Augusto Betta,45.8868531,10.8437202,stolperstein,memorial:stolperstein,"QUI ABITAVA
+AUGUSTO BETTA
+NATO 1899
+ASSASSINATO 28.6.1944
+RIVA DEL GARDA"
+memorial_id_11577699834,Pietra d'inciampo Gastone Franchetti,45.8872631,10.8447041,stolperstein,memorial:stolperstein,"QUI LAVORAVA
+GASTONE FRANCHETTI
+NATO 1920
+ARRESTATO 29.6.1944
+FUCILATO 29.8.1944
+BOLZANO"
+memorial_id_11577699850,Pietra d'inciampo Vincenzo Cicala,45.88627,10.8392266,stolperstein,memorial:stolperstein,"QUI ABITAVA
+VINCENZO CICALA
+NATO 1886
+ARRESTATO 12.9.1944
+DEPORTATO
+MAUTHAUSEN
+ASSASSINATO 29.1.1945
+MELK"
+memorial_id_11577699851,Pietra d'inciampo Antonio Bosco,45.8854471,10.8388046,stolperstein,memorial:stolperstein,"QUI ABITAVA
+ANTONIO BOSCO
+NATO 1914
+ARRESTATO 29.6.1944
+FUCILATO 24.8.1944
+BOLZANO"
+monument_id_11708140507,Unnamed,46.0082117,11.1536064,,monument,
+memorial_id_11727717091,Contrada della Terra,45.8879663,11.0452307,plaque,memorial:plaque,
+memorial_id_11727732392,Damiano Chiesa,45.8887281,11.0451548,plaque,memorial:plaque,
+memorial_id_11727732393,Antonio Rosmini,45.888775,11.0454045,plaque,memorial:plaque,
+memorial_id_11727732394,Vicolo Di San Giuseppe,45.8885957,11.0454648,plaque,memorial:plaque,
+monument_id_11775248762,Unnamed,45.9228863,10.9025175,,monument,
+memorial_id_11801502227,Gambaretto Loredana,45.7566886,10.9264559,plaque,memorial:plaque,
+memorial_id_11901101342,Unnamed,45.916682,10.9229177,,memorial,
+memorial_id_11907019915,Unnamed,45.9049368,10.9298318,war_memorial,memorial:war_memorial,
+monument_id_11955696873,Unnamed,45.8902631,10.9502991,,monument,
+memorial_id_11985780768,Unnamed,45.6991721,11.1353309,cross,memorial:cross,
+memorial_id_11985797571,Unnamed,45.7018279,11.1348715,plaque,memorial:plaque,"Lavagnoli Mirco|6-8-1973|6-12-2003|Signore Mia Roccia|Salmo 17,3"
+memorial_id_11998445502,Unnamed,45.8685413,10.9373459,plaque,memorial:plaque,
+memorial_id_12016544617,Unnamed,45.8860009,10.8229495,cross,memorial:cross,
+memorial_id_12039274247,Unnamed,45.8660627,10.9544821,,memorial,
+memorial_id_12062827538,Unnamed,46.4344287,11.8509724,plaque,memorial:plaque,"A Paul Grohmann, Angelo e Fulgenzio Dimai. CLI Alpinisti Fassaini. 28-9-1864 - 28-9-1964"
+memorial_id_12062827539,"Marmolèda, Ponta Penia, 1864-2014",46.434428,11.8509711,plaque,memorial:plaque,
+memorial_id_12062827540,Unnamed,46.4342981,11.8505584,plaque,memorial:plaque,1915-1918|Im gedenken an unsere Tiroler Standschützen|In ricordo del nostri Standschützen Tirolesi|En record de nosc Scizeri di Tirol|In memory of our Tyrolean Standschützen
+memorial_id_12073678538,Unnamed,45.9342199,11.2270754,stele,memorial:stele,
+monument_id_12112123446,Unnamed,45.8195663,10.9668138,,monument,
+memorial_id_12124704447,Unnamed,46.4302058,11.8161744,war_memorial,memorial:war_memorial,battaglioni alpini mobilitati e costituiti durante la guerra 1915-1918
+memorial_id_12149287051,"Vinicio Della Vecchia, Don Bartolomeo Del Bianco",46.4514488,11.6361882,plaque,memorial:plaque,
+memorial_id_12151195723,Madonnina del Piva,46.2401453,11.5293372,statue,memorial:statue,Madonnina del Piva
+monument_id_12183880871,Unnamed,45.8079607,10.9707918,,monument,
+memorial_id_12184181387,Piccola croce con targa dedicata ad un ragazzo,45.71949,11.12365,cross,memorial:cross,
+memorial_id_12200968419,Unnamed,45.8127242,10.999036,plaque,memorial:plaque,"MCMXVI
+R.ESERCITO ITALIANO
+I^ARMATA"
+memorial_id_12208681053,Unnamed,45.8185939,10.9573813,plaque,memorial:plaque,
+memorial_id_12262911906,Unnamed,46.0974652,11.0454408,war_memorial,memorial:war_memorial,
+memorial_id_12294506973,Unnamed,46.061831,10.9903628,obelisk,memorial:obelisk,
+memorial_id_12307440121,San Giovanni Nepomuceno,46.1463144,10.7695816,statue,memorial:statue,

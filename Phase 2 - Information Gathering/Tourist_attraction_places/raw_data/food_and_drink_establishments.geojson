@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.1 084b4234",
+  "generator": "Overpass API 0.7.62.4 2390de5a",
   "osm3s": {
-    "timestamp_osm_base": "2024-11-13T15:03:00Z",
-    "timestamp_areas_base": "2024-11-13T11:53:03Z",
+    "timestamp_osm_base": "2025-01-28T18:27:44Z",
+    "timestamp_areas_base": "2025-01-28T11:43:44Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -591,6 +591,7 @@
   "lon": 11.3546478,
   "tags": {
     "amenity": "restaurant",
+    "check_date": "2024-12-03",
     "name": "Pizzeria 4 Venti",
     "wheelchair": "limited"
   }
@@ -791,27 +792,6 @@
 },
 {
   "type": "node",
-  "id": 289225782,
-  "lat": 46.0661234,
-  "lon": 11.1548195,
-  "tags": {
-    "addr:city": "Povo",
-    "addr:housenumber": "14",
-    "addr:postcode": "38123",
-    "addr:street": "Piazza Giannatonio Manci",
-    "amenity": "restaurant",
-    "capacity": "50",
-    "cuisine": "pizza",
-    "email": "info@pizzeriasalesa.it",
-    "name": "Pizzeria Salesà",
-    "opening_hours": "Tu-Fr 12:00-14:00, We,Th,Su 19:00-22:30, Fr,Sa 19:00-23:00",
-    "phone": "+39 0461 810484",
-    "website": "http://www.pizzeriasalesa.it",
-    "wheelchair": "limited"
-  }
-},
-{
-  "type": "node",
   "id": 289227941,
   "lat": 46.0663277,
   "lon": 11.1550680,
@@ -865,16 +845,6 @@
     "operator": "Ristoranti Trentini Associati srl",
     "ref:vatin": "IT00582810222",
     "wheelchair": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 292021803,
-  "lat": 46.0760501,
-  "lon": 11.1467436,
-  "tags": {
-    "amenity": "pub",
-    "created_by": "Potlatch 0.10b"
   }
 },
 {
@@ -2290,10 +2260,16 @@
   "lat": 46.0769884,
   "lon": 11.1181330,
   "tags": {
+    "addr:city": "Trento TN",
+    "addr:housenumber": "30",
+    "addr:postcode": "38122",
+    "addr:street": "Via Fratelli Fontana",
     "amenity": "bar",
+    "image": "https://lh5.googleusercontent.com/p/AF1QipP9tN8bmtU12_WQutubUNAh6UHNmEv5qWNOXk7S=w408-h544-k-no",
     "indoor_seating": "yes",
     "name": "Bar Cristallo",
-    "outdoor_seating": "yes"
+    "outdoor_seating": "yes",
+    "phone": "+39 0461830732"
   }
 },
 {
@@ -2412,8 +2388,10 @@
     "amenity": "restaurant",
     "contact:website": "https://www.burgerfucktory.com/",
     "cuisine": "pizza",
+    "indoor_seating": "yes",
     "name": "Burger Fucktory",
-    "outdoor_seating": "yes"
+    "outdoor_seating": "no",
+    "wheelchair": "no"
   }
 },
 {
@@ -2505,8 +2483,8 @@
 {
   "type": "node",
   "id": 432111591,
-  "lat": 46.0572157,
-  "lon": 11.1180954,
+  "lat": 46.0572431,
+  "lon": 11.1181283,
   "tags": {
     "addr:city": "Trento",
     "addr:country": "IT",
@@ -2779,8 +2757,11 @@
     "addr:street": "Largo Giosuè Carducci",
     "amenity": "restaurant",
     "cuisine": "pizza",
+    "email": "trento@assaje.it",
     "fixme": "prossima apertura settembre 2024",
-    "name": "Assaje"
+    "name": "Assaje",
+    "website": "https://www.assaje.it/locations/trento/",
+    "website:menu": "https://www.assaje.it/menu/"
   }
 },
 {
@@ -5130,16 +5111,6 @@
 },
 {
   "type": "node",
-  "id": 677998379,
-  "lat": 46.0618755,
-  "lon": 11.1524346,
-  "tags": {
-    "amenity": "bar",
-    "name": "Bar Renè"
-  }
-},
-{
-  "type": "node",
   "id": 690739293,
   "lat": 45.8191403,
   "lon": 10.9576765,
@@ -5555,7 +5526,7 @@
   "lon": 11.8667940,
   "tags": {
     "amenity": "cafe",
-    "name": "Bar Al Lago"
+    "name": "Bar Le Guane del Laghetto"
   }
 },
 {
@@ -6507,10 +6478,9 @@
   "tags": {
     "addr:housenumber": "82",
     "addr:street": "Via Giacomo Matteotti",
-    "amenity": "bar",
-    "indoor_seating": "yes",
-    "name": "Bar Alpi",
-    "outdoor_seating": "no"
+    "amenity": "restaurant",
+    "contact:instagram": "https://www.instagram.com/tinka_bar/",
+    "name": "Tinka Bar & Bistrot"
   }
 },
 {
@@ -6757,6 +6727,7 @@
     "addr:street": "Via Camillo Benso Cavour",
     "amenity": "bar",
     "check_date": "2024-06-30",
+    "check_date:currency:XBT": "2025-01-11",
     "currency:XBT": "yes",
     "name": "Locanda del Gatto Gordo",
     "operator": "KIKI S.N.C. di Carlo Villotti & C.",
@@ -7732,11 +7703,11 @@
 {
   "type": "node",
   "id": 905069861,
-  "lat": 45.8852647,
-  "lon": 11.0332574,
+  "lat": 45.8852778,
+  "lon": 11.0332601,
   "tags": {
     "amenity": "bar",
-    "name": "Bar Total"
+    "name": "Le Cinéma Café"
   }
 },
 {
@@ -9978,7 +9949,8 @@
   "lat": 46.1743405,
   "lon": 11.4402491,
   "tags": {
-    "amenity": "cafe"
+    "amenity": "cafe",
+    "name": "Bar passo Manghen"
   }
 },
 {
@@ -10165,6 +10137,31 @@
     "fixme": "check closing day",
     "name": "Bar Gabry",
     "opening_hours": "Mo-Sa 07:00-22:00"
+  }
+},
+{
+  "type": "node",
+  "id": 1167979632,
+  "lat": 46.0638082,
+  "lon": 11.1217157,
+  "tags": {
+    "addr:city": "Trento",
+    "addr:country": "IT",
+    "addr:housenumber": "2/1",
+    "addr:postcode": "38122",
+    "addr:street": "Via 24 Maggio 1915",
+    "amenity": "restaurant",
+    "bar": "yes",
+    "capacity": "35",
+    "cuisine": "pizza",
+    "loc_name": "Duà Pizza & Drink",
+    "name": "Duà Pizza & Drink",
+    "official_name": "Duà Pizza & Drink",
+    "opening_hours": "Mo-Sa 07:00-23:00",
+    "phone": "+39 0461 425895",
+    "takeaway": "yes",
+    "toilets": "yes",
+    "wheelchair": "yes"
   }
 },
 {
@@ -10564,10 +10561,10 @@
     "addr:housenumber": "26",
     "addr:postcode": "38121",
     "addr:street": "Passaggio Benvenuto Maria Disertori",
-    "amenity": "fast_food",
+    "amenity": "restaurant",
     "bar": "yes",
     "contact:facebook": "https://www.facebook.com/ilmagente/",
-    "fast_food": "cafeteria",
+    "cuisine": "italian",
     "name": "Il Magnete",
     "opening_hours": "Mo-Fr 08:30-15:30"
   }
@@ -10758,7 +10755,9 @@
     "contact:phone": "+39 0461 652178",
     "contact:website": "http://www.garnivecchiocomune.com/?ssez=ristorante",
     "cuisine": "regional;pizza",
+    "indoor_seating": "yes",
     "name": "Centrale",
+    "outdoor_seating": "no",
     "ref:vatin": "IT01429390220"
   }
 },
@@ -10836,6 +10835,7 @@
     "amenity": "bar",
     "check_date:opening_hours": "2024-08-20",
     "contact:phone": "+39 0461 984465",
+    "indoor_seating": "yes",
     "name": "Caffè Verdi",
     "opening_hours:signed": "no",
     "outdoor_seating": "yes",
@@ -11862,8 +11862,8 @@
 {
   "type": "node",
   "id": 1388563445,
-  "lat": 46.0485878,
-  "lon": 11.1130815,
+  "lat": 46.0486520,
+  "lon": 11.1130957,
   "tags": {
     "amenity": "cafe",
     "check_date": "2023-11-18",
@@ -12814,6 +12814,7 @@
   "lon": 11.1389063,
   "tags": {
     "amenity": "cafe",
+    "check_date": "2025-01-23",
     "level": "1",
     "name": "Bar di Ingegneria"
   }
@@ -13101,9 +13102,11 @@
     "addr:province": "TN",
     "addr:street": "Via Alessandro Spagolla",
     "amenity": "cafe",
+    "indoor_seating": "yes",
     "level": "0",
     "name": "Bar Vulcano",
     "operator": "Inacio de Lima Severina",
+    "outdoor_seating": "yes",
     "phone": "+39 0461 751162",
     "ref:vatin": "IT02597990221"
   }
@@ -13115,7 +13118,9 @@
   "lon": 11.4638520,
   "tags": {
     "amenity": "cafe",
-    "name": "Bar Miriam"
+    "indoor_seating": "yes",
+    "name": "Cream Cafe",
+    "outdoor_seating": "yes"
   }
 },
 {
@@ -14107,7 +14112,8 @@
   "lat": 45.9965411,
   "lon": 11.2587739,
   "tags": {
-    "amenity": "bar"
+    "amenity": "bar",
+    "name": "Fina"
   }
 },
 {
@@ -15075,23 +15081,6 @@
 },
 {
   "type": "node",
-  "id": 2112857580,
-  "lat": 46.0573733,
-  "lon": 11.1181097,
-  "tags": {
-    "addr:city": "Trento",
-    "addr:country": "IT",
-    "addr:housenumber": "3",
-    "addr:postcode": "38122",
-    "addr:street": "Largo Eugenio Prati",
-    "amenity": "fast_food",
-    "cuisine": "pizza;kebab",
-    "name": "Pizzeria Bella Napoli",
-    "ref:vatin": "IT02338380229"
-  }
-},
-{
-  "type": "node",
   "id": 2113094106,
   "lat": 46.0692978,
   "lon": 11.2246489,
@@ -15324,7 +15313,8 @@
     "addr:postcode": "38068",
     "addr:street": "Piazza delle Erbe",
     "amenity": "bar",
-    "check_date:currency:XBT": "2024-08-31",
+    "check_date": "2024-11-15",
+    "check_date:currency:XBT": "2024-11-15",
     "contact:email": "stellaitalia@icloud.com",
     "contact:facebook": "https://www.facebook.com/snackbarstellaitalia/",
     "contact:mobile": "+39 347 2411070",
@@ -17056,6 +17046,7 @@
     "amenity": "fast_food",
     "brand": "Roadhouse",
     "brand:wikidata": "Q7339591",
+    "check_date": "2024-12-10",
     "contact:website": "http://www.roadhousegrill.it/",
     "name": "Roadhouse Grill"
   }
@@ -18265,9 +18256,11 @@
     "addr:province": "TN",
     "addr:street": "Viale Roma",
     "amenity": "pub",
+    "indoor_seating": "yes",
     "level": "0",
     "name": "Fanny Pub",
     "operator": "Tomio Valter S.A.S.",
+    "outdoor_seating": "yes",
     "ref:vatin": "IT01842340224",
     "smoking": "no",
     "wheelchair": "limited"
@@ -18771,9 +18764,10 @@
   "lat": 45.7341645,
   "lon": 10.9576676,
   "tags": {
-    "FIXME": "name",
     "amenity": "restaurant",
-    "cuisine": "regional"
+    "cuisine": "regional",
+    "fixme": "name",
+    "name": "BarTrattoria Alla Stazione"
   }
 },
 {
@@ -19090,6 +19084,22 @@
     "diet:vegan": "yes",
     "diet:vegetarian": "yes",
     "name": "L'ortica"
+  }
+},
+{
+  "type": "node",
+  "id": 2974737925,
+  "lat": 45.8885855,
+  "lon": 11.0441899,
+  "tags": {
+    "addr:city": "Rovereto",
+    "addr:country": "IT",
+    "addr:housenumber": "2",
+    "addr:postcode": "38068",
+    "addr:street": "Piazza delle Erbe",
+    "amenity": "pub",
+    "microbrewery": "yes",
+    "name": "Mochela"
   }
 },
 {
@@ -20463,8 +20473,10 @@
     "amenity": "cafe",
     "name": "Amodomio",
     "note:it": "Nome bar da aggiornare.",
+    "opening_hours": "Mo 06:30-13:30; Tu-Sa 06:30-13:30,16:30-22:30; Su 07:00-13:30,16:30-22:30",
     "operator": "Pavesi Monica",
-    "phone": "+39 0461 757333"
+    "phone": "+39 0461 757333",
+    "wheelchair": "yes"
   }
 },
 {
@@ -20527,13 +20539,21 @@
     "addr:province": "TN",
     "addr:street": "Via Fratelli",
     "amenity": "restaurant",
+    "check_date": "2025-01-17",
+    "check_date:opening_hours": "2025-01-17",
+    "check_date:smoking": "2025-01-17",
     "cuisine": "regional;seafood",
     "email": "info@ristorante-san-giorgio.it",
     "name": "Ristorante San Giorgio",
+    "opening_hours": "Mo-Sa 09:00-15:00,19:00-22:00; Su,PH off",
     "operator": "Guidi Eric",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
     "phone": "+39 0461 753693",
     "phone2": "+39 347 888 4312",
-    "website": "http://www.ristorante-san-giorgio.it/"
+    "smoking": "no",
+    "website": "http://www.ristorante-san-giorgio.it/",
+    "wheelchair": "yes"
   }
 },
 {
@@ -21094,7 +21114,9 @@
   "lon": 11.4580873,
   "tags": {
     "amenity": "cafe",
-    "name": "Bar Bianco"
+    "indoor_seating": "yes",
+    "name": "Bar Bianco",
+    "outdoor_seating": "yes"
   }
 },
 {
@@ -21110,7 +21132,10 @@
     "addr:province": "TN",
     "addr:street": "Corso Ausugum",
     "amenity": "cafe",
+    "indoor_seating": "yes",
     "name": "Caffè del Corso",
+    "opening_hours": "Mo-Sa 07:00-12:00,16:00-18:00; Su off",
+    "outdoor_seating": "yes",
     "phone": "+39 0461 751214",
     "wheelchair": "limited"
   }
@@ -21129,15 +21154,6 @@
     "amenity": "restaurant",
     "cuisine": "indian",
     "name": "Golden India"
-  }
-},
-{
-  "type": "node",
-  "id": 3852571332,
-  "lat": 46.0524172,
-  "lon": 11.4530471,
-  "tags": {
-    "amenity": "cafe"
   }
 },
 {
@@ -21357,8 +21373,8 @@
 {
   "type": "node",
   "id": 3932910252,
-  "lat": 46.0517960,
-  "lon": 11.4565038,
+  "lat": 46.0518391,
+  "lon": 11.4566525,
   "tags": {
     "addr:city": "Borgo Valsugana",
     "addr:country": "IT",
@@ -21367,13 +21383,16 @@
     "addr:province": "TN",
     "addr:street": "Via Alessandro Spagolla",
     "amenity": "restaurant",
-    "bar": "yes",
     "bar:type": "wine_bar",
-    "cuisine": "regional",
-    "email": "marchese.alborgo@libero.it",
+    "cuisine": "pizza",
+    "indoor_seating": "yes",
     "level": "-1",
-    "name": "Osteria Al Borgo",
-    "phone": "+39 0461 751304"
+    "name": "Pizzeria Ristorante Vulcano",
+    "opening_hours": "We-Fr,Su,Mo 12:00-14:00,18:00-22:30; Sa 18:00-22:30; Tu,PH off",
+    "outdoor_seating": "no",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "wheelchair": "yes"
   }
 },
 {
@@ -21507,8 +21526,8 @@
   "lat": 46.1675851,
   "lon": 11.0041486,
   "tags": {
-    "addr:housenumber": "13/b",
-    "addr:street": "Via Trento",
+    "addr:housenumber": "13b",
+    "addr:street": "Viale Trento",
     "amenity": "bar",
     "name": "Dolci Note",
     "phone": "+39 046 1585383"
@@ -21517,16 +21536,17 @@
 {
   "type": "node",
   "id": 3999916780,
-  "lat": 46.0847412,
-  "lon": 11.1228357,
+  "lat": 46.0845429,
+  "lon": 11.1230069,
   "tags": {
     "addr:city": "Trento",
-    "addr:housenumber": "11",
+    "addr:housenumber": "75",
     "addr:postcode": "38121",
-    "addr:street": "Via Guglielmo Marconi",
+    "addr:street": "Via dei Solteri",
     "amenity": "fast_food",
-    "cuisine": "italian",
-    "name": "Pizza All'Angolo"
+    "cuisine": "pizza",
+    "name": "Pizza All'Angolo",
+    "note": "Indirizzo precedente Via Marconi 11, nell'angolo"
   }
 },
 {
@@ -21692,23 +21712,6 @@
     "name": "Bar Melody",
     "operator": "Murari Mauro Sas",
     "ref:vatin": "IT02534480229"
-  }
-},
-{
-  "type": "node",
-  "id": 4015355005,
-  "lat": 46.0510451,
-  "lon": 11.4451844,
-  "tags": {
-    "addr:city": "Borgo Valsugana",
-    "addr:country": "IT",
-    "addr:postcode": "38051",
-    "addr:province": "TN",
-    "addr:street": "Viale Roma",
-    "amenity": "cafe",
-    "internet_access": "no",
-    "opening_hours": "closed",
-    "outdoor_seating": "yes"
   }
 },
 {
@@ -22056,24 +22059,6 @@
 },
 {
   "type": "node",
-  "id": 4127976297,
-  "lat": 46.0538897,
-  "lon": 11.4576248,
-  "tags": {
-    "addr:city": "Borgo Valsugana",
-    "addr:country": "IT",
-    "addr:housenumber": "36",
-    "addr:postcode": "38051",
-    "addr:province": "TN",
-    "addr:street": "Corso Ausugum",
-    "amenity": "cafe",
-    "name": "Caffè Italia",
-    "phone": "+39 0461 751274",
-    "wheelchair": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 4135182348,
   "lat": 46.0556168,
   "lon": 11.4635757,
@@ -22084,32 +22069,11 @@
     "addr:street": "Via Tommaso Temanza",
     "amenity": "restaurant",
     "cuisine": "pizza;indian",
+    "indoor_seating": "yes",
     "name": "Ristorante Pizzeria Dolomiti",
+    "outdoor_seating": "yes",
     "phone": "0461 082429",
     "takeaway": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 4135182630,
-  "lat": 46.0507117,
-  "lon": 11.4571846,
-  "tags": {
-    "addr:city": "Borgo Valsugana",
-    "addr:country": "IT",
-    "addr:housenumber": "19",
-    "addr:postcode": "38051",
-    "addr:province": "TN",
-    "addr:street": "Via Francesco Naurizio",
-    "amenity": "restaurant",
-    "cuisine": "regional;pizza",
-    "email": "paolomonsorno@virgilio.it",
-    "name": "La Rustica",
-    "phone": "+39 0461 752648",
-    "phone2": "+39 349 363 2569",
-    "ref:vatin": "IT01228900229",
-    "takeaway": "yes",
-    "website": "http://www.ristorantepizzerialarustica.it/"
   }
 },
 {
@@ -22145,18 +22109,15 @@
     "amenity": "fast_food",
     "cuisine:it": "pizza",
     "email": "vintagepizza@hotmail.com",
+    "indoor_seating": "yes",
     "name": "New vintage",
+    "opening_hours": "Mo 11:30-14:00; Tu-Th 11:30-14:00,18:30-21:30; Fr 11:30-14:00,18:30-22:00; Sa 18:30-22:00; Su,PH off",
+    "outdoor_seating": "no",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
     "phone": "+39 0461 757122",
-    "takeaway": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 4149562277,
-  "lat": 46.0555085,
-  "lon": 11.4703321,
-  "tags": {
-    "amenity": "cafe"
+    "takeaway": "yes",
+    "wheelchair": "yes"
   }
 },
 {
@@ -22392,6 +22353,7 @@
     "addr:province": "TN",
     "addr:street": "Piazza Maggiore",
     "amenity": "pub",
+    "indoor_seating": "yes",
     "name": "Pub Celtic",
     "operator": "Baraonda S.R.L.S.",
     "outdoor_seating": "yes",
@@ -22420,8 +22382,10 @@
   "lon": 11.4739960,
   "tags": {
     "amenity": "restaurant",
+    "indoor_seating": "yes",
     "level": "1",
-    "name": "Fiore di cardo"
+    "name": "Risto 3 Ristorante Self Le Valli",
+    "outdoor_seating": "no"
   }
 },
 {
@@ -22431,7 +22395,10 @@
   "lon": 11.4738839,
   "tags": {
     "amenity": "cafe",
-    "level": "1"
+    "indoor_seating": "yes",
+    "level": "1",
+    "name": "Risto 3 Fiore di Cardo",
+    "outdoor_seating": "no"
   }
 },
 {
@@ -22446,13 +22413,19 @@
     "addr:postcode": "38051",
     "addr:province": "TN",
     "addr:street": "Piazza Romani",
+    "air_conditioning": "yes",
     "amenity": "pub",
     "email": "birreriaabsolut@gmail.com",
     "historic": "yes",
+    "indoor_seating": "yes",
     "name": "Birreria Absolut",
+    "opening_hours": "Fr-Tu 11:00-15:00,17:00-24:00, We 09:00-15:00,17:00-24:00; Th off",
     "operator": "Birreria Absolut di Poddebniak Urszula Zofia e C. S.A.S.",
+    "outdoor_seating": "yes",
     "phone": "+39 0461 754738",
-    "ref:vatin": "IT01597170222"
+    "ref:vatin": "IT01597170222",
+    "smoking": "outside",
+    "wheelchair": "yes"
   }
 },
 {
@@ -22467,11 +22440,20 @@
     "addr:postcode": "38051",
     "addr:province": "TN",
     "addr:street": "Piazzale Dante Alighieri",
+    "air_conditioning": "yes",
     "amenity": "cafe",
+    "changing_table": "no",
+    "indoor_seating": "yes",
     "name": "Bar Cusso",
+    "opening_hours": "Mo,We,Th 07:00-01:00, Fr,Sa 07:00-02:00, Su 07:30-01:00; Tu,PH off",
     "operator": "Borgogno Maria",
+    "outdoor_seating": "yes",
     "phone": "+39 0461 751210",
-    "ref:vatin": "IT00582430229"
+    "ref:vatin": "IT00582430229",
+    "smoking": "outside",
+    "toilets": "yes",
+    "toilets:wheelchair": "no",
+    "wheelchair": "limited"
   }
 },
 {
@@ -22488,28 +22470,18 @@
     "addr:street": "Piazza Romani",
     "amenity": "cafe",
     "email": "info@caffemilanoborgo.it",
+    "indoor_seating": "yes",
     "name": "Bar Milano",
+    "opening_hours": "Mo,Tu 07:00-21:00; We 06:30-21:00; Th 07:00-12:00; Fr 08:00-21:00; Sa 07:00-23:00; Su,PH off",
     "operator": "Valerio Adelino & C. SAS",
+    "outdoor_seating": "no",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
     "phone": "+39 0461 752175",
     "ref:vatin": "IT01694550227",
-    "website": "http://caffemilanoborgo.it/"
-  }
-},
-{
-  "type": "node",
-  "id": 4215202561,
-  "lat": 46.0534784,
-  "lon": 11.4566397,
-  "tags": {
-    "addr:city": "Borgo Valsugana",
-    "addr:country": "IT",
-    "addr:housenumber": "6",
-    "addr:postcode": "38051",
-    "addr:province": "TN",
-    "addr:street": "Piazza Alcide De Gasperi",
-    "amenity": "cafe",
-    "name": "Bar del Borgo",
-    "phone": "+39 0461 751035"
+    "smoking": "no",
+    "website": "http://caffemilanoborgo.it/",
+    "wheelchair": "yes"
   }
 },
 {
@@ -22526,30 +22498,10 @@
     "addr:street": "Largo Carlo Dordi",
     "amenity": "cafe",
     "check_date": "2024-08-05",
+    "indoor_seating": "yes",
     "name": "Caffè Roma",
+    "outdoor_seating": "yes",
     "phone": "+39 0461 753375"
-  }
-},
-{
-  "type": "node",
-  "id": 4215202567,
-  "lat": 46.0532688,
-  "lon": 11.4574694,
-  "tags": {
-    "addr:city": "Borgo Valsugana",
-    "addr:country": "IT",
-    "addr:housenumber": "12",
-    "addr:postcode": "38051",
-    "addr:province": "TN",
-    "addr:street": "Piazza Martiri della Resistenza",
-    "amenity": "cafe",
-    "cuisine": "italian",
-    "description:it": "Servizio ristorante specializzato in primi piatti.",
-    "name": "Il ritrovo dei sapori",
-    "phone": "+39 0461 757125",
-    "restaurant": "yes",
-    "restaurant:type:it": "italian",
-    "takeaway": "no"
   }
 },
 {
@@ -22567,28 +22519,12 @@
     "amenity": "fast_food",
     "cuisine": "kebab",
     "email": "saleh.alhamid87@gmail.com",
+    "indoor_seating": "yes",
     "name": "Borgo Kebab",
+    "outdoor_seating": "no",
     "phone": "+39 366 216 7719",
     "takeaway": "yes",
     "website": "https://borgokebab.eatbu.com/"
-  }
-},
-{
-  "type": "node",
-  "id": 4215203888,
-  "lat": 46.0528729,
-  "lon": 11.4582279,
-  "tags": {
-    "addr:city": "Borgo Valsugana",
-    "addr:country": "IT",
-    "addr:housenumber": "15",
-    "addr:postcode": "38051",
-    "addr:province": "TN",
-    "addr:street": "Via Fratelli",
-    "amenity": "cafe",
-    "name": "La Cantinota",
-    "operator": "La Cantinota S.A.S. di Beltrame Manuela e C.",
-    "phone": "+39 0461 753225"
   }
 },
 {
@@ -22605,29 +22541,17 @@
     "addr:street": "Piazza Alcide De Gasperi",
     "amenity": "fast_food",
     "cuisine": "pizza",
+    "indoor_seating": "yes",
     "name": "Pizza al Taglio Titti",
+    "opening_hours": "Tu-Fr 11:00-14:00,17:00-21:00; Sa 17:00-21:30; Su 17:00-21:00; Mo,PH off",
     "operator": "Pizza al Taglio Titti di Campestrin Dario & C. S.N.C.",
+    "outdoor_seating": "yes",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
     "phone": "+39 0461 754174",
-    "takeaway": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 4215205797,
-  "lat": 46.0532599,
-  "lon": 11.4573550,
-  "tags": {
-    "addr:city": "Borgo Valsugana",
-    "addr:country": "IT",
-    "addr:housenumber": "15",
-    "addr:postcode": "38051",
-    "addr:province": "TN",
-    "addr:street": "Piazza Alcide De Gasperi",
-    "amenity": "cafe",
-    "ice_cream": "yes",
-    "name": "Bar Zita",
-    "phone": "+39 340 717 7461",
-    "shop": "confectionery"
+    "smoking": "no",
+    "takeaway": "yes",
+    "wheelchair": "yes"
   }
 },
 {
@@ -24002,24 +23926,6 @@
 },
 {
   "type": "node",
-  "id": 4664024252,
-  "lat": 46.0539087,
-  "lon": 11.4571934,
-  "tags": {
-    "addr:city": "Borgo Valsugana",
-    "addr:country": "IT",
-    "addr:housenumber": "16",
-    "addr:postcode": "38051",
-    "addr:province": "TN",
-    "addr:street": "Corso Ausugum",
-    "amenity": "cafe",
-    "name": "Bar Trento",
-    "phone": "+39 340 194 0096",
-    "wheelchair": "yes"
-  }
-},
-{
-  "type": "node",
   "id": 4695403491,
   "lat": 46.1944253,
   "lon": 11.1329064,
@@ -24032,7 +23938,7 @@
     "name": "Pizzeria Cantuccio",
     "name:en": "Pizzeria Cantuccio",
     "name:it": "Pizzeria Cantuccio",
-    "opening_hours": "Tu-Su 11:30-12:00",
+    "opening_hours": "Tu-Su 12:00-14:30,18:00-22:30",
     "operator": "Volkmer Gertrud Karla",
     "phone": "+39 371 3579272"
   }
@@ -24304,6 +24210,7 @@
   "lon": 11.2182800,
   "tags": {
     "amenity": "bar",
+    "check_date": "2024-12-18",
     "name": "PUB \"La Polveriera\""
   }
 },
@@ -25477,14 +25384,12 @@
     "addr:province": "TN",
     "addr:street": "Via del Maso San Desiderio",
     "amenity": "cafe",
-    "email": "claudio.giongo@gmail.it",
-    "name": "Al Giongo",
-    "phone": "+39 0461 721035",
-    "ref:vatin": "IT01705620225",
-    "restaurant": "yes",
+    "indoor_seating": "yes",
+    "name": "Bar Campiello da Astrid",
+    "opening_hours": "Mo-Fr 05:00-19:30; Sa,Su 06:30-13:00",
+    "outdoor_seating": "no",
     "sells:newsagent": "yes",
-    "sells:tobacco": "yes",
-    "website": "https://www.barcampiello.it/"
+    "sells:tobacco": "yes"
   }
 },
 {
@@ -26096,8 +26001,8 @@
 {
   "type": "node",
   "id": 5873350364,
-  "lat": 45.7355046,
-  "lon": 10.9401864,
+  "lat": 45.7354761,
+  "lon": 10.9403574,
   "tags": {
     "amenity": "restaurant",
     "cuisine": "pizza"
@@ -26876,8 +26781,8 @@
 {
   "type": "node",
   "id": 6438863499,
-  "lat": 46.0698936,
-  "lon": 11.1265215,
+  "lat": 46.0698645,
+  "lon": 11.1265240,
   "tags": {
     "addr:city": "Trento",
     "addr:country": "IT",
@@ -26957,6 +26862,7 @@
     "addr:housenumber": "40/a",
     "addr:street": "Via Giovanni Battista a Prato",
     "amenity": "cafe",
+    "check_date": "2024-12-17",
     "name": "Bar Corallo",
     "operator": "Marinelli,Isabella",
     "ref:vatin": "IT01460970229"
@@ -27295,8 +27201,10 @@
     "addr:street": "Viale Venezia",
     "amenity": "cafe",
     "contact:phone": "+39 348 930 7453",
+    "indoor_seating": "yes",
     "name": "Caffè Noir",
     "operator": "Campestrin Renza",
+    "outdoor_seating": "yes",
     "ref:vatin": "IT02349780227"
   }
 },
@@ -27448,6 +27356,7 @@
     "cuisine": "pizza;regional;italian",
     "name": "Ristorante Maso Limarò",
     "opening_hours": "Mo-Su 11:00-22:00",
+    "outdoor_seating": "yes",
     "phone": "+39 3332093185"
   }
 },
@@ -27882,7 +27791,9 @@
     "brand:wikidata": "Q662845",
     "contact:mobile": "+39 3406294386",
     "cuisine": "pizza",
+    "indoor_seating": "yes",
     "name": "PizzaExpress",
+    "outdoor_seating": "no",
     "payment:cash": "yes",
     "website": "https://www.pizzaexpressvalsugana.com/"
   }
@@ -27966,7 +27877,7 @@
   "lon": 11.1506771,
   "tags": {
     "amenity": "fast_food",
-    "check_date:opening_hours": "2022-11-29",
+    "check_date:opening_hours": "2024-11-20",
     "cuisine": "pizza;italian",
     "fast_food": "cafeteria",
     "name": "Mensa e pizzeria Povo 0",
@@ -28461,11 +28372,11 @@
     "addr:postcode": "38068",
     "addr:street": "Vicolo dei Conciatori",
     "amenity": "restaurant",
+    "contact:instagram": "pizzeria_putipu_trattoria",
     "cuisine": "pizza",
     "diet:vegan": "yes",
     "diet:vegetarian": "yes",
     "facebook": "https://www.facebook.com/PutipuPizzeria",
-    "instagram": "pizzeria_putipu_trattoria",
     "level": "0",
     "name": "Putipù",
     "opening_hours": "Tu-Fr, Su 12:00-14:30,19:00-22:30; Sa: 19:00-22:30; Mo off",
@@ -29408,9 +29319,8 @@
     "amenity": "restaurant",
     "cuisine": "burger;pizza;steakhouse",
     "indoor_seating": "yes",
-    "name": "Jolly Blue",
-    "outdoor_seating": "no",
-    "phone": "+39 329 5422362"
+    "name": "Bella Vita (Ex Gigajoy e Jollyblue)",
+    "outdoor_seating": "no"
   }
 },
 {
@@ -29767,29 +29677,6 @@
 },
 {
   "type": "node",
-  "id": 9176586464,
-  "lat": 45.9032858,
-  "lon": 10.8596261,
-  "tags": {
-    "addr:city": "Riva del Garda",
-    "addr:housenumber": "39",
-    "addr:postcode": "38066",
-    "addr:street": "Località San Tomaso",
-    "amenity": "restaurant",
-    "cuisine": "italian;pizza;regional",
-    "email": "info@albergorolly.it",
-    "image": "https://www.albergorolly.it/assets/images/albergorolly_logo.png",
-    "indoor_seating": "yes",
-    "internet_access": "wlan",
-    "name": "Albergo Rolly;Ristorante Pizzeria Rolly",
-    "outdoor_seating": "no",
-    "phone": "+39 0464 553370",
-    "tourism": "hotel",
-    "website": "https://www.albergorolly.it/"
-  }
-},
-{
-  "type": "node",
   "id": 9178364617,
   "lat": 45.8894932,
   "lon": 11.0448232,
@@ -30001,27 +29888,6 @@
     "outdoor_seating": "yes",
     "self_service": "yes",
     "toilets:access": "permissive"
-  }
-},
-{
-  "type": "node",
-  "id": 9526539431,
-  "lat": 46.0499065,
-  "lon": 11.4569745,
-  "tags": {
-    "addr:city": "Borgo Valsugana",
-    "addr:country": "IT",
-    "addr:housenumber": "4",
-    "addr:postcode": "38051",
-    "addr:province": "TN",
-    "addr:street": "Via Giamaolle, 4",
-    "amenity": "cafe",
-    "name": "Al Nuraghe",
-    "opening_hours": "Mo-Su 06:00-22:00",
-    "outdoor_seating": "yes",
-    "phone": "+39 339 597 7515",
-    "takeaway": "yes",
-    "wheelchair": "yes"
   }
 },
 {
@@ -30900,7 +30766,7 @@
   "lon": 11.0051766,
   "tags": {
     "amenity": "restaurant",
-    "name": "Ristorante al Faggio"
+    "name": "Ristorante al faggio"
   }
 },
 {
@@ -31138,6 +31004,7 @@
   "lon": 11.1152455,
   "tags": {
     "amenity": "fast_food",
+    "check_date": "2025-01-18",
     "cuisine": "kebab;burger",
     "delivery": "yes",
     "name": "Aladin"
@@ -31314,6 +31181,27 @@
     "level": "2",
     "name": "Sushiko",
     "takeaway": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 10629580829,
+  "lat": 46.0879907,
+  "lon": 11.1184295,
+  "tags": {
+    "addr:housenumber": "6",
+    "addr:postcode": "38121",
+    "addr:street": "Via Gemma de Gresti",
+    "amenity": "restaurant",
+    "brand": "Old Wild West",
+    "brand:wikidata": "Q25402475",
+    "cuisine": "american",
+    "delivery": "yes",
+    "name": "Old Wild West",
+    "opening_hours": "Mo-Th,Su 11:30-23:00; Fr-Sa 11:30-25:30",
+    "outdoor_seating": "yes",
+    "phone": "+39 342 8695665",
+    "website": "https://www.oldwildwest.it/code/28076/trento-la-cittadella"
   }
 },
 {
@@ -31909,6 +31797,8 @@
     "addr:street": "Scala della Torre",
     "amenity": "bar",
     "check_date:currency:XBT": "2024-08-31",
+    "contact:facebook": "https://www.facebook.com/leradicirovereto/",
+    "contact:instagram": "https://www.instagram.com/le_radici/",
     "currency:XBT": "yes",
     "currency:XBT:discount": "22%",
     "name": "Le Radici",
@@ -32398,27 +32288,6 @@
     "level": "0",
     "name": "Sushi Daily",
     "takeaway": "yes"
-  }
-},
-{
-  "type": "node",
-  "id": 11522865579,
-  "lat": 46.0879723,
-  "lon": 11.1183625,
-  "tags": {
-    "addr:housenumber": "6",
-    "addr:postcode": "38121",
-    "addr:street": "Via Gemma de Gresti",
-    "amenity": "restaurant",
-    "brand": "Old Wild West",
-    "brand:wikidata": "Q25402475",
-    "cuisine": "american",
-    "delivery": "yes",
-    "name": "Old Wild West",
-    "opening_hours": "Mo-Th,Su 11:30-23:00; Fr-Sa 11:30-25:30",
-    "outdoor_seating": "yes",
-    "phone": "+39 342 8695665",
-    "website": "https://www.oldwildwest.it/code/28076/trento-la-cittadella"
   }
 },
 {
@@ -33648,7 +33517,274 @@
     "cuisine": "pizza;italian;coffee_shop",
     "name": "ristorante Silvana"
   }
+},
+{
+  "type": "node",
+  "id": 12393864533,
+  "lat": 45.9033149,
+  "lon": 10.8596320,
+  "tags": {
+    "addr:city": "Riva del Garda",
+    "addr:housenumber": "39",
+    "addr:postcode": "38066",
+    "addr:street": "Località San Tomaso",
+    "amenity": "restaurant",
+    "cuisine": "italian;pizza;regional",
+    "email": "info@albergorolly.it",
+    "image": "https://www.albergorolly.it/assets/images/albergorolly_logo.png",
+    "indoor_seating": "yes",
+    "internet_access": "wlan",
+    "name": "Ristorante Pizzeria Rolly",
+    "outdoor_seating": "no",
+    "phone": "+39 0464 553370",
+    "website": "https://www.albergorolly.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 12396480704,
+  "lat": 46.2611888,
+  "lon": 11.8001534,
+  "tags": {
+    "amenity": "bar",
+    "name": "Ski cafè"
+  }
+},
+{
+  "type": "node",
+  "id": 12419198930,
+  "lat": 45.7772437,
+  "lon": 11.1232443,
+  "tags": {
+    "amenity": "bar",
+    "name": "Bar Alpino"
+  }
+},
+{
+  "type": "node",
+  "id": 12430843295,
+  "lat": 46.2376308,
+  "lon": 10.8194423,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Super G Italian Mountain Club - Campiglio",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 12431036302,
+  "lat": 46.4862345,
+  "lon": 11.8002636,
+  "tags": {
+    "addr:housenumber": "126",
+    "addr:postcode": "38032",
+    "addr:street": "Strada del Pordoi",
+    "amenity": "restaurant",
+    "diet:vegan": "yes",
+    "diet:vegetarian": "yes",
+    "name": "Aidin",
+    "website": "https://www.pordoi.com/ristorante-aidin/menu/",
+    "website:menu": "https://www.pordoi.com/ristorante-aidin/menu/"
+  }
+},
+{
+  "type": "node",
+  "id": 12456843777,
+  "lat": 46.1551061,
+  "lon": 11.8069985,
+  "tags": {
+    "addr:city": "Mezzano",
+    "addr:housenumber": "19",
+    "addr:postcode": "38050",
+    "addr:street": "Via Santa Fosca",
+    "addr:unit": "1",
+    "amenity": "restaurant",
+    "cuisine": "d'asporto;italian",
+    "name": "Macelleria Gastronomia Bonat di Luigi Valline",
+    "opening_hours": "08:00/12:00  16.00/19:00",
+    "phone": "0439 725292",
+    "website": "www.macelleriabonat.com"
+  }
+},
+{
+  "type": "node",
+  "id": 12471977407,
+  "lat": 46.0918004,
+  "lon": 11.1069044,
+  "tags": {
+    "addr:housenumber": "183c",
+    "addr:postcode": "38121",
+    "addr:street": "Via Ezio Maccani",
+    "amenity": "restaurant",
+    "branch": "Trento",
+    "brand": "Kayi Sushi",
+    "contact:phone": "+39 0461 1830334",
+    "contact:website": "https://kayi.it/trento/",
+    "cuisine": "sushi;japanese",
+    "name": "Kayi Sushi",
+    "opening_hours": "12:00-15:00 ,18:30-23:00"
+  }
+},
+{
+  "type": "node",
+  "id": 12473632081,
+  "lat": 45.8935253,
+  "lon": 11.0402787,
+  "tags": {
+    "addr:city": "Rovereto TN",
+    "addr:housenumber": "1b",
+    "addr:postcode": "38068",
+    "addr:street": "Via Baratieri",
+    "amenity": "cafe",
+    "cuisine": "coffee_shop",
+    "image": "https://lh5.googleusercontent.com/p/AF1QipO4Lh_gpNW_l2ivJEjBaov2LPhF59z2RXohFOCb=w408-h306-k-no",
+    "name": "Sun Coffee"
+  }
+},
+{
+  "type": "node",
+  "id": 12480543249,
+  "lat": 46.4599385,
+  "lon": 11.7850774,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Edy",
+    "website": "https://www.facebook.com/ristopizzaedy/"
+  }
+},
+{
+  "type": "node",
+  "id": 12496229960,
+  "lat": 46.0532403,
+  "lon": 11.4536390,
+  "tags": {
+    "amenity": "restaurant",
+    "check_date": "2025-01-17",
+    "check_date:opening_hours": "2025-01-17",
+    "check_date:smoking": "2025-01-17",
+    "cuisine": "pizza",
+    "delivery": "no",
+    "indoor_seating": "yes",
+    "name": "Lievitiamo",
+    "opening_hours": "Mo,We-Fr 12:00-14:30,18:00-21:30; Sa,Su 18:00-21:30; Tu,PH off",
+    "outdoor_seating": "no",
+    "payment:credit_cards": "yes",
+    "payment:debit_cards": "yes",
+    "smoking": "no",
+    "takeaway": "yes",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12506586517,
+  "lat": 46.0265670,
+  "lon": 11.3794615,
+  "tags": {
+    "amenity": "bar",
+    "name": "Lago Stefy Bar e pesca sportiva"
+  }
+},
+{
+  "type": "node",
+  "id": 12518227255,
+  "lat": 45.9862746,
+  "lon": 10.9747326,
+  "tags": {
+    "amenity": "bar",
+    "name": "Bar Stella Alpina"
+  }
+},
+{
+  "type": "node",
+  "id": 12526527781,
+  "lat": 45.7322541,
+  "lon": 10.9379759,
+  "tags": {
+    "amenity": "restaurant"
+  }
+},
+{
+  "type": "node",
+  "id": 12534798829,
+  "lat": 46.1501275,
+  "lon": 10.9963239,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Chalet Forst"
+  }
+},
+{
+  "type": "node",
+  "id": 12534798831,
+  "lat": 46.1787901,
+  "lon": 11.0144417,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "3",
+    "addr:postcode": "38010",
+    "addr:street": "Località Priori",
+    "amenity": "restaurant",
+    "contact:email": "info@alpicchiorosso.com",
+    "contact:instagram": "https://www.instagram.com/alpicchiorosso/",
+    "contact:mobile": "+39 391 323 3093",
+    "contact:website": "https://www.alpicchiorosso.com/",
+    "name": "Ristorante Pizzeria Al picchio rosso"
+  }
+},
+{
+  "type": "node",
+  "id": 12534798832,
+  "lat": 46.1719988,
+  "lon": 11.0081785,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "23",
+    "addr:postcode": "38010",
+    "addr:street": "Viale Trento",
+    "amenity": "restaurant",
+    "contact:phone": "+39 0461 585251",
+    "cuisine": "regional;pizza",
+    "diet:gluten_free": "yes",
+    "name": "Andel Haus",
+    "ref:vatin": "IT00506810225",
+    "website": "https://andelhaus.com/en/home-en/"
+  }
+},
+{
+  "type": "node",
+  "id": 12534798838,
+  "lat": 46.1471827,
+  "lon": 10.9976150,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Baita Lovara"
+  }
+},
+{
+  "type": "node",
+  "id": 12534903736,
+  "lat": 46.1841009,
+  "lon": 11.0130123,
+  "tags": {
+    "addr:city": "Cavedago",
+    "addr:country": "IT",
+    "addr:housenumber": "1",
+    "addr:place": "Località Priori",
+    "addr:postcode": "38010",
+    "amenity": "restaurant",
+    "contact:mobile": "+39 348 210 5689",
+    "cuisine": "regional",
+    "name": "La tana dell'ermellino",
+    "note": "La Partita IVA risulta cessata e andrebbe verificata",
+    "outdoor_seating": "yes",
+    "ref:vatin": "IT02056810225"
+  }
 }
 
   ]
 }
+

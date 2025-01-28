@@ -1,245 +1,255 @@
-id,latitude,longitude,name,tourism_type,street,city,postcode,housenumber,website,phone,email,type
-HAmH_id_552938079,46.1862908,11.2520623,Villa Scalco,apartment,Frazione Piazzo,Segonzano,38047,51,,,,apartment
-HAmH_id_614841298,46.3517088,10.9118135,Mengon Bruna,apartment,Via G. Bresadola,Malé,,3,,+39 0463 985404,,apartment
-HAmH_id_701422235,45.8782317,10.8385465,Vecchio Porto Excelsior,apartment,Via Gargnano,Riva del Garda,38066,2,https://www.residence-excelsior.com/,+39 0464 521831,info@residence-excelsior.com,apartment
-HAmH_id_1445799609,45.9217731,10.8706983,guesthouse arco II,apartment,Via Ronchi,Arco,38062,4,https://www.guesthouse-arco.com/,,,apartment
-HAmH_id_1484801248,45.8850043,10.8413711,Appartamenti Rocca,apartment,,,,,,,,apartment
-HAmH_id_2657746429,46.0601129,11.115192,Komodo,apartment,Piazza Delle Donne Lavoratrici,Trento,38122,13,http://www.komodoapartments.com/,+39 346 2751251,komodo.trento@gmail.com,apartment
-HAmH_id_2835212501,45.919574,10.879648,Appartamenti Laly,apartment,Via Torino,,,11,,,,apartment
-HAmH_id_3046567181,46.2648612,11.8047844,Ristorante Bar Da Meto,apartment,,,,,http://www.dameto.it/index.html,+39 0439 769162,info@dameto.it,apartment
-HAmH_id_3634668954,46.0351204,10.8734151,Appartamenti Riccadonna Gaudenzio,apartment,,,,,,,,apartment
-HAmH_id_3678412002,45.9239897,10.9014225,Appartamento turistico all'olivaia,apartment,Via Verde,Arco,38062,40,http://www.appartamentoolivaia.it,,,apartment
-HAmH_id_3699555947,45.8688423,10.8753416,Casa Beust,apartment,Via Benaco,Torbole sul Garda,38069,15,http://www.casabeust.it/,+39 (0)464 505576,,apartment
-HAmH_id_3874353794,46.3078882,11.460482,Residence Gloria,apartment,,,,,https://www.valfiemme.com/residencegloria/,,,apartment
-HAmH_id_4327870392,45.8812579,10.8575248,Appartamenti Villa Elvi,apartment,Via Longa,,38066,13,,+39 0464 553070,info@villaelvi.it,apartment
-HAmH_id_4362675246,46.1298978,10.7563938,Appartamento Terme di Caderzone,apartment,Via D. Chiesa,Caderzone Terme,38080,1,,,,apartment
-HAmH_id_4426899931,46.0483808,11.4069471,,apartment,,,,,,,,apartment
-HAmH_id_4596313902,46.0525071,11.494732,Casa Gabriella,apartment,Piazza del Municipio,Castelnuovo,38050,10,https://www.casagabriella-valsugana.it/,+39 0461 753436,info@casagabriella-valsugana.it,apartment
-HAmH_id_4806168387,46.4345532,11.1017893,Casa Vacanza Iris,apartment,,,,,,,,apartment
-HAmH_id_4808435651,45.9152577,10.8713874,Arco Vacanze,apartment,,,,,,,,apartment
-HAmH_id_4876578959,45.8655622,10.745332,Maso dell'apicoltore,apartment,Via Casarino,Ledro,38067,1,https://www.masoapicoltore.it/,+39 345 715 8066,,apartment
-HAmH_id_4917660088,45.8780482,10.8918968,"Appartamenti turistici ""Gardawohnung.com""",apartment,Via Arturo de Bonetti,Nago-Torbole,38069,22,https://www.gardawohnung.com,,info@gardawohnung.com,apartment
-HAmH_id_5040025991,45.9182434,10.8938869,Arco Charme,apartment,,,,,,,,apartment
-HAmH_id_5152623842,46.4367424,11.6917473,Dallapozza Giancarlo,apartment,,,,,https://dallapozzagiancarlo.fassa.com/,,mailto:anigian1@yahoo.it,apartment
-HAmH_id_5438556262,46.2895271,11.5140867,Residence Montebel,apartment,Via del Marco,Tesero,38038,34,https://www.montebel.it/,,info@montebel.it,apartment
-HAmH_id_5484258023,46.4368959,11.6930524,Residence Holiday,apartment,Strada Jumela,,38036,36,https://www.residenceholiday.net/,+390462763783,info@residenceholiday.net,apartment
-HAmH_id_6020524846,45.9208689,10.8890836,Living the Dream,apartment,Vicolo delle Ere,Arco,38062,5,,,,apartment
-HAmH_id_6025457784,45.9209684,10.8890118,Casa al Castello,apartment,,,,,,,,apartment
-HAmH_id_6027936082,45.9207488,10.8891618,Living the Dream,apartment,Via Giovanni Segantini,Arco,38062,14,,,,apartment
-HAmH_id_6412419471,45.919103,10.8879558,Aquila,apartment,Via Sant'Anna,Arco,,12,,,,apartment
-HAmH_id_6504119641,46.1803891,11.0705492,Castello Fai,apartment,Piazza Trentina,Fai della Paganella,38010,1,https://www.castellofai.com,,info@castellofai.com,apartment
-HAmH_id_6747186796,45.9139273,10.8830675,Villa Carmen,apartment,Via Mantova,,,26,http://www.villacarmenarco.com/,,,apartment
-HAmH_id_7200015328,45.8891195,10.8597613,Residence Rivachiara,apartment,Via Sant'Alessandro,Riva del Garda TN,38066,3,,,,apartment
-HAmH_id_7643221196,46.0104477,11.3012085,Coccole nel fienile,apartment,Via 11 Febbraio,Levico Terme,38056,5,https://coccolenelfienile.it/,,coccolenelfienile@gmail.com,apartment
-HAmH_id_8305105584,45.9727298,10.950575,Maso Salim Relax Apartments,apartment,,Drena,38074,,http://www.masosalim.it,,info@masosalim.it,apartment
-HAmH_id_8567859620,46.4164508,11.2066309,Apartment Max,apartment,Via Gruppo Brenta,Ruffrè-Mendola,38010,4,,,,apartment
-HAmH_id_8808826888,45.9039948,10.8430653,Casa Varone,apartment,,,,,,,,apartment
-HAmH_id_8850053434,45.8914518,10.7271291,Appartamenti Ledrobenessere,apartment,Via Nuova,Pieve di Ledro,38067,56,https://www.appartamentiledrobenessere.it,+39 3491061874,,apartment
-HAmH_id_8859234992,45.8860134,10.8396269,Appartamenti Fabbri 1,apartment,,,,,https://appartamenti-fabbri-1-riva-del-garda.hotelmix.it/,,,apartment
-HAmH_id_9051921907,45.8893118,10.7324582,Casa Anna,apartment,Via Giulio Grossi,Ledro,38067,8,https://www.booking.com/hotel/it/casa-anna-ledro,,,apartment
-HAmH_id_9134915222,45.9610181,10.9097747,Appartamenti Antica Dro,apartment,Via Roma,Dro,38074,8,,,,apartment
-HAmH_id_9144490187,46.4764633,11.7444405,Ladina,apartment,,,,,https://www.ladina.net/,,,apartment
-HAmH_id_9144797396,46.4751512,11.7401007,Bel Cesa Seren,apartment,,,,,,,,apartment
-HAmH_id_9145523043,46.4748891,11.7400246,Ziria,apartment,,,,,,,,apartment
-HAmH_id_9466289971,45.9536561,10.9093499,Appartamenti Al Vigneto,apartment,Località Santa Lucia,Dro,38074,1,,,,apartment
-HAmH_id_9522424572,46.4166058,11.6699828,Tieja de Gotart,apartment,Strada de Somcosta,Vigo di Fassa,38039,19,,,,apartment
-HAmH_id_9674084640,45.8803903,10.8550253,Spiaggia Residence,apartment,Via H. e T. Mann,Riva del Garda,38066,4,,,,apartment
-HAmH_id_9798941342,46.02192,10.9833147,La finestra sul Brenta,apartment,Via doss,Lasino,38076,16,,,,apartment
-HAmH_id_9809543507,46.4572429,11.7995304,Cesa Elena,apartment,Strada De Antersies,,,17,,,,apartment
-HAmH_id_9819697616,45.9133007,10.8439059,Garda View Guest House,apartment,Via Gavazzo Vecchio,Tenno,38060,20,https://www.gardaview.it,,info.gardaview@gmail.com,apartment
-HAmH_id_9832793459,46.3157378,10.7967597,Residence Piz Aot,apartment,,,,,,,,apartment
-HAmH_id_9836677204,45.9122315,10.8773369,Arco Top Floor,apartment,Via Narzelle,Arco,38062,27,,,,apartment
-HAmH_id_9843190800,45.876395,10.875198,Torbole Holiday House,apartment,Via Tòm del Sarca,Nago-Torbole,38069,3,https://www.torboleholidayhouse.com/,+39 0464 505966,info@torboleholidayhouse.com,apartment
-HAmH_id_9843593398,45.8787126,11.032215,Cà della Roggia,apartment,,,,,,,,apartment
-HAmH_id_9844054612,45.8969612,10.8724706,Casa mamma Pina,apartment,Via Isce,Arco,,6,,,,apartment
-HAmH_id_9844196519,45.894825,10.869925,Casa Andela,apartment,Via Monte Brione,,,11,,,,apartment
-HAmH_id_9845797299,45.9579488,10.907344,Cà de L'Olif- Holiday Clima Apartments,apartment,,,,,,,,apartment
-HAmH_id_9845845613,45.9584405,10.9074469,Bed & Jump Acero Rosso,apartment,Via Riccardo Zandonai,Dro,38074,15,,,,apartment
-HAmH_id_9847519540,45.8782489,10.8735791,Carly's rooms,apartment,Via Linfano,Arco,38062,54,https://www.carlysrooms.com,+39 392 6211003,carlysrooms@gmail.com,apartment
-HAmH_id_9847571798,45.9190015,11.1865165,Hotel Garden,apartment,,,,,,,,apartment
-HAmH_id_9847571799,45.9179147,11.1858818,Alpen Hotel Eghel,apartment,Via Andrea Maffei,Folgaria,38064,49,,,,apartment
-HAmH_id_9847977316,45.8934265,10.8667247,Casa Alla Grotta,apartment,Via Monte Brione,Arco,38062,16,,,,apartment
-HAmH_id_9852340575,45.9132577,10.8807031,1Dest Easy & modern,apartment,Via San Sisto,Arco,38062,22,https://1dest.com/,,,apartment
-HAmH_id_9858414320,45.8999726,10.8657385,Le Servite Apartments,apartment,Via Passirone,Arco,38062,68,,,,apartment
-HAmH_id_9861124453,45.889378,10.863014,Garda Lake & Sun apartments,apartment,Via Tenente Miorelli,Riva del Garda,38066,9,,+39 349 7124173,,apartment
-HAmH_id_9861124454,45.8889847,10.8639581,Appartamento Terrazza Sugli Ulivi,apartment,Via Tenente Miorelli,Riva del Garda,38066,2d,,+39 3285682238,,apartment
-HAmH_id_9863836499,45.9420783,10.9039557,Appartamento Maso Giare,apartment,Località Maso Giare,Arco,38074,,https://www.masogiare.com,+39 335 5945728,info@masogiare.com,apartment
-HAmH_id_9867509831,45.8825917,10.8571322,Casa Dalia,apartment,Via Belluno,Riva del Garda,38066,5,,,,apartment
-HAmH_id_9867509832,45.8824479,10.8568928,Locanda Restel de Fer,apartment,Via Restel de Fer,Riva del Garda,38066,12,https://www.resteldefer.com,+39 0464553481,info@resteldefer.com,apartment
-HAmH_id_9867509833,45.8824321,10.8569907,Casa Erica,apartment,Via Restel de Fer,Riva del Garda,38066,14,,,,apartment
-HAmH_id_9868091962,45.8857521,10.8596498,Casa Maria,apartment,Via Filanda,Riva del Garda,38066,39o,https://www.casamariaapartments.it,+39 333 6409895,info@casamariaapartments.it,apartment
-HAmH_id_9868190970,45.8906752,10.8622032,Maffei Apartments,apartment,Via Sant'Alessandro,Riva del Garda,38066,25,https://www.maffeiapartments.it,+39 3387450000,info@maffeiapartments.it,apartment
-HAmH_id_9869823067,45.8886955,10.8608627,Toniol Apartment,apartment,Via Sant'Alessandro,Riva del Garda,38066,7,,,,apartment
-HAmH_id_9871965662,45.8801798,10.8607485,Villa Speranza,apartment,Via Brione,Riva del Garda,38066,30,https://www.villasperanza-rivadelgarda.it/,+39 0464.552038,info@villasperanza-rivadelgarda.it,apartment
-HAmH_id_9873982871,46.3124539,11.6638426,Hotel Bellamonte,apartment,,,,,,,,apartment
-HAmH_id_9873985056,46.3128081,11.6664031,Park Hotel Sancelso,apartment,Via Prai de Mont,Bellamonte,,27,,,,apartment
-HAmH_id_9874067153,45.8875371,10.730896,Casa Enrico,apartment,Via Alzer,Ledro,38067,30,,,,apartment
-HAmH_id_9874109534,45.8867946,10.7300003,Casa Luisella,apartment,Via Alzer,Ledro,38067,14,,,,apartment
-HAmH_id_9874114929,46.2332363,10.8245067,Hotel Europa,apartment,,,,,,,,apartment
-HAmH_id_9874137373,45.8870253,10.7299133,Casa Elisabetta,apartment,Via Alzer,Ledro,38067,12,https://www.vallediledro.com/it/appartamento/casa-elisabetta-pieve-di-ledro,+39 3462852111,elisabettarigoldi@yahoo.com,apartment
-HAmH_id_9874137374,45.8875444,10.7304927,Da Maria Rosa,apartment,Via Alzer,Ledro,38067,8,,,,apartment
-HAmH_id_9874137375,45.8871094,10.730557,Casa Tumis,apartment,Via Alzer,Ledro,38067,34,,,,apartment
-HAmH_id_9874137376,45.886848,10.7296209,Casa Stefania,apartment,Via Alzer,Ledro,38067,10,,,,apartment
-HAmH_id_9874178934,45.8853432,10.7309068,Casa Lori 1,apartment,Via Alzer,Pieve di Ledro,38067,54,,,,apartment
-HAmH_id_9874178935,45.886133,10.7299734,Casa Alberta,apartment,Via Alzer,Pieve di Ledro,38067,46,,,,apartment
-HAmH_id_9874218291,45.8994957,10.7235949,LLH Casa Elena,apartment,Via alla Colonia,Ledro,38067,6,https://www.ledrolakeholiday.com,,,apartment
-HAmH_id_9876039990,45.8841448,10.730478,Residence Scandoler,apartment,Via Alzer,Ledro,38067,,,,,apartment
-HAmH_id_9876053361,45.8842154,10.7293093,Gemma,apartment,Via Scandoler,Ledro,38067,4,,,,apartment
-HAmH_id_9876061734,45.8858922,10.7305068,Casa Lucia,apartment,Via Alzer,Ledro,38067,44,https://www.affittivacanzecrosina.com,,,apartment
-HAmH_id_9876391329,45.8999102,10.7261516,Casa Giulia,apartment,Via Daves,Ledro,38067,3,,,,apartment
-HAmH_id_9884877114,45.9033121,10.8611479,Residence Gemma,apartment,Località San Tomaso,Riva del Garda,38066,55,https://www.residencegemma.it/,+39 348 1218472,info@residencegemma.it,apartment
-HAmH_id_9884980701,45.9050857,10.8607989,Villa Luxury House & Spa,apartment,Località San Tomaso,Riva del Garda,38066,,https://www.villaluxuryhousespa.it/,+39 345 9748120,info@villaluxuryhousespa.it,apartment
-HAmH_id_9884980703,45.9046588,10.8621448,Appartamenti Silvana,apartment,Località San Tomaso,Riva del Garda,38066,63,http://www.silvanasulgarda.it,+39 0464 520677,info@silvanasulgarda.it,apartment
-HAmH_id_9887268515,45.9003036,10.8578051,LakeGarden Apartment,apartment,Via Ippolito Pederzolli,Riva del Garda,38066,29,https://gestex.kross.travel/details/room/id/31,,,apartment
-HAmH_id_9891305873,45.9096063,10.8109039,House Casa Campi 2.0,apartment,Località Lavaroni,Riva del Garda,38066,1,,+39 377 960 3210,,apartment
-HAmH_id_9891339831,45.9059053,10.8134924,Antica casa Ortensia,apartment,Località Zucchetti,Riva del Garda,38066,7,,+39 0464 501197,,apartment
-HAmH_id_9891371237,45.9136136,10.8165576,La Poiana,apartment,Località Zumiani,Riva del Garda,38066,,,+39 349 8176313,,apartment
-HAmH_id_9903486798,45.9079662,10.8497379,Residenza alle Grazie,apartment,Via Basone,Riva del Garda,38066,3,https://www.residenzaallegrazie.it/,+39 335 7083083,,apartment
-HAmH_id_9908995934,45.9111026,10.8523436,Il giardino segreto,apartment,Piazza Interna Ceole,Arco,38062,,,+39 340 125 1038,,apartment
-HAmH_id_9915364089,46.139525,10.9590188,Residence al Caminetto,apartment,Via Lungolago,Molveno,38018,46,,,,apartment
-HAmH_id_9916479814,45.8993698,10.8664815,Appartamenti Pause Lake Garda,apartment,Via Passirone,Arco,38062,9,https://www.pauselakegarda.it/,+39 3467147200,info@pauselakegarda.it,apartment
-HAmH_id_9916506353,45.8985848,10.8654271,Appartamenti Casa Travaglia,apartment,Via S. Tomè,Arco,38062,10,,+39 339 3020236,,apartment
-HAmH_id_9933012002,45.8979815,10.8545418,Villa Orange,apartment,Località San Nazzaro,Riva del Garda,38066,20,https://villa-orange-riva-del-garda.hotelmix.it/,,,apartment
-HAmH_id_9938927267,46.0790968,11.1306674,Trento View,apartment,Via del Dos,Trento,,3,https://www.trentoview.com/,,,apartment
-HAmH_id_9941690074,45.8800227,10.7522317,"Casa di Ledro ""Daldoss""",apartment,Via Lungolago,Ledro,38067,10,http://www.casadiledro.com,+39 0464508161,,apartment
-HAmH_id_9944342665,45.8824837,10.7522184,Casa vacanze Luca e Cristina,apartment,Via Ptice,Ledro,38067,20,,+39 346 6376999,,apartment
-HAmH_id_9944700139,45.8816256,10.7512893,Casa Margherita,apartment,Via Aldo Toccoli,Ledro,38067,9,,,,apartment
-HAmH_id_9945133963,45.8819699,10.7507854,Casa Martì,apartment,Via Ptice,Ledro,38067,1,,,,apartment
-HAmH_id_9945271446,45.8819067,10.7504427,Casa Monica,apartment,Via Ptice,Ledro,38067,10,,,,apartment
-HAmH_id_9946561075,45.8808489,10.7553102,Villa La Dianella,apartment,Via Belvedere,Ledro,38067,4,https://www.ladianella.com/,,info@ladianella.com,apartment
-HAmH_id_9946675565,45.8811148,10.7510246,Casa Lena,apartment,Via San Michele,Ledro,38067,1,,,,apartment
-HAmH_id_9946776567,45.8929184,10.7259896,Casa Filanda,apartment,Via Nuova,Ledro,38067,78,,,,apartment
-HAmH_id_9947177496,45.8823182,10.7529217,Ledro Lake Suites,apartment,Via San Michele,Ledro,38067,34,https://www.ledrolakesuites.com/,+39 347 0130936,,apartment
-HAmH_id_9947775711,45.8850976,10.7546878,Affittacamere B&B Ledro,apartment,Via Dromaé,Ledro,38067,5,https://www.bbledro.com/,+39 0464 517212,,apartment
-HAmH_id_9947775714,45.8846181,10.7548076,Residence Dromaè,apartment,Via Dromaé,Ledro,38067,40,,,,apartment
-HAmH_id_9952301020,45.8741742,10.7664871,Residence Palafitte,apartment,Via Maffei,Ledro,38067,50a,https://www.residencepalafitte.com/,+39 0464 508141,info@residencepalafitte.com,apartment
-HAmH_id_9959464126,46.4358535,11.6912149,Molin de Pezol,apartment,,,,,,,,apartment
-HAmH_id_9967188554,45.8712414,10.7729361,Bed & Bike Ledro,apartment,Via Maffei,Ledro,38067,35,,,,apartment
-HAmH_id_9967188555,45.8713431,10.7741994,Casa Canali 2,apartment,,Ledro,38067,,,,,apartment
-HAmH_id_9967188556,45.8712936,10.7749089,Casa Viola,apartment,Via Don Lucillo Sartori,Ledro,38067,6,,,,apartment
-HAmH_id_9967188557,45.8717792,10.7759214,Appartamento Aurelia,apartment,Via Maffei,Ledro,38067,3,,,,apartment
-HAmH_id_9967188558,45.8717297,10.7758959,Appartamento Lago di Ledro,apartment,Via Maffei,Ledro,38067,3c,,,,apartment
-HAmH_id_9967188559,45.8730024,10.7678788,Appartamento Speranza,apartment,Via Maffei,Ledro,38067,109,,,,apartment
-HAmH_id_9967188560,45.8734413,10.7649941,Chalet Sally,apartment,Via al Lago,Ledro,38067,7,,,,apartment
-HAmH_id_9967191240,45.8705813,10.7753169,Casa Degara,apartment,Via Don Lucillo Sartori,Ledro,38067,23,https://casadegara.oneminutesite.it/,+39 349 1373309,,apartment
-HAmH_id_9967191241,45.871375,10.7757662,Appartamento Jasmine,apartment,Via Don Girolamo Viviani,Ledro,38067,7,https://appartamento-jasmine-molina-di-ledro.hotelmix.it/,+49 89 21540286,,apartment
-HAmH_id_9967217223,45.8719878,10.778446,Residenza Gemma,apartment,Via Maffei,Ledro,38067,2,https://residenzagemma.wixsite.com/gemma,,laresidenzagemma@gmail.com,apartment
-HAmH_id_9967551916,45.8710894,10.7820351,Sunshine House Yoga,apartment,Via San Carlo,Ledro,38067,9,,,,apartment
-HAmH_id_9967930371,45.882299,10.7513923,Villa Marilyn,apartment,Via Ptice,Ledro,38067,15,,,,apartment
-HAmH_id_9967930372,45.8849092,10.756404,Ledro Nest,apartment,Via Dromaé,Ledro,38067,50,,,,apartment
-HAmH_id_9967930373,45.8861695,10.7565797,Appartamento Bellavista,apartment,Via Dromaé,Ledro,38067,23,,,,apartment
-HAmH_id_9967930376,45.8842503,10.7543403,Seia Mountain Wellness,apartment,Via Dromaé,Ledro,38067,36,,,,apartment
-HAmH_id_9967937609,45.8841197,10.7537234,Ca' Albano,apartment,Via Dromaé,Ledro,38067,28,,,,apartment
-HAmH_id_9967944280,45.8823707,10.7515614,Casa Rosa Mezzolago,apartment,Via Ptice,Ledro,38067,17,,,,apartment
-HAmH_id_9974376216,45.868504,10.7753913,Casa Felix,apartment,Via delle Decime,Ledro,38067,1,,,,apartment
-HAmH_id_9975278836,46.2327112,10.8254369,Residenza 3- Tre,apartment,,,,,,,,apartment
-HAmH_id_9981338237,45.8714387,10.7624808,Appartamento Belvedere,apartment,Via dei Pastei,Ledro,38067,12,,,,apartment
-HAmH_id_9991627563,45.8837934,10.8575334,Essence suites,apartment,Via Gorizia,Riva del Garda,38066,10,,,,apartment
-HAmH_id_10010733451,45.8656635,10.803301,Casa Pier Giorgio Frassati,apartment,Via della Madonna,Ledro,38067,1,https://www.azionecattolicamantova.it/casa-per-ferie-piergiorgio-frassati/,+39 0464508133,segreteria@azionecattolicamantova.it,apartment
-HAmH_id_10013095496,45.865762,10.8062437,Appartamenti vacanze Alexandra,apartment,Via Giuseppe Cipelli,Ledro,38067,7,,+39 347 9072101,,apartment
-HAmH_id_10013095497,45.8653085,10.8056428,"Garda Studio ""Mount 'N Lake""",apartment,Via del Dazi,Ledro,38067,,,,,apartment
-HAmH_id_10015318206,45.866783,10.8077059,Villa Alma,apartment,Via dei Toiane,Ledro,38067,3,http://www.alma-grotte.it/,+39 0464 508131,,apartment
-HAmH_id_10015329244,45.8664682,10.8090204,Casa Giulia Slow Mountain,apartment,Via dei Toiane,Ledro,38067,40,,,,apartment
-HAmH_id_10035559815,45.8912263,10.7301262,Casa Stefy,apartment,Via Sant'Antonio,Ledro,38067,34,,,,apartment
-HAmH_id_10035559816,45.8902275,10.7315317,Casa Angelo,apartment,Via Sant'Antonio,Ledro,38067,21,,,,apartment
-HAmH_id_10042875739,46.3084656,10.7580004,Residence Ca delle Margherite,apartment,Piazza di Ognano,Pellizzano,38020,5,https://www.deltom.it/it/building/details/4/ca-delle-margherite,+390463751204,info@deltom.it,apartment
-HAmH_id_10224437662,45.9184977,10.8938123,Music & Bike,apartment,Via della Provvidenza,Arco,38062,18,,,,apartment
-HAmH_id_10694022568,46.2598859,10.5840127,Dinastia Case Snow Apartment,apartment,,,,,,,,apartment
-HAmH_id_10963827309,45.9026692,10.8483455,,apartment,,,,,,,,apartment
-HAmH_id_11045330442,46.0699637,11.1193381,House of Bruno / B&B Mia / Trento B&B,apartment,Via Torre Vanga,Trento,38122,14,https://www.bbmia.it/,,,apartment
-HAmH_id_11059120062,45.924547,10.8972436,B&B Ai 4 colori,apartment,Via San Martino,Arco,38062,4,https://www.bedandbreakfastai4colori.it/,,andreabona030474@gmail.com,apartment
-HAmH_id_11059150458,45.9270037,10.8965473,Le Falesie,apartment,Via Dritta,Arco,38062,5,,,,apartment
-HAmH_id_11059422070,45.9237066,10.9011122,Massone Climbing Home,apartment,Piazza Francesco Saverio Ribbia,Arco,38062,5,,,,apartment
-HAmH_id_11059490475,45.9242872,10.9005207,B&B Arco Antico,apartment,Via degli Olivi,Arco,38062,8,,,,apartment
-HAmH_id_11059577422,45.9226185,10.9035431,La casa di Virginia,apartment,Via Verde,Arco,38062,5,,,,apartment
-HAmH_id_11059613692,45.9268733,10.894713,Costa d'Arco,apartment,Viale Arciprete Francesco Santoni,Arco,38062,61,,,,apartment
-HAmH_id_11059614694,45.9224296,10.9026045,Residenza Noemi,apartment,Via Scipio Sighele,Arco,38062,9,,,,apartment
-HAmH_id_11064557855,45.913354,10.9156119,Romatico Panorama,apartment,Località Gazzi,Arco,38062,58,,,,apartment
-HAmH_id_11167084236,45.891928,10.8374826,Emma‘s Riva-Dream,apartment,Via Ardaro,Riva del Garda,38066,45 h,https://www.emmasrivadream.com,+39 334 301 25 16,rivadelgarda2022@gmail.com,apartment
-HAmH_id_11167698897,45.8943546,10.8486275,Emma’s Riva-Dream deluxe,apartment,via Archimede Martini,Riva del Garda,38066,1 a,https://www.emmasrivadream.com,+39 334 301 25 16,rivadelgarda2022@gmail.com,apartment
-HAmH_id_11245385294,46.0454176,11.1049537,Belvedere Apartements,apartment,,,,,,,,apartment
-HAmH_id_11348712699,46.1465262,10.9682948,Casa Angelo,apartment,Via Belvedere,Molveno,38018,44,,,,apartment
-HAmH_id_11398636545,45.8779206,10.6607271,Villa Iagra,apartment,Via Ampola,Ledro,38067,31,https://www.villaiagra1794.it/,+39 328 5549007,iagra1794@gmail.com,apartment
-HAmH_id_11456243615,45.8704967,10.7445576,Bungalow al Lago,apartment,Via Val Maria,Ledro,38067,65,https://www.greenholiday.com,,,apartment
-HAmH_id_11456243616,45.8704563,10.7444903,Bungalow al Lago,apartment,Via Val Maria,Ledro,38067,67,https://www.greenholiday.com,,,apartment
-HAmH_id_11456248556,45.8676589,10.7465115,Casa Gabri,apartment,Via Malga Cita,Ledro,38067,6,,,,apartment
-HAmH_id_11456433247,45.8695094,10.7465338,Casa Camilla,apartment,Via Val Maria,Ledro,38067,5,,,,apartment
-HAmH_id_11456605979,45.8689318,10.739567,Casa Demadonna,apartment,Via Val Maria,Ledro,38067,153,,,,apartment
-HAmH_id_11459558092,45.8751867,10.7438562,Ferienhaus Krier,apartment,Via Val Maria,Ledro,38067,38,https://ferienhaus-krier.de/lago-di-ledro-trentino/,,,apartment
-HAmH_id_11459558094,45.8732251,10.743233,Villa Carina,apartment,Via Val Maria,Ledro,38067,30,,,,apartment
-HAmH_id_11459642178,45.8780142,10.7432714,La Quieta,apartment,Via Val Maria,Ledro,38067,72,,,,apartment
-HAmH_id_11459990197,45.8771512,10.7442319,Villa Rosemary,apartment,Via Val Maria,Ledro,38067,247,,,,apartment
-HAmH_id_11460271741,45.876224,10.7408805,Casa Ambra,apartment,Via Europa,Ledro,38067,8,,,,apartment
-HAmH_id_11461070515,45.8755907,10.7434164,Ca' del Bepi,apartment,Via Val Maria,Ledro,38067,237,https://www.cadelbepi.com,,,apartment
-HAmH_id_11461070517,45.8757577,10.7434206,Serena,apartment,Via Val Maria,Ledro,38067,241,https://www.greenholiday.com,,,apartment
-HAmH_id_11461160682,45.8767616,10.7442347,Villa Belli,apartment,Via Val Maria,Ledro,38067,48,https://www.greenholiday.com,,,apartment
-HAmH_id_11461160684,45.8781723,10.7447336,Residence Panorama,apartment,Via Val Maria,Ledro,38067,62,,,,apartment
-HAmH_id_11461464732,45.8795848,10.7390383,Chalet Le Querce,apartment,Via Val Maria,Ledro,38067,263,https://vallediledro.net/le-strutture/chalet-le-querce,,,apartment
-HAmH_id_11461499253,45.8804223,10.7376841,Ledro House - Ca' Valentina,apartment,Via val Maria,Ledro,38067,88,,,,apartment
-HAmH_id_11461512511,45.8769415,10.7422571,Casa Regina,apartment,Via Val Maria,Ledro,38067,261,,,,apartment
-HAmH_id_11461513231,45.8802922,10.7385642,Ledro House - Ca' Romantica,apartment,Via val Maria,Ledro,38067,84,,,,apartment
-HAmH_id_11461513232,45.8804683,10.7381094,Ledro House - Casa Panorama,apartment,Via val Maria,Ledro,38067,86,,,,apartment
-HAmH_id_11461513358,45.8795611,10.738367,Ledro House - Terrazze sul lago,apartment,Via del Roccolo,Ledro,38067,1,,,,apartment
-HAmH_id_11461547290,45.869337,10.7458757,Casa Carla,apartment,Via Val Maria,Ledro,38067,27,,,,apartment
-HAmH_id_11461547291,45.8692716,10.7460822,Casa Max,apartment,Via Val Maria,Ledro,38067,11,,,,apartment
-HAmH_id_11461775178,45.8710104,10.7422414,Haus Brigitte,apartment,Via val Maria,Ledro,38067,,https://hausbrigitte-ledro.com/,,,apartment
-HAmH_id_11461775179,45.8698423,10.7412952,Casa Civettini,apartment,Via val Maria,Ledro,38067,157,,,,apartment
-HAmH_id_11462178875,45.8691873,10.745387,Casa Pippi,apartment,Via val Maria,Ledro,38067,49,,,,apartment
-HAmH_id_11462197225,45.8677544,10.7458519,Casa Pineta,apartment,Via Malga Cita,Ledro,38067,,,,,apartment
-HAmH_id_11462235631,45.866216,10.7456308,Casa Dazio,apartment,Via Casarino,Ledro,38067,,https://www.cadelbepi.com,,,apartment
-HAmH_id_11462235632,45.8763068,10.743534,Casa Maria,apartment,Via val Maria,Ledro,38067,,https://www.cadelbepi.com,,,apartment
-HAmH_id_11462235633,45.8705365,10.744074,Bungalow al Lago,apartment,Via val Maria,Ledro,38067,97,,,,apartment
-HAmH_id_11493908486,45.8683846,10.7756028,Green Garden,apartment,Via delle Decime,Ledro,38067,3,,,,apartment
-HAmH_id_11493908492,45.8667426,10.7640952,Chalet Monica,apartment,Località Me,Ledro,38067,1,,,,apartment
-HAmH_id_11504208389,45.8938502,10.6841979,Ca' Leonardi,apartment,,Ledro,38067,13,,,,apartment
-HAmH_id_11507241492,45.8929572,10.6901121,Casa Anita,apartment,Via Giuseppe Garibaldi,Ledro,38067,76,,,,apartment
-HAmH_id_11509486736,45.8859941,10.698076,Villaggio Santa Lucia,apartment,Via Santa Lucia,Ledro,38067,32,http://www.villaggiosantalucialedro.it,+39 347 1975288,,apartment
-HAmH_id_11509964972,45.8902693,10.6916964,Casa Sant'Isep,apartment,Via Monsignor Mario Ferrari,Ledro,38067,17,,,,apartment
-HAmH_id_11510439659,45.8948636,10.7084225,Residence ai Tovi,apartment,Via Tovi,Ledro,38067,48,,+39 0464 590150,,apartment
-HAmH_id_11512657767,45.8964074,10.7156338,Ca' mea Dina,apartment,Via Tovi,Ledro,38067,12,https://www.cameadina.com/it,+39 0464 592117,,apartment
-HAmH_id_11512669963,45.8964574,10.7136527,Casa Teresa,apartment,Via Tovi,Ledro,38067,27,,,,apartment
-HAmH_id_11512675631,45.8961006,10.7157835,Casa Mora,apartment,,Ledro,38067,9,,,,apartment
-HAmH_id_11512720399,45.8964783,10.7120397,Residence Alessio,apartment,Via Giacomo Cis,Ledro,38067,15,https://www.residencealessio.it/it,,info@residencealessio.it,apartment
-HAmH_id_11518961570,45.8996929,10.7239634,Guesthouse Ledro,apartment,Via Venezia,Ledro,38067,6,,,,apartment
-HAmH_id_11524123048,45.9030921,10.7260738,Casa Meri,apartment,Via Doghen,Ledro,38067,15,,,,apartment
-HAmH_id_11524440571,45.8990466,10.7257372,Koi House,apartment,Via San Marco,Ledro,38067,13,,,,apartment
-HAmH_id_11524488247,45.8988188,10.7255584,Casa Rosella,apartment,Via San Marco,Ledro,38067,14,,,,apartment
-HAmH_id_11525108304,45.8664085,10.8061807,Ca Seli,apartment,Via Cantodori,Ledro,38067,1,,,,apartment
-HAmH_id_11527084051,45.9065914,10.7279003,Cà Alice,apartment,Via Bonomelli,Ledro,38067,1,,+39 0464 591322,sierraledro@Yahoo.it,apartment
-HAmH_id_11527100259,45.9070827,10.7275271,Casa Maria,apartment,Via Bonomelli,Ledro,38067,22,,,,apartment
-HAmH_id_11527818440,45.9066128,10.7287744,Casa Ester,apartment,Via dei Concei,Ledro,38067,36,,+39 0464 590031,casaestervallediledro@gmail.com,apartment
-HAmH_id_11530557129,45.9054681,10.72871,Casa Miravalle,apartment,Piazza indipendenza,,,11,,,,apartment
-HAmH_id_11530672622,45.926043,10.7304652,Rustico Pastoria,apartment,,Ldro,38067,,,,,apartment
-HAmH_id_11530672623,45.9260402,10.7303765,Chalet Verde,apartment,,Ldro,38067,,,,,apartment
-HAmH_id_11530672624,45.9258116,10.7304027,Chalet Rosso,apartment,,Ldro,38067,,,,,apartment
-HAmH_id_11530672625,45.9258284,10.7302899,Chalet Arancio,apartment,,Ldro,38067,,,,,apartment
-HAmH_id_11530678291,45.906275,10.7287244,La Fisarmonica,apartment,Via dei Concei,Ledro,38067,21,,,,apartment
-HAmH_id_11530678292,45.9064243,10.7295385,Residenza al Castello,apartment,Via Castello,Ledro,38067,7,https://www.lakeproject.it/,+39 0464 590150,email@lakeproject.it,apartment
-HAmH_id_11535080441,45.9147663,10.7262446,Garnì dal Mozat,apartment,Via Mario Bianchi,Lenzumo,38067,26,http://www.dalmozat.it/,+39 0464 591040,leder@dalmozat.it,apartment
-HAmH_id_11542449892,45.9213688,10.7327597,Chalet Beatrice,apartment,,Ledro,38067,,https://it.vallediledro.net,,info@vallediledro.net,apartment
-HAmH_id_11542449893,45.9313887,10.735671,Chalet Palò,apartment,,Ledro,38067,,http://www.chalet-palo.it,+39 0464 591794,michisarti@virgilio.it,apartment
-HAmH_id_11559805530,45.9059304,10.8867066,Pratosaiano Holiday,apartment,Località Dossi,Arco,38062,4,https://www.pratosaiano.com/,+39 348 9999888,info@fanum.it,apartment
-HAmH_id_11594850665,45.9036406,10.8891563,Casa al fico,apartment,,Arco,38062,,,,,apartment
-HAmH_id_11619347846,45.9200719,10.8909354,Residenza Klima House,apartment,,Arco,38062,14,https://www.residenzaklimahouse.it/,+39 0464 518922,info@residenzaklimahouse.it,apartment
-HAmH_id_11623512462,45.9200735,10.8996778,Agritur La Terra,apartment,Via Cappuccini,Arco di Trento,38062,6,https://www.agriturlaterra.it/,+39 0464 357695,contact@agriturlaterra.it,apartment
-HAmH_id_11745848215,45.9273837,10.8817331,Residenza Mariella,apartment,Via alle Fontane di Làghel,Arco,38062,7,,,,apartment
-HAmH_id_11813794619,45.8839029,10.8383105,Exclusive Suites Riva,apartment,,,,,,,,apartment
-HAmH_id_11837596943,45.925989,10.8974959,B&B Ruth,apartment,Via Scaletta,Arco,38062,5,,,,apartment
-HAmH_id_11846821185,46.1552633,11.7337775,Casa Maria,apartment,,,,,,,,apartment
-HAmH_id_11906572483,45.9141082,10.9175799,Arco Mountain Life,apartment,Località Gazzi,Arco,38062,73,,,,apartment
-HAmH_id_11907061004,45.9053327,10.9303048,Vello d'Arco,apartment,Località Gazzi,Arco,38062,,,,,apartment
-HAmH_id_11927577666,45.9104797,10.9034492,Residenza Cinisca,apartment,Via Giuseppe Mazzini,Arco,38062,5c,https://www.residenza-cinisca.com,,info@residenza-cinisca.com,apartment
-HAmH_id_11928192251,45.9170854,10.8904947,Arco Home,apartment,Via Canale,Arco,38062,14a,,,,apartment
-HAmH_id_11928192252,45.9171601,10.8892206,Casa Torboli,apartment,Via Fitta,Arco,38062,21L,,,,apartment
-HAmH_id_11928198803,45.9176163,10.8927865,Residenza San Rocco,apartment,Via Indipendenza,Arco,38062,2,https://www.residenzasanrocco.it,+39 0464 518922,info@residenzasanrocco.it,apartment
-HAmH_id_11928198804,45.917203,10.8928641,Palazzo Oltre,apartment,,Arco,38062,6,https://www.palazzooltre.it/,+39 339 3399166,info@palazzooltre.it,apartment
-HAmH_id_11956376243,45.8884213,11.039346,Ocra,apartment,,,,,,,,apartment
-HAmH_id_11989730057,45.8980623,10.9746247,Chalet La Baita Bordala,apartment,Via Case Sparse,Ronzo-Chienis,38060,63,https://baitabordala.com,+39 0464 802999,baitabordala@yahoo.it,apartment
-HAmH_id_12006240099,45.8695679,10.9388324,Casa San Felice,apartment,Via 22 Maggio,Valle San Felice,38065,5,,,mara.bottanelli@libero.it,apartment
-HAmH_id_12006306368,45.868944,10.9382425,Le Cort Agriturismo,apartment,,Valle San Felice,38065,5,,+39 0464 802022,,apartment
-HAmH_id_12016594103,45.8605179,10.9389564,Cà Fabiani,apartment,Località Piantim,Mori,38065,,http://www.cafabiani.it/,,info@cafabiani.it,apartment
-HAmH_id_12017159650,45.8699378,10.9425539,B&B Arpa di Pietra,apartment,Località Pizzole,Valle San Felice,38065,9,https://www.arpadipietra.it/,,info@arpadipietra.it,apartment
-HAmH_id_12090147977,45.845977,10.9503497,Appartamento nel verde,apartment,,Mori,38065,42,,,,apartment
-HAmH_id_12104094537,45.8380424,10.9528924,Casa Liu,apartment,Via Loppio,Castione,38060,1,,+39 339 6466628,bergaminicristian@yahoo.it,apartment
-HAmH_id_12231203820,46.065623,11.1231248,yugogo,apartment,Via Giuseppe Mazzini,Trento,38122,43,https://www.yugogo.it/,,,apartment
-HAmH_id_12336883323,45.9447295,11.2657982,Enzo & Rossella,apartment,,,,,,,,apartment
+id;latitude;longitude;geometry;name;street;city;postcode;housenumber;website;phone;email;type
+552938079;46.1862908;11.2520623;POINT (11.2520623 46.1862908);Villa Scalco;Frazione Piazzo;Segonzano;38047;51;;;;apartment
+614841298;46.3517088;10.9118135;POINT (10.9118135 46.3517088);Mengon Bruna;Via G. Bresadola;Malé;;3;;+39 0463 985404;;apartment
+701422235;45.8782317;10.8385465;POINT (10.8385465 45.8782317);Vecchio Porto Excelsior;Via Gargnano;Riva del Garda;38066;2;https://www.residence-excelsior.com/;+39 0464 521831;info@residence-excelsior.com;apartment
+1445799609;45.9217731;10.8706983;POINT (10.8706983 45.9217731);guesthouse arco II;Via Ronchi;Arco;38062;4;https://www.guesthouse-arco.com/;;;apartment
+1484801248;45.8850043;10.8413711;POINT (10.8413711 45.8850043);Appartamenti Rocca;;;;;;;;apartment
+2657746429;46.0601129;11.115192;POINT (11.115192 46.0601129);Komodo;Piazza Delle Donne Lavoratrici;Trento;38122;13;http://www.komodoapartments.com/;+39 346 2751251;komodo.trento@gmail.com;apartment
+2835212501;45.919574;10.879648;POINT (10.879648 45.919574);Appartamenti Laly;Via Torino;;;11;;;;apartment
+3046567181;46.2648612;11.8047844;POINT (11.8047844 46.2648612);Ristorante Bar Da Meto;;;;;http://www.dameto.it/index.html;+39 0439 769162;info@dameto.it;apartment
+3634668954;46.0351204;10.8734151;POINT (10.8734151 46.0351204);Appartamenti Riccadonna Gaudenzio;;;;;;;;apartment
+3678412002;45.9239897;10.9014225;POINT (10.9014225 45.9239897);Appartamento turistico all'olivaia;Via Verde;Arco;38062;40;http://www.appartamentoolivaia.it;;;apartment
+3699555947;45.8688423;10.8753416;POINT (10.8753416 45.8688423);Casa Beust;Via Benaco;Torbole sul Garda;38069;15;http://www.casabeust.it/;+39 (0)464 505576;;apartment
+3874353794;46.3078882;11.460482;POINT (11.460482 46.3078882);Residence Gloria;;;;;https://www.valfiemme.com/residencegloria/;;;apartment
+4327870392;45.8812579;10.8575248;POINT (10.8575248 45.8812579);Appartamenti Villa Elvi;Via Longa;;38066;13;;+39 0464 553070;info@villaelvi.it;apartment
+4362675246;46.1298978;10.7563938;POINT (10.7563938 46.1298978);Appartamento Terme di Caderzone;Via D. Chiesa;Caderzone Terme;38080;1;;;;apartment
+4426899931;46.0483808;11.4069471;POINT (11.4069471 46.0483808);Unnamed;;;;;;;;apartment
+4596313902;46.0525071;11.494732;POINT (11.494732 46.0525071);Casa Gabriella;Piazza del Municipio;Castelnuovo;38050;10;https://www.casagabriella-valsugana.it/;+39 0461 753436;info@casagabriella-valsugana.it;apartment
+4806168387;46.4345532;11.1017893;POINT (11.1017893 46.4345532);Casa Vacanza Iris;;;;;;;;apartment
+4808435651;45.9152577;10.8713874;POINT (10.8713874 45.9152577);Arco Vacanze;;;;;;;;apartment
+4876578959;45.8655622;10.745332;POINT (10.745332 45.8655622);Maso dell'apicoltore;Via Casarino;Ledro;38067;1;https://www.masoapicoltore.it/;+39 345 715 8066;;apartment
+4917660088;45.8780482;10.8918968;POINT (10.8918968 45.8780482);"Appartamenti turistici ""Gardawohnung.com""";Via Arturo de Bonetti;Nago-Torbole;38069;22;https://www.gardawohnung.com;;info@gardawohnung.com;apartment
+5040025991;45.9182434;10.8938869;POINT (10.8938869 45.9182434);Arco Charme;;;;;;;;apartment
+5152623842;46.4367424;11.6917473;POINT (11.6917473 46.4367424);Dallapozza Giancarlo;;;;;https://dallapozzagiancarlo.fassa.com/;;mailto:anigian1@yahoo.it;apartment
+5438556262;46.2895271;11.5140867;POINT (11.5140867 46.2895271);Residence Montebel;Via del Marco;Tesero;38038;34;https://www.montebel.it/;;info@montebel.it;apartment
+5484258023;46.4368959;11.6930524;POINT (11.6930524 46.4368959);Residence Holiday;Strada Jumela;;38036;36;https://www.residenceholiday.net/;+390462763783;info@residenceholiday.net;apartment
+6020524846;45.9208689;10.8890836;POINT (10.8890836 45.9208689);Living the Dream;Vicolo delle Ere;Arco;38062;5;;;;apartment
+6025457784;45.9209684;10.8890118;POINT (10.8890118 45.9209684);Casa al Castello;;;;;;;;apartment
+6027936082;45.9207488;10.8891618;POINT (10.8891618 45.9207488);Living the Dream;Via Giovanni Segantini;Arco;38062;14;;;;apartment
+6412419471;45.919103;10.8879558;POINT (10.8879558 45.919103);Aquila;Via Sant'Anna;Arco;;12;;;;apartment
+6504119641;46.1803891;11.0705492;POINT (11.0705492 46.1803891);Castello Fai;Piazza Trentina;Fai della Paganella;38010;1;https://www.castellofai.com;;info@castellofai.com;apartment
+6747186796;45.9139273;10.8830675;POINT (10.8830675 45.9139273);Villa Carmen;Via Mantova;;;26;http://www.villacarmenarco.com/;;;apartment
+7200015328;45.8891195;10.8597613;POINT (10.8597613 45.8891195);Residence Rivachiara;Via Sant'Alessandro;Riva del Garda TN;38066;3;;;;apartment
+7643221196;46.0104477;11.3012085;POINT (11.3012085 46.0104477);Coccole nel fienile;Via 11 Febbraio;Levico Terme;38056;5;https://coccolenelfienile.it/;;coccolenelfienile@gmail.com;apartment
+8305105584;45.9727298;10.950575;POINT (10.950575 45.9727298);Maso Salim Relax Apartments;;Drena;38074;;http://www.masosalim.it;;info@masosalim.it;apartment
+8567859620;46.4164508;11.2066309;POINT (11.2066309 46.4164508);Apartment Max;Via Gruppo Brenta;Ruffrè-Mendola;38010;4;;;;apartment
+8808826888;45.9039948;10.8430653;POINT (10.8430653 45.9039948);Casa Varone;;;;;;;;apartment
+8850053434;45.8914518;10.7271291;POINT (10.7271291 45.8914518);Appartamenti Ledrobenessere;Via Nuova;Pieve di Ledro;38067;56;https://www.appartamentiledrobenessere.it;+39 3491061874;;apartment
+8859234992;45.8860134;10.8396269;POINT (10.8396269 45.8860134);Appartamenti Fabbri 1;;;;;https://appartamenti-fabbri-1-riva-del-garda.hotelmix.it/;;;apartment
+9051921907;45.8893118;10.7324582;POINT (10.7324582 45.8893118);Casa Anna;Via Giulio Grossi;Ledro;38067;8;https://www.booking.com/hotel/it/casa-anna-ledro;;;apartment
+9134915222;45.9610181;10.9097747;POINT (10.9097747 45.9610181);Appartamenti Antica Dro;Via Roma;Dro;38074;8;;;;apartment
+9144490187;46.4764633;11.7444405;POINT (11.7444405 46.4764633);Ladina;;;;;https://www.ladina.net/;;;apartment
+9144797396;46.4751512;11.7401007;POINT (11.7401007 46.4751512);Bel Cesa Seren;;;;;;;;apartment
+9145523043;46.4748891;11.7400246;POINT (11.7400246 46.4748891);Ziria;;;;;;;;apartment
+9466289971;45.9536561;10.9093499;POINT (10.9093499 45.9536561);Appartamenti Al Vigneto;Località Santa Lucia;Dro;38074;1;;;;apartment
+9522424572;46.4166058;11.6699828;POINT (11.6699828 46.4166058);Tieja de Gotart;Strada de Somcosta;Vigo di Fassa;38039;19;;;;apartment
+9674084640;45.8803903;10.8550253;POINT (10.8550253 45.8803903);Spiaggia Residence;Via H. e T. Mann;Riva del Garda;38066;4;;;;apartment
+9798941342;46.02192;10.9833147;POINT (10.9833147 46.02192);La finestra sul Brenta;Via doss;Lasino;38076;16;;;;apartment
+9809543507;46.4572429;11.7995304;POINT (11.7995304 46.4572429);Cesa Elena;Strada De Antersies;;;17;;;;apartment
+9819697616;45.9133007;10.8439059;POINT (10.8439059 45.9133007);Garda View Guest House;Via Gavazzo Vecchio;Tenno;38060;20;https://www.gardaview.it;;info.gardaview@gmail.com;apartment
+9832793459;46.3157378;10.7967597;POINT (10.7967597 46.3157378);Residence Piz Aot;;;;;;;;apartment
+9836677204;45.9122315;10.8773369;POINT (10.8773369 45.9122315);Arco Top Floor;Via Narzelle;Arco;38062;27;;;;apartment
+9843190800;45.876395;10.875198;POINT (10.875198 45.876395);Torbole Holiday House;Via Tòm del Sarca;Nago-Torbole;38069;3;https://www.torboleholidayhouse.com/;+39 0464 505966;info@torboleholidayhouse.com;apartment
+9843593398;45.8787126;11.032215;POINT (11.032215 45.8787126);Cà della Roggia;;;;;;;;apartment
+9844054612;45.8969612;10.8724706;POINT (10.8724706 45.8969612);Casa mamma Pina;Via Isce;Arco;;6;;;;apartment
+9844196519;45.894825;10.869925;POINT (10.869925 45.894825);Casa Andela;Via Monte Brione;;;11;;;;apartment
+9845797299;45.9579488;10.907344;POINT (10.907344 45.9579488);Cà de L'Olif- Holiday Clima Apartments;;;;;;;;apartment
+9845845613;45.9584405;10.9074469;POINT (10.9074469 45.9584405);Bed & Jump Acero Rosso;Via Riccardo Zandonai;Dro;38074;15;;;;apartment
+9847519540;45.8782489;10.8735791;POINT (10.8735791 45.8782489);Carly's rooms;Via Linfano;Arco;38062;54;https://www.carlysrooms.com;+39 392 6211003;carlysrooms@gmail.com;apartment
+9847571798;45.9190015;11.1865165;POINT (11.1865165 45.9190015);Hotel Garden;;;;;;;;apartment
+9847571799;45.9179147;11.1858818;POINT (11.1858818 45.9179147);Alpen Hotel Eghel;Via Andrea Maffei;Folgaria;38064;49;;;;apartment
+9847977316;45.8934265;10.8667247;POINT (10.8667247 45.8934265);Casa Alla Grotta;Via Monte Brione;Arco;38062;16;;;;apartment
+9852340575;45.9132577;10.8807031;POINT (10.8807031 45.9132577);1Dest Easy & modern;Via San Sisto;Arco;38062;22;https://1dest.com/;;;apartment
+9858414320;45.8999726;10.8657385;POINT (10.8657385 45.8999726);Le Servite Apartments;Via Passirone;Arco;38062;68;;;;apartment
+9861124453;45.889378;10.863014;POINT (10.863014 45.889378);Garda Lake & Sun apartments;Via Tenente Miorelli;Riva del Garda;38066;9;;+39 349 7124173;;apartment
+9861124454;45.8889847;10.8639581;POINT (10.8639581 45.8889847);Appartamento Terrazza Sugli Ulivi;Via Tenente Miorelli;Riva del Garda;38066;2d;;+39 3285682238;;apartment
+9863836499;45.9420783;10.9039557;POINT (10.9039557 45.9420783);Appartamento Maso Giare;Località Maso Giare;Arco;38074;;https://www.masogiare.com;+39 335 5945728;info@masogiare.com;apartment
+9867509831;45.8825917;10.8571322;POINT (10.8571322 45.8825917);Casa Dalia;Via Belluno;Riva del Garda;38066;5;;;;apartment
+9867509832;45.8824479;10.8568928;POINT (10.8568928 45.8824479);Locanda Restel de Fer;Via Restel de Fer;Riva del Garda;38066;12;https://www.resteldefer.com;+39 0464553481;info@resteldefer.com;apartment
+9867509833;45.8824321;10.8569907;POINT (10.8569907 45.8824321);Casa Erica;Via Restel de Fer;Riva del Garda;38066;14;;;;apartment
+9868091962;45.8857521;10.8596498;POINT (10.8596498 45.8857521);Casa Maria;Via Filanda;Riva del Garda;38066;39o;https://www.casamariaapartments.it;+39 333 6409895;info@casamariaapartments.it;apartment
+9868190970;45.8906752;10.8622032;POINT (10.8622032 45.8906752);Maffei Apartments;Via Sant'Alessandro;Riva del Garda;38066;25;https://www.maffeiapartments.it;+39 3387450000;info@maffeiapartments.it;apartment
+9869823067;45.8886955;10.8608627;POINT (10.8608627 45.8886955);Toniol Apartment;Via Sant'Alessandro;Riva del Garda;38066;7;;;;apartment
+9871965662;45.8801798;10.8607485;POINT (10.8607485 45.8801798);Villa Speranza;Via Brione;Riva del Garda;38066;30;https://www.villasperanza-rivadelgarda.it/;+39 0464.552038;info@villasperanza-rivadelgarda.it;apartment
+9873982871;46.3124539;11.6638426;POINT (11.6638426 46.3124539);Hotel Bellamonte;;;;;;;;apartment
+9873985056;46.3128081;11.6664031;POINT (11.6664031 46.3128081);Park Hotel Sancelso;Via Prai de Mont;Bellamonte;;27;;;;apartment
+9874067153;45.8875371;10.730896;POINT (10.730896 45.8875371);Casa Enrico;Via Alzer;Ledro;38067;30;;;;apartment
+9874109534;45.8867946;10.7300003;POINT (10.7300003 45.8867946);Casa Luisella;Via Alzer;Ledro;38067;14;;;;apartment
+9874114929;46.2332363;10.8245067;POINT (10.8245067 46.2332363);Hotel Europa;;;;;;;;apartment
+9874137373;45.8870253;10.7299133;POINT (10.7299133 45.8870253);Casa Elisabetta;Via Alzer;Ledro;38067;12;https://www.vallediledro.com/it/appartamento/casa-elisabetta-pieve-di-ledro;+39 3462852111;elisabettarigoldi@yahoo.com;apartment
+9874137374;45.8875444;10.7304927;POINT (10.7304927 45.8875444);Da Maria Rosa;Via Alzer;Ledro;38067;8;;;;apartment
+9874137375;45.8871094;10.730557;POINT (10.730557 45.8871094);Casa Tumis;Via Alzer;Ledro;38067;34;;;;apartment
+9874137376;45.886848;10.7296209;POINT (10.7296209 45.886848);Casa Stefania;Via Alzer;Ledro;38067;10;;;;apartment
+9874178934;45.8853432;10.7309068;POINT (10.7309068 45.8853432);Casa Lori 1;Via Alzer;Pieve di Ledro;38067;54;;;;apartment
+9874178935;45.886133;10.7299734;POINT (10.7299734 45.886133);Casa Alberta;Via Alzer;Pieve di Ledro;38067;46;;;;apartment
+9874218291;45.8994957;10.7235949;POINT (10.7235949 45.8994957);LLH Casa Elena;Via alla Colonia;Ledro;38067;6;https://www.ledrolakeholiday.com;;;apartment
+9876039990;45.8841448;10.730478;POINT (10.730478 45.8841448);Residence Scandoler;Via Alzer;Ledro;38067;;;;;apartment
+9876053361;45.8842154;10.7293093;POINT (10.7293093 45.8842154);Gemma;Via Scandoler;Ledro;38067;4;;;;apartment
+9876061734;45.8858922;10.7305068;POINT (10.7305068 45.8858922);Casa Lucia;Via Alzer;Ledro;38067;44;https://www.affittivacanzecrosina.com;;;apartment
+9876391329;45.8999102;10.7261516;POINT (10.7261516 45.8999102);Casa Giulia;Via Daves;Ledro;38067;3;;;;apartment
+9884877114;45.9033121;10.8611479;POINT (10.8611479 45.9033121);Residence Gemma;Località San Tomaso;Riva del Garda;38066;55;https://www.residencegemma.it/;+39 348 1218472;info@residencegemma.it;apartment
+9884980701;45.9050857;10.8607989;POINT (10.8607989 45.9050857);Villa Luxury House & Spa;Località San Tomaso;Riva del Garda;38066;;https://www.villaluxuryhousespa.it/;+39 345 9748120;info@villaluxuryhousespa.it;apartment
+9884980703;45.9046588;10.8621448;POINT (10.8621448 45.9046588);Appartamenti Silvana;Località San Tomaso;Riva del Garda;38066;63;http://www.silvanasulgarda.it;+39 0464 520677;info@silvanasulgarda.it;apartment
+9887268515;45.9003036;10.8578051;POINT (10.8578051 45.9003036);LakeGarden Apartment;Via Ippolito Pederzolli;Riva del Garda;38066;29;https://gestex.kross.travel/details/room/id/31;;;apartment
+9891305873;45.9096063;10.8109039;POINT (10.8109039 45.9096063);House Casa Campi 2.0;Località Lavaroni;Riva del Garda;38066;1;;+39 377 960 3210;;apartment
+9891339831;45.9059053;10.8134924;POINT (10.8134924 45.9059053);Antica casa Ortensia;Località Zucchetti;Riva del Garda;38066;7;;+39 0464 501197;;apartment
+9891371237;45.9136136;10.8165576;POINT (10.8165576 45.9136136);La Poiana;Località Zumiani;Riva del Garda;38066;;;+39 349 8176313;;apartment
+9903486798;45.9079662;10.8497379;POINT (10.8497379 45.9079662);Residenza alle Grazie;Via Basone;Riva del Garda;38066;3;https://www.residenzaallegrazie.it/;+39 335 7083083;;apartment
+9908995934;45.9111026;10.8523436;POINT (10.8523436 45.9111026);Il giardino segreto;Piazza Interna Ceole;Arco;38062;;;+39 340 125 1038;;apartment
+9915364089;46.139525;10.9590188;POINT (10.9590188 46.139525);Residence al Caminetto;Via Lungolago;Molveno;38018;46;;;;apartment
+9916479814;45.8993698;10.8664815;POINT (10.8664815 45.8993698);Appartamenti Pause Lake Garda;Via Passirone;Arco;38062;9;https://www.pauselakegarda.it/;+39 3467147200;info@pauselakegarda.it;apartment
+9916506353;45.8985848;10.8654271;POINT (10.8654271 45.8985848);Appartamenti Casa Travaglia;Via S. Tomè;Arco;38062;10;;+39 339 3020236;;apartment
+9933012002;45.8979815;10.8545418;POINT (10.8545418 45.8979815);Villa Orange;Località San Nazzaro;Riva del Garda;38066;20;https://villa-orange-riva-del-garda.hotelmix.it/;;;apartment
+9938927267;46.0790968;11.1306674;POINT (11.1306674 46.0790968);Trento View;Via del Dos;Trento;;3;https://www.trentoview.com/;;;apartment
+9941690074;45.8800227;10.7522317;POINT (10.7522317 45.8800227);"Casa di Ledro ""Daldoss""";Via Lungolago;Ledro;38067;10;http://www.casadiledro.com;+39 0464508161;;apartment
+9944342665;45.8824837;10.7522184;POINT (10.7522184 45.8824837);Casa vacanze Luca e Cristina;Via Ptice;Ledro;38067;20;;+39 346 6376999;;apartment
+9944700139;45.8816256;10.7512893;POINT (10.7512893 45.8816256);Casa Margherita;Via Aldo Toccoli;Ledro;38067;9;;;;apartment
+9945133963;45.8819699;10.7507854;POINT (10.7507854 45.8819699);Casa Martì;Via Ptice;Ledro;38067;1;;;;apartment
+9945271446;45.8819067;10.7504427;POINT (10.7504427 45.8819067);Casa Monica;Via Ptice;Ledro;38067;10;;;;apartment
+9946561075;45.8808489;10.7553102;POINT (10.7553102 45.8808489);Villa La Dianella;Via Belvedere;Ledro;38067;4;https://www.ladianella.com/;;info@ladianella.com;apartment
+9946675565;45.8811148;10.7510246;POINT (10.7510246 45.8811148);Casa Lena;Via San Michele;Ledro;38067;1;;;;apartment
+9946776567;45.8929184;10.7259896;POINT (10.7259896 45.8929184);Casa Filanda;Via Nuova;Ledro;38067;78;;;;apartment
+9947177496;45.8823182;10.7529217;POINT (10.7529217 45.8823182);Ledro Lake Suites;Via San Michele;Ledro;38067;34;https://www.ledrolakesuites.com/;+39 347 0130936;;apartment
+9947775711;45.8850976;10.7546878;POINT (10.7546878 45.8850976);Affittacamere B&B Ledro;Via Dromaé;Ledro;38067;5;https://www.bbledro.com/;+39 0464 517212;;apartment
+9947775714;45.8846181;10.7548076;POINT (10.7548076 45.8846181);Residence Dromaè;Via Dromaé;Ledro;38067;40;;;;apartment
+9952301020;45.8741742;10.7664871;POINT (10.7664871 45.8741742);Residence Palafitte;Via Maffei;Ledro;38067;50a;https://www.residencepalafitte.com/;+39 0464 508141;info@residencepalafitte.com;apartment
+9959464126;46.4358535;11.6912149;POINT (11.6912149 46.4358535);Molin de Pezol;;;;;;;;apartment
+9967188554;45.8712414;10.7729361;POINT (10.7729361 45.8712414);Bed & Bike Ledro;Via Maffei;Ledro;38067;35;;;;apartment
+9967188555;45.8713431;10.7741994;POINT (10.7741994 45.8713431);Casa Canali 2;;Ledro;38067;;;;;apartment
+9967188556;45.8712936;10.7749089;POINT (10.7749089 45.8712936);Casa Viola;Via Don Lucillo Sartori;Ledro;38067;6;;;;apartment
+9967188557;45.8717792;10.7759214;POINT (10.7759214 45.8717792);Appartamento Aurelia;Via Maffei;Ledro;38067;3;;;;apartment
+9967188558;45.8717297;10.7758959;POINT (10.7758959 45.8717297);Appartamento Lago di Ledro;Via Maffei;Ledro;38067;3c;;;;apartment
+9967188559;45.8730024;10.7678788;POINT (10.7678788 45.8730024);Appartamento Speranza;Via Maffei;Ledro;38067;109;;;;apartment
+9967188560;45.8734413;10.7649941;POINT (10.7649941 45.8734413);Chalet Sally;Via al Lago;Ledro;38067;7;;;;apartment
+9967191240;45.8705813;10.7753169;POINT (10.7753169 45.8705813);Casa Degara;Via Don Lucillo Sartori;Ledro;38067;23;https://casadegara.oneminutesite.it/;+39 349 1373309;;apartment
+9967191241;45.871375;10.7757662;POINT (10.7757662 45.871375);Appartamento Jasmine;Via Don Girolamo Viviani;Ledro;38067;7;https://appartamento-jasmine-molina-di-ledro.hotelmix.it/;+49 89 21540286;;apartment
+9967217223;45.8719878;10.778446;POINT (10.778446 45.8719878);Residenza Gemma;Via Maffei;Ledro;38067;2;https://residenzagemma.wixsite.com/gemma;;laresidenzagemma@gmail.com;apartment
+9967551916;45.8710894;10.7820351;POINT (10.7820351 45.8710894);Sunshine House Yoga;Via San Carlo;Ledro;38067;9;;;;apartment
+9967930371;45.882299;10.7513923;POINT (10.7513923 45.882299);Villa Marilyn;Via Ptice;Ledro;38067;15;;;;apartment
+9967930372;45.8849092;10.756404;POINT (10.756404 45.8849092);Ledro Nest;Via Dromaé;Ledro;38067;50;;;;apartment
+9967930373;45.8861695;10.7565797;POINT (10.7565797 45.8861695);Appartamento Bellavista;Via Dromaé;Ledro;38067;23;;;;apartment
+9967930376;45.8842503;10.7543403;POINT (10.7543403 45.8842503);Seia Mountain Wellness;Via Dromaé;Ledro;38067;36;;;;apartment
+9967937609;45.8841197;10.7537234;POINT (10.7537234 45.8841197);Ca' Albano;Via Dromaé;Ledro;38067;28;;;;apartment
+9967944280;45.8823707;10.7515614;POINT (10.7515614 45.8823707);Casa Rosa Mezzolago;Via Ptice;Ledro;38067;17;;;;apartment
+9974376216;45.868504;10.7753913;POINT (10.7753913 45.868504);Casa Felix;Via delle Decime;Ledro;38067;1;;;;apartment
+9975278836;46.2327112;10.8254369;POINT (10.8254369 46.2327112);Residenza 3- Tre;;;;;;;;apartment
+9981338237;45.8714387;10.7624808;POINT (10.7624808 45.8714387);Appartamento Belvedere;Via dei Pastei;Ledro;38067;12;;;;apartment
+9991627563;45.8837934;10.8575334;POINT (10.8575334 45.8837934);Essence suites;Via Gorizia;Riva del Garda;38066;10;;;;apartment
+10010733451;45.8656635;10.803301;POINT (10.803301 45.8656635);Casa Pier Giorgio Frassati;Via della Madonna;Ledro;38067;1;https://www.azionecattolicamantova.it/casa-per-ferie-piergiorgio-frassati/;+39 0464508133;segreteria@azionecattolicamantova.it;apartment
+10013095496;45.865762;10.8062437;POINT (10.8062437 45.865762);Appartamenti vacanze Alexandra;Via Giuseppe Cipelli;Ledro;38067;7;;+39 347 9072101;;apartment
+10013095497;45.8653085;10.8056428;POINT (10.8056428 45.8653085);"Garda Studio ""Mount 'N Lake""";Via del Dazi;Ledro;38067;;;;;apartment
+10015318206;45.866783;10.8077059;POINT (10.8077059 45.866783);Villa Alma;Via dei Toiane;Ledro;38067;3;http://www.alma-grotte.it/;+39 0464 508131;;apartment
+10015329244;45.8664682;10.8090204;POINT (10.8090204 45.8664682);Casa Giulia Slow Mountain;Via dei Toiane;Ledro;38067;40;;;;apartment
+10035559815;45.8912263;10.7301262;POINT (10.7301262 45.8912263);Casa Stefy;Via Sant'Antonio;Ledro;38067;34;;;;apartment
+10035559816;45.8902275;10.7315317;POINT (10.7315317 45.8902275);Casa Angelo;Via Sant'Antonio;Ledro;38067;21;;;;apartment
+10042875739;46.3084656;10.7580004;POINT (10.7580004 46.3084656);Residence Ca delle Margherite;Piazza di Ognano;Pellizzano;38020;5;https://www.deltom.it/it/building/details/4/ca-delle-margherite;+390463751204;info@deltom.it;apartment
+10224437662;45.9184977;10.8938123;POINT (10.8938123 45.9184977);Music & Bike;Via della Provvidenza;Arco;38062;18;;;;apartment
+10694022568;46.2598859;10.5840127;POINT (10.5840127 46.2598859);Dinastia Case Snow Apartment;;;;;;;;apartment
+10963827309;45.9026692;10.8483455;POINT (10.8483455 45.9026692);Unnamed;;;;;;;;apartment
+11045330442;46.0699637;11.1193381;POINT (11.1193381 46.0699637);House of Bruno / B&B Mia / Trento B&B;Via Torre Vanga;Trento;38122;14;https://www.bbmia.it/;;;apartment
+11059120062;45.924547;10.8972436;POINT (10.8972436 45.924547);B&B Ai 4 colori;Via San Martino;Arco;38062;4;https://www.bedandbreakfastai4colori.it/;;andreabona030474@gmail.com;apartment
+11059150458;45.9270037;10.8965473;POINT (10.8965473 45.9270037);Le Falesie;Via Dritta;Arco;38062;5;;;;apartment
+11059422070;45.9237066;10.9011122;POINT (10.9011122 45.9237066);Massone Climbing Home;Piazza Francesco Saverio Ribbia;Arco;38062;5;;;;apartment
+11059490475;45.9242872;10.9005207;POINT (10.9005207 45.9242872);B&B Arco Antico;Via degli Olivi;Arco;38062;8;;;;apartment
+11059577422;45.9226185;10.9035431;POINT (10.9035431 45.9226185);La casa di Virginia;Via Verde;Arco;38062;5;;;;apartment
+11059613692;45.9268733;10.894713;POINT (10.894713 45.9268733);Costa d'Arco;Viale Arciprete Francesco Santoni;Arco;38062;61;;;;apartment
+11059614694;45.9224296;10.9026045;POINT (10.9026045 45.9224296);Residenza Noemi;Via Scipio Sighele;Arco;38062;9;;;;apartment
+11064557855;45.913354;10.9156119;POINT (10.9156119 45.913354);Romatico Panorama;Località Gazzi;Arco;38062;58;;;;apartment
+11167084236;45.891928;10.8374826;POINT (10.8374826 45.891928);Emma‘s Riva-Dream;Via Ardaro;Riva del Garda;38066;45 h;https://www.emmasrivadream.com;+39 334 301 25 16;rivadelgarda2022@gmail.com;apartment
+11167698897;45.8943546;10.8486275;POINT (10.8486275 45.8943546);Emma’s Riva-Dream deluxe;via Archimede Martini;Riva del Garda;38066;1 a;https://www.emmasrivadream.com;+39 334 301 25 16;rivadelgarda2022@gmail.com;apartment
+11245385294;46.0454176;11.1049537;POINT (11.1049537 46.0454176);Belvedere Apartements;;;;;;;;apartment
+11348712699;46.1465262;10.9682948;POINT (10.9682948 46.1465262);Casa Angelo;Via Belvedere;Molveno;38018;44;;;;apartment
+11398636545;45.8779206;10.6607271;POINT (10.6607271 45.8779206);Villa Iagra;Via Ampola;Ledro;38067;31;https://www.villaiagra1794.it/;+39 328 5549007;iagra1794@gmail.com;apartment
+11456243615;45.8704967;10.7445576;POINT (10.7445576 45.8704967);Bungalow al Lago;Via Val Maria;Ledro;38067;65;https://www.greenholiday.com;;;apartment
+11456243616;45.8704563;10.7444903;POINT (10.7444903 45.8704563);Bungalow al Lago;Via Val Maria;Ledro;38067;67;https://www.greenholiday.com;;;apartment
+11456248556;45.8676589;10.7465115;POINT (10.7465115 45.8676589);Casa Gabri;Via Malga Cita;Ledro;38067;6;;;;apartment
+11456433247;45.8695094;10.7465338;POINT (10.7465338 45.8695094);Casa Camilla;Via Val Maria;Ledro;38067;5;;;;apartment
+11456605979;45.8689318;10.739567;POINT (10.739567 45.8689318);Casa Demadonna;Via Val Maria;Ledro;38067;153;;;;apartment
+11459558092;45.8751867;10.7438562;POINT (10.7438562 45.8751867);Ferienhaus Krier;Via Val Maria;Ledro;38067;38;https://ferienhaus-krier.de/lago-di-ledro-trentino/;;;apartment
+11459558094;45.8732251;10.743233;POINT (10.743233 45.8732251);Villa Carina;Via Val Maria;Ledro;38067;30;;;;apartment
+11459642178;45.8780142;10.7432714;POINT (10.7432714 45.8780142);La Quieta;Via Val Maria;Ledro;38067;72;;;;apartment
+11459990197;45.8771512;10.7442319;POINT (10.7442319 45.8771512);Villa Rosemary;Via Val Maria;Ledro;38067;247;;;;apartment
+11460271741;45.876224;10.7408805;POINT (10.7408805 45.876224);Casa Ambra;Via Europa;Ledro;38067;8;;;;apartment
+11461070515;45.8755907;10.7434164;POINT (10.7434164 45.8755907);Ca' del Bepi;Via Val Maria;Ledro;38067;237;https://www.cadelbepi.com;;;apartment
+11461070517;45.8757577;10.7434206;POINT (10.7434206 45.8757577);Serena;Via Val Maria;Ledro;38067;241;https://www.greenholiday.com;;;apartment
+11461160682;45.8767616;10.7442347;POINT (10.7442347 45.8767616);Villa Belli;Via Val Maria;Ledro;38067;48;https://www.greenholiday.com;;;apartment
+11461160684;45.8781723;10.7447336;POINT (10.7447336 45.8781723);Residence Panorama;Via Val Maria;Ledro;38067;62;;;;apartment
+11461464732;45.8795848;10.7390383;POINT (10.7390383 45.8795848);Chalet Le Querce;Via Val Maria;Ledro;38067;263;https://vallediledro.net/le-strutture/chalet-le-querce;;;apartment
+11461499253;45.8804223;10.7376841;POINT (10.7376841 45.8804223);Ledro House - Ca' Valentina;Via val Maria;Ledro;38067;88;;;;apartment
+11461512511;45.8769415;10.7422571;POINT (10.7422571 45.8769415);Casa Regina;Via Val Maria;Ledro;38067;261;;;;apartment
+11461513231;45.8802922;10.7385642;POINT (10.7385642 45.8802922);Ledro House - Ca' Romantica;Via val Maria;Ledro;38067;84;;;;apartment
+11461513232;45.8804683;10.7381094;POINT (10.7381094 45.8804683);Ledro House - Casa Panorama;Via val Maria;Ledro;38067;86;;;;apartment
+11461513358;45.8795611;10.738367;POINT (10.738367 45.8795611);Ledro House - Terrazze sul lago;Via del Roccolo;Ledro;38067;1;;;;apartment
+11461547290;45.869337;10.7458757;POINT (10.7458757 45.869337);Casa Carla;Via Val Maria;Ledro;38067;27;;;;apartment
+11461547291;45.8692716;10.7460822;POINT (10.7460822 45.8692716);Casa Max;Via Val Maria;Ledro;38067;11;;;;apartment
+11461775178;45.8710104;10.7422414;POINT (10.7422414 45.8710104);Haus Brigitte;Via val Maria;Ledro;38067;;https://hausbrigitte-ledro.com/;;;apartment
+11461775179;45.8698423;10.7412952;POINT (10.7412952 45.8698423);Casa Civettini;Via val Maria;Ledro;38067;157;;;;apartment
+11462178875;45.8691873;10.745387;POINT (10.745387 45.8691873);Casa Pippi;Via val Maria;Ledro;38067;49;;;;apartment
+11462197225;45.8677544;10.7458519;POINT (10.7458519 45.8677544);Casa Pineta;Via Malga Cita;Ledro;38067;;;;;apartment
+11462235631;45.866216;10.7456308;POINT (10.7456308 45.866216);Casa Dazio;Via Casarino;Ledro;38067;;https://www.cadelbepi.com;;;apartment
+11462235632;45.8763068;10.743534;POINT (10.743534 45.8763068);Casa Maria;Via val Maria;Ledro;38067;;https://www.cadelbepi.com;;;apartment
+11462235633;45.8705365;10.744074;POINT (10.744074 45.8705365);Bungalow al Lago;Via val Maria;Ledro;38067;97;;;;apartment
+11493908486;45.8683846;10.7756028;POINT (10.7756028 45.8683846);Green Garden;Via delle Decime;Ledro;38067;3;;;;apartment
+11493908492;45.8667426;10.7640952;POINT (10.7640952 45.8667426);Chalet Monica;Località Me;Ledro;38067;1;;;;apartment
+11504208389;45.8938502;10.6841979;POINT (10.6841979 45.8938502);Ca' Leonardi;;Ledro;38067;13;;;;apartment
+11507241492;45.8929572;10.6901121;POINT (10.6901121 45.8929572);Casa Anita;Via Giuseppe Garibaldi;Ledro;38067;76;;;;apartment
+11509486736;45.8859941;10.698076;POINT (10.698076 45.8859941);Villaggio Santa Lucia;Via Santa Lucia;Ledro;38067;32;http://www.villaggiosantalucialedro.it;+39 347 1975288;;apartment
+11509964972;45.8902693;10.6916964;POINT (10.6916964 45.8902693);Casa Sant'Isep;Via Monsignor Mario Ferrari;Ledro;38067;17;;;;apartment
+11510439659;45.8948636;10.7084225;POINT (10.7084225 45.8948636);Residence ai Tovi;Via Tovi;Ledro;38067;48;;+39 0464 590150;;apartment
+11512657767;45.8964074;10.7156338;POINT (10.7156338 45.8964074);Ca' mea Dina;Via Tovi;Ledro;38067;12;https://www.cameadina.com/it;+39 0464 592117;;apartment
+11512669963;45.8964574;10.7136527;POINT (10.7136527 45.8964574);Casa Teresa;Via Tovi;Ledro;38067;27;;;;apartment
+11512675631;45.8961006;10.7157835;POINT (10.7157835 45.8961006);Casa Mora;;Ledro;38067;9;;;;apartment
+11512720399;45.8964783;10.7120397;POINT (10.7120397 45.8964783);Residence Alessio;Via Giacomo Cis;Ledro;38067;15;https://www.residencealessio.it/it;;info@residencealessio.it;apartment
+11518961570;45.8996929;10.7239634;POINT (10.7239634 45.8996929);Guesthouse Ledro;Via Venezia;Ledro;38067;6;;;;apartment
+11524123048;45.9030921;10.7260738;POINT (10.7260738 45.9030921);Casa Meri;Via Doghen;Ledro;38067;15;;;;apartment
+11524440571;45.8990466;10.7257372;POINT (10.7257372 45.8990466);Koi House;Via San Marco;Ledro;38067;13;;;;apartment
+11524488247;45.8988188;10.7255584;POINT (10.7255584 45.8988188);Casa Rosella;Via San Marco;Ledro;38067;14;;;;apartment
+11525108304;45.8664085;10.8061807;POINT (10.8061807 45.8664085);Ca Seli;Via Cantodori;Ledro;38067;1;;;;apartment
+11527084051;45.9065914;10.7279003;POINT (10.7279003 45.9065914);Cà Alice;Via Bonomelli;Ledro;38067;1;;+39 0464 591322;sierraledro@Yahoo.it;apartment
+11527100259;45.9070827;10.7275271;POINT (10.7275271 45.9070827);Casa Maria;Via Bonomelli;Ledro;38067;22;;;;apartment
+11527818440;45.9066128;10.7287744;POINT (10.7287744 45.9066128);Casa Ester;Via dei Concei;Ledro;38067;36;;+39 0464 590031;casaestervallediledro@gmail.com;apartment
+11530557129;45.9054681;10.72871;POINT (10.72871 45.9054681);Casa Miravalle;Piazza indipendenza;;;11;;;;apartment
+11530672622;45.926043;10.7304652;POINT (10.7304652 45.926043);Rustico Pastoria;;Ldro;38067;;;;;apartment
+11530672623;45.9260402;10.7303765;POINT (10.7303765 45.9260402);Chalet Verde;;Ldro;38067;;;;;apartment
+11530672624;45.9258116;10.7304027;POINT (10.7304027 45.9258116);Chalet Rosso;;Ldro;38067;;;;;apartment
+11530672625;45.9258284;10.7302899;POINT (10.7302899 45.9258284);Chalet Arancio;;Ldro;38067;;;;;apartment
+11530678291;45.906275;10.7287244;POINT (10.7287244 45.906275);La Fisarmonica;Via dei Concei;Ledro;38067;21;;;;apartment
+11530678292;45.9064243;10.7295385;POINT (10.7295385 45.9064243);Residenza al Castello;Via Castello;Ledro;38067;7;https://www.lakeproject.it/;+39 0464 590150;email@lakeproject.it;apartment
+11535080441;45.9147663;10.7262446;POINT (10.7262446 45.9147663);Garnì dal Mozat;Via Mario Bianchi;Lenzumo;38067;26;http://www.dalmozat.it/;+39 0464 591040;leder@dalmozat.it;apartment
+11542449892;45.9213688;10.7327597;POINT (10.7327597 45.9213688);Chalet Beatrice;;Ledro;38067;;https://it.vallediledro.net;;info@vallediledro.net;apartment
+11542449893;45.9313887;10.735671;POINT (10.735671 45.9313887);Chalet Palò;;Ledro;38067;;http://www.chalet-palo.it;+39 0464 591794;michisarti@virgilio.it;apartment
+11559805530;45.9059304;10.8867066;POINT (10.8867066 45.9059304);Pratosaiano Holiday;Località Dossi;Arco;38062;4;https://www.pratosaiano.com/;+39 348 9999888;info@fanum.it;apartment
+11594850665;45.9036406;10.8891563;POINT (10.8891563 45.9036406);Casa al fico;;Arco;38062;;;;;apartment
+11619347846;45.9200719;10.8909354;POINT (10.8909354 45.9200719);Residenza Klima House;;Arco;38062;14;https://www.residenzaklimahouse.it/;+39 0464 518922;info@residenzaklimahouse.it;apartment
+11623512462;45.9200735;10.8996778;POINT (10.8996778 45.9200735);Agritur La Terra;Via Cappuccini;Arco di Trento;38062;6;https://www.agriturlaterra.it/;+39 0464 357695;contact@agriturlaterra.it;apartment
+11745848215;45.9273837;10.8817331;POINT (10.8817331 45.9273837);Residenza Mariella;Via alle Fontane di Làghel;Arco;38062;7;;;;apartment
+11813794619;45.8839029;10.8383105;POINT (10.8383105 45.8839029);Exclusive Suites Riva;;;;;;;;apartment
+11837596943;45.925989;10.8974959;POINT (10.8974959 45.925989);B&B Ruth;Via Scaletta;Arco;38062;5;;;;apartment
+11846821185;46.1552633;11.7337775;POINT (11.7337775 46.1552633);Casa Maria;;;;;;;;apartment
+11906572483;45.9141082;10.9175799;POINT (10.9175799 45.9141082);Arco Mountain Life;Località Gazzi;Arco;38062;73;;;;apartment
+11907061004;45.9053327;10.9303048;POINT (10.9303048 45.9053327);Vello d'Arco;Località Gazzi;Arco;38062;;;;;apartment
+11927577666;45.9104797;10.9034492;POINT (10.9034492 45.9104797);Residenza Cinisca;Via Giuseppe Mazzini;Arco;38062;5c;https://www.residenza-cinisca.com;;info@residenza-cinisca.com;apartment
+11928192251;45.9170854;10.8904947;POINT (10.8904947 45.9170854);Arco Home;Via Canale;Arco;38062;14a;;;;apartment
+11928192252;45.9171601;10.8892206;POINT (10.8892206 45.9171601);Casa Torboli;Via Fitta;Arco;38062;21L;;;;apartment
+11928198803;45.9176163;10.8927865;POINT (10.8927865 45.9176163);Residenza San Rocco;Via Indipendenza;Arco;38062;2;https://www.residenzasanrocco.it;+39 0464 518922;info@residenzasanrocco.it;apartment
+11928198804;45.917203;10.8928641;POINT (10.8928641 45.917203);Palazzo Oltre;;Arco;38062;6;https://www.palazzooltre.it/;+39 339 3399166;info@palazzooltre.it;apartment
+11956376243;45.8884213;11.039346;POINT (11.039346 45.8884213);Ocra;;;;;;;;apartment
+11989730057;45.8980623;10.9746247;POINT (10.9746247 45.8980623);Chalet La Baita Bordala;Via Case Sparse;Ronzo-Chienis;38060;63;https://baitabordala.com;+39 0464 802999;baitabordala@yahoo.it;apartment
+12006240099;45.8695679;10.9388324;POINT (10.9388324 45.8695679);Casa San Felice;Via 22 Maggio;Valle San Felice;38065;5;;;mara.bottanelli@libero.it;apartment
+12006306368;45.868944;10.9382425;POINT (10.9382425 45.868944);Le Cort Agriturismo;;Valle San Felice;38065;5;;+39 0464 802022;;apartment
+12016594103;45.8605179;10.9389564;POINT (10.9389564 45.8605179);Cà Fabiani;Località Piantim;Mori;38065;;http://www.cafabiani.it/;;info@cafabiani.it;apartment
+12017159650;45.8699378;10.9425539;POINT (10.9425539 45.8699378);B&B Arpa di Pietra;Località Pizzole;Valle San Felice;38065;9;https://www.arpadipietra.it/;;info@arpadipietra.it;apartment
+12090147977;45.845977;10.9503497;POINT (10.9503497 45.845977);Appartamento nel verde;;Mori;38065;42;;;;apartment
+12104094537;45.8380424;10.9528924;POINT (10.9528924 45.8380424);Casa Liu;Via Loppio;Castione;38060;1;;+39 339 6466628;bergaminicristian@yahoo.it;apartment
+12231203820;46.065623;11.1231248;POINT (11.1231248 46.065623);yugogo;Via Giuseppe Mazzini;Trento;38122;43;https://www.yugogo.it/;;;apartment
+12336883323;45.9447295;11.2657982;POINT (11.2657982 45.9447295);Enzo & Rossella;;;;;;;;apartment
+12385090265;46.2271743;10.8266037;POINT (10.8266037 46.2271743);CasaGrotti;;;;;https://www.casagrotti.eu/;;;apartment
+12496944591;46.0553082;11.4543778;POINT (11.4543778 46.0553082);Balconi Rossi;;;;;;;;apartment
+12498763235;46.0530709;11.4574398;POINT (11.4574398 46.0530709);B&B al Gatto Nero;;;;;;;;apartment
+12498778716;46.055813;11.4521059;POINT (11.4521059 46.055813);Appartamento la bella vista;;;;;;;;apartment
+12498781244;46.0548928;11.4515715;POINT (11.4515715 46.0548928);Lunar Room and Breakfast;;;;;;;;apartment
+12507844090;46.0539649;11.4571315;POINT (11.4571315 46.0539649);Ausugum Apartments;;;;;;;;apartment
+12507853807;46.0525714;11.4583722;POINT (11.4583722 46.0525714);Appartamento Via Fratelli;;;;;;;;apartment
+12507854701;46.0531946;11.4573877;POINT (11.4573877 46.0531946);Casa Titti;;;;;;;;apartment
+12507861598;46.0531961;11.4587426;POINT (11.4587426 46.0531961);Appartamenti Il Gufo Vacanze;;;;;;;;apartment
+12507870066;46.0535183;11.4573654;POINT (11.4573654 46.0535183);Piccola Venezia;;;;;;;;apartment

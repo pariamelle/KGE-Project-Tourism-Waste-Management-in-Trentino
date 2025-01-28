@@ -1,420 +1,429 @@
-id,name,latitude,longitude,artist_name,description,website,type
-artwork_id_330790480,,45.8957659,10.6786317,,,,artwork:unknown
-artwork_id_861231425,Tracciando il Tempo,46.0729693,11.1201891,,,,artwork:unknown
-artwork_id_867438823,San Vigilio,46.0666528,11.1218315,Stefano Zuech,,,artwork:statue
-artwork_id_869314139,Fiore Lunare,46.060191,11.1132107,,,,artwork:unknown
-artwork_id_874501172,,46.0726064,11.1202893,,,,artwork:unknown
-artwork_id_927359291,,46.0666678,11.12111,,,,artwork:unknown
-artwork_id_943285713,,46.3652819,11.0332453,,,,artwork:unknown
-artwork_id_943372141,,46.3641389,11.0358649,,,,artwork:unknown
-artwork_id_945133356,,46.3647167,11.0350751,,,,artwork:unknown
-artwork_id_945430437,,46.3642569,11.0348269,,,,artwork:unknown
-artwork_id_1221409645,Orso di Berlino,46.0699012,11.1159524,,,https://web.archive.org/web/20101224185132/http://www2.comune.trento.it/comune/argomenti/gemellaggi/berlin_attivta01.htm,artwork:unknown
-artwork_id_1301681385,,45.885049,10.8416311,,,,artwork:statue
-artwork_id_1322854458,,46.2652285,11.0858989,,,,artwork:unknown
-artwork_id_1331468443,,46.0634281,11.1257846,,,,artwork:unknown
-artwork_id_1357186426,,46.0526862,10.8536491,,Con la pace la vita,,artwork:statue
-artwork_id_1821593950,,46.1674548,11.5534424,,,,artwork:sculpture
-artwork_id_2258384493,Blue Live Arts,45.9226453,11.0669917,,,,artwork:graffiti
-artwork_id_2400890803,,46.062965,11.1131588,,,,artwork:unknown
-artwork_id_2484736019,Cavallo,45.8891292,11.042221,,,,artwork:unknown
-artwork_id_2491888117,,45.9123078,10.9022128,,,,artwork:statue
-artwork_id_2665784876,,46.0629479,11.1137846,Pino Castagna,,,artwork:sculpture
-artwork_id_2987426113,Tridentum 2011,46.0351423,11.1217898,Stefano Cagol,L'installazione monumentale permanente riprende nel titolo “TRIDENTUM” il nome romano della città e sintetizza in modo concettuale le tre colline che hanno dato origine a questo nome.,,artwork:unknown
-artwork_id_3120466819,Trento Rocks,46.052568,11.1201624,,,,artwork:installation
-artwork_id_3802220162,Fili d'erba,46.0028638,11.368776,Johann Feilacher,,,artwork:sculpture
-artwork_id_3802220163,Cerca,46.00315,11.3698945,Roberto Conte,,,artwork:sculpture
-artwork_id_3802220164,Il nido di Sella II,46.0022013,11.3674673,Nils-Udo,,,artwork:sculpture
-artwork_id_3802220165,Attraversare l'anima,46.0022916,11.3682071,Will Beckers,,,artwork:sculpture
-artwork_id_3802231152,Drago,46.0019084,11.3674808,Roger Rigorth,,,artwork:sculpture
-artwork_id_3802231153,Villagio Vegetale,46.0016155,11.3667661,Luc Schuiten,,,artwork:sculpture
-artwork_id_3802231154,Il vento di Sella,46.002049,11.368393,Anthony Howe,,,artwork:sculpture
-artwork_id_3802231155,Rifugio,46.0017708,11.3672846,Anton Schaller,,,artwork:sculpture
-artwork_id_3802254717,La sfera,46.0003255,11.3655392,François Lelong,,,artwork:sculpture
-artwork_id_3802254718,Senza titolo 169,46.0013734,11.3667504,Aeneas Wilder,,,artwork:sculpture
-artwork_id_3802263607,Viadotto 2,46.0011375,11.369272,Steven Siegel,,,artwork:sculpture
-artwork_id_3802263609,Chiocciola,46.0009521,11.3659941,Alfio Bonanno,,,artwork:sculpture
-artwork_id_3802263610,Pietre,46.0011707,11.3663572,François Lelong,,,artwork:sculpture
-artwork_id_3802263611,0121-1110=115075,46.0015623,11.3694208,Jaehyo Lee,,,artwork:sculpture
-artwork_id_3938156843,,46.0649495,11.508052,,,,artwork:sculpture
-artwork_id_3978703171,08,46.0712649,11.4676729,,,,artwork:statue
-artwork_id_3978703191,07,46.0715148,11.4680477,,,,artwork:statue
-artwork_id_3978703204,06,46.0721818,11.4686138,,,,artwork:statue
-artwork_id_3978703212,01,46.0735743,11.4703866,,,,artwork:statue
-artwork_id_3978711188,15,46.0704399,11.4650366,,,,artwork:statue
-artwork_id_3978711877,09,46.070858,11.4675493,,,,artwork:statue
-artwork_id_3978712089,13,46.0707554,11.4659089,,,,artwork:statue
-artwork_id_3978712095,12,46.0706192,11.4662925,,,,artwork:statue
-artwork_id_3978712366,11,46.0706479,11.4666013,,,,artwork:statue
-artwork_id_3978712372,05,46.0727084,11.4690995,,,,artwork:statue
-artwork_id_3978712651,14,46.0709662,11.4658647,,,,artwork:statue
-artwork_id_3978712652,10,46.070485,11.4670194,,,,artwork:statue
-artwork_id_3978712660,04,46.0727886,11.4695509,,,,artwork:statue
-artwork_id_3978712664,03,46.0730283,11.4698477,,,,artwork:statue
-artwork_id_3978712669,02,46.0733318,11.4701437,,,,artwork:statue
-artwork_id_4146513056,,46.062926,11.6325786,,,,artwork:statue
-artwork_id_4200146251,,46.0569884,11.5228711,,,,artwork:statue
-artwork_id_4296895624,,46.0564885,11.5239185,,,,artwork:sculpture
-artwork_id_4296895629,,46.0565298,11.5240609,,,,artwork:sculpture
-artwork_id_4296895637,,46.0568323,11.524188,,,,artwork:sculpture
-artwork_id_4296895638,,46.0568541,11.5241706,,,,artwork:sculpture
-artwork_id_4296895641,,46.0569284,11.5241452,,,,artwork:sculpture
-artwork_id_4296895643,,46.0569905,11.5241946,,,,artwork:sculpture
-artwork_id_4296903799,,46.0566594,11.5223812,,,,artwork:statue
-artwork_id_4296906481,,46.0561697,11.523875,,,,artwork:sculpture
-artwork_id_4296906483,,46.0562004,11.5239907,,,,artwork:sculpture
-artwork_id_4296906487,,46.0563238,11.5239018,,,,artwork:sculpture
-artwork_id_4296906488,,46.0563929,11.5239018,,,,artwork:sculpture
-artwork_id_4296906600,,46.0565785,11.5240048,,,,artwork:sculpture
-artwork_id_4296906797,,46.0566263,11.5240569,,,,artwork:sculpture
-artwork_id_4296906860,,46.0570546,11.5241679,,,,artwork:sculpture
-artwork_id_4296906861,,46.0571409,11.5241712,,,,artwork:sculpture
-artwork_id_4296906862,,46.0571905,11.524206,,,,artwork:sculpture
-artwork_id_4296906863,,46.0572508,11.524192,,,,artwork:sculpture
-artwork_id_4296906865,,46.0573292,11.5241826,,,,artwork:sculpture
-artwork_id_4296906866,,46.0573905,11.524212,,,,artwork:sculpture
-artwork_id_4334259659,,46.0794597,11.4437175,,,,artwork:sculpture
-artwork_id_4334269967,,46.0770996,11.4432327,,,,artwork:sculpture
-artwork_id_4334269970,,46.077141,11.4431382,,,,artwork:sculpture
-artwork_id_4334269971,,46.0771452,11.4432072,,,,artwork:sculpture
-artwork_id_4334273694,,46.0774275,11.4434319,,,,artwork:sculpture
-artwork_id_4334273704,,46.0776089,11.4434292,,,,artwork:sculpture
-artwork_id_4334274006,,46.0783732,11.4438322,,,,artwork:sculpture
-artwork_id_4334274837,,46.0797495,11.4438778,,,,artwork:sculpture
-artwork_id_4334274867,,46.0800095,11.444036,,,,artwork:sculpture
-artwork_id_4351022219,,46.1751189,11.5502417,,,,artwork:cross
-artwork_id_4369831146,,45.9283209,10.7658865,,,,artwork:statue
-artwork_id_4391163591,,45.8826851,10.7527988,,,,artwork:mural
-artwork_id_4397748545,,46.0687423,11.613669,,,,artwork:statue
-artwork_id_4397748550,,46.0687565,11.6136834,,,,artwork:statue
-artwork_id_4400170685,,45.9320389,10.7369707,,,,artwork:mural
-artwork_id_4406797206,,45.8643652,10.7405844,,,,artwork:mural
-artwork_id_4409639618,,45.8741179,10.7431798,,,,artwork:mural
-artwork_id_4414912273,,45.8889234,10.7327376,,,,artwork:mural
-artwork_id_4433181185,Eco,46.0084316,11.4180692,Will Beckers,,,artwork:sculpture
-artwork_id_4433292436,Colonna,46.0084795,11.4122279,Paul Feichter,,,artwork:sculpture
-artwork_id_4433292437,Sezione di tronchi d'abete rosso,46.0086375,11.4136835,Bob Verschueren,,,artwork:sculpture
-artwork_id_4433292438,Il tempio dell'amore,46.0087967,11.4155651,Belle Shafir,,,artwork:sculpture
-artwork_id_4436554341,Fili d’erba,46.0090393,11.4132994,Johann Feilacher,,,artwork:sculpture
-artwork_id_4436554342,Nicchie ecologiche,46.0090206,11.4113763,Giuliano Orsingher,,,artwork:sculpture
-artwork_id_4436554343,Flusso,46.0088688,11.4094652,Armin Schubert,,,artwork:sculpture
-artwork_id_4436554344,Germinazione,46.0090821,11.4108224,Gabriele Jardini,,,artwork:sculpture
-artwork_id_4436554345,Fori elicoidali,46.0086155,11.407526,Rinus Roelofs,,,artwork:sculpture
-artwork_id_4436554346,In apparenza,46.0086033,11.407074,Stuart Ian Frost,,,artwork:sculpture
-artwork_id_4436554347,Rotazione,46.0085149,11.4056605,Paul Feichter,,,artwork:sculpture
-artwork_id_4436554348,Spirale,46.0086844,11.4084768,Alois Steger,,,artwork:sculpture
-artwork_id_4436621275,Case per Baroni Rampanti,46.0083301,11.3962733,Roberto Conte,,,artwork:sculpture
-artwork_id_4436621276,Stele di Sella,46.0087089,11.3939609,Chris Booth,,,artwork:sculpture
-artwork_id_4436621277,La casa che abito,46.0083201,11.3917346,Lilly Cerro,,,artwork:sculpture
-artwork_id_4436621278,Transizione,46.0086538,11.3924672,Luca Petti,,,artwork:sculpture
-artwork_id_4436621279,Corno verdeggiante,46.008379,11.4038072,Johann Feilacher,,,artwork:sculpture
-artwork_id_4436647876,Interstizi,46.0081098,11.3903751,Matilde Grau,,,artwork:sculpture
-artwork_id_4436647877,Nucleo,46.0068644,11.3866354,Armin Schubert,,,artwork:sculpture
-artwork_id_4436647878,Wassergehäuse,46.0063912,11.3896288,Roger Rigorth,,,artwork:sculpture
-artwork_id_4436647879,Lupi,46.007073,11.3902832,Sally Matthews,,,artwork:sculpture
-artwork_id_4436819856,Stato d'animo,46.0012803,11.3683561,Bob Verschueren,,,artwork:sculpture
-artwork_id_4436819857,Sisifo,46.002053,11.3711384,Bob Verschueren,,,artwork:sculpture
-artwork_id_4436819858,La stanza del cielo,46.001766,11.3706261,Chris Drury,,,artwork:sculpture
-artwork_id_4436819859,Stupa,46.0016679,11.3687718,Anton Schaller,,,artwork:sculpture
-artwork_id_4436819860,Lo Stilo,46.0009352,11.3684064,Gianandrea Gazzola,,,artwork:sculpture
-artwork_id_4436819861,I semi della pace,46.0022194,11.3695148,Pinuccio Sciola,,,artwork:sculpture
-artwork_id_4436819862,Tana libera tutti,46.001835,11.3702533,Patrick Dougherty,,,artwork:sculpture
-artwork_id_4436830243,Capsula,46.0015397,11.3681075,Stuart Ian Frost,,,artwork:sculpture
-artwork_id_4436830244,Dominio della mente sulla materia,46.0018601,11.3681853,Peter Randall-Page,,,artwork:sculpture
-artwork_id_4437552440,Bosco geometrico,46.0007883,11.365494,Urs Twellmann,,,artwork:sculpture
-artwork_id_4437552441,Il cubo,46.0009941,11.3669807,Rainer Gross,,,artwork:sculpture
-artwork_id_4437552442,Il quadrato,46.0011334,11.3676351,Rainer Gross,,,artwork:sculpture
-artwork_id_4437566746,Cupola per Leonardo,46.0023782,11.3702177,Rinus Roelofs,,,artwork:sculpture
-artwork_id_4592617059,Cristo D'Oro,46.0840269,11.5154992,,Ai Caduti di Turtte le Guerre - Il Gruppo ANA di Samone - 1961,,artwork:statue
-artwork_id_4740516482,,46.2129689,11.1081955,,wine bottle,,artwork:unknown
-artwork_id_4740516490,,46.2123456,11.1084411,,wine bottle,,artwork:unknown
-artwork_id_4757121706,la Madoninna,45.9383193,11.096859,,,,artwork:unknown
-artwork_id_4775141021,L'Avvolto,45.8631542,10.7365613,Luca Degara,,,artwork:sculpture
-artwork_id_4775141022,Limite Infinito,45.8625238,10.7353495,Leonardo Nava,,,artwork:sculpture
-artwork_id_4775141023,,45.8622112,10.7339629,,,,artwork:unknown
-artwork_id_4775141024,,45.8619124,10.7317125,,,,artwork:unknown
-artwork_id_4775141025,,45.8611054,10.7308891,,,,artwork:unknown
-artwork_id_4876524769,,46.0622369,11.1129329,,,,artwork:unknown
-artwork_id_4876524770,,46.0606132,11.1132044,,,,artwork:unknown
-artwork_id_4876524773,,46.060656,11.1141025,,,,artwork:unknown
-artwork_id_5117581878,Madonna di Lago,45.8800352,10.8521128,,,,artwork:unknown
-artwork_id_5303540652,,46.116747,10.7572771,,,,artwork:mural
-artwork_id_5315340371,,45.850576,10.5845453,,,,artwork:sculpture
-artwork_id_5315340372,,45.8505854,10.5847686,,,,artwork:sculpture
-artwork_id_5315340373,,45.8508395,10.5843535,,,,artwork:sculpture
-artwork_id_5315340374,,45.8508974,10.5840746,,,,artwork:sculpture
-artwork_id_5315340375,,45.850746,10.5837554,,,,artwork:sculpture
-artwork_id_5315340376,,45.8504079,10.5838868,,,,artwork:sculpture
-artwork_id_5349586189,,46.0080648,11.398258,,,,artwork:sculpture
-artwork_id_5363012183,Gabbia in Rotatoria,46.0572617,11.2371412,,,,artwork:sculpture
-artwork_id_5365385300,,45.8947376,11.0446735,,,,artwork:installation
-artwork_id_5365385301,,45.8948006,11.0449331,,,,artwork:installation
-artwork_id_5365385302,,45.8946951,11.0448665,,,,artwork:installation
-artwork_id_5365385303,,45.8948884,11.0448456,,,,artwork:installation
-artwork_id_5365385304,,45.8945781,11.0445082,,,,artwork:installation
-artwork_id_5368717191,,45.8986732,11.0423068,,,,artwork:sculpture
-artwork_id_5374581156,Energy,45.8936058,11.0358814,,,,artwork:unknown
-artwork_id_5375920263,Scultura Cristiana,45.8949662,11.0389468,,,,artwork:unknown
-artwork_id_5474059353,,46.0660002,11.528758,,,,artwork:obelisc
-artwork_id_5493331092,Capitello della Madonna,45.9015804,11.0464224,,,,artwork:unknown
-artwork_id_5560172064,Ciclo dei mesi,46.069906,11.127517,,,,artwork:painting
-artwork_id_5729199302,Archetipische Frau,45.754284,11.0004499,,,,artwork:statue
-artwork_id_5729199303,Scultura Goccia metallica,45.7544925,11.0003117,,,,artwork:statue
-artwork_id_5729199304,Secondo Incontro,45.7548499,11.0006796,,,,artwork:sculpture
-artwork_id_5729199305,Busto Prosperoso,45.7547748,11.0008524,,,,artwork:statue
-artwork_id_5729199306,Pietra Forata,45.7547251,11.0009845,,,,artwork:unknown
-artwork_id_5729199307,Lucia guarda il cielo,45.7546556,11.0009276,,,,artwork:sculpture
-artwork_id_5729199308,Dissonanza Armonica,45.7547946,11.000578,,,,artwork:statue
-artwork_id_5729199309,Obelisco di pietra,45.7546897,11.0005251,,,,artwork:sculpture
-artwork_id_5729199310,Sguardo di pietra,45.7544003,11.0006491,,,,artwork:sculpture
-artwork_id_5729199311,"Si va da soli, Si torna assieme",45.7545436,11.0007772,,,,artwork:sculpture
-artwork_id_5731994103,,46.1751425,11.5410835,,,,artwork:cross
-artwork_id_5731994104,,46.1751556,11.5410946,,Per non dimenticare 2013,,artwork:cross
-artwork_id_5795947153,,46.2584641,10.5821229,,,,artwork:statue
-artwork_id_5796946877,,46.1649294,11.0031878,,Entant chje pousest taia en poch de legna,,artwork:statue
-artwork_id_5825168115,Regina Mundi,45.8565938,10.8304366,,,,artwork:statue
-artwork_id_5825475253,Aquila di Christomannos,46.413789,11.6230103,,"Grande opera artistica in bronzo, dedicata a Theodor Christomannos, austriaco considerato uno dei pionieri del turismo nelle Dolomiti.",,artwork:statue
-artwork_id_5825545311,,46.056934,11.5237374,,,,artwork:sculpture
-artwork_id_5825545312,,46.0566154,11.5235895,,,,artwork:sculpture
-artwork_id_5825545313,,46.056485,11.5235156,,,,artwork:sculpture
-artwork_id_5825545314,,46.056346,11.5233338,,,,artwork:sculpture
-artwork_id_5825545315,,46.0562712,11.5233646,,,,artwork:sculpture
-artwork_id_5825545316,,46.0572504,11.5237559,,,,artwork:sculpture
-artwork_id_5825545317,,46.0573552,11.5238329,,,,artwork:sculpture
-artwork_id_5825545318,,46.0570431,11.523645,,,,artwork:sculpture
-artwork_id_5825545319,,46.0570537,11.5237682,,,,artwork:sculpture
-artwork_id_5825545320,,46.0560916,11.5241287,,,,artwork:sculpture
-artwork_id_5832499191,,46.4180166,11.2047905,,,,artwork:unknown
-artwork_id_5836448256,,45.8770158,11.1044628,,,,artwork:statue
-artwork_id_5859438831,,46.0850417,11.4403241,,,,artwork:sculpture
-artwork_id_5971388463,orti della val marcia,46.0133584,10.8093997,,,,artwork:mural
-artwork_id_5971388464,le streghe,46.0134518,10.8092572,,,,artwork:mural
-artwork_id_5971388465,,46.0133484,10.8096045,,,,artwork:mural
-artwork_id_5971388466,,46.0140392,10.8105608,,,,artwork:mural
-artwork_id_5971388467,,46.0144715,10.8110525,,,,artwork:mural
-artwork_id_5971388468,,46.0144699,10.8107638,,,,artwork:mural
-artwork_id_5971388469,,46.0141112,10.8116254,,,,artwork:mural
-artwork_id_5971388470,,46.0142459,10.8119006,,,,artwork:mural
-artwork_id_5971388471,,46.0142068,10.8116525,,,,artwork:mural
-artwork_id_5971388472,,46.0140611,10.8104616,,,,artwork:mural
-artwork_id_5971388473,,46.0145373,10.8115465,,,,artwork:mural
-artwork_id_5971388474,,46.0149689,10.8119787,,,,artwork:mural
-artwork_id_5971388475,,46.0149022,10.8112781,,,,artwork:mural
-artwork_id_5971388476,,46.0136132,10.8099035,,,,artwork:mural
-artwork_id_5971388478,,46.0149742,10.8114287,,,,artwork:mural
-artwork_id_5971388479,,46.0148036,10.8117572,,,,artwork:mural
-artwork_id_5971388480,,46.0140926,10.8110364,,,,artwork:mural
-artwork_id_5971388481,,46.0139729,10.8110555,,,,artwork:mural
-artwork_id_5971388482,,46.0140615,10.8118561,,,,artwork:mural
-artwork_id_5971388483,,46.0140571,10.8119454,,,,artwork:mural
-artwork_id_5971388484,,46.0140222,10.812085,,,,artwork:mural
-artwork_id_6207595624,,46.328725,11.6015187,,,,artwork:statue
-artwork_id_6209994103,Un pediluvio mi farebbe bene,45.9304294,11.1083976,Simone Carraro,,,artwork:installation
-artwork_id_6240249360,,46.4201751,11.6728229,,,,artwork:statue
-artwork_id_6253895304,Esoadro,45.9205863,11.0381113,ETNIK,,,artwork:installation
-artwork_id_6255495103,Guerriero contro la PIRUBI,45.9485571,11.1057638,Florian Grott,,,artwork:sculpture
-artwork_id_6301161828,,45.8846548,10.8395912,,,,artwork:sculpture
-artwork_id_6341429097,,46.3155903,10.8011806,,,,artwork:sculpture
-artwork_id_6521916957,,46.0628667,11.1153907,Paolo Colombini,,,artwork:unknown
-artwork_id_6521916958,,46.0632426,11.11562,,,,artwork:unknown
-artwork_id_6553075307,San Venceslao di Boemia,45.9214754,10.8895138,,,,artwork:statue
-artwork_id_6584150788,Arciduca Alberto,45.9190765,10.8825296,,,,artwork:statue
-artwork_id_6606422351,,45.9187428,10.8835807,,,,artwork:statue
-artwork_id_6837121071,Casa del Folletto Custode,46.3054406,11.4477925,,,,artwork:installation
-artwork_id_6837121074,Gallo Cedrone,46.3062992,11.4466447,,,,artwork:installation
-artwork_id_6837138412,Mamma Orsa,46.3088186,11.4361288,,,,artwork:installation
-artwork_id_6837138416,Il Vecchio Tronco,46.3086855,11.4323491,,,,artwork:installation
-artwork_id_6837138421,La Rana,46.3046135,11.4386871,,,,artwork:installation
-artwork_id_6837138423,Le Impronte,46.3033784,11.4406286,,,,artwork:installation
-artwork_id_6908935098,,46.1909434,11.0969987,,,,artwork:installation
-artwork_id_6910385503,,45.883629,11.0206431,,,,artwork:graffiti
-artwork_id_7146742830,,45.9495573,10.6376629,,,,artwork:sculpture
-artwork_id_7146742847,,45.9496049,10.6379217,,,,artwork:statue
-artwork_id_7146742852,,45.9495167,10.6375473,,,,artwork:statue
-artwork_id_7146742853,,45.949442,10.637483,,,,artwork:statue
-artwork_id_7146805206,,46.0060068,11.1273504,,,,artwork:mural
-artwork_id_7618253050,,45.9228998,10.8201574,,,,artwork:statue
-artwork_id_7644430464,,45.8683824,11.0758832,,,,artwork:statue
-artwork_id_7644430465,,45.8683382,11.0758832,,,,artwork:statue
-artwork_id_7840358796,,46.3878648,11.0361616,,,,artwork:unknown
-artwork_id_7856506394,,46.3669174,11.0357473,,,,artwork:unknown
-artwork_id_7866052840,Strega,46.0139514,10.8126095,,,,artwork:statue
-artwork_id_7867804546,Madonnina,46.1233342,11.568888,,,,artwork:statue
-artwork_id_7904929531,,45.8848131,10.842949,,,,artwork:statue
-artwork_id_7908656939,,45.8809023,10.8378238,,,,artwork:statue
-artwork_id_7968981737,,45.930691,10.8234662,,,,artwork:statue
-artwork_id_7968981738,,45.9305833,10.8236842,,,,artwork:statue
-artwork_id_8022041367,,45.9164594,10.8817569,,,,artwork:statue
-artwork_id_8149439356,,46.3686588,11.0138815,,,,artwork:unknown
-artwork_id_8290609708,,46.2377734,11.0682587,,Testa d'orso intagliata in un tronco d'albero a bordo strada,,artwork:sculpture
-artwork_id_8331509545,Le Api,46.3046912,11.4482529,,,,artwork:installation
-artwork_id_8331509550,La Tana del Tasso,46.3049461,11.4482919,,,,artwork:installation
-artwork_id_8331509551,Il Cannocchiale,46.3038963,11.446344,,,,artwork:installation
-artwork_id_8331646861,Il Presepio de Varena,46.3050925,11.456656,,,,artwork:installation
-artwork_id_8481174235,,45.852106,10.9773096,,,,artwork:statue
-artwork_id_8491231317,,46.1429884,11.2383518,,,,artwork:statue
-artwork_id_8567964515,Madonna,46.4180291,11.2047388,,,,artwork:statue
-artwork_id_8670957574,Ca' dei boci,46.1245764,11.1938184,,,,artwork:sculpture
-artwork_id_8696340671,Il corcolocio,46.121342,11.1928997,Thomas Feller,,,artwork:sculpture
-artwork_id_8733371881,,46.3683087,11.0321374,,,,artwork:unknown
-artwork_id_8829759560,,45.8613286,10.7326854,,,,artwork:unknown
-artwork_id_8839137553,,46.0261805,10.9833164,,,,artwork:sculpture
-artwork_id_8871649828,Rave,45.8635217,10.7371931,Erika Inger,,,artwork:sculpture
-artwork_id_8871649829,Xennials,45.8634651,10.7366594,Luca Vallese,,,artwork:sculpture
-artwork_id_8871649830,Incontri Ravvicinati,45.8633331,10.7362991,Giulio Valerio Cerbella e Luisa Benevieri,,,artwork:sculpture
-artwork_id_8871649831,Volti nella Terra,45.8631067,10.7358738,Micol Grazioli,,,artwork:sculpture
-artwork_id_8871649832,Trincea,45.8627633,10.7348443,Roberta Rizzi e Caterina Agazzi,,,artwork:sculpture
-artwork_id_8897445479,,45.853623,10.7983417,,,,artwork:mural
-artwork_id_9072982152,,45.9606419,10.912267,,,,artwork:unknown
-artwork_id_9104016634,,46.2905792,11.6382719,,,,artwork:unknown
-artwork_id_9104022377,,46.2907401,11.6381555,,,,artwork:unknown
-artwork_id_9132602960,Lassù,46.0728773,10.9985408,Paolo Moro,,,artwork:installation
-artwork_id_9134769379,,45.9618978,10.9110515,,,,artwork:mural
-artwork_id_9144606449,Guides de Fassa,46.4765958,11.7414198,,,,artwork:stone
-artwork_id_9144797411,,46.4761173,11.7401656,,,,artwork:statue
-artwork_id_9332205779,Drago Vaia Regeneration,45.9442679,11.2786111,Marco Martalar,,,artwork:installation
-artwork_id_9450078038,Per gli alpini non esiste l'impossibile,46.0718963,11.1097199,,PER GLI ALPINI NON ESISTE L'IMPOSSIBILE,,artwork:mural
-artwork_id_9522531931,,46.126837,11.096454,,,,artwork:sculpture
-artwork_id_9645741000,,45.9342987,11.0942291,Francesco Verla,"Decorazione sottogronda di Francesco Verla, datato 1520.",,artwork:mural
-artwork_id_9645755546,Stemmi Trapp,45.9415936,11.1115291,,,,artwork:mural
-artwork_id_9645780934,,45.9339343,11.0943551,,"Parata di stemmi, in capo lo stemma di Massimiliano I d'Asburgo. Affresco datato 1520.",,artwork:mural
-artwork_id_9645791049,,45.9336613,11.0943776,,,,artwork:mural
-artwork_id_9645795029,,45.9339481,11.094941,,,,artwork:mural
-artwork_id_9651369581,Ciclo dei Mesi,45.9304369,11.1088074,,,,artwork:mural
-artwork_id_9838948020,Concezione Universale,45.8867115,11.0450725,Bruno Baroncini,,,artwork:sculpture
-artwork_id_9838948021,,45.8866527,11.0448633,,,,artwork:statue
-artwork_id_9852288686,,45.9138522,10.8115954,,,,artwork:sculpture
-artwork_id_9861838611,,45.8949855,10.8553192,,,,artwork:statue
-artwork_id_9881050923,Excalibur,45.9600268,10.9343936,,,,artwork:sculpture
-artwork_id_9941872318,,45.8815496,10.7520276,,,,artwork:mural
-artwork_id_9942573386,,45.8812396,10.7517266,,,,artwork:mural
-artwork_id_9944232476,,45.882471,10.7528058,,,,artwork:mural
-artwork_id_9944700138,,45.88176,10.750976,,,,artwork:mural
-artwork_id_9945133959,,45.8815932,10.751512,,,,artwork:mural
-artwork_id_9947895817,,46.3490186,11.0899451,,,,artwork:sculpture
-artwork_id_9954106382,Monumento ai caduti,45.9170322,11.168453,,,,artwork:statue
-artwork_id_9955748805,Beato Enrico,45.9166917,11.1696218,,,,artwork:mural
-artwork_id_9974359354,,45.870417,10.7719526,,,,artwork:mural
-artwork_id_10053603703,Lupa del Lagorai,46.0425619,11.3275671,,,,artwork:sculpture
-artwork_id_10176208817,Chiesa di Santa Maria Assunta,45.917215,11.0306859,,,,artwork:unknown
-artwork_id_10180096589,,46.2185678,11.1885511,associazione intagliatori di lengno valle Cembra,diverse opere scolpendo,,artwork:sculpture
-artwork_id_10316929448,,46.0947832,11.4805379,,,,artwork:mural
-artwork_id_10822038006,Grifone Vaia Tesino,46.0469039,11.6467694,Martalar,,,artwork:land_art
-artwork_id_10889571922,Le pecore curiose,46.0731448,10.9984178,Marco Baj,,,artwork:installation
-artwork_id_10889571923,Energia,46.0723269,10.9984198,Mario Iral,,,artwork:installation
-artwork_id_10889571931,1980 - I Pisetta,46.0720237,10.9980741,Giovanni Bailoni,,,artwork:installation
-artwork_id_10889571932,Spirito del bondone,46.0733219,10.9982109,Matteo Cecchinato,,,artwork:installation
-artwork_id_10889571933,"Abisso ""percorso interiore""",46.0733777,10.9983745,Paolo Vivian,,,artwork:installation
-artwork_id_10889571934,Origine glaciale,46.0723376,10.9988278,Federico Seppi,,,artwork:installation
-artwork_id_10889571935,Riflessi d'acqua,46.0725032,10.9992194,Ionel Alexandrescu,,,artwork:installation
-artwork_id_10907494766,Dado della pace,46.0654691,11.1249326,,,,artwork:unknown
-artwork_id_10967746467,,46.2178072,11.1870601,associazione intagliatori di lengno valle Cembra,diverse opere scolpendo,,artwork:sculpture
-artwork_id_10967746468,,46.2178141,11.1868514,associazione intagliatori di lengno valle Cembra,diverse opere scolpendo,,artwork:sculpture
-artwork_id_10967746469,,46.2188055,11.1881234,associazione intagliatori di lengno valle Cembra,diverse opere scolpendo,,artwork:sculpture
-artwork_id_10984538270,,46.2181424,11.1871012,associazione intagliatori di lengno valle Cembra,diverse opere scolpendo,,artwork:sculpture
-artwork_id_10992828522,Tavola della Regola,46.0976825,11.0450153,,,,artwork:statue
-artwork_id_11005992405,,46.4129683,11.1728294,,,,artwork:sculpture
-artwork_id_11007783474,Physis,46.0021734,11.366983,Arcangelo Sassolino,,,artwork:unknown
-artwork_id_11007800877,Cattedrale vegetale,46.0015616,11.3698054,Giuliano Mauri,,,artwork:unknown
-artwork_id_11007815037,Barca,46.001304,11.3657651,Nils-Udo,,,artwork:unknown
-artwork_id_11007819185,Radice comune,46.0014325,11.3663111,Henrique Oliveira,,,artwork:unknown
-artwork_id_11007819620,Bamboo Ring,46.001889,11.3702025,Kengo Kuma,,,artwork:unknown
-artwork_id_11007819660,I semi della pace,46.0078348,11.4164886,Pinuccio Sciola,,,artwork:unknown
-artwork_id_11007832475,Infinitum,46.0013305,11.366716,Glanandrea Gazzola,,,artwork:unknown
-artwork_id_11007834693,Ponte II,46.0012386,11.36913,Steven Siegel,,,artwork:unknown
-artwork_id_11007837849,Memoria della luce che fu,46.0012422,11.3696664,Kristof Kintera,,,artwork:unknown
-artwork_id_11007838690,Animo d'oro,46.0075575,11.4155243,Roberto Conte,,,artwork:unknown
-artwork_id_11007839653,Simbiosi,46.0019698,11.3664214,Edoardo Tresoldi,,,artwork:unknown
-artwork_id_11007840139,Terzo Paradiso -  La trincea della Pace,46.0009163,11.3646321,Michelangelo Pistoletto,,,artwork:unknown
-artwork_id_11007843980,Senza titolo 169,46.0015713,11.3674135,,,,artwork:unknown
-artwork_id_11007844031,Senza Titolo,46.0076375,11.4143272,Edoardo Souto De Moura,,,artwork:unknown
-artwork_id_11007848001,Domino della mente,46.0019964,11.3679713,,,,artwork:unknown
-artwork_id_11007849136,In Apparenza,46.0021517,11.3692483,Stuart Ian Frost,,,artwork:unknown
-artwork_id_11007849420,Riondolo,46.0082267,11.4171254,Giovanni Wegher,,,artwork:unknown
-artwork_id_11007849742,Solstizio,46.0011309,11.3655464,Roberto Conte,,,artwork:unknown
-artwork_id_11007850211,Case per Baroni Ramoanti,46.0012941,11.3683952,Robert Conte,,,artwork:unknown
-artwork_id_11007851146,Liquid landscape,46.0017133,11.370751,,,,artwork:unknown
-artwork_id_11007851941,La Donna invisibile,46.000942,11.3685798,Cédric Le Borgne,,,artwork:unknown
-artwork_id_11007853324,Trabucco in montagna,46.0021588,11.3700543,Arne Quinze,,,artwork:unknown
-artwork_id_11007853338,Frammenti di luce,46.0080332,11.4155852,Carlos Marreiros,,,artwork:unknown
-artwork_id_11007853609,Origin,46.0018831,11.3683023,,,,artwork:unknown
-artwork_id_11007854802,A fior di pele,46.0081381,11.4153518,Stuart Ian Frost,,,artwork:unknown
-artwork_id_11007856794,Levitas - La terza montagna,46.0075806,11.4145835,Ian Ritchie,,,artwork:unknown
-artwork_id_11007857625,Trio,46.0029228,11.3686318,Giulio laccheti,,,artwork:unknown
-artwork_id_11007866116,Forest Byoubu,46.0079705,11.415005,Atsushi Kitagawara,,,artwork:unknown
-artwork_id_11007866707,Il Seme,46.0077827,11.4158046,Alison Stigora,,,artwork:unknown
-artwork_id_11007866708,Camera con Alberi,46.0081446,11.416682,Stefano Boeri,,,artwork:unknown
-artwork_id_11007866852,Zen Bench,46.007834,11.4159674,Thomas Daniell Ugo Re,,,artwork:unknown
-artwork_id_11007866853,Dentro fuori,46.0080595,11.4160395,Michele de Lucchi,,,artwork:unknown
-artwork_id_11007866921,Me't rispect,46.0083104,11.417111,Matteo Marchini,,,artwork:unknown
-artwork_id_11007866922,Tiglio aperto,46.0080682,11.4170171,Urs Twellmann,,,artwork:unknown
-artwork_id_11007868338,Infinity Seat,46.0080354,11.4154335,Ian Ritchie,,,artwork:unknown
-artwork_id_11007868597,Il viaggio,46.0080747,11.4163208,,,,artwork:unknown
-artwork_id_11007869159,Kodama,46.0078893,11.414666,Kengo Kuma,,,artwork:unknown
-artwork_id_11007869400,Clizia,46.0076091,11.4149124,Angelo Mangiatori,,,artwork:unknown
-artwork_id_11007869630,Rinascita della foresta danzante,46.0079001,11.4152952,Rocco Yim,,,artwork:unknown
-artwork_id_11007869631,Fontanella sotsass,46.0076408,11.4152459,Ettore Sotsass,,,artwork:unknown
-artwork_id_11007870623,Incanto,46.0078437,11.4149827,Alberto Meda,,,artwork:unknown
-artwork_id_11007870624,Menhir,46.0080615,11.4157124,Daniele Pedretti,,,artwork:unknown
-artwork_id_11010407768,Aquila Vaia,45.9796494,11.5945398,Marco Martalar,,,artwork:sculpture
-artwork_id_11010529069,,46.4126647,11.1733038,,,,artwork:sculpture
-artwork_id_11054736538,Cervo Vaia,45.936186,11.3208066,Marco Martalar,,,artwork:sculpture
-artwork_id_11056450049,Orso,46.0680962,10.9633489,,,,artwork:sculpture
-artwork_id_11121852497,,46.0139359,11.2736078,,,,artwork:sculpture
-artwork_id_11134980960,,45.8831739,10.8478603,,,,artwork:unknown
-artwork_id_11138636526,,46.0634459,11.1246403,,,,artwork:unknown
-artwork_id_11145750199,Lo Gnomo,46.0278784,11.2645705,,,,artwork:sculpture
-artwork_id_11162976426,Grostol,46.4359779,11.6946486,,,,artwork:statue
-artwork_id_11162976427,,46.4353642,11.6943012,,,,artwork:sculpture
-artwork_id_11162976428,,46.435343,11.6941738,,,,artwork:sculpture
-artwork_id_11162976429,,46.435038,11.6937936,,,,artwork:statue
-artwork_id_11162976432,Piotola,46.4346036,11.6929588,,,,artwork:statue
-artwork_id_11162976433,Ciacola,46.4342256,11.6922896,,,,artwork:statue
-artwork_id_11162976434,,46.433952,11.6918188,,,,artwork:statue
-artwork_id_11162976437,Bronza,46.4335407,11.6910115,,,,artwork:statue
-artwork_id_11163010807,,46.4422181,11.6928307,,,,artwork:statue
-artwork_id_11219419412,Games of Cubes,45.9279022,10.7660837,,,,artwork:unknown
-artwork_id_11291607947,,46.0743037,11.2511927,,,,artwork:statue
-artwork_id_11363561346,Il Lupo,46.1241862,11.1936944,Luca Molinari,,,artwork:sculpture
-artwork_id_11363561347,Il custode del fungo,46.1200682,11.1933354,,,,artwork:sculpture
-artwork_id_11363561348,Il Bosco,46.1186495,11.1969724,,,,artwork:sculpture
-artwork_id_11363561350,Golosone,46.1256538,11.1937164,,,,artwork:sculpture
-artwork_id_11363561353,,46.1166326,11.1959386,,,,artwork:sculpture
-artwork_id_11363561355,,46.1160198,11.1945924,,,,artwork:sculpture
-artwork_id_11363561358,,46.1178855,11.1929563,,,,artwork:sculpture
-artwork_id_11363561359,Libero Fauno,46.1267632,11.2025272,Ivan Boneccher,,,artwork:sculpture
-artwork_id_11363561360,,46.1158047,11.1951632,,,,artwork:sculpture
-artwork_id_11363561361,,46.1291962,11.197472,,,,artwork:sculpture
-artwork_id_11363561362,Caminar sui Piani,46.1162242,11.1956762,Annamaria Bebber,,,artwork:sculpture
-artwork_id_11363561364,Il Cinesino,46.1255779,11.1937518,,,,artwork:sculpture
-artwork_id_11363561366,,46.1242871,11.201554,,,,artwork:sculpture
-artwork_id_11363572669,Pina la gnoma spazzafoglie,46.1192991,11.1927721,Gianni Antonelli,,,artwork:sculpture
-artwork_id_11363572670,La volpe con i volpini,46.1278421,11.1948329,Silvano Garollo,,,artwork:sculpture
-artwork_id_11363572672,L'orso,46.127755,11.2011734,Nadia Simeonoda,,,artwork:sculpture
-artwork_id_11363572673,,46.1192374,11.1971258,,,,artwork:sculpture
-artwork_id_11363572675,L'antico Saggio,46.1163156,11.1956965,,,,artwork:sculpture
-artwork_id_11504208411,,45.8942364,10.684666,,,,artwork:unknown
-artwork_id_11505569713,,45.8874686,10.6681953,,,,artwork:unknown
-artwork_id_11799583762,,45.9236481,10.9011128,,,,artwork:statue
-artwork_id_11985322029,,45.8913489,10.952518,,,,artwork:graffiti
-artwork_id_12039418126,,46.1561424,11.2859799,,,,artwork:sculpture
-artwork_id_12039452840,,46.1503276,11.2776888,,,,artwork:sculpture
-artwork_id_12039463344,,46.1785556,11.3240815,,,,artwork:sculpture
-artwork_id_12039490357,,46.1506593,11.273391,,,,artwork:sculpture
-artwork_id_12055139164,Haflinger di Strembo - Cavallo di Martalar,46.1230853,10.7541747,,,,artwork:sculpture
-artwork_id_12067979682,,45.9509989,11.2822044,,,,artwork:installation
-artwork_id_12091417049,,46.0457922,11.2344827,,,,artwork:sculpture
-artwork_id_12091417050,,46.0612706,11.2279172,,,,artwork:sculpture
-artwork_id_12108112299,,46.3029523,11.0858385,,,,artwork:sculpture
-artwork_id_12127457024,Orso del Pradel,46.1592023,10.9535178,,,,artwork:installation
-artwork_id_12127492930,Crocifissione con la Vergine e San Giovanni Evangelista,45.8369608,10.9705987,Giovanni Badile,,,artwork:mural
-artwork_id_12151484539,Wood Carving Art,46.4057324,11.6455405,,Multiple sculptures from old trees along the trail,,artwork:unknown
-artwork_id_12171298284,,45.8202841,10.975999,,,,artwork:statue
-artwork_id_12173304052,,45.8172683,10.9698269,,,,artwork:statue
-artwork_id_12181756959,Installazione Sequoia,46.0099698,11.3057871,,,,artwork:installation
-artwork_id_12186148378,Installazione Zefiro,46.011688,11.3087819,Studio CMQ Architettura di Milano,,,artwork:sculpture
-artwork_id_12186246783,,45.8054692,10.9730448,,,,artwork:mural
-artwork_id_12198523761,Madonna del Pontirol,45.8121159,10.9785608,,,,artwork:statue
-artwork_id_12208519099,,45.817688,10.9555171,,,,artwork:statue
-artwork_id_12232063974,,46.248083,11.0668038,,,,artwork:sculpture
-artwork_id_12232816657,,46.4292352,11.7218234,,,,artwork:statue
+id;name;latitude;longitude;geometry;artist_name;description;website;type
+330790480;Unnamed;45.8957659;10.6786317;POINT (10.6786317 45.8957659);;;;
+861231425;Tracciando il Tempo;46.0729693;11.1201891;POINT (11.1201891 46.0729693);;;;
+867438823;San Vigilio;46.0666528;11.1218315;POINT (11.1218315 46.0666528);Stefano Zuech;;;statue
+869314139;Fiore Lunare;46.060191;11.1132107;POINT (11.1132107 46.060191);;;;
+874501172;Unnamed;46.0726064;11.1202893;POINT (11.1202893 46.0726064);;;;
+927359291;Unnamed;46.0666678;11.12111;POINT (11.12111 46.0666678);;;;
+943285713;Unnamed;46.3652819;11.0332453;POINT (11.0332453 46.3652819);;;;
+943372141;Unnamed;46.3641389;11.0358649;POINT (11.0358649 46.3641389);;;;
+945133356;Unnamed;46.3647167;11.0350751;POINT (11.0350751 46.3647167);;;;
+945430437;Unnamed;46.3642569;11.0348269;POINT (11.0348269 46.3642569);;;;
+1221409645;Orso di Berlino;46.0699012;11.1159524;POINT (11.1159524 46.0699012);;;https://web.archive.org/web/20101224185132/http://www2.comune.trento.it/comune/argomenti/gemellaggi/berlin_attivta01.htm;
+1301681385;Unnamed;45.885049;10.8416311;POINT (10.8416311 45.885049);;;;statue
+1322854458;Unnamed;46.2652285;11.0858989;POINT (11.0858989 46.2652285);;;;
+1331468443;Unnamed;46.0634281;11.1257846;POINT (11.1257846 46.0634281);;;;
+1357186426;Unnamed;46.0526862;10.8536491;POINT (10.8536491 46.0526862);;;;statue
+1821593950;Unnamed;46.1674548;11.5534424;POINT (11.5534424 46.1674548);;;;sculpture
+2258384493;Blue Live Arts;45.9226453;11.0669917;POINT (11.0669917 45.9226453);;;;graffiti
+2400890803;Unnamed;46.062965;11.1131588;POINT (11.1131588 46.062965);;;;
+2484736019;Cavallo;45.8891292;11.042221;POINT (11.042221 45.8891292);;;;
+2491888117;Unnamed;45.9123078;10.9022128;POINT (10.9022128 45.9123078);;;;statue
+2665784876;Unnamed;46.0629479;11.1137846;POINT (11.1137846 46.0629479);Pino Castagna;;;sculpture
+2987426113;Tridentum 2011;46.0351423;11.1217898;POINT (11.1217898 46.0351423);Stefano Cagol;L'installazione monumentale permanente riprende nel titolo “TRIDENTUM” il nome romano della città e sintetizza in modo concettuale le tre colline che hanno dato origine a questo nome.;;
+3120466819;Trento Rocks;46.052568;11.1201624;POINT (11.1201624 46.052568);;;;installation
+3802220162;Fili d'erba;46.0028638;11.368776;POINT (11.368776 46.0028638);Johann Feilacher;;;sculpture
+3802220163;Cerca;46.00315;11.3698945;POINT (11.3698945 46.00315);Roberto Conte;;;sculpture
+3802220164;Il nido di Sella II;46.0022013;11.3674673;POINT (11.3674673 46.0022013);Nils-Udo;;;sculpture
+3802220165;Attraversare l'anima;46.0022916;11.3682071;POINT (11.3682071 46.0022916);Will Beckers;;;sculpture
+3802231152;Drago;46.0019084;11.3674808;POINT (11.3674808 46.0019084);Roger Rigorth;;;sculpture
+3802231153;Villagio Vegetale;46.0016155;11.3667661;POINT (11.3667661 46.0016155);Luc Schuiten;;;sculpture
+3802231154;Il vento di Sella;46.002049;11.368393;POINT (11.368393 46.002049);Anthony Howe;;;sculpture
+3802231155;Rifugio;46.0017708;11.3672846;POINT (11.3672846 46.0017708);Anton Schaller;;;sculpture
+3802254717;La sfera;46.0003255;11.3655392;POINT (11.3655392 46.0003255);François Lelong;;;sculpture
+3802254718;Senza titolo 169;46.0013734;11.3667504;POINT (11.3667504 46.0013734);Aeneas Wilder;;;sculpture
+3802263607;Viadotto 2;46.0011375;11.369272;POINT (11.369272 46.0011375);Steven Siegel;;;sculpture
+3802263609;Chiocciola;46.0009521;11.3659941;POINT (11.3659941 46.0009521);Alfio Bonanno;;;sculpture
+3802263610;Pietre;46.0011707;11.3663572;POINT (11.3663572 46.0011707);François Lelong;;;sculpture
+3802263611;0121-1110=115075;46.0015623;11.3694208;POINT (11.3694208 46.0015623);Jaehyo Lee;;;sculpture
+3938156843;Unnamed;46.0649495;11.508052;POINT (11.508052 46.0649495);;;;sculpture
+3978703171;08;46.0712649;11.4676729;POINT (11.4676729 46.0712649);;;;statue
+3978703191;07;46.0715148;11.4680477;POINT (11.4680477 46.0715148);;;;statue
+3978703204;06;46.0721818;11.4686138;POINT (11.4686138 46.0721818);;;;statue
+3978703212;01;46.0735743;11.4703866;POINT (11.4703866 46.0735743);;;;statue
+3978711188;15;46.0704399;11.4650366;POINT (11.4650366 46.0704399);;;;statue
+3978711877;09;46.070858;11.4675493;POINT (11.4675493 46.070858);;;;statue
+3978712089;13;46.0707554;11.4659089;POINT (11.4659089 46.0707554);;;;statue
+3978712095;12;46.0706192;11.4662925;POINT (11.4662925 46.0706192);;;;statue
+3978712366;11;46.0706479;11.4666013;POINT (11.4666013 46.0706479);;;;statue
+3978712372;05;46.0727084;11.4690995;POINT (11.4690995 46.0727084);;;;statue
+3978712651;14;46.0709662;11.4658647;POINT (11.4658647 46.0709662);;;;statue
+3978712652;10;46.070485;11.4670194;POINT (11.4670194 46.070485);;;;statue
+3978712660;04;46.0727886;11.4695509;POINT (11.4695509 46.0727886);;;;statue
+3978712664;03;46.0730283;11.4698477;POINT (11.4698477 46.0730283);;;;statue
+3978712669;02;46.0733318;11.4701437;POINT (11.4701437 46.0733318);;;;statue
+4146513056;Unnamed;46.062926;11.6325786;POINT (11.6325786 46.062926);;;;statue
+4200146251;Unnamed;46.0569884;11.5228711;POINT (11.5228711 46.0569884);;;;statue
+4296895624;Unnamed;46.0564885;11.5239185;POINT (11.5239185 46.0564885);;;;sculpture
+4296895629;Unnamed;46.0565298;11.5240609;POINT (11.5240609 46.0565298);;;;sculpture
+4296895637;Unnamed;46.0568323;11.524188;POINT (11.524188 46.0568323);;;;sculpture
+4296895638;Unnamed;46.0568541;11.5241706;POINT (11.5241706 46.0568541);;;;sculpture
+4296895641;Unnamed;46.0569284;11.5241452;POINT (11.5241452 46.0569284);;;;sculpture
+4296895643;Unnamed;46.0569905;11.5241946;POINT (11.5241946 46.0569905);;;;sculpture
+4296903799;Unnamed;46.0566594;11.5223812;POINT (11.5223812 46.0566594);;;;statue
+4296906481;Unnamed;46.0561697;11.523875;POINT (11.523875 46.0561697);;;;sculpture
+4296906483;Unnamed;46.0562004;11.5239907;POINT (11.5239907 46.0562004);;;;sculpture
+4296906487;Unnamed;46.0563238;11.5239018;POINT (11.5239018 46.0563238);;;;sculpture
+4296906488;Unnamed;46.0563929;11.5239018;POINT (11.5239018 46.0563929);;;;sculpture
+4296906600;Unnamed;46.0565785;11.5240048;POINT (11.5240048 46.0565785);;;;sculpture
+4296906797;Unnamed;46.0566263;11.5240569;POINT (11.5240569 46.0566263);;;;sculpture
+4296906860;Unnamed;46.0570546;11.5241679;POINT (11.5241679 46.0570546);;;;sculpture
+4296906861;Unnamed;46.0571409;11.5241712;POINT (11.5241712 46.0571409);;;;sculpture
+4296906862;Unnamed;46.0571905;11.524206;POINT (11.524206 46.0571905);;;;sculpture
+4296906863;Unnamed;46.0572508;11.524192;POINT (11.524192 46.0572508);;;;sculpture
+4296906865;Unnamed;46.0573292;11.5241826;POINT (11.5241826 46.0573292);;;;sculpture
+4296906866;Unnamed;46.0573905;11.524212;POINT (11.524212 46.0573905);;;;sculpture
+4334259659;Unnamed;46.0794597;11.4437175;POINT (11.4437175 46.0794597);;;;sculpture
+4334269967;Unnamed;46.0770996;11.4432327;POINT (11.4432327 46.0770996);;;;sculpture
+4334269970;Unnamed;46.077141;11.4431382;POINT (11.4431382 46.077141);;;;sculpture
+4334269971;Unnamed;46.0771452;11.4432072;POINT (11.4432072 46.0771452);;;;sculpture
+4334273694;Unnamed;46.0774275;11.4434319;POINT (11.4434319 46.0774275);;;;sculpture
+4334273704;Unnamed;46.0776089;11.4434292;POINT (11.4434292 46.0776089);;;;sculpture
+4334274006;Unnamed;46.0783732;11.4438322;POINT (11.4438322 46.0783732);;;;sculpture
+4334274837;Unnamed;46.0797495;11.4438778;POINT (11.4438778 46.0797495);;;;sculpture
+4334274867;Unnamed;46.0800095;11.444036;POINT (11.444036 46.0800095);;;;sculpture
+4351022219;Unnamed;46.1751189;11.5502417;POINT (11.5502417 46.1751189);;;;cross
+4369831146;Unnamed;45.9283209;10.7658865;POINT (10.7658865 45.9283209);;;;statue
+4391163591;Unnamed;45.8826851;10.7527988;POINT (10.7527988 45.8826851);;;;mural
+4397748545;Unnamed;46.0687423;11.613669;POINT (11.613669 46.0687423);;;;statue
+4397748550;Unnamed;46.0687565;11.6136834;POINT (11.6136834 46.0687565);;;;statue
+4400170685;Unnamed;45.9320389;10.7369707;POINT (10.7369707 45.9320389);;;;mural
+4406797206;Unnamed;45.8643652;10.7405844;POINT (10.7405844 45.8643652);;;;mural
+4409639618;Unnamed;45.8741179;10.7431798;POINT (10.7431798 45.8741179);;;;mural
+4414912273;Unnamed;45.8889234;10.7327376;POINT (10.7327376 45.8889234);;;;mural
+4433181185;Eco;46.0084316;11.4180692;POINT (11.4180692 46.0084316);Will Beckers;;;sculpture
+4433292436;Colonna;46.0084795;11.4122279;POINT (11.4122279 46.0084795);Paul Feichter;;;sculpture
+4433292437;Sezione di tronchi d'abete rosso;46.0086375;11.4136835;POINT (11.4136835 46.0086375);Bob Verschueren;;;sculpture
+4433292438;Il tempio dell'amore;46.0087967;11.4155651;POINT (11.4155651 46.0087967);Belle Shafir;;;sculpture
+4436554341;Fili d’erba;46.0090393;11.4132994;POINT (11.4132994 46.0090393);Johann Feilacher;;;sculpture
+4436554342;Nicchie ecologiche;46.0090206;11.4113763;POINT (11.4113763 46.0090206);Giuliano Orsingher;;;sculpture
+4436554343;Flusso;46.0088688;11.4094652;POINT (11.4094652 46.0088688);Armin Schubert;;;sculpture
+4436554344;Germinazione;46.0090821;11.4108224;POINT (11.4108224 46.0090821);Gabriele Jardini;;;sculpture
+4436554345;Fori elicoidali;46.0086155;11.407526;POINT (11.407526 46.0086155);Rinus Roelofs;;;sculpture
+4436554346;In apparenza;46.0086033;11.407074;POINT (11.407074 46.0086033);Stuart Ian Frost;;;sculpture
+4436554347;Rotazione;46.0085149;11.4056605;POINT (11.4056605 46.0085149);Paul Feichter;;;sculpture
+4436554348;Spirale;46.0086844;11.4084768;POINT (11.4084768 46.0086844);Alois Steger;;;sculpture
+4436621275;Case per Baroni Rampanti;46.0083301;11.3962733;POINT (11.3962733 46.0083301);Roberto Conte;;;sculpture
+4436621276;Stele di Sella;46.0087089;11.3939609;POINT (11.3939609 46.0087089);Chris Booth;;;sculpture
+4436621277;La casa che abito;46.0083201;11.3917346;POINT (11.3917346 46.0083201);Lilly Cerro;;;sculpture
+4436621278;Transizione;46.0086538;11.3924672;POINT (11.3924672 46.0086538);Luca Petti;;;sculpture
+4436621279;Corno verdeggiante;46.008379;11.4038072;POINT (11.4038072 46.008379);Johann Feilacher;;;sculpture
+4436647876;Interstizi;46.0081098;11.3903751;POINT (11.3903751 46.0081098);Matilde Grau;;;sculpture
+4436647877;Nucleo;46.0068644;11.3866354;POINT (11.3866354 46.0068644);Armin Schubert;;;sculpture
+4436647878;Wassergehäuse;46.0063912;11.3896288;POINT (11.3896288 46.0063912);Roger Rigorth;;;sculpture
+4436647879;Lupi;46.007073;11.3902832;POINT (11.3902832 46.007073);Sally Matthews;;;sculpture
+4436819856;Stato d'animo;46.0012803;11.3683561;POINT (11.3683561 46.0012803);Bob Verschueren;;;sculpture
+4436819857;Sisifo;46.002053;11.3711384;POINT (11.3711384 46.002053);Bob Verschueren;;;sculpture
+4436819858;La stanza del cielo;46.001766;11.3706261;POINT (11.3706261 46.001766);Chris Drury;;;sculpture
+4436819859;Stupa;46.0016679;11.3687718;POINT (11.3687718 46.0016679);Anton Schaller;;;sculpture
+4436819860;Lo Stilo;46.0009352;11.3684064;POINT (11.3684064 46.0009352);Gianandrea Gazzola;;;sculpture
+4436819861;I semi della pace;46.0022194;11.3695148;POINT (11.3695148 46.0022194);Pinuccio Sciola;;;sculpture
+4436819862;Tana libera tutti;46.001835;11.3702533;POINT (11.3702533 46.001835);Patrick Dougherty;;;sculpture
+4436830243;Capsula;46.0015397;11.3681075;POINT (11.3681075 46.0015397);Stuart Ian Frost;;;sculpture
+4436830244;Dominio della mente sulla materia;46.0018601;11.3681853;POINT (11.3681853 46.0018601);Peter Randall-Page;;;sculpture
+4437552440;Bosco geometrico;46.0007883;11.365494;POINT (11.365494 46.0007883);Urs Twellmann;;;sculpture
+4437552441;Il cubo;46.0009941;11.3669807;POINT (11.3669807 46.0009941);Rainer Gross;;;sculpture
+4437552442;Il quadrato;46.0011334;11.3676351;POINT (11.3676351 46.0011334);Rainer Gross;;;sculpture
+4437566746;Cupola per Leonardo;46.0023782;11.3702177;POINT (11.3702177 46.0023782);Rinus Roelofs;;;sculpture
+4592617059;Cristo D'Oro;46.0840269;11.5154992;POINT (11.5154992 46.0840269);;;;statue
+4740516482;Unnamed;46.2129689;11.1081955;POINT (11.1081955 46.2129689);;wine bottle;;
+4740516490;Unnamed;46.2123456;11.1084411;POINT (11.1084411 46.2123456);;wine bottle;;
+4757121706;la Madoninna;45.9383193;11.096859;POINT (11.096859 45.9383193);;;;
+4775141021;L'Avvolto;45.8631542;10.7365613;POINT (10.7365613 45.8631542);Luca Degara;;;sculpture
+4775141022;Limite Infinito;45.8625238;10.7353495;POINT (10.7353495 45.8625238);Leonardo Nava;;;sculpture
+4775141023;Unnamed;45.8622112;10.7339629;POINT (10.7339629 45.8622112);;;;
+4775141024;Unnamed;45.8619124;10.7317125;POINT (10.7317125 45.8619124);;;;
+4775141025;Unnamed;45.8611054;10.7308891;POINT (10.7308891 45.8611054);;;;
+4876524769;Unnamed;46.0622369;11.1129329;POINT (11.1129329 46.0622369);;;;
+4876524770;Unnamed;46.0606132;11.1132044;POINT (11.1132044 46.0606132);;;;
+4876524773;Unnamed;46.060656;11.1141025;POINT (11.1141025 46.060656);;;;
+5117581878;Madonna di Lago;45.8800352;10.8521128;POINT (10.8521128 45.8800352);;;;
+5303540652;Unnamed;46.116747;10.7572771;POINT (10.7572771 46.116747);;;;mural
+5315340371;Unnamed;45.850576;10.5845453;POINT (10.5845453 45.850576);;;;sculpture
+5315340372;Unnamed;45.8505854;10.5847686;POINT (10.5847686 45.8505854);;;;sculpture
+5315340373;Unnamed;45.8507774;10.584336;POINT (10.584336 45.8507774);;;;sculpture
+5315340374;Unnamed;45.8508353;10.5841078;POINT (10.5841078 45.8508353);;;;sculpture
+5315340375;Unnamed;45.850746;10.5837554;POINT (10.5837554 45.850746);;;;sculpture
+5315340376;Unnamed;45.8504079;10.5838868;POINT (10.5838868 45.8504079);;;;sculpture
+5349586189;Unnamed;46.0080648;11.398258;POINT (11.398258 46.0080648);;;;sculpture
+5363012183;Gabbia in Rotatoria;46.0572617;11.2371412;POINT (11.2371412 46.0572617);;;;sculpture
+5365385300;Unnamed;45.8947376;11.0446735;POINT (11.0446735 45.8947376);;;;installation
+5365385301;Unnamed;45.8948006;11.0449331;POINT (11.0449331 45.8948006);;;;installation
+5365385302;Unnamed;45.8946951;11.0448665;POINT (11.0448665 45.8946951);;;;installation
+5365385303;Unnamed;45.8948884;11.0448456;POINT (11.0448456 45.8948884);;;;installation
+5365385304;Unnamed;45.8945781;11.0445082;POINT (11.0445082 45.8945781);;;;installation
+5368717191;Unnamed;45.8986732;11.0423068;POINT (11.0423068 45.8986732);;;;sculpture
+5374581156;Energy;45.8936058;11.0358814;POINT (11.0358814 45.8936058);;;;
+5375920263;Scultura Cristiana;45.8949662;11.0389468;POINT (11.0389468 45.8949662);;;;
+5474059353;Unnamed;46.0660002;11.528758;POINT (11.528758 46.0660002);;;;obelisc
+5493331092;Capitello della Madonna;45.9015804;11.0464224;POINT (11.0464224 45.9015804);;;;
+5560172064;Ciclo dei mesi;46.069906;11.127517;POINT (11.127517 46.069906);;;;painting
+5729199302;Archetipische Frau;45.754284;11.0004499;POINT (11.0004499 45.754284);;;;statue
+5729199303;Scultura Goccia metallica;45.7544925;11.0003117;POINT (11.0003117 45.7544925);;;;statue
+5729199304;Secondo Incontro;45.7548499;11.0006796;POINT (11.0006796 45.7548499);;;;sculpture
+5729199305;Busto Prosperoso;45.7547748;11.0008524;POINT (11.0008524 45.7547748);;;;statue
+5729199306;Pietra Forata;45.7547251;11.0009845;POINT (11.0009845 45.7547251);;;;
+5729199307;Lucia guarda il cielo;45.7546556;11.0009276;POINT (11.0009276 45.7546556);;;;sculpture
+5729199308;Dissonanza Armonica;45.7547946;11.000578;POINT (11.000578 45.7547946);;;;statue
+5729199309;Obelisco di pietra;45.7546897;11.0005251;POINT (11.0005251 45.7546897);;;;sculpture
+5729199310;Sguardo di pietra;45.7544003;11.0006491;POINT (11.0006491 45.7544003);;;;sculpture
+5729199311;Si va da soli, Si torna assieme;45.7545436;11.0007772;POINT (11.0007772 45.7545436);;;;sculpture
+5731994103;Unnamed;46.1751425;11.5410835;POINT (11.5410835 46.1751425);;;;cross
+5731994104;Unnamed;46.1751556;11.5410946;POINT (11.5410946 46.1751556);;;;cross
+5795947153;Unnamed;46.2584641;10.5821229;POINT (10.5821229 46.2584641);;;;statue
+5796946877;Unnamed;46.1649294;11.0031878;POINT (11.0031878 46.1649294);;;;statue
+5825168115;Regina Mundi;45.8565938;10.8304366;POINT (10.8304366 45.8565938);;;;statue
+5825475253;Aquila di Christomannos;46.413789;11.6230103;POINT (11.6230103 46.413789);;Grande opera artistica in bronzo, dedicata a Theodor Christomannos, austriaco considerato uno dei pionieri del turismo nelle Dolomiti.;;statue
+5825545311;Unnamed;46.056934;11.5237374;POINT (11.5237374 46.056934);;;;sculpture
+5825545312;Unnamed;46.0566154;11.5235895;POINT (11.5235895 46.0566154);;;;sculpture
+5825545313;Unnamed;46.056485;11.5235156;POINT (11.5235156 46.056485);;;;sculpture
+5825545314;Unnamed;46.056346;11.5233338;POINT (11.5233338 46.056346);;;;sculpture
+5825545315;Unnamed;46.0562712;11.5233646;POINT (11.5233646 46.0562712);;;;sculpture
+5825545316;Unnamed;46.0572504;11.5237559;POINT (11.5237559 46.0572504);;;;sculpture
+5825545317;Unnamed;46.0573552;11.5238329;POINT (11.5238329 46.0573552);;;;sculpture
+5825545318;Unnamed;46.0570431;11.523645;POINT (11.523645 46.0570431);;;;sculpture
+5825545319;Unnamed;46.0570537;11.5237682;POINT (11.5237682 46.0570537);;;;sculpture
+5825545320;Unnamed;46.0560916;11.5241287;POINT (11.5241287 46.0560916);;;;sculpture
+5832499191;Unnamed;46.4180166;11.2047905;POINT (11.2047905 46.4180166);;;;
+5836448256;Unnamed;45.8770158;11.1044628;POINT (11.1044628 45.8770158);;;;statue
+5859438831;Unnamed;46.0850417;11.4403241;POINT (11.4403241 46.0850417);;;;sculpture
+5971388463;orti della val marcia;46.0133584;10.8093997;POINT (10.8093997 46.0133584);;;;mural
+5971388464;le streghe;46.0134518;10.8092572;POINT (10.8092572 46.0134518);;;;mural
+5971388465;Unnamed;46.0133484;10.8096045;POINT (10.8096045 46.0133484);;;;mural
+5971388466;Unnamed;46.0140392;10.8105608;POINT (10.8105608 46.0140392);;;;mural
+5971388467;Unnamed;46.0144715;10.8110525;POINT (10.8110525 46.0144715);;;;mural
+5971388468;Unnamed;46.0144699;10.8107638;POINT (10.8107638 46.0144699);;;;mural
+5971388469;Unnamed;46.0141112;10.8116254;POINT (10.8116254 46.0141112);;;;mural
+5971388470;Unnamed;46.0142459;10.8119006;POINT (10.8119006 46.0142459);;;;mural
+5971388471;Unnamed;46.0142068;10.8116525;POINT (10.8116525 46.0142068);;;;mural
+5971388472;Unnamed;46.0140611;10.8104616;POINT (10.8104616 46.0140611);;;;mural
+5971388473;Unnamed;46.0145373;10.8115465;POINT (10.8115465 46.0145373);;;;mural
+5971388474;Unnamed;46.0149689;10.8119787;POINT (10.8119787 46.0149689);;;;mural
+5971388475;Unnamed;46.0149022;10.8112781;POINT (10.8112781 46.0149022);;;;mural
+5971388476;Unnamed;46.0136132;10.8099035;POINT (10.8099035 46.0136132);;;;mural
+5971388478;Unnamed;46.0149742;10.8114287;POINT (10.8114287 46.0149742);;;;mural
+5971388479;Unnamed;46.0148036;10.8117572;POINT (10.8117572 46.0148036);;;;mural
+5971388480;Unnamed;46.0140926;10.8110364;POINT (10.8110364 46.0140926);;;;mural
+5971388481;Unnamed;46.0139729;10.8110555;POINT (10.8110555 46.0139729);;;;mural
+5971388482;Unnamed;46.0140615;10.8118561;POINT (10.8118561 46.0140615);;;;mural
+5971388483;Unnamed;46.0140571;10.8119454;POINT (10.8119454 46.0140571);;;;mural
+5971388484;Unnamed;46.0140222;10.812085;POINT (10.812085 46.0140222);;;;mural
+6207595624;Unnamed;46.328725;11.6015187;POINT (11.6015187 46.328725);;;;statue
+6209994103;Un pediluvio mi farebbe bene;45.9304294;11.1083976;POINT (11.1083976 45.9304294);Simone Carraro;;;installation
+6240249360;Unnamed;46.4201751;11.6728229;POINT (11.6728229 46.4201751);;;;statue
+6253895304;Esoadro;45.9205863;11.0381113;POINT (11.0381113 45.9205863);ETNIK;;;installation
+6255495103;Guerriero contro la PIRUBI;45.9485571;11.1057638;POINT (11.1057638 45.9485571);Florian Grott;;;sculpture
+6301161828;Unnamed;45.8846548;10.8395912;POINT (10.8395912 45.8846548);;;;sculpture
+6341429097;Unnamed;46.3155903;10.8011806;POINT (10.8011806 46.3155903);;;;sculpture
+6521916957;Unnamed;46.0628667;11.1153907;POINT (11.1153907 46.0628667);Paolo Colombini;;;
+6521916958;Unnamed;46.0632426;11.11562;POINT (11.11562 46.0632426);;;;
+6553075307;San Venceslao di Boemia;45.9214754;10.8895138;POINT (10.8895138 45.9214754);;;;statue
+6584150788;Arciduca Alberto;45.9190765;10.8825296;POINT (10.8825296 45.9190765);;;;statue
+6606422351;Unnamed;45.9187428;10.8835807;POINT (10.8835807 45.9187428);;;;statue
+6837121071;Casa del Folletto Custode;46.3054406;11.4477925;POINT (11.4477925 46.3054406);;;;installation
+6837121074;Gallo Cedrone;46.3062992;11.4466447;POINT (11.4466447 46.3062992);;;;installation
+6837138412;Mamma Orsa;46.3088186;11.4361288;POINT (11.4361288 46.3088186);;;;installation
+6837138416;Il Vecchio Tronco;46.3086855;11.4323491;POINT (11.4323491 46.3086855);;;;installation
+6837138421;La Rana;46.3046135;11.4386871;POINT (11.4386871 46.3046135);;;;installation
+6837138423;Le Impronte;46.3033784;11.4406286;POINT (11.4406286 46.3033784);;;;installation
+6908935098;Unnamed;46.1909434;11.0969987;POINT (11.0969987 46.1909434);;;;installation
+6910385503;Unnamed;45.883629;11.0206431;POINT (11.0206431 45.883629);;;;graffiti
+7146742830;Unnamed;45.9495573;10.6376629;POINT (10.6376629 45.9495573);;;;sculpture
+7146742847;Unnamed;45.9496049;10.6379217;POINT (10.6379217 45.9496049);;;;statue
+7146742852;Unnamed;45.9495167;10.6375473;POINT (10.6375473 45.9495167);;;;statue
+7146742853;Unnamed;45.949442;10.637483;POINT (10.637483 45.949442);;;;statue
+7146805206;Unnamed;46.0060068;11.1273504;POINT (11.1273504 46.0060068);;;;mural
+7618253050;Unnamed;45.9228998;10.8201574;POINT (10.8201574 45.9228998);;;;statue
+7644430464;Unnamed;45.8683824;11.0758832;POINT (11.0758832 45.8683824);;;;statue
+7644430465;Unnamed;45.8683382;11.0758832;POINT (11.0758832 45.8683382);;;;statue
+7840358796;Unnamed;46.3878648;11.0361616;POINT (11.0361616 46.3878648);;;;
+7856506394;Unnamed;46.3669174;11.0357473;POINT (11.0357473 46.3669174);;;;
+7866052840;Strega;46.0139514;10.8126095;POINT (10.8126095 46.0139514);;;;statue
+7867804546;Madonnina;46.1233342;11.568888;POINT (11.568888 46.1233342);;;;statue
+7904929531;Unnamed;45.8848131;10.842949;POINT (10.842949 45.8848131);;;;statue
+7908656939;Unnamed;45.8809023;10.8378238;POINT (10.8378238 45.8809023);;;;statue
+7968981737;Unnamed;45.930691;10.8234662;POINT (10.8234662 45.930691);;;;statue
+7968981738;Unnamed;45.9305833;10.8236842;POINT (10.8236842 45.9305833);;;;statue
+8022041367;Unnamed;45.9164594;10.8817569;POINT (10.8817569 45.9164594);;;;statue
+8149439356;Unnamed;46.3686588;11.0138815;POINT (11.0138815 46.3686588);;;;
+8290609708;Unnamed;46.2377734;11.0682587;POINT (11.0682587 46.2377734);;Testa d'orso intagliata in un tronco d'albero a bordo strada;;sculpture
+8331509545;Le Api;46.3046912;11.4482529;POINT (11.4482529 46.3046912);;;;installation
+8331509550;La Tana del Tasso;46.3049461;11.4482919;POINT (11.4482919 46.3049461);;;;installation
+8331509551;Il Cannocchiale;46.3038963;11.446344;POINT (11.446344 46.3038963);;;;installation
+8331646861;Il Presepio de Varena;46.3050925;11.456656;POINT (11.456656 46.3050925);;;;installation
+8481174235;Unnamed;45.852106;10.9773096;POINT (10.9773096 45.852106);;;;statue
+8491231317;Unnamed;46.1429884;11.2383518;POINT (11.2383518 46.1429884);;;;statue
+8567964515;Madonna;46.4180291;11.2047388;POINT (11.2047388 46.4180291);;;;statue
+8670957574;Ca' dei boci;46.1245764;11.1938184;POINT (11.1938184 46.1245764);;;;sculpture
+8696340671;Il corcolocio;46.121342;11.1928997;POINT (11.1928997 46.121342);Thomas Feller;;;sculpture
+8733371881;Unnamed;46.3683087;11.0321374;POINT (11.0321374 46.3683087);;;;
+8829759560;Unnamed;45.8613286;10.7326854;POINT (10.7326854 45.8613286);;;;
+8839137553;Unnamed;46.0261805;10.9833164;POINT (10.9833164 46.0261805);;;;sculpture
+8871649828;Rave;45.8635217;10.7371931;POINT (10.7371931 45.8635217);Erika Inger;;;sculpture
+8871649829;Xennials;45.8634651;10.7366594;POINT (10.7366594 45.8634651);Luca Vallese;;;sculpture
+8871649830;Incontri Ravvicinati;45.8633331;10.7362991;POINT (10.7362991 45.8633331);Giulio Valerio Cerbella e Luisa Benevieri;;;sculpture
+8871649831;Volti nella Terra;45.8631067;10.7358738;POINT (10.7358738 45.8631067);Micol Grazioli;;;sculpture
+8871649832;Trincea;45.8627633;10.7348443;POINT (10.7348443 45.8627633);Roberta Rizzi e Caterina Agazzi;;;sculpture
+8897445479;Unnamed;45.853623;10.7983417;POINT (10.7983417 45.853623);;;;mural
+9072982152;Unnamed;45.9606419;10.912267;POINT (10.912267 45.9606419);;;;
+9104016634;Unnamed;46.2905792;11.6382719;POINT (11.6382719 46.2905792);;;;
+9104022377;Unnamed;46.2907401;11.6381555;POINT (11.6381555 46.2907401);;;;
+9132602960;Lassù;46.0728773;10.9985408;POINT (10.9985408 46.0728773);Paolo Moro;;;installation
+9134769379;Unnamed;45.9618978;10.9110515;POINT (10.9110515 45.9618978);;;;mural
+9144606449;Guides de Fassa;46.4765958;11.7414198;POINT (11.7414198 46.4765958);;;;stone
+9144797411;Unnamed;46.4761173;11.7401656;POINT (11.7401656 46.4761173);;;;statue
+9332205779;Drago Vaia Regeneration;45.9442679;11.2786111;POINT (11.2786111 45.9442679);Marco Martalar;;;installation
+9450078038;Per gli alpini non esiste l'impossibile;46.0718963;11.1097199;POINT (11.1097199 46.0718963);;;;mural
+9522531931;Unnamed;46.126837;11.096454;POINT (11.096454 46.126837);;;;sculpture
+9645741000;Unnamed;45.9342987;11.0942291;POINT (11.0942291 45.9342987);Francesco Verla;Decorazione sottogronda di Francesco Verla, datato 1520.;;mural
+9645755546;Stemmi Trapp;45.9415936;11.1115291;POINT (11.1115291 45.9415936);;;;mural
+9645780934;Unnamed;45.9339343;11.0943551;POINT (11.0943551 45.9339343);;Parata di stemmi, in capo lo stemma di Massimiliano I d'Asburgo. Affresco datato 1520.;;mural
+9645791049;Unnamed;45.9336613;11.0943776;POINT (11.0943776 45.9336613);;;;mural
+9645795029;Unnamed;45.9339481;11.094941;POINT (11.094941 45.9339481);;;;mural
+9651369581;Ciclo dei Mesi;45.9304369;11.1088074;POINT (11.1088074 45.9304369);;;;mural
+9838948020;Concezione Universale;45.8867115;11.0450725;POINT (11.0450725 45.8867115);Bruno Baroncini;;;sculpture
+9838948021;Unnamed;45.8866527;11.0448633;POINT (11.0448633 45.8866527);;;;statue
+9852288686;Unnamed;45.9138522;10.8115954;POINT (10.8115954 45.9138522);;;;sculpture
+9861838611;Unnamed;45.8949855;10.8553192;POINT (10.8553192 45.8949855);;;;statue
+9881050923;Excalibur;45.9600268;10.9343936;POINT (10.9343936 45.9600268);;;;sculpture
+9941872318;Unnamed;45.8815496;10.7520276;POINT (10.7520276 45.8815496);;;;mural
+9942573386;Unnamed;45.8812396;10.7517266;POINT (10.7517266 45.8812396);;;;mural
+9944232476;Unnamed;45.882471;10.7528058;POINT (10.7528058 45.882471);;;;mural
+9944700138;Unnamed;45.88176;10.750976;POINT (10.750976 45.88176);;;;mural
+9945133959;Unnamed;45.8815932;10.751512;POINT (10.751512 45.8815932);;;;mural
+9947895817;Unnamed;46.3490186;11.0899451;POINT (11.0899451 46.3490186);;;;sculpture
+9954106382;Monumento ai caduti;45.9170322;11.168453;POINT (11.168453 45.9170322);;;;statue
+9955748805;Beato Enrico;45.9166917;11.1696218;POINT (11.1696218 45.9166917);;;;mural
+9974359354;Unnamed;45.870417;10.7719526;POINT (10.7719526 45.870417);;;;mural
+10053603703;Lupa del Lagorai;46.0425619;11.3275671;POINT (11.3275671 46.0425619);;;;sculpture
+10176208817;Chiesa di Santa Maria Assunta;45.917215;11.0306859;POINT (11.0306859 45.917215);;;;
+10180096589;Unnamed;46.2185678;11.1885511;POINT (11.1885511 46.2185678);associazione intagliatori di lengno valle Cembra;diverse opere scolpendo;;sculpture
+10316929448;Unnamed;46.0947832;11.4805379;POINT (11.4805379 46.0947832);;;;mural
+10822038006;Grifone Vaia Tesino;46.0469039;11.6467694;POINT (11.6467694 46.0469039);Martalar;;;land_art
+10889571922;Le pecore curiose;46.0731448;10.9984178;POINT (10.9984178 46.0731448);Marco Baj;;;installation
+10889571923;Energia;46.0723269;10.9984198;POINT (10.9984198 46.0723269);Mario Iral;;;installation
+10889571931;1980 - I Pisetta;46.0720237;10.9980741;POINT (10.9980741 46.0720237);Giovanni Bailoni;;;installation
+10889571932;Spirito del bondone;46.0733219;10.9982109;POINT (10.9982109 46.0733219);Matteo Cecchinato;;;installation
+10889571933;"Abisso ""percorso interiore""";46.0733777;10.9983745;POINT (10.9983745 46.0733777);Paolo Vivian;;;installation
+10889571934;Origine glaciale;46.0723376;10.9988278;POINT (10.9988278 46.0723376);Federico Seppi;;;installation
+10889571935;Riflessi d'acqua;46.0725032;10.9992194;POINT (10.9992194 46.0725032);Ionel Alexandrescu;;;installation
+10907494766;Dado della pace;46.0654691;11.1249326;POINT (11.1249326 46.0654691);;;;
+10967746467;Unnamed;46.2178072;11.1870601;POINT (11.1870601 46.2178072);associazione intagliatori di lengno valle Cembra;diverse opere scolpendo;;sculpture
+10967746468;Unnamed;46.2178141;11.1868514;POINT (11.1868514 46.2178141);associazione intagliatori di lengno valle Cembra;diverse opere scolpendo;;sculpture
+10967746469;Unnamed;46.2188055;11.1881234;POINT (11.1881234 46.2188055);associazione intagliatori di lengno valle Cembra;diverse opere scolpendo;;sculpture
+10984538270;Unnamed;46.2181424;11.1871012;POINT (11.1871012 46.2181424);associazione intagliatori di lengno valle Cembra;diverse opere scolpendo;;sculpture
+10992828522;Tavola della Regola;46.0976825;11.0450153;POINT (11.0450153 46.0976825);;;;statue
+11005992405;Unnamed;46.4129683;11.1728294;POINT (11.1728294 46.4129683);;;;sculpture
+11007783474;Physis;46.0021734;11.366983;POINT (11.366983 46.0021734);Arcangelo Sassolino;;;
+11007800877;Cattedrale vegetale;46.0015616;11.3698054;POINT (11.3698054 46.0015616);Giuliano Mauri;;;
+11007815037;Barca;46.001304;11.3657651;POINT (11.3657651 46.001304);Nils-Udo;;;
+11007819185;Radice comune;46.0014325;11.3663111;POINT (11.3663111 46.0014325);Henrique Oliveira;;;
+11007819620;Bamboo Ring;46.001889;11.3702025;POINT (11.3702025 46.001889);Kengo Kuma;;;
+11007819660;I semi della pace;46.0078348;11.4164886;POINT (11.4164886 46.0078348);Pinuccio Sciola;;;
+11007832475;Infinitum;46.0013305;11.366716;POINT (11.366716 46.0013305);Glanandrea Gazzola;;;
+11007834693;Ponte II;46.0012386;11.36913;POINT (11.36913 46.0012386);Steven Siegel;;;
+11007837849;Memoria della luce che fu;46.0012422;11.3696664;POINT (11.3696664 46.0012422);Kristof Kintera;;;
+11007838690;Animo d'oro;46.0075575;11.4155243;POINT (11.4155243 46.0075575);Roberto Conte;;;
+11007839653;Simbiosi;46.0019698;11.3664214;POINT (11.3664214 46.0019698);Edoardo Tresoldi;;;
+11007840139;Terzo Paradiso -  La trincea della Pace;46.0009163;11.3646321;POINT (11.3646321 46.0009163);Michelangelo Pistoletto;;;
+11007843980;Senza titolo 169;46.0015713;11.3674135;POINT (11.3674135 46.0015713);;;;
+11007844031;Senza Titolo;46.0076375;11.4143272;POINT (11.4143272 46.0076375);Edoardo Souto De Moura;;;
+11007848001;Domino della mente;46.0019964;11.3679713;POINT (11.3679713 46.0019964);;;;
+11007849136;In Apparenza;46.0021517;11.3692483;POINT (11.3692483 46.0021517);Stuart Ian Frost;;;
+11007849420;Riondolo;46.0082267;11.4171254;POINT (11.4171254 46.0082267);Giovanni Wegher;;;
+11007849742;Solstizio;46.0011309;11.3655464;POINT (11.3655464 46.0011309);Roberto Conte;;;
+11007850211;Case per Baroni Ramoanti;46.0012941;11.3683952;POINT (11.3683952 46.0012941);Robert Conte;;;
+11007851146;Liquid landscape;46.0017133;11.370751;POINT (11.370751 46.0017133);;;;
+11007851941;La Donna invisibile;46.000942;11.3685798;POINT (11.3685798 46.000942);Cédric Le Borgne;;;
+11007853324;Trabucco in montagna;46.0021588;11.3700543;POINT (11.3700543 46.0021588);Arne Quinze;;;
+11007853338;Frammenti di luce;46.0080332;11.4155852;POINT (11.4155852 46.0080332);Carlos Marreiros;;;
+11007853609;Origin;46.0018831;11.3683023;POINT (11.3683023 46.0018831);;;;
+11007854802;A fior di pele;46.0081381;11.4153518;POINT (11.4153518 46.0081381);Stuart Ian Frost;;;
+11007856794;Levitas - La terza montagna;46.0075806;11.4145835;POINT (11.4145835 46.0075806);Ian Ritchie;;;
+11007857625;Trio;46.0029228;11.3686318;POINT (11.3686318 46.0029228);Giulio laccheti;;;
+11007866116;Forest Byoubu;46.0079705;11.415005;POINT (11.415005 46.0079705);Atsushi Kitagawara;;;
+11007866707;Il Seme;46.0077827;11.4158046;POINT (11.4158046 46.0077827);Alison Stigora;;;
+11007866708;Camera con Alberi;46.0081446;11.416682;POINT (11.416682 46.0081446);Stefano Boeri;;;
+11007866852;Zen Bench;46.007834;11.4159674;POINT (11.4159674 46.007834);Thomas Daniell Ugo Re;;;
+11007866853;Dentro fuori;46.0080595;11.4160395;POINT (11.4160395 46.0080595);Michele de Lucchi;;;
+11007866921;Me't rispect;46.0083104;11.417111;POINT (11.417111 46.0083104);Matteo Marchini;;;
+11007866922;Tiglio aperto;46.0080682;11.4170171;POINT (11.4170171 46.0080682);Urs Twellmann;;;
+11007868338;Infinity Seat;46.0080354;11.4154335;POINT (11.4154335 46.0080354);Ian Ritchie;;;
+11007868597;Il viaggio;46.0080747;11.4163208;POINT (11.4163208 46.0080747);;;;
+11007869159;Kodama;46.0078893;11.414666;POINT (11.414666 46.0078893);Kengo Kuma;;;
+11007869400;Clizia;46.0076091;11.4149124;POINT (11.4149124 46.0076091);Angelo Mangiatori;;;
+11007869630;Rinascita della foresta danzante;46.0079001;11.4152952;POINT (11.4152952 46.0079001);Rocco Yim;;;
+11007869631;Fontanella sotsass;46.0076408;11.4152459;POINT (11.4152459 46.0076408);Ettore Sotsass;;;
+11007870623;Incanto;46.0078437;11.4149827;POINT (11.4149827 46.0078437);Alberto Meda;;;
+11007870624;Menhir;46.0080615;11.4157124;POINT (11.4157124 46.0080615);Daniele Pedretti;;;
+11010407768;Aquila Vaia;45.9796494;11.5945398;POINT (11.5945398 45.9796494);Marco Martalar;;;sculpture
+11010529069;Unnamed;46.4126647;11.1733038;POINT (11.1733038 46.4126647);;;;sculpture
+11054736538;Cervo Vaia;45.936186;11.3208066;POINT (11.3208066 45.936186);Marco Martalar;;;sculpture
+11056450049;Orso;46.0680962;10.9633489;POINT (10.9633489 46.0680962);;;;sculpture
+11121852497;Unnamed;46.0139359;11.2736078;POINT (11.2736078 46.0139359);;;;sculpture
+11134980960;Unnamed;45.8831739;10.8478603;POINT (10.8478603 45.8831739);;;;
+11138636526;Unnamed;46.0634459;11.1246403;POINT (11.1246403 46.0634459);;;;
+11145750199;Lo Gnomo;46.0278784;11.2645705;POINT (11.2645705 46.0278784);;;;sculpture
+11162976426;Grostol;46.4359779;11.6946486;POINT (11.6946486 46.4359779);;;;statue
+11162976427;Unnamed;46.4353642;11.6943012;POINT (11.6943012 46.4353642);;;;sculpture
+11162976428;Unnamed;46.435343;11.6941738;POINT (11.6941738 46.435343);;;;sculpture
+11162976429;Unnamed;46.435038;11.6937936;POINT (11.6937936 46.435038);;;;statue
+11162976432;Piotola;46.4346036;11.6929588;POINT (11.6929588 46.4346036);;;;statue
+11162976433;Ciacola;46.4342256;11.6922896;POINT (11.6922896 46.4342256);;;;statue
+11162976434;Unnamed;46.433952;11.6918188;POINT (11.6918188 46.433952);;;;statue
+11162976437;Bronza;46.4335407;11.6910115;POINT (11.6910115 46.4335407);;;;statue
+11163010807;Unnamed;46.4422181;11.6928307;POINT (11.6928307 46.4422181);;;;statue
+11219419412;Games of Cubes;45.9279022;10.7660837;POINT (10.7660837 45.9279022);;;;
+11291607947;Unnamed;46.0743037;11.2511927;POINT (11.2511927 46.0743037);;;;statue
+11363561346;Il Lupo;46.1241862;11.1936944;POINT (11.1936944 46.1241862);Luca Molinari;;;sculpture
+11363561347;Il custode del fungo;46.1200682;11.1933354;POINT (11.1933354 46.1200682);;;;sculpture
+11363561348;Il Bosco;46.1186495;11.1969724;POINT (11.1969724 46.1186495);;;;sculpture
+11363561350;Golosone;46.1256538;11.1937164;POINT (11.1937164 46.1256538);;;;sculpture
+11363561353;Unnamed;46.1166326;11.1959386;POINT (11.1959386 46.1166326);;;;sculpture
+11363561355;Unnamed;46.1160198;11.1945924;POINT (11.1945924 46.1160198);;;;sculpture
+11363561358;Unnamed;46.1178855;11.1929563;POINT (11.1929563 46.1178855);;;;sculpture
+11363561359;Libero Fauno;46.1267632;11.2025272;POINT (11.2025272 46.1267632);Ivan Boneccher;;;sculpture
+11363561360;Unnamed;46.1158047;11.1951632;POINT (11.1951632 46.1158047);;;;sculpture
+11363561361;Unnamed;46.1291962;11.197472;POINT (11.197472 46.1291962);;;;sculpture
+11363561362;Caminar sui Piani;46.1162242;11.1956762;POINT (11.1956762 46.1162242);Annamaria Bebber;;;sculpture
+11363561364;Il Cinesino;46.1255779;11.1937518;POINT (11.1937518 46.1255779);;;;sculpture
+11363561366;Unnamed;46.1242871;11.201554;POINT (11.201554 46.1242871);;;;sculpture
+11363572669;Pina la gnoma spazzafoglie;46.1192991;11.1927721;POINT (11.1927721 46.1192991);Gianni Antonelli;;;sculpture
+11363572670;La volpe con i volpini;46.1278421;11.1948329;POINT (11.1948329 46.1278421);Silvano Garollo;;;sculpture
+11363572672;L'orso;46.127755;11.2011734;POINT (11.2011734 46.127755);Nadia Simeonoda;;;sculpture
+11363572673;Unnamed;46.1192374;11.1971258;POINT (11.1971258 46.1192374);;;;sculpture
+11363572675;L'antico Saggio;46.1163156;11.1956965;POINT (11.1956965 46.1163156);;;;sculpture
+11504208411;Unnamed;45.8942364;10.684666;POINT (10.684666 45.8942364);;;;
+11505569713;Unnamed;45.8874686;10.6681953;POINT (10.6681953 45.8874686);;;;
+11799583762;Unnamed;45.9236481;10.9011128;POINT (10.9011128 45.9236481);;;;statue
+11985322029;Unnamed;45.8913489;10.952518;POINT (10.952518 45.8913489);;;;graffiti
+12039418126;Unnamed;46.1561424;11.2859799;POINT (11.2859799 46.1561424);;;;sculpture
+12039452840;Unnamed;46.1503276;11.2776888;POINT (11.2776888 46.1503276);;;;sculpture
+12039463344;Unnamed;46.1785556;11.3240815;POINT (11.3240815 46.1785556);;;;sculpture
+12039490357;Unnamed;46.1506593;11.273391;POINT (11.273391 46.1506593);;;;sculpture
+12055139164;Haflinger di Strembo - Cavallo di Martalar;46.1230853;10.7541747;POINT (10.7541747 46.1230853);;;;sculpture
+12067979682;Unnamed;45.9509989;11.2822044;POINT (11.2822044 45.9509989);;;;installation
+12091417049;Unnamed;46.0457922;11.2344827;POINT (11.2344827 46.0457922);;;;sculpture
+12091417050;Unnamed;46.0612706;11.2279172;POINT (11.2279172 46.0612706);;;;sculpture
+12108112299;Unnamed;46.3029523;11.0858385;POINT (11.0858385 46.3029523);;;;sculpture
+12127457024;Orso del Pradel;46.1592023;10.9535178;POINT (10.9535178 46.1592023);;;;installation
+12127492930;Crocifissione con la Vergine e San Giovanni Evangelista;45.8369608;10.9705987;POINT (10.9705987 45.8369608);Giovanni Badile;;;mural
+12151484539;Wood Carving Art;46.4057324;11.6455405;POINT (11.6455405 46.4057324);;Multiple sculptures from old trees along the trail;;
+12171298284;Unnamed;45.8202841;10.975999;POINT (10.975999 45.8202841);;;;statue
+12173304052;Unnamed;45.8172683;10.9698269;POINT (10.9698269 45.8172683);;;;statue
+12181756959;Installazione Sequoia;46.0099698;11.3057871;POINT (11.3057871 46.0099698);;;;installation
+12186148378;Installazione Zefiro;46.011688;11.3087819;POINT (11.3087819 46.011688);Studio CMQ Architettura di Milano;;;sculpture
+12186246783;Unnamed;45.8054692;10.9730448;POINT (10.9730448 45.8054692);;;;mural
+12198523761;Madonna del Pontirol;45.8121159;10.9785608;POINT (10.9785608 45.8121159);;;;statue
+12208519099;Unnamed;45.817688;10.9555171;POINT (10.9555171 45.817688);;;;statue
+12232063974;Unnamed;46.248083;11.0668038;POINT (11.0668038 46.248083);;;;sculpture
+12232816657;Unnamed;46.4292352;11.7218234;POINT (11.7218234 46.4292352);;;;statue
+12367744783;Unnamed;46.0686489;11.1280149;POINT (11.1280149 46.0686489);;;;sculpture
+12367747148;Unnamed;46.0686926;11.1281062;POINT (11.1281062 46.0686926);;;;sculpture
+12367750517;Unnamed;46.0686486;11.1280793;POINT (11.1280793 46.0686486);;;;sculpture
+12367750518;Unnamed;46.0686919;11.1280116;POINT (11.1280116 46.0686919);;;;sculpture
+12367753253;Unnamed;46.0687164;11.1280696;POINT (11.1280696 46.0687164);;;;sculpture
+12507293334;Madonnina;45.9738403;11.2875859;POINT (11.2875859 45.9738403);;;;statue
+12512030174;Unnamed;46.0530546;11.4631583;POINT (11.4631583 46.0530546);Arte Sella;;;sculpture
+12513664070;Unnamed;46.0531838;11.4524225;POINT (11.4524225 46.0531838);Arte Sella;;;sculpture
+12518125399;Cesare Battisti;46.2617841;11.7971929;POINT (11.7971929 46.2617841);;;;bust

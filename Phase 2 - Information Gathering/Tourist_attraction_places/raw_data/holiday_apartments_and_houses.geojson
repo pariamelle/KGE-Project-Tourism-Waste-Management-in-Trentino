@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.1 084b4234",
+  "generator": "Overpass API 0.7.62.4 2390de5a",
   "osm3s": {
-    "timestamp_osm_base": "2024-11-13T15:03:00Z",
-    "timestamp_areas_base": "2024-11-13T11:53:03Z",
+    "timestamp_osm_base": "2025-01-28T18:26:45Z",
+    "timestamp_areas_base": "2025-01-28T11:43:44Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -3572,7 +3572,127 @@
     "name": "Enzo & Rossella",
     "tourism": "apartment"
   }
+},
+{
+  "type": "node",
+  "id": 12385090265,
+  "lat": 46.2271743,
+  "lon": 10.8266037,
+  "tags": {
+    "name": "CasaGrotti",
+    "tourism": "apartment",
+    "website": "https://www.casagrotti.eu/"
+  }
+},
+{
+  "type": "node",
+  "id": 12496944591,
+  "lat": 46.0553082,
+  "lon": 11.4543778,
+  "tags": {
+    "air_conditioning": "no",
+    "internet_access": "wlan",
+    "name": "Balconi Rossi",
+    "tourism": "apartment",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12498763235,
+  "lat": 46.0530709,
+  "lon": 11.4574398,
+  "tags": {
+    "air_conditioning": "no",
+    "name": "B&B al Gatto Nero",
+    "tourism": "apartment",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12498778716,
+  "lat": 46.0558130,
+  "lon": 11.4521059,
+  "tags": {
+    "name": "Appartamento la bella vista",
+    "tourism": "apartment",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12498781244,
+  "lat": 46.0548928,
+  "lon": 11.4515715,
+  "tags": {
+    "air_conditioning": "no",
+    "name": "Lunar Room and Breakfast",
+    "tourism": "apartment",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12507844090,
+  "lat": 46.0539649,
+  "lon": 11.4571315,
+  "tags": {
+    "air_conditioning": "no",
+    "name": "Ausugum Apartments",
+    "tourism": "apartment",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12507853807,
+  "lat": 46.0525714,
+  "lon": 11.4583722,
+  "tags": {
+    "air_conditioning": "no",
+    "name": "Appartamento Via Fratelli",
+    "tourism": "apartment",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12507854701,
+  "lat": 46.0531946,
+  "lon": 11.4573877,
+  "tags": {
+    "air_conditioning": "no",
+    "name": "Casa Titti",
+    "tourism": "apartment",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12507861598,
+  "lat": 46.0531961,
+  "lon": 11.4587426,
+  "tags": {
+    "air_conditioning": "no",
+    "name": "Appartamenti Il Gufo Vacanze",
+    "tourism": "apartment",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12507870066,
+  "lat": 46.0535183,
+  "lon": 11.4573654,
+  "tags": {
+    "air_conditioning": "no",
+    "name": "Piccola Venezia",
+    "tourism": "apartment",
+    "wheelchair": "no"
+  }
 }
 
   ]
 }
+

@@ -1,72 +1,72 @@
-id,name,latitude,longitude,website,type,street,city,postcode,housenumber
-museum_id_267234391,Museo Diocesano Tridentino,46.0674841,11.1218796,,museum,Piazza del Duomo,Trento,38122,18
-museum_id_335605379,Museo delle guide,46.2281723,10.8278422,,museum,,,,
-museum_id_418331276,Museo degli Attrezzi Agricoli,46.0776379,11.277623,,museum,,,,
-museum_id_446773163,Le Gallerie,46.0717599,11.113531,https://museostorico.it/location/le-gallerie/,museum,,,,
-museum_id_456820499,Museo del Paracarro,46.0789237,11.2787077,,museum,,,,
-museum_id_570733717,Gruab va Hardimbl - Miniera dell'Erdemolo,46.1208268,11.3785605,,museum,,,,
-museum_id_599751168,Casa degli Artisti,45.9298304,10.825762,,museum,,,,
-museum_id_614841361,Museo della Civiltà Solandra,46.3542676,10.9139807,,museum,,,,
-museum_id_644626990,Filzerhof,46.1197134,11.3365274,,museum,Maso Vilzer,Fierozzo - Vlarotz,38050,
-museum_id_725562669,Musei di Ronzone,46.4230555,11.1469654,,museum,,,,
-museum_id_750680709,museo della Grande Guerra,45.9452762,10.6320893,,museum,,,,
-gallery_id_975288310,Galleria Civica,46.0684631,11.1212198,https://www.mart.tn.it/visita-galleria-civica,gallery,Via Rodolfo Belenzani,Trento,38122,44
-museum_id_1102264763,Pietra viva,46.0979727,11.2948637,,museum,,,,
-museum_id_1282899743,Forte Belvedere - Werk Gschwendt,45.9225527,11.286764,http://www.fortebelvedere.org/,museum,,,,
-museum_id_1301681384,MAG Museo Alto Garda,45.8845157,10.8422391,,museum,Piazza Battisti,Riva del Garda,38066,3a
-museum_id_1496706635,Museo degli usi e costumi della gente trentina,46.1943254,11.1341768,,museum,Via Edmund Mach,,,2
-museum_id_1857649832,Corte Franca,46.2196464,11.0488742,,museum,,,,
-museum_id_1962320594,"Museo Diocesano ""Palazzo Libera""",45.9163855,11.0300477,,museum,Via Garibaldi,Villa Lagarina,38060,12
-museum_id_1992954489,Casa d'Arte Futurista Depero,45.8869604,11.0451702,,museum,Via Portici,Rovereto,38068,38
-museum_id_2487104590,Reptiland,45.8847919,10.8414014,,museum,Piazza Giuseppe Garibaldi,Riva del Garda,38066,2
-museum_id_2534708276,"Museo della Cartolina ""Salvatore Nuvoli""",45.8853531,11.0081919,,museum,Via Galvagni,Isera,38060,10
-museum_id_2784214825,Spazio Klien,46.0530064,11.4564462,,museum,,Borgo Valsugana,38051,
-museum_id_3081910206,Il Bosco degli Urogalli,46.3862999,10.6806941,,museum,,,,
-museum_id_3273893215,Museo degli Attrezzi Agricoli,45.9293901,10.8265617,,museum,,,,
-museum_id_3312642477,Museo Storico Italiano della Guerra,45.8862816,11.0463525,https://museodellaguerra.it/,museum,,,,
-gallery_id_3334278990,Tonolli,45.8892906,11.0419513,,gallery,Via Giosuè Carducci,Rovereto,38068,42
-museum_id_3659273553,Bike Museum,45.9889325,11.3013479,,museum,,,,
-museum_id_3683994896,Museo del Laboratorio Farmaceutico Foletto,45.8889668,10.7325506,,museum,Via Vittoria,Ledro,38067,11
-museum_id_3734579884,Museo delle Miniere,46.0439856,11.2787413,,museum,,,,
-museum_id_3956877238,Museo Minerario Calceranica,46.0038399,11.242609,,museum,,,,
-museum_id_3956887007,Miniera Leyla,46.0016949,11.2390668,,museum,,,,
-museum_id_4040337618,Sperkmandlhaus,46.1294601,11.3531896,,museum,,,,
-museum_id_4067216267,Antica fusina Zanghellini,46.05429,11.5264674,,museum,,,,
-museum_id_4072423932,Museo Etnografico Collezione Tarcisio Trentin,46.0729304,11.4730263,,museum,,,,
-museum_id_4147445526,Spazi Livio Rossi,46.0543777,11.4587901,http://www.artesella.it/percorsi_spazi.html,museum,Corso Ausugum,Borgo Valsugana,38051,57
-museum_id_4219149239,Museo del turismo trentino,46.0987072,11.2360522,https://www.cultura.trentino.it/Luoghi/Tutti-i-luoghi-della-cultura/Case/Albergo-alla-corona-Museo-del-turismo-trentino,museum,Viale Sant'Anna,,,2
-gallery_id_4221721673,Sala Tre castelli,46.0513674,11.4098244,,gallery,,,,
-museum_id_4251202608,Museo Etnografico,46.3150354,11.0481268,,museum,,,,
-gallery_id_4340805004,Galleria Civica Giovanni Segantini,45.9203265,10.8888588,,gallery,Via Giovanni Segantini,Arco,38062,9
-museum_id_4512507356,Museo per Via,46.0689701,11.6072466,,museum,,,,
-museum_id_4555224995,Ecomuseo Argentario,46.0886282,11.181844,http://ecoargentario.it/,museum,,,,
-museum_id_4596537848,Museo del pianoforte antico,45.757353,11.0033166,,museum,,,,
-museum_id_4646776085,Dokumentationszentrum Lusérn - Centro Documentazione Luserna,45.9219621,11.3232196,,museum,Via Trento,Lusérn - Luserna,38040,6
-museum_id_4655181880,Museo della Guerra Bianca Adamellina,46.1029026,10.7378488,,museum,Via San Vigilio,Spiazzo,38088,31
-museum_id_4655195320,Museo della Guerra di Vermiglio,46.2976448,10.6954658,,museum,Via di Borgo Nuovo,Vermiglio,38020,15
-museum_id_4664024243,Sala Galvan,46.0554009,11.4609639,http://www.egidiogalvan.it/sala-museo,museum,,,,
-museum_id_4691277678,Museo della Centrale idroelettrica di Serso,46.073835,11.2473327,,museum,,,,
-museum_id_5141813120,Museo Casa Porfido,46.1440739,11.193779,,museum,,,,
-museum_id_5244003945,Museo della Scuola,46.0179592,10.8112746,,museum,,,38071,
-museum_id_6105549705,Unnamed,46.2390099,10.5797768,,museum,,,,
-museum_id_6586924497,TTram,46.1019507,11.0952666,,museum,Via Innsbruck,Trento,38121,65
-museum_id_7152488777,Haus von Prükk,45.9213243,11.3251242,,museum,,,,
-museum_id_7617614535,Museo del Moleta,46.0550822,11.6155268,,museum,,,,
-museum_id_7618249162,Punto Informativo area archeolosica San Martino,45.9228591,10.8205621,,museum,,Pranzo,,
-museum_id_7951743706,Ricostruzione villaggio palafitticolo,45.9917883,10.8353645,,museum,,,,
-museum_id_8354966441,Piccola esposizione attrezzi agricoli,45.9544822,10.9288149,,museum,,,,
-museum_id_8929467921,Museo Ladin de Fascia  - Museo ladino di Fassa,46.4231294,11.6796956,,museum,Strada de Sen Jan,,,9
-gallery_id_9514915015,Kunst Grenzen,46.2499697,11.1712939,,gallery,Via Villotta,Roveré della Luna,38030,7a
-museum_id_9682005614,Museo della Grande Guerra,46.1460856,10.7697475,,museum,,,,
-museum_id_9872303857,Museo Casa Degasperi,46.069028,11.6071832,,museum,Via Alcide De Gasperi,Pieve Tesino,38050,1
-museum_id_10701711613,Museo del Castello del Buonconsiglio,46.0714199,11.1264841,https://www.buonconsiglio.it/index.php/it/Castello-del-Buonconsiglio,museum,Via cardinale Bernardo Clesio,Trento,38122,5
-museum_id_11123827583,"Museo ""La Grande Guerra""",46.3772191,11.6686278,,museum,,,,
-museum_id_11123837490,La Gran Vera: museo prima guerra mondiale,46.3733446,11.6570332,,museum,,,,
-museum_id_11210575884,Canyon Rio Sass,46.4388544,11.1375221,https://www.visitvaldinon.it/it/poi/canyon-rio-sass,museum,,,,
-museum_id_11233571320,Trincerone,45.8258128,11.0522136,,museum,,,,
-museum_id_11515156398,El Molì dei Blèc,45.8966208,10.7168383,,museum,Via Peluca,Ledro,38067,2
-museum_id_11535643414,Parco Forte Ampola,45.843319,10.6210127,,museum,Località Ampola,Storo,38089,50
-museum_id_11819728762,Centrale Idroelettrica Riva del Garda,45.8833068,10.8381048,,museum,,,,
-museum_id_11876905740,"""Par ieri"" - Collezione Etnografica Giudicariese",46.0516785,10.8533773,,museum,,,,
-gallery_id_12068170601,Unnamed,45.9375963,11.2747378,,gallery,,,,
-museum_id_12213411794,Giardino Botanico e Museo del Fossile,45.8165865,10.9541115,,museum,Via Mantova,Brentonico,38060,4
+id;name;latitude;longitude;geometry;website;tourism;street;city;postcode;housenumber
+267234391;Museo Diocesano Tridentino;46.0674841;11.1218796;POINT (11.1218796 46.0674841);;museum;Piazza del Duomo;Trento;38122;18
+335605379;Museo delle guide;46.2281723;10.8278422;POINT (10.8278422 46.2281723);;museum;;;;
+418331276;Museo degli Attrezzi Agricoli;46.0776379;11.277623;POINT (11.277623 46.0776379);;museum;;;;
+446773163;Le Gallerie;46.0717599;11.113531;POINT (11.113531 46.0717599);https://museostorico.it/location/le-gallerie/;museum;;;;
+456820499;Museo del Paracarro;46.0789237;11.2787077;POINT (11.2787077 46.0789237);;museum;;;;
+570733717;Gruab va Hardimbl - Miniera dell'Erdemolo;46.1208268;11.3785605;POINT (11.3785605 46.1208268);;museum;;;;
+599751168;Casa degli Artisti;45.9298304;10.825762;POINT (10.825762 45.9298304);;museum;;;;
+614841361;Museo della Civiltà Solandra;46.3542676;10.9139807;POINT (10.9139807 46.3542676);;museum;;;;
+644626990;Filzerhof;46.1197134;11.3365274;POINT (11.3365274 46.1197134);;museum;Maso Vilzer;Fierozzo - Vlarotz;38050;
+725562669;Musei di Ronzone;46.4230555;11.1469654;POINT (11.1469654 46.4230555);;museum;;;;
+750680709;museo della Grande Guerra;45.9452762;10.6320893;POINT (10.6320893 45.9452762);;museum;;;;
+975288310;Galleria Civica;46.0684631;11.1212198;POINT (11.1212198 46.0684631);https://www.mart.tn.it/visita-galleria-civica;gallery;Via Rodolfo Belenzani;Trento;38122;44
+1102264763;Pietra viva;46.0979727;11.2948637;POINT (11.2948637 46.0979727);;museum;;;;
+1282899743;Forte Belvedere - Werk Gschwendt;45.9225527;11.286764;POINT (11.286764 45.9225527);http://www.fortebelvedere.org/;museum;;;;
+1301681384;MAG Museo Alto Garda;45.8845157;10.8422391;POINT (10.8422391 45.8845157);;museum;Piazza Battisti;Riva del Garda;38066;3a
+1496706635;Museo degli usi e costumi della gente trentina;46.1943254;11.1341768;POINT (11.1341768 46.1943254);;museum;Via Edmund Mach;;;2
+1857649832;Corte Franca;46.2196464;11.0488742;POINT (11.0488742 46.2196464);;museum;;;;
+1962320594;"Museo Diocesano ""Palazzo Libera""";45.9163855;11.0300477;POINT (11.0300477 45.9163855);;museum;Via Garibaldi;Villa Lagarina;38060;12
+1992954489;Casa d'Arte Futurista Depero;45.8869604;11.0451702;POINT (11.0451702 45.8869604);;museum;Via Portici;Rovereto;38068;38
+2487104590;Reptiland;45.8847919;10.8414014;POINT (10.8414014 45.8847919);;museum;Piazza Giuseppe Garibaldi;Riva del Garda;38066;2
+2534708276;"Museo della Cartolina ""Salvatore Nuvoli""";45.8853531;11.0081919;POINT (11.0081919 45.8853531);;museum;Via Galvagni;Isera;38060;10
+2784214825;Spazio Klien;46.0530064;11.4564462;POINT (11.4564462 46.0530064);;museum;;Borgo Valsugana;38051;
+3081910206;Il Bosco degli Urogalli;46.3862999;10.6806941;POINT (10.6806941 46.3862999);;museum;;;;
+3273893215;Museo degli Attrezzi Agricoli;45.9293901;10.8265617;POINT (10.8265617 45.9293901);;museum;;;;
+3312642477;Museo Storico Italiano della Guerra;45.8862816;11.0463525;POINT (11.0463525 45.8862816);https://museodellaguerra.it/;museum;;;;
+3334278990;Tonolli;45.8892906;11.0419513;POINT (11.0419513 45.8892906);;gallery;Via Giosuè Carducci;Rovereto;38068;42
+3659273553;Bike Museum;45.9889325;11.3013479;POINT (11.3013479 45.9889325);;museum;;;;
+3683994896;Museo del Laboratorio Farmaceutico Foletto;45.8889668;10.7325506;POINT (10.7325506 45.8889668);;museum;Via Vittoria;Ledro;38067;11
+3734579884;Museo delle Miniere;46.0439856;11.2787413;POINT (11.2787413 46.0439856);;museum;;;;
+3956877238;Museo Minerario Calceranica;46.0038399;11.242609;POINT (11.242609 46.0038399);;museum;;;;
+3956887007;Miniera Leyla;46.0016949;11.2390668;POINT (11.2390668 46.0016949);;museum;;;;
+4040337618;Sperkmandlhaus;46.1294601;11.3531896;POINT (11.3531896 46.1294601);;museum;;;;
+4067216267;Antica fusina Zanghellini;46.05429;11.5264674;POINT (11.5264674 46.05429);;museum;;;;
+4072423932;Museo Etnografico Collezione Tarcisio Trentin;46.0729304;11.4730263;POINT (11.4730263 46.0729304);;museum;;;;
+4147445526;Spazi Livio Rossi;46.0543777;11.4587901;POINT (11.4587901 46.0543777);http://www.artesella.it/percorsi_spazi.html;museum;Corso Ausugum;Borgo Valsugana;38051;57
+4219149239;Museo del turismo trentino;46.0987072;11.2360522;POINT (11.2360522 46.0987072);https://www.cultura.trentino.it/Luoghi/Tutti-i-luoghi-della-cultura/Case/Albergo-alla-corona-Museo-del-turismo-trentino;museum;Viale Sant'Anna;;;2
+4221721673;Sala Tre castelli;46.0513674;11.4098244;POINT (11.4098244 46.0513674);;gallery;;;;
+4251202608;Museo Etnografico;46.3150354;11.0481268;POINT (11.0481268 46.3150354);;museum;;;;
+4340805004;Galleria Civica Giovanni Segantini;45.9203265;10.8888588;POINT (10.8888588 45.9203265);;gallery;Via Giovanni Segantini;Arco;38062;9
+4512507356;Museo per Via;46.0689701;11.6072466;POINT (11.6072466 46.0689701);;museum;;;;
+4555224995;Ecomuseo Argentario;46.0886282;11.181844;POINT (11.181844 46.0886282);http://ecoargentario.it/;museum;;;;
+4596537848;Museo del pianoforte antico;45.757353;11.0033166;POINT (11.0033166 45.757353);;museum;;;;
+4646776085;Dokumentationszentrum Lusérn - Centro Documentazione Luserna;45.9219621;11.3232196;POINT (11.3232196 45.9219621);;museum;Via Trento;Lusérn - Luserna;38040;6
+4655181880;Museo della Guerra Bianca Adamellina;46.1029026;10.7378488;POINT (10.7378488 46.1029026);;museum;Via San Vigilio;Spiazzo;38088;31
+4655195320;Museo della Guerra di Vermiglio;46.2976448;10.6954658;POINT (10.6954658 46.2976448);;museum;Via di Borgo Nuovo;Vermiglio;38020;15
+4664024243;Sala Galvan;46.0554009;11.4609639;POINT (11.4609639 46.0554009);http://www.egidiogalvan.it/sala-museo;museum;;;;
+4691277678;Museo della Centrale idroelettrica di Serso;46.073835;11.2473327;POINT (11.2473327 46.073835);;museum;;;;
+5141813120;Museo Casa Porfido;46.1440739;11.193779;POINT (11.193779 46.1440739);;museum;;;;
+5244003945;Museo della Scuola;46.0179592;10.8112746;POINT (10.8112746 46.0179592);;museum;;;38071;
+6105549705;Unnamed;46.2390099;10.5797768;POINT (10.5797768 46.2390099);;museum;;;;
+6586924497;TTram;46.1019507;11.0952666;POINT (11.0952666 46.1019507);;museum;Via Innsbruck;Trento;38121;65
+7152488777;Haus von Prükk;45.9213243;11.3251242;POINT (11.3251242 45.9213243);;museum;;;;
+7617614535;Museo del Moleta;46.0550822;11.6155268;POINT (11.6155268 46.0550822);;museum;;;;
+7618249162;Punto Informativo area archeolosica San Martino;45.9228591;10.8205621;POINT (10.8205621 45.9228591);;museum;;Pranzo;;
+7951743706;Ricostruzione villaggio palafitticolo;45.9917883;10.8353645;POINT (10.8353645 45.9917883);;museum;;;;
+8354966441;Piccola esposizione attrezzi agricoli;45.9544822;10.9288149;POINT (10.9288149 45.9544822);;museum;;;;
+8929467921;Museo Ladin de Fascia  - Museo ladino di Fassa;46.4231294;11.6796956;POINT (11.6796956 46.4231294);;museum;Strada de Sen Jan;;;9
+9514915015;Kunst Grenzen;46.2499697;11.1712939;POINT (11.1712939 46.2499697);;gallery;Via Villotta;Roveré della Luna;38030;7a
+9682005614;Museo della Grande Guerra;46.1460856;10.7697475;POINT (10.7697475 46.1460856);;museum;;;;
+9872303857;Museo Casa Degasperi;46.069028;11.6071832;POINT (11.6071832 46.069028);;museum;Via Alcide De Gasperi;Pieve Tesino;38050;1
+10701711613;Museo del Castello del Buonconsiglio;46.0714199;11.1264841;POINT (11.1264841 46.0714199);https://www.buonconsiglio.it/index.php/it/Castello-del-Buonconsiglio;museum;Via Cardinale Bernardo Clesio;Trento;38122;5
+11123827583;"Museo ""La Grande Guerra""";46.3772191;11.6686278;POINT (11.6686278 46.3772191);;museum;;;;
+11123837490;La Gran Vera: museo prima guerra mondiale;46.3733446;11.6570332;POINT (11.6570332 46.3733446);;museum;;;;
+11210575884;Canyon Rio Sass;46.4388544;11.1375221;POINT (11.1375221 46.4388544);https://www.visitvaldinon.it/it/poi/canyon-rio-sass;museum;;;;
+11233571320;Trincerone;45.8258128;11.0522136;POINT (11.0522136 45.8258128);;museum;;;;
+11515156398;El Molì dei Blèc;45.8966208;10.7168383;POINT (10.7168383 45.8966208);;museum;Via Peluca;Ledro;38067;2
+11535643414;Parco Forte Ampola;45.843319;10.6210127;POINT (10.6210127 45.843319);;museum;Località Ampola;Storo;38089;50
+11819728762;Centrale Idroelettrica Riva del Garda;45.8833068;10.8381048;POINT (10.8381048 45.8833068);;museum;;;;
+11876905740;"""Par ieri"" - Collezione Etnografica Giudicariese";46.0516785;10.8533773;POINT (10.8533773 46.0516785);;museum;;;;
+12068170601;Unnamed;45.9375963;11.2747378;POINT (11.2747378 45.9375963);;gallery;;;;
+12213411794;Giardino Botanico e Museo del Fossile;45.8165865;10.9541115;POINT (10.9541115 45.8165865);;museum;Via Mantova;Brentonico;38060;4

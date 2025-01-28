@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.1 084b4234",
+  "generator": "Overpass API 0.7.62.4 2390de5a",
   "osm3s": {
-    "timestamp_osm_base": "2024-11-13T15:04:01Z",
-    "timestamp_areas_base": "2024-11-13T11:53:03Z",
+    "timestamp_osm_base": "2025-01-28T18:27:44Z",
+    "timestamp_areas_base": "2025-01-28T11:43:44Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -53,7 +53,8 @@
     "phone": "+39 0461234419",
     "tourism": "museum",
     "website": "https://www.museodiocesanotridentino.it/",
-    "wheelchair": "yes"
+    "wheelchair": "yes",
+    "wikidata": "Q3868343"
   }
 },
 {
@@ -141,22 +142,6 @@
     "ruins": "castle",
     "wikidata": "Q18289002",
     "wikipedia": "it:Castel Sajori"
-  }
-},
-{
-  "type": "node",
-  "id": 302099274,
-  "lat": 45.9224802,
-  "lon": 10.8881639,
-  "tags": {
-    "contact:phone": "+39 464 510156",
-    "fee": "yes",
-    "historic": "castle",
-    "name": "Castello di Arco",
-    "opening_hours": "Apr-Sep: 10:00-19:00; Oct-Dec: 10:00-16:00; Jan: Sa,Su 10:00-16:00; Mo-Fr off; Feb-Mar: 10:00-16:00; Nov 1 off; Dec 25-26 off; Jan 1 off",
-    "website": "https://www.comune.arco.tn.it/Territorio/Luoghi-e-punti-di-interesse/Cosa-puoi-visitare/Beni-artistici-e-monumentali/Il-Castello",
-    "wikidata": "Q224779",
-    "wikipedia": "it:Castello di Arco"
   }
 },
 {
@@ -630,8 +615,8 @@
 {
   "type": "node",
   "id": 789964234,
-  "lat": 45.8889338,
-  "lon": 11.0357337,
+  "lat": 45.8889558,
+  "lon": 11.0357545,
   "tags": {
     "historic": "memorial",
     "memorial": "war_memorial",
@@ -2052,9 +2037,12 @@
     "addr:country": "IT",
     "addr:postcode": "38051",
     "addr:province": "TN",
+    "fee": "no",
     "name": "Spazio Klien",
+    "opening_hours": "Tu-Sa 08:00-12:00,16:00-19:00; Su 10:00-12:00; Mo off",
     "payment:coins": "yes",
-    "tourism": "museum"
+    "tourism": "museum",
+    "wheelchair": "yes"
   }
 },
 {
@@ -3052,16 +3040,6 @@
 },
 {
   "type": "node",
-  "id": 4015417181,
-  "lat": 46.1163809,
-  "lon": 11.1486666,
-  "tags": {
-    "description": "Croce in pietra",
-    "historic": "memorial"
-  }
-},
-{
-  "type": "node",
   "id": 4016816832,
   "lat": 46.1930559,
   "lon": 11.3335295,
@@ -3204,6 +3182,7 @@
     "alt_name": "Mario Rossi",
     "contact:website": "http://www.artesella.it/percorsi_spazi.html",
     "description:it": "Gli Spazi LivioRossi sono un centro espositivo permanente curato da Arte Sella.",
+    "fee": "no",
     "name": "Spazi Livio Rossi",
     "operator": "Associazione Arte Sella",
     "tourism": "museum"
@@ -4900,6 +4879,7 @@
   "lat": 46.0554009,
   "lon": 11.4609639,
   "tags": {
+    "check_date": "2025-01-13",
     "contact:website": "http://www.egidiogalvan.it/sala-museo",
     "name": "Sala Galvan",
     "note:it": "Da posizionare nel luogo esatto.",
@@ -5247,7 +5227,8 @@
     "historic": "memorial",
     "memorial": "statue",
     "memorial:name": "Cesare Battisti",
-    "wikidata": "Q27991219"
+    "wikidata": "Q27991219",
+    "wikimedia_commons": "File:Statue of Cesare Battisti Riva del Garda.פסל צ'זרה בטיסטי ריווה דל גארדה.jpg"
   }
 },
 {
@@ -5398,8 +5379,8 @@
 {
   "type": "node",
   "id": 5315340373,
-  "lat": 45.8508395,
-  "lon": 10.5843535,
+  "lat": 45.8507774,
+  "lon": 10.5843360,
   "tags": {
     "artwork_type": "sculpture",
     "tourism": "artwork"
@@ -5408,8 +5389,8 @@
 {
   "type": "node",
   "id": 5315340374,
-  "lat": 45.8508974,
-  "lon": 10.5840746,
+  "lat": 45.8508353,
+  "lon": 10.5841078,
   "tags": {
     "artwork_type": "sculpture",
     "tourism": "artwork"
@@ -5582,8 +5563,8 @@
 {
   "type": "node",
   "id": 5393716171,
-  "lat": 46.0632038,
-  "lon": 11.2416900,
+  "lat": 46.0631539,
+  "lon": 11.2415809,
   "tags": {
     "historic": "monument"
   }
@@ -6863,7 +6844,9 @@
   "lon": 11.0860795,
   "tags": {
     "historic": "memorial",
-    "memorial": "plaque"
+    "inscription": "UN REQUIEM O PASSEGGIERE PER LA VIRTUOSA GIOVANETTA MOTES LEONILDA, DA FAI CHE AI 26 SETEB 1895 DA CRUDEL MANO FU QUI ASSASSINATA NELA VERDE ETÀ D'ANI 15",
+    "material": "stone",
+    "memorial": "stele"
   }
 },
 {
@@ -7136,6 +7119,10 @@
     "material": "metal",
     "memorial": "statue",
     "name": "Statua a Padre Eusebio Chini",
+    "statue": "equestrian",
+    "subject": "Eusebio Chini",
+    "subject:en": "Eusebio Kino",
+    "subject:wikidata": "Q45185",
     "wikidata": "Q105516354"
   }
 },
@@ -8046,7 +8033,7 @@
     "historic": "memorial",
     "memorial": "stele",
     "name": "Tenente Felix Hecht",
-    "wikipedia": "it:Felix Hecht"
+    "subject:wikipedia": "it:Felix Hecht"
   }
 },
 {
@@ -8259,6 +8246,7 @@
   "lon": 11.6885562,
   "tags": {
     "historic": "memorial",
+    "memorial": "obelisk",
     "name": "Agli Alpini"
   }
 },
@@ -9027,7 +9015,7 @@
     "addr:city": "Trento",
     "addr:housenumber": "5",
     "addr:postcode": "38122",
-    "addr:street": "Via cardinale Bernardo Clesio",
+    "addr:street": "Via Cardinale Bernardo Clesio",
     "contact:email": "info@buonconsiglio.it",
     "contact:instagram": "castellodelbuonconsiglio",
     "contact:phone": "+39 0461 233770",
@@ -11564,9 +11552,194 @@
     "historic": "memorial",
     "memorial": "statue",
     "name": "San Giovanni Nepomuceno",
-    "subject:wikidata": "Q221522"
+    "subject:wikidata": "Q221522",
+    "wikimedia_commons": "File:Statua San Giovanni Nepomuceno Giustino.jpg"
+  }
+},
+{
+  "type": "node",
+  "id": 12348952481,
+  "lat": 46.0678700,
+  "lon": 11.1501198,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "First Race Car of E-Agle Trento Racing Team, Chimera Evoluzione",
+    "material": "carbon_fiber",
+    "memorial": "vehicle",
+    "name": "Chimera Evoluzione",
+    "website": "https://eagletrt.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 12367724257,
+  "lat": 46.0678200,
+  "lon": 11.1275792,
+  "tags": {
+    "historic": "memorial"
+  }
+},
+{
+  "type": "node",
+  "id": 12367744783,
+  "lat": 46.0686489,
+  "lon": 11.1280149,
+  "tags": {
+    "artwork_type": "sculpture",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 12367747148,
+  "lat": 46.0686926,
+  "lon": 11.1281062,
+  "tags": {
+    "artwork_type": "sculpture",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 12367750517,
+  "lat": 46.0686486,
+  "lon": 11.1280793,
+  "tags": {
+    "artwork_type": "sculpture",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 12367750518,
+  "lat": 46.0686919,
+  "lon": 11.1280116,
+  "tags": {
+    "artwork_type": "sculpture",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 12367753253,
+  "lat": 46.0687164,
+  "lon": 11.1280696,
+  "tags": {
+    "artwork_type": "sculpture",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 12385238036,
+  "lat": 46.0388276,
+  "lon": 11.1865181,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "plaque"
+  }
+},
+{
+  "type": "node",
+  "id": 12425691213,
+  "lat": 45.9325725,
+  "lon": 10.5740699,
+  "tags": {
+    "historic": "memorial",
+    "material": "granite",
+    "name": "Lupi di Toscana"
+  }
+},
+{
+  "type": "node",
+  "id": 12471058962,
+  "lat": 46.1652816,
+  "lon": 11.0593307,
+  "tags": {
+    "historic": "memorial",
+    "inscription": "In ricordo di Fedele Dauriz che tanto ha amato queste montagne 30-11-1958 / 07-12-2021",
+    "material": "metal",
+    "memorial": "sculpture",
+    "name": "Fedele Dauriz"
+  }
+},
+{
+  "type": "node",
+  "id": 12500322833,
+  "lat": 46.0535643,
+  "lon": 11.4546237,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "plaque"
+  }
+},
+{
+  "type": "node",
+  "id": 12500352424,
+  "lat": 46.0536309,
+  "lon": 11.4585362,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "plaque"
+  }
+},
+{
+  "type": "node",
+  "id": 12507293334,
+  "lat": 45.9738403,
+  "lon": 11.2875859,
+  "tags": {
+    "artwork_type": "statue",
+    "name": "Madonnina",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 12512030174,
+  "lat": 46.0530546,
+  "lon": 11.4631583,
+  "tags": {
+    "artist_name": "Arte Sella",
+    "artwork_type": "sculpture",
+    "survey:date": "2025-01-19",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 12512200415,
+  "lat": 46.0534287,
+  "lon": 11.4563727,
+  "tags": {
+    "historic": "memorial",
+    "memorial": "plaque"
+  }
+},
+{
+  "type": "node",
+  "id": 12513664070,
+  "lat": 46.0531838,
+  "lon": 11.4524225,
+  "tags": {
+    "artist_name": "Arte Sella",
+    "artwork_type": "sculpture",
+    "survey:date": "2025-01-19",
+    "tourism": "artwork"
+  }
+},
+{
+  "type": "node",
+  "id": 12518125399,
+  "lat": 46.2617841,
+  "lon": 11.7971929,
+  "tags": {
+    "artwork_type": "bust",
+    "name": "Cesare Battisti",
+    "tourism": "artwork"
   }
 }
 
   ]
 }
+

@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.1 084b4234",
+  "generator": "Overpass API 0.7.62.4 2390de5a",
   "osm3s": {
-    "timestamp_osm_base": "2024-11-13T15:00:56Z",
-    "timestamp_areas_base": "2024-11-13T11:53:03Z",
+    "timestamp_osm_base": "2025-01-28T18:23:40Z",
+    "timestamp_areas_base": "2025-01-28T11:43:44Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -1329,21 +1329,6 @@
 },
 {
   "type": "node",
-  "id": 4373902420,
-  "lat": 45.8713616,
-  "lon": 10.6912412,
-  "tags": {
-    "end_date": "1918",
-    "historic": "yes",
-    "man_made": "yes",
-    "military": "shelter",
-    "natural": "cave_entrance",
-    "start_date": "1915",
-    "survey:date": "2016-08-17"
-  }
-},
-{
-  "type": "node",
   "id": 4388840110,
   "lat": 46.0154788,
   "lon": 11.5618708,
@@ -2153,20 +2138,6 @@
   "tags": {
     "name": "Risorgiva di Val Noana",
     "natural": "cave_entrance"
-  }
-},
-{
-  "type": "node",
-  "id": 4398186501,
-  "lat": 46.0615597,
-  "lon": 10.4890941,
-  "tags": {
-    "end_date": "1918",
-    "historic": "yes",
-    "man_made": "cave",
-    "military": "shelter",
-    "natural": "cave_entrance",
-    "start_date": "1915"
   }
 },
 {
@@ -5310,7 +5281,59 @@
   "tags": {
     "natural": "cave_entrance"
   }
+},
+{
+  "type": "node",
+  "id": 12343577692,
+  "lat": 46.0314324,
+  "lon": 11.5582841,
+  "tags": {
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 12396413367,
+  "lat": 45.8666453,
+  "lon": 10.9694275,
+  "tags": {
+    "access": "no",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 12419203640,
+  "lat": 46.1393654,
+  "lon": 10.9014084,
+  "tags": {
+    "name": "Abisso del Laresot",
+    "natural": "cave_entrance",
+    "ref": "VT 1827",
+    "website": "https://webgis.provincia.tn.it/wgt/?lang=it&topic=14&bgLayer=orto2015&layers=ammcom,grotte&layers_visibility=false,true&X=5111233.20&Y=646530.58&zoom=7&catalogNodes=46&showTooltip=true&layer=grotte&feature=GRT003_1827"
+  }
+},
+{
+  "type": "node",
+  "id": 12531973580,
+  "lat": 45.8904890,
+  "lon": 10.7192354,
+  "tags": {
+    "name": "Osservatorio colonnello Orso",
+    "natural": "cave_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 12535936803,
+  "lat": 46.2069321,
+  "lon": 10.9194848,
+  "tags": {
+    "name": "Livable cave during heatwaves.",
+    "natural": "cave_entrance"
+  }
 }
 
   ]
 }
+

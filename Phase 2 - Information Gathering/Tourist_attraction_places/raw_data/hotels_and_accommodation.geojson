@@ -1,9 +1,9 @@
 {
   "version": 0.6,
-  "generator": "Overpass API 0.7.62.1 084b4234",
+  "generator": "Overpass API 0.7.62.4 2390de5a",
   "osm3s": {
-    "timestamp_osm_base": "2024-11-13T15:01:59Z",
-    "timestamp_areas_base": "2024-11-13T11:53:03Z",
+    "timestamp_osm_base": "2025-01-28T18:26:45Z",
+    "timestamp_areas_base": "2025-01-28T11:43:44Z",
     "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
   },
   "elements": [
@@ -80,6 +80,7 @@
   "lat": 46.0939600,
   "lon": 11.2339457,
   "tags": {
+    "check_date": "2024-12-26",
     "name": "Albergo Comparsa",
     "tourism": "hotel"
   }
@@ -450,7 +451,7 @@
     "addr:postcode": "38020",
     "addr:street": "Via per Marilleva",
     "email": "1400@th-resorts.com",
-    "name": "TH Marilleva 1400",
+    "name": "TH 1400",
     "phone": "(+39) 0463796544",
     "stars": "3",
     "tourism": "hotel",
@@ -605,7 +606,8 @@
   "lon": 11.8366209,
   "tags": {
     "name": "Castel Pietra",
-    "tourism": "hotel"
+    "tourism": "hotel",
+    "wikidata": "Q111413073"
   }
 },
 {
@@ -886,9 +888,14 @@
   "lat": 46.4863470,
   "lon": 11.8002850,
   "tags": {
+    "addr:housenumber": "126",
+    "addr:postcode": "38036",
+    "addr:street": "Strada del Pordoi",
+    "internet_access": "wlan",
     "name": "Hotel Pordoi",
+    "self_service": "no",
     "tourism": "hotel",
-    "website": "http://www.hotelpordoi.eu/"
+    "website": "http://www.hotelpordoi.eu"
   }
 },
 {
@@ -1063,7 +1070,8 @@
     "addr:city": "Cavedago",
     "addr:housenumber": "6",
     "addr:postcode": "38010",
-    "addr:street": "Via della Viola",
+    "addr:street": "Via della viola",
+    "contact:website": "https://www.albergoauroracavedago.com/index.php/it/",
     "name": "Albergo Aurora",
     "stars": "3",
     "tourism": "hotel"
@@ -1674,7 +1682,8 @@
   "lon": 11.8031560,
   "tags": {
     "name": "Hotel Des Alpes",
-    "tourism": "hotel"
+    "tourism": "hotel",
+    "wikidata": "Q111413106"
   }
 },
 {
@@ -5772,10 +5781,11 @@
     "addr:housenumber": "60/62",
     "addr:postcode": "38025",
     "addr:street": "Via dei Monti Alti",
-    "name": "Vime Nevesole Folgarida",
-    "phone": "+39 0463 988111",
+    "contact:email": "info@nevesolefolgaridaresort.com",
+    "contact:phone": "+39 0463 988111",
+    "name": "Nevesole Folgarida Resort Aparthotel",
     "tourism": "hotel",
-    "website": "http://www.rtanevesole.com/"
+    "website": "https://www.nevesolefolgaridaresort.com/"
   }
 },
 {
@@ -6677,8 +6687,8 @@
 {
   "type": "node",
   "id": 5729955413,
-  "lat": 45.9856689,
-  "lon": 10.6614615,
+  "lat": 45.9855832,
+  "lon": 10.6616278,
   "tags": {
     "name": "Miramonti Hotel",
     "tourism": "hotel"
@@ -8265,8 +8275,8 @@
 {
   "type": "node",
   "id": 9142136107,
-  "lat": 46.1619789,
-  "lon": 11.1128889,
+  "lat": 46.1620049,
+  "lon": 11.1129425,
   "tags": {
     "addr:city": "Lavis",
     "addr:country": "IT",
@@ -8458,14 +8468,9 @@
     "addr:housenumber": "39",
     "addr:postcode": "38066",
     "addr:street": "Località San Tomaso",
-    "amenity": "restaurant",
-    "cuisine": "italian;pizza;regional",
     "email": "info@albergorolly.it",
     "image": "https://www.albergorolly.it/assets/images/albergorolly_logo.png",
-    "indoor_seating": "yes",
-    "internet_access": "wlan",
-    "name": "Albergo Rolly;Ristorante Pizzeria Rolly",
-    "outdoor_seating": "no",
+    "name": "Hotel Rolly",
     "phone": "+39 0464 553370",
     "tourism": "hotel",
     "website": "https://www.albergorolly.it/"
@@ -10606,7 +10611,8 @@
     "ref:vatin": "IT01331040228",
     "restaurant": "yes",
     "tourism": "hotel",
-    "website": "https://www.villamadruzzo.com/"
+    "website": "https://www.villamadruzzo.com/",
+    "wikidata": "Q111413019"
   }
 },
 {
@@ -10638,15 +10644,6 @@
     "phone": "+393387711307;+393358754925",
     "tourism": "hotel",
     "website": "https://www.palazzolodronbertelli.it/"
-  }
-},
-{
-  "type": "node",
-  "id": 11188230422,
-  "lat": 45.7431195,
-  "lon": 10.9685685,
-  "tags": {
-    "tourism": "caravan_site"
   }
 },
 {
@@ -11322,7 +11319,1056 @@
     "name": "B&B Angela",
     "tourism": "guest_house"
   }
+},
+{
+  "type": "node",
+  "id": 12347731210,
+  "lat": 46.4287906,
+  "lon": 11.1555621,
+  "tags": {
+    "name": "Hotel Regina del Bosco",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12389967734,
+  "lat": 46.0300585,
+  "lon": 10.9245489,
+  "tags": {
+    "alt_name": "Rifugio Don Vittorio Pisoni",
+    "capacity": "16",
+    "contact:website": "https://www.sat.tn.it/rifugio-don-zio-pisoni-al-monte-casale/",
+    "ele": "1590",
+    "email": "rifugiodonziopisoni@gmail.com",
+    "fee": "yes",
+    "internet_access": "no",
+    "name": "Rifugio Don Zio Pisoni",
+    "opening_hours": "Jun-Sep",
+    "operator": "Società degli Alpinisti Tridentini",
+    "phone": "+39 3453094967",
+    "shower": "no",
+    "tourism": "alpine_hut",
+    "winter_room": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12430843295,
+  "lat": 46.2376308,
+  "lon": 10.8194423,
+  "tags": {
+    "amenity": "restaurant",
+    "name": "Super G Italian Mountain Club - Campiglio",
+    "tourism": "alpine_hut"
+  }
+},
+{
+  "type": "node",
+  "id": 12446955093,
+  "lat": 45.9063501,
+  "lon": 11.1856994,
+  "tags": {
+    "addr:city": "Folgaria",
+    "addr:housenumber": "32",
+    "addr:place": "Francolini",
+    "addr:postcode": "38064",
+    "email": "info@hotelseggioviafolgaria.it",
+    "name": "Hotel Seggiovia",
+    "operator": "Port Roberto & C. sas",
+    "phone": "+39 0464/721179",
+    "source": "nuovi edifici PCN ortofoto_colore 2006 - autorizzazione 10687/TRI",
+    "stars": "3",
+    "start_date": "1950",
+    "tourism": "hotel",
+    "website": "https://www.hotelseggioviafolgaria.it/"
+  }
+},
+{
+  "type": "node",
+  "id": 12500373821,
+  "lat": 46.0537237,
+  "lon": 11.4588600,
+  "tags": {
+    "name": "La Casa sul Brenta",
+    "tourism": "guest_house",
+    "wheelchair": "no"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103662,
+  "lat": 46.1619626,
+  "lon": 11.0021109,
+  "tags": {
+    "contact:email": "residence.2000@tin.it",
+    "contact:fax": "+39 0461 589221",
+    "contact:phone": "+39 0461 585711",
+    "contact:website": "https://residence2000.it/it/",
+    "name": "Residence 2000",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103663,
+  "lat": 46.1621915,
+  "lon": 11.0022616,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "2",
+    "addr:postcode": "38010",
+    "addr:street": "Via Laghet",
+    "contact:email": "info@htlcontinental.it",
+    "contact:fax": "+39 0461 585815",
+    "contact:phone": "+39 0461 585689",
+    "contact:website": "http://www.htlcontinental.it/",
+    "name": "Hotel Continental",
+    "ref:vatin": "IT00639520220",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103664,
+  "lat": 46.1641188,
+  "lon": 11.0013496,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housename": "Residence Alba Nova",
+    "addr:housenumber": "7",
+    "addr:postcode": "38010",
+    "addr:street": "Via Dossi",
+    "contact:email": "info@albanova.info",
+    "contact:fax": "+39 0461 585845",
+    "contact:phone": "+39 0461 585884",
+    "contact:website": "http://www.albanova.info/",
+    "name": "Residence Alba Nova",
+    "ref:vatin": "IT01813830229",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103665,
+  "lat": 46.1642801,
+  "lon": 11.0007701,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "4",
+    "addr:postcode": "38010",
+    "addr:street": "Via Le Val",
+    "contact:email": "info@pierhotel.net",
+    "contact:fax": "+39 0461 585965",
+    "contact:phone": "+39 0461 585784",
+    "contact:website": "http://www.pierhotel.net/",
+    "name": "Hotel Pier",
+    "ref:vatin": "IT00182510222",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103666,
+  "lat": 46.1638531,
+  "lon": 11.0015198,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "2",
+    "addr:postcode": "38010",
+    "addr:street": "Via Le Val",
+    "contact:email": "info@basshotelandalo.com",
+    "contact:fax": "+39 0461 585482",
+    "contact:phone": "+39 0461 585560",
+    "contact:website": "http://www.basshotelandalo.com/",
+    "name": "Hotel Bass",
+    "operator": "Ghezzi Arturo",
+    "ref:vatin": "IT01671670220",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103668,
+  "lat": 46.1636178,
+  "lon": 11.0006598,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "16",
+    "addr:postcode": "38010",
+    "addr:street": "Via Ponte Lambin",
+    "contact:email": "info@hoteldianaandalo.com",
+    "contact:fax": "+39 0461 585336",
+    "contact:phone": "+39 0461 585733",
+    "contact:website": "http://www.hoteldianaandalo.com/",
+    "name": "Hotel Diana",
+    "operator": "Ghezzi Arturo",
+    "ref:vatin": "IT01671670220",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103670,
+  "lat": 46.1633008,
+  "lon": 11.0015591,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:postcode": "38010",
+    "addr:street": "Via Ponte Lambin",
+    "contact:email": "info@larocciaandalo.it",
+    "contact:fax": "+39 0461 589072",
+    "contact:phone": "+39 0461 585767",
+    "contact:website": "http://www.larocciaandalo.it/",
+    "name": "Hotel Garnì La Roccia",
+    "stars": "4",
+    "tourism": "hotel",
+    "wikidata": "Q111413097"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103671,
+  "lat": 46.1647634,
+  "lon": 11.0017132,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "7",
+    "addr:postcode": "38010",
+    "addr:street": "Via Dossi",
+    "contact:email": "info@hselect.it",
+    "contact:fax": "+39 0461 585845",
+    "contact:phone": "+39 0461 585884",
+    "contact:website": "http://www.hselect.it/",
+    "name": "Hotel Select",
+    "ref:vatin": "IT01050600228",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103672,
+  "lat": 46.1646983,
+  "lon": 11.0038577,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "12",
+    "addr:postcode": "38010",
+    "addr:street": "Via don Faustino Tenaglia",
+    "contact:email": "info@hotelbottamedi.it",
+    "contact:fax": "+39 0461 589599",
+    "contact:phone": "+39 0461 585831",
+    "contact:website": "http://www.hotelbottamedi.it/",
+    "name": "Hotel Alia Bianca Active & Family",
+    "ref:vatin": "IT01373740222",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103673,
+  "lat": 46.1644146,
+  "lon": 11.0042687,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "1",
+    "addr:postcode": "38010",
+    "addr:street": "Via Paganella",
+    "contact:email": "info@hotelpaganella.com",
+    "contact:fax": "+39 0461 589259",
+    "contact:phone": "+39 0461 585844",
+    "contact:website": "http://www.hotelpaganella.com/",
+    "name": "Hotel Paganella",
+    "ref:vatin": "IT01293200224",
+    "stars": "3S",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103675,
+  "lat": 46.1643768,
+  "lon": 11.0059550,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "7",
+    "addr:postcode": "38010",
+    "addr:street": "Via Paganella",
+    "contact:email": "hotelandalo@13maggio.com",
+    "contact:fax": "+39 0461 585893",
+    "contact:phone": "+39 0461 585849",
+    "contact:website": "http://www.hotel-andalo.info/",
+    "name": "Hotel Andalo",
+    "ref:vatin": "IT00415160431",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103676,
+  "lat": 46.1637630,
+  "lon": 11.0049313,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "2",
+    "addr:postcode": "38010",
+    "addr:street": "Via Rindole",
+    "contact:email": "info@k2andalo.it",
+    "contact:phone": "+39 0461 585880",
+    "contact:website": "http://www.k2andalo.it/",
+    "name": "Hotel K2",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103677,
+  "lat": 46.1634927,
+  "lon": 11.0050703,
+  "tags": {
+    "contact:email": "info@hotelsassdeiandalo.it",
+    "contact:phone": "+39 0461 585421",
+    "contact:website": "www.hotelsassdeiandalo.it",
+    "name": "Sassdei My Active Suite Hotel",
+    "stars": "4",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103678,
+  "lat": 46.1638152,
+  "lon": 11.0064046,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "1",
+    "addr:postcode": "38010",
+    "addr:street": "Via Rindole",
+    "contact:email": "info@hotelcristalloandalo.com",
+    "contact:fax": "+39 0461 585970",
+    "contact:phone": "+39 0461 585744",
+    "contact:website": "http://www.hotelcristalloandalo.com/",
+    "name": "Hotel Cristallo",
+    "ref:vatin": "IT00162860225",
+    "stars": "3",
+    "tourism": "hotel",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103679,
+  "lat": 46.1649632,
+  "lon": 11.0061623,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "11",
+    "addr:postcode": "38010",
+    "addr:street": "Via Paganella",
+    "contact:email": "info@hotelnordik.com",
+    "contact:fax": "+39 0461 585301",
+    "contact:phone": "+39 0461 585879",
+    "contact:website": "http://www.hotelnordik.com/",
+    "name": "Hotel Nordik",
+    "ref:vatin": "IT01375680228",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103680,
+  "lat": 46.1661678,
+  "lon": 11.0054281,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "9",
+    "addr:postcode": "38010",
+    "addr:street": "Via don Faustino Tenaglia",
+    "contact:email": "info@hotelcavallino.com",
+    "contact:fax": "+39 0461 585222",
+    "contact:phone": "+39 0461 585701",
+    "contact:website": "http://www.hotelcavallino.com/",
+    "internet_access": "yes",
+    "name": "Hotel Cavallino Lovely Hotel",
+    "ref:vatin": "IT00136250222",
+    "stars": "4",
+    "tourism": "hotel",
+    "wikidata": "Q111413099"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103682,
+  "lat": 46.1665008,
+  "lon": 11.0037503,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "12",
+    "addr:postcode": "38010",
+    "addr:street": "Viale Trento",
+    "contact:email": "info@ghezzihotel.com",
+    "contact:fax": "+39 0461 589571",
+    "contact:phone": "+39 0461 585803",
+    "contact:website": "http://www.ghezzihotel.com/",
+    "name": "Hotel Ghezzi",
+    "ref:vatin": "IT01475790224",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103683,
+  "lat": 46.1655120,
+  "lon": 11.0024760,
+  "tags": {
+    "name": "Park Hotel Sport - Andalo",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103684,
+  "lat": 46.1654609,
+  "lon": 11.0020228,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "4",
+    "addr:postcode": "38010",
+    "addr:street": "Via Dossi",
+    "contact:email": "info@hoteldalbon.com",
+    "contact:fax": "+39 0461 585910",
+    "contact:phone": "+39 0461 585839",
+    "contact:website": "http://www.hoteldalbon.com/",
+    "name": "Hotel Dal Bon",
+    "phone": "+39 0461 585839",
+    "ref:vatin": "IT00415330224",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "http://www.hoteldalbon.com/"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103685,
+  "lat": 46.1658562,
+  "lon": 11.0015487,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "11a",
+    "addr:postcode": "38010",
+    "addr:street": "Via Crosare",
+    "contact:email": "info@residencelambin.it",
+    "contact:fax": "+39 0461 589501",
+    "contact:phone": "+39 0461 589173",
+    "contact:website": "http://www.residencelambin.it/",
+    "name": "Residence Lambin",
+    "ref:vatin": "IT02051070221",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103686,
+  "lat": 46.1661696,
+  "lon": 11.0013562,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "11",
+    "addr:postcode": "38010",
+    "addr:street": "Via Crosare",
+    "contact:email": "info@hotelrosaalpina.com",
+    "contact:fax": "+39 0461 585204",
+    "contact:phone": "+39 0461 585874",
+    "contact:website": "http://www.hotelrosaalpina.com/",
+    "name": "Hotel Rosa Alpina",
+    "ref:vatin": "IT02021350224",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103687,
+  "lat": 46.1662228,
+  "lon": 11.0023246,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "7",
+    "addr:postcode": "38010",
+    "addr:street": "Via Crosare",
+    "contact:email": "info@astoria-andalo.com",
+    "contact:fax": "+39 0461 585709",
+    "contact:phone": "+39 0461 585846",
+    "contact:website": "http://www.astoria-andalo.com/",
+    "name": "Astoria Comfort Hotel",
+    "ref:vatin": "IT00323940221",
+    "stars": "3S",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103688,
+  "lat": 46.1665939,
+  "lon": 11.0027392,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "2",
+    "addr:postcode": "38010",
+    "addr:street": "Via Priori",
+    "contact:email": "info@hotelstellaalpina.net",
+    "contact:fax": "+39 0461 585429",
+    "contact:phone": "+39 0461 585835",
+    "contact:website": "http://www.hotelstellaalpina.net/",
+    "name": "Hotel Stella Alpina",
+    "ref:vatin": "IT02212470229",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103689,
+  "lat": 46.1677539,
+  "lon": 11.0026956,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "8",
+    "addr:postcode": "38010",
+    "addr:street": "Via Priori",
+    "contact:email": "info@hotelambiez.com",
+    "contact:fax": "+39 0461 585343",
+    "contact:phone": "+39 0461 585556",
+    "contact:website": "http://www.hotelambiez.com/",
+    "name": "Ambiez Suite Hotel",
+    "ref:vatin": "IT00607590221",
+    "stars": "4",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103690,
+  "lat": 46.1678363,
+  "lon": 11.0020461,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:postcode": "38010",
+    "addr:street": "Via Priori",
+    "contact:email": "alpino@alpinofamily.it",
+    "contact:fax": "+39 0461 585303",
+    "contact:phone": "+39 0461 585946",
+    "contact:website": "http://www.alpinofamily.it/",
+    "name": "Alpino Family Hotel",
+    "ref:vatin": "IT00429230220",
+    "stars": "3S",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103691,
+  "lat": 46.1676094,
+  "lon": 11.0037257,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "11",
+    "addr:postcode": "38010",
+    "addr:street": "Viale Trento",
+    "contact:email": "info@hotellabussola.com",
+    "contact:fax": "+39 0461 589099",
+    "contact:phone": "+39 0461 585888",
+    "contact:website": "http://www.hotellabussola.com/",
+    "name": "Hotel La Bussola",
+    "ref:vatin": "IT01331900223",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103692,
+  "lat": 46.1673124,
+  "lon": 11.0030555,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:housenumber": "5",
+    "addr:postcode": "38010",
+    "addr:street": "Viale Trento",
+    "contact:email": "info@hotelalplan.com",
+    "contact:phone": "+39 0461 585962",
+    "contact:website": "http://www.hotelalplan.com/",
+    "name": "Hotel Al Plan",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103693,
+  "lat": 46.1675771,
+  "lon": 11.0014205,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "1",
+    "addr:postcode": "38010",
+    "addr:street": "Via del Moro",
+    "contact:email": "info@hoteldolceavita.it",
+    "contact:fax": "+39 0461 585980",
+    "contact:phone": "+39 0461 585912",
+    "contact:website": "http://www.hoteldolceavita.it/",
+    "name": "Dolce Avita",
+    "ref:vatin": "IT00829780220",
+    "stars": "4",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103694,
+  "lat": 46.1671254,
+  "lon": 10.9993035,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "2",
+    "addr:postcode": "38010",
+    "addr:street": "Via Pegorar",
+    "contact:email": "piccolo@piccolo.it",
+    "contact:fax": "+39 0461 585436",
+    "contact:phone": "+39 0461 585710",
+    "contact:website": "http://www.piccolo.it/",
+    "name": "Piccolo Hotel",
+    "operator": "Famiglia Viola",
+    "ref:vatin": "IT00672270220",
+    "stars": "4",
+    "tourism": "hotel",
+    "wikidata": "Q111413103"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103697,
+  "lat": 46.1710492,
+  "lon": 11.0073916,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "19",
+    "addr:postcode": "38010",
+    "addr:street": "Viale Trento",
+    "contact:email": "info@gardenandalo.com",
+    "contact:fax": "+39 0461 589753",
+    "contact:phone": "+39 0461 585870",
+    "contact:website": "http://www.gardenandalo.com/",
+    "name": "Garden",
+    "ref:vatin": "IT01232560225",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103700,
+  "lat": 46.1684718,
+  "lon": 11.0023280,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:postcode": "38010",
+    "addr:street": "Via Priori",
+    "contact:email": "info@hotelnegrescoandalo.it",
+    "contact:fax": "+39 0461 589480",
+    "contact:phone": "+39 0461 585555",
+    "contact:website": "http://www.hotelnegrescoandalo.it/",
+    "name": "Hotel Negresco",
+    "ref:vatin": "IT01034330223",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103801,
+  "lat": 46.1681751,
+  "lon": 11.0030453,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:postcode": "38010",
+    "addr:street": "Via Priori",
+    "contact:email": "hotelfiordaliso@tin.it",
+    "contact:fax": "+39 0461 589027",
+    "contact:phone": "+39 0461 589027",
+    "contact:website": "http://www.hotelfiordaliso.com/",
+    "name": "Hotel Garnì Fiordaliso",
+    "operator": "Famiglia Rigotti",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103802,
+  "lat": 46.1668690,
+  "lon": 11.0074323,
+  "tags": {
+    "name": "Hotel Angelo",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103803,
+  "lat": 46.1680525,
+  "lon": 11.0075783,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "15",
+    "addr:postcode": "38010",
+    "addr:street": "Via San Rocco",
+    "contact:email": "info@hotelalpen.it",
+    "contact:fax": "+39 0461 585687",
+    "contact:phone": "+39 0461 585780",
+    "contact:website": "http://www.hotelalpen.it/",
+    "name": "Hotel Alpen",
+    "ref:vatin": "IT00631290228",
+    "stars": "3S",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103804,
+  "lat": 46.1674104,
+  "lon": 11.0085052,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "1",
+    "addr:postcode": "38010",
+    "addr:street": "Via Strigole",
+    "contact:email": "info@gruppobrenta.it",
+    "contact:fax": "+39 0461 585269",
+    "contact:phone": "+39 0461 585813",
+    "contact:website": "http://www.gruppobrenta.it/",
+    "name": "Hotel Gruppo Brenta",
+    "ref:vatin": "IT01998100224",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103805,
+  "lat": 46.1667287,
+  "lon": 11.0101357,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:housenumber": "4",
+    "addr:postcode": "38010",
+    "addr:street": "Via Roni",
+    "name": "Hotel Costaverde \"ai Roni\"",
+    "smoking": "outside",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103806,
+  "lat": 46.1662723,
+  "lon": 11.0096802,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "6",
+    "addr:postcode": "38010",
+    "addr:street": "Via Strigole",
+    "contact:email": "info@hotelpiancastello.com",
+    "contact:fax": "+39 0461 585624",
+    "contact:phone": "+39 0461-585609",
+    "contact:website": "http://www.hotelpiancastello.com/",
+    "name": "Hotel Pian Castello",
+    "ref:vatin": "IT01575130222",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534103807,
+  "lat": 46.1627415,
+  "lon": 11.0083385,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "1",
+    "addr:postcode": "38010",
+    "addr:street": "Via Monego",
+    "contact:email": "info@hotelbaita.it",
+    "contact:fax": "+39 0461 589878",
+    "contact:mobile": "+39 339 7370227",
+    "contact:phone": "+39 0461 585841",
+    "contact:website": "http://www.hotelbaita.it/",
+    "name": "Hotel La Baita",
+    "ref:vatin": "IT00223390220",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534385763,
+  "lat": 46.1667220,
+  "lon": 11.0007393,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "20",
+    "addr:postcode": "38010",
+    "addr:street": "Via Crosare",
+    "contact:email": "info@allozodiaco.com",
+    "contact:phone": "+390461585667",
+    "contact:website": "www.allozodiaco.com",
+    "description": "Hotel 3 Stelle situato in posizione privilegiata, a pochi passi dal centro, nelle immediate vicinanze dell'attrezzatissima zona Parco/Sportiva e a 5 minuti dagli impianti sciistici",
+    "email": "info@allozodiaco.com",
+    "internet_access": "wlan",
+    "internet_access:ssid": "ZodiacoWiFi",
+    "name": "Hotel Allo zodiaco",
+    "phone": "+39 0461 585667",
+    "stars": "3",
+    "tourism": "hotel",
+    "website": "https://www.allozodiaco.com",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 12534798828,
+  "lat": 46.1668345,
+  "lon": 11.0069385,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:housenumber": "25",
+    "addr:postcode": "38010",
+    "addr:street": "Via Paganella",
+    "name": "Hotel Eden Family & Wellness Resort",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534798830,
+  "lat": 46.1634567,
+  "lon": 11.0028721,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:street": "Piazza Dolomiti",
+    "contact:email": "info@hotelirisandalo.it",
+    "contact:fax": "+39 0461 589508",
+    "contact:phone": "+39 0461 585800",
+    "name": "Hotel Iris",
+    "ref:vatin": "IT01667120222",
+    "stars": "3",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534798833,
+  "lat": 46.1650041,
+  "lon": 11.0010327,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "8",
+    "addr:postcode": "38010",
+    "addr:street": "Via Dossi",
+    "contact:email": "info@alphotelmilano.it",
+    "contact:fax": "+39 0461 585378",
+    "contact:phone": "+39 0461 585731",
+    "contact:website": "http://www.alphotelmilano.it/",
+    "name": "Alp Hotel Milano",
+    "ref:vatin": "IT01952340220",
+    "stars": "3S",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534798834,
+  "lat": 46.1630661,
+  "lon": 11.0032754,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housename": "Residence Cime d'Oro",
+    "addr:housenumber": "26",
+    "addr:postcode": "38010",
+    "addr:street": "Via Perli",
+    "contact:email": "info@residencecimedoro.it",
+    "contact:mobile": "+39 340 965 7433",
+    "contact:phone": "+39 0461 585615",
+    "contact:website": "http://www.residencecimedoro.it/",
+    "name": "Residence Cime d'Oro",
+    "ref:vatin": "IT02049950229",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534798835,
+  "lat": 46.1651660,
+  "lon": 11.0038535,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "2",
+    "addr:postcode": "38010",
+    "addr:street": "Piazza Centrale",
+    "contact:email": "info@adlerhotel.it",
+    "contact:fax": "+39 0461 585855",
+    "contact:phone": "+39 0461 585828",
+    "contact:website": "http://www.adlerhotel.it/",
+    "name": "Hotel Adler",
+    "ref:vatin": "IT01043980224",
+    "stars": "4",
+    "tourism": "hotel",
+    "wikidata": "Q111413098"
+  }
+},
+{
+  "type": "node",
+  "id": 12534798836,
+  "lat": 46.1645210,
+  "lon": 10.9876695,
+  "tags": {
+    "name": "Pian dei Sarnacli",
+    "tourism": "chalet"
+  }
+},
+{
+  "type": "node",
+  "id": 12534798837,
+  "lat": 46.1659044,
+  "lon": 10.9998463,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "15",
+    "addr:postcode": "38010",
+    "addr:street": "Via Crosare",
+    "contact:email": "info@hotelserena.it",
+    "contact:fax": "+39 0461 585702",
+    "contact:phone": "+39 0461 585727",
+    "contact:website": "http://www.hotelserena.it/",
+    "name": "Hotel Serena",
+    "ref:vatin": "IT01293680227",
+    "stars": "3S",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534798839,
+  "lat": 46.1646959,
+  "lon": 11.0026070,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:housenumber": "1",
+    "addr:postcode": "38010",
+    "addr:street": "Via Dossi",
+    "contact:email": "info@pizgalin.it",
+    "contact:phone": "+39 0461 585837",
+    "contact:website": "https://www.pizgalin.it/",
+    "name": "Grand Hotel Piz Galin",
+    "stars": "4S",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534798840,
+  "lat": 46.1658903,
+  "lon": 11.0086492,
+  "tags": {
+    "email": "info@splendidhotelandalo.it",
+    "name": "Hotel Splendid",
+    "phone": "+39 0461 585777",
+    "tourism": "hotel"
+  }
+},
+{
+  "type": "node",
+  "id": 12534798842,
+  "lat": 46.1652618,
+  "lon": 11.0016259,
+  "tags": {
+    "addr:city": "Andalo",
+    "addr:country": "IT",
+    "addr:housenumber": "6",
+    "addr:postcode": "38010",
+    "addr:street": "Via Dossi",
+    "contact:email": "info@coronadolomiteshotel.com",
+    "contact:fax": "+39 0461 585479",
+    "contact:mobile": "+39 335 608 4571",
+    "contact:phone": "+39 0461 585872",
+    "contact:website": "https://www.coronadolomiteshotel.com/",
+    "email": "info@coronadolomiteshotel.com",
+    "internet_access": "wlan",
+    "internet_access:fee": "no",
+    "level": "4",
+    "name": "Corona Dolomites Hotel",
+    "operator": "Pancher Anna & C. S.a.s.",
+    "payment:american_express": "yes",
+    "payment:cash": "yes",
+    "payment:maestro": "yes",
+    "payment:mastercard": "yes",
+    "payment:visa": "yes",
+    "payment:visa_electron": "yes",
+    "phone": "+39 0461 186 0322",
+    "ref:vatin": "IT02098020221",
+    "rooms": "43",
+    "smoking": "no",
+    "stars": "4S",
+    "tourism": "hotel",
+    "website": "https://www.coronadolomiteshotel.com",
+    "wheelchair": "yes"
+  }
 }
 
   ]
 }
+

@@ -1,8 +1,8 @@
 [out:json];
-area["name"="Trento"]["ref:ISTAT"=022205]["boundary"="administrative"]->.searchArea;
+area["name"="Provincia di Trento"]["boundary"="administrative"]["admin_level"="6"]->.searchArea;
 
 (
-  
+
   // Peaks and Viewpoints
   node["natural"="peak"](area.searchArea);
   node["tourism"="viewpoint"](area.searchArea);
@@ -14,7 +14,6 @@ area["name"="Trento"]["ref:ISTAT"=022205]["boundary"="administrative"]->.searchA
 
   // Nature Reserves and Forests
   relation["boundary"="protected_area"]["protect_class"](area.searchArea);
-  way["natural"="wood"](area.searchArea);
   way["landuse"="forest"](area.searchArea);
 
   // Beaches
@@ -72,4 +71,6 @@ area["name"="Trento"]["ref:ISTAT"=022205]["boundary"="administrative"]->.searchA
   node["natural"="spring"](area.searchArea);
 );
 
+out geom;
+>;
 out geom;

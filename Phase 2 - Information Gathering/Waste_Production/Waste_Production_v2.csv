@@ -1,4 +1,4 @@
-,Municipality,ref: ISTAT,year,Waste type,Quantity,category
+ID,Municipality,ref: ISTAT,year,Waste type,Quantity,category
 0,22001.0,4022001,2014,Organic Fraction (t),"895,404",1.0
 1,22002.0,4022002,2014,Organic Fraction (t),"132,804",1.0
 2,22003.0,4022003,2014,Organic Fraction (t),"325,938",1.0

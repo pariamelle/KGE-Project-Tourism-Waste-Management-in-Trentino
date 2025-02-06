@@ -1,0 +1,619 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="urn:webprotege:ontology:1e43ab15-7df0-455e-958b-bc1cd686ae36#"
+     xml:base="urn:webprotege:ontology:1e43ab15-7df0-455e-958b-bc1cd686ae36"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:etype="http://knowdive.disi.unitn.it/etype#">
+    <owl:Ontology rdf:about="urn:webprotege:ontology:1e43ab15-7df0-455e-958b-bc1cd686ae36"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#isEtype -->
+
+    <owl:AnnotationProperty rdf:about="http://knowdive.disi.unitn.it/etype#isEtype">
+        <rdfs:label>isEtype</rdfs:label>
+        <xsd:boolean rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</xsd:boolean>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#isType -->
+
+    <owl:AnnotationProperty rdf:about="http://knowdive.disi.unitn.it/etype#isType">
+        <rdfs:label>isType</rdfs:label>
+    </owl:AnnotationProperty>
+    
+
+
+    <!-- http://www.w3.org/2001/XMLSchema#boolean -->
+
+    <owl:AnnotationProperty rdf:about="http://www.w3.org/2001/XMLSchema#boolean"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Category_of -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#Category_of">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Waste"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#WasteProduction"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#WasteDisposalType"/>
+        <rdfs:label xml:lang="en">Category_of</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Disposes -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#Disposes">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#WasteBasket"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#WasteDisposalType"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#WasteBasket"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#WasteDisposalType"/>
+        <rdfs:label xml:lang="en">Disposes</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Generated_by -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#Generated_by">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#WasteProduction"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Municipality"/>
+        <rdfs:label xml:lang="en">Generated_by</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Generates -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#Generates">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Person"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Waste"/>
+        <rdfs:label xml:lang="en">Generates</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Is_in -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#Is_in">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Location"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#WasteBasket"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Municipality"/>
+        <rdfs:label xml:lang="en">Is_in</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Lives_in -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#Lives_in">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Person"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Location"/>
+        <rdfs:label xml:lang="en">Lives_in</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Located_in -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#Located_in">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#TouristAttraction"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Location"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#Municipality"/>
+        <rdfs:label xml:lang="en">Located_in</rdfs:label>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Owns -->
+
+    <owl:ObjectProperty rdf:about="http://knowdive.disi.unitn.it/etype#Owns">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topObjectProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Person"/>
+        <rdfs:range rdf:resource="http://knowdive.disi.unitn.it/etype#TouristAttraction"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_ISTAT -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_ISTAT">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#WasteProduction"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#positiveInteger"/>
+        <rdfs:label xml:lang="en">has_ISTAT</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_address -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_address">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#TouristAttraction"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">has_address</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_amenity -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_amenity">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#WasteBasket"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">has_amenity</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_city -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_city">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Location"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">has_city</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_contact_info -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_contact_info">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#TouristAttraction"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#positiveInteger"/>
+        <rdfs:label xml:lang="en">has_contact_info</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_country -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_country">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Location"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">has_country</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_date_of_birth -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_date_of_birth">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Person"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTimeStamp"/>
+        <rdfs:label xml:lang="en">has_date_of_birth</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_description -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_description">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#TouristAttraction"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#WasteDisposalType"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">has_description</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_details -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_details">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#TouristAttraction"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">has_details</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_disposal_method -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_disposal_method">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Waste"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#WasteProduction"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">has_disposal_method</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_geometry -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_geometry">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Location"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Municipality"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#TouristAttraction"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#WasteBasket"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">has_geometry</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_id -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_id">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Location"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Municipality"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Person"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#TouristAttraction"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Waste"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#WasteBasket"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#WasteDisposalType"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#WasteProduction"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#anyURI"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">has_id</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_latitude -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_latitude">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#TouristAttraction"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+        <rdfs:label xml:lang="en">has_latitude</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_longitude -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_longitude">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#TouristAttraction"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+        <rdfs:label xml:lang="en">has_longitude</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_name -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_name">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Location"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Municipality"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Person"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Place"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#TouristAttraction"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Waste"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#WasteDisposalType"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">has_name</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_notes -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_notes">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Waste"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">has_notes</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_population -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_population">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Municipality"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+        <rdfs:label xml:lang="en">has_population</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_postcode -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_postcode">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Location"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">has_postcode</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_quantity -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_quantity">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#WasteProduction"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#float"/>
+        <rdfs:label xml:lang="en">has_quantity</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_recycling_type -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_recycling_type">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">has_recycling_type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_role -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_role">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Person"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">has_role</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_street -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_street">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Location"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">has_street</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_surname -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_surname">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#Person"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">has_surname</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_type -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_type">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#TouristAttraction"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+        <rdfs:label xml:lang="en">has_type</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#has_year -->
+
+    <owl:DatatypeProperty rdf:about="http://knowdive.disi.unitn.it/etype#has_year">
+        <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2002/07/owl#topDataProperty"/>
+        <rdfs:domain rdf:resource="http://knowdive.disi.unitn.it/etype#WasteProduction"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+        <rdfs:label xml:lang="en">has_year</rdfs:label>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#CivicStructure -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#CivicStructure">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#TouristAttraction"/>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <rdfs:label xml:lang="en-gb">CivicStructure</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#CreativeWork -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#CreativeWork">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#TouristAttraction"/>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <rdfs:label xml:lang="en-gb">CreativeWork</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#LandForm -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#LandForm">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#TouristAttraction"/>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <rdfs:label xml:lang="en-gb">LandForm</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#LocalBusiness -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#LocalBusiness">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#TouristAttraction"/>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <rdfs:label xml:lang="en-gb">LocalBusiness</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Location -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Location">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Place"/>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <rdfs:label xml:lang="en-gb">Location</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Municipality -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Municipality">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Place"/>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <rdfs:label xml:lang="en-gb">Municipality</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Person -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Person">
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <rdfs:label xml:lang="en-gb">Person</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Place -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Place">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <rdfs:label xml:lang="en-gb">Place</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#TouristAttraction -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#TouristAttraction">
+        <rdfs:subClassOf rdf:resource="http://knowdive.disi.unitn.it/etype#Place"/>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <rdfs:label xml:lang="en-gb">TouristAttraction</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#Waste -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#Waste">
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <rdfs:label>Waste</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#WasteBasket -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#WasteBasket">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <rdfs:label xml:lang="en-gb">WasteBasket</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#WasteDisposalType -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#WasteDisposalType">
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <rdfs:label>WasteDisposalType</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://knowdive.disi.unitn.it/etype#WasteProduction -->
+
+    <owl:Class rdf:about="http://knowdive.disi.unitn.it/etype#WasteProduction">
+        <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <rdfs:label xml:lang="en-gb">WasteProduction</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.w3.org/2002/07/owl#Thing -->
+
+    <rdf:Description rdf:about="http://www.w3.org/2002/07/owl#Thing">
+        <etype:isEtype rdf:datatype="http://www.w3.org/2001/XMLSchema#boolean">true</etype:isEtype>
+        <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">Thing</rdfs:label>
+    </rdf:Description>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotations
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    <rdf:Description rdf:about="http://www.w3.org/2001/XMLSchema#boolean">
+        <rdfs:label>boolean</rdfs:label>
+    </rdf:Description>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.5.13) https://github.com/owlcs/owlapi -->
+

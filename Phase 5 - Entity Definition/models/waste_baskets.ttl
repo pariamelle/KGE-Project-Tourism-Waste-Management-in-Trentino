@@ -1,0 +1,413 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix etype: <http://knowdive.disi.unitn.it/etype#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix km-dev: <http://isi.edu/integration/karma/dev#> .
+
+_:node1ijdu3fofx1 a km-dev:R2RMLMapping ;
+	km-dev:sourceName "waste_baskets.csv" ;
+	km-dev:modelPublicationTime "1738855792399"^^xsd:long ;
+	km-dev:modelVersion "1.7" ;
+	km-dev:hasModelLabel "waste_baskets.csv" ;
+	km-dev:hasBaseURI "http://localhost:8080/source/" ;
+	km-dev:hasWorksheetHistory """[
+    {
+        \"commandName\": \"SetMetaPropertyCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"id\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"metaPropertyName\",
+                \"type\": \"other\",
+                \"value\": \"isUriOfClass\"
+            },
+            {
+                \"name\": \"metaPropertyUri\",
+                \"type\": \"other\",
+                \"value\": \"http://knowdive.disi.unitn.it/etype#WasteBasket\"
+            },
+            {
+                \"name\": \"metaPropertyId\",
+                \"type\": \"other\",
+                \"value\": \"http://knowdive.disi.unitn.it/etype#WasteBasket1\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#WasteBasket\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#WasteBasket1\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://isi.edu/integration/karma/dev#classLink\",
+                    \"DomainLabel\": \"etype:WasteBasket1 (add)\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"id\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"id\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"amenity\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#WasteBasket\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#WasteBasket1\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_amenity\",
+                    \"DomainLabel\": \"etype:WasteBasket1\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"amenity\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"amenity\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"geometry\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#WasteBasket\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#WasteBasket1\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_geometry\",
+                    \"DomainLabel\": \"etype:WasteBasket1\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"geometry\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"geometry\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetMetaPropertyCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"municipality\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"metaPropertyName\",
+                \"type\": \"other\",
+                \"value\": \"isUriOfClass\"
+            },
+            {
+                \"name\": \"metaPropertyUri\",
+                \"type\": \"other\",
+                \"value\": \"http://knowdive.disi.unitn.it/etype#Municipality\"
+            },
+            {
+                \"name\": \"metaPropertyId\",
+                \"type\": \"other\",
+                \"value\": \"http://knowdive.disi.unitn.it/etype#Municipality1\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Municipality\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Municipality1\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://isi.edu/integration/karma/dev#classLink\",
+                    \"DomainLabel\": \"etype:Municipality1 (add)\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"municipality\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"municipality\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"AddLinkCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"edge\",
+                \"type\": \"other\",
+                \"value\": {
+                    \"edgeTargetId\": \"http://knowdive.disi.unitn.it/etype#Municipality1\",
+                    \"edgeId\": \"http://knowdive.disi.unitn.it/etype#Is_in\",
+                    \"edgeTargetUri\": \"http://knowdive.disi.unitn.it/etype#Municipality\",
+                    \"edgeSourceId\": \"http://knowdive.disi.unitn.it/etype#WasteBasket1\",
+                    \"edgeSourceUri\": \"http://knowdive.disi.unitn.it/etype#WasteBasket\"
+                }
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            }
+        ],
+        \"tags\": [\"Modeling\"]
+    }
+]""" .
+
+km-dev:TriplesMap_2ca41223-bc21-4814-8221-77768940d68a a rr:TriplesMap .
+
+_:node1ijdu3fofx1 km-dev:hasTriplesMap km-dev:TriplesMap_2ca41223-bc21-4814-8221-77768940d68a .
+
+km-dev:TriplesMap_2ca41223-bc21-4814-8221-77768940d68a km-dev:isPartOfMapping _:node1ijdu3fofx1 .
+
+_:node1ijdu3fofx2 rr:tableName "waste_baskets.csv" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1ijdu3fofx1 .
+
+_:node1ijdu3fofx1 km-dev:hasLogicalTable _:node1ijdu3fofx2 .
+
+km-dev:TriplesMap_2ca41223-bc21-4814-8221-77768940d68a rr:logicalTable _:node1ijdu3fofx2 ;
+	rr:subjectMap _:node1ijdu3fofx3 .
+
+_:node1ijdu3fofx1 km-dev:hasSubjectMap _:node1ijdu3fofx3 .
+
+_:node1ijdu3fofx3 km-dev:isPartOfMapping _:node1ijdu3fofx1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#WasteBasket1" ;
+	rr:class etype:WasteBasket ;
+	rr:template "{id}" ;
+	a km-dev:steinerTreeRootNode .
+
+km-dev:PredicateObjectMap_f4eab806-6278-40d4-83c5-45c2ed52c144 rr:predicate etype:Is_in .
+
+km-dev:RefObjectMap_18a3e980-02e1-4645-a0fa-ac26ddfb27c7 a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_450fedc7-f33f-4428-a80b-6aa1416261e0 ;
+	km-dev:isPartOfMapping _:node1ijdu3fofx1 .
+
+_:node1ijdu3fofx1 km-dev:hasObjectMap km-dev:RefObjectMap_18a3e980-02e1-4645-a0fa-ac26ddfb27c7 .
+
+km-dev:PredicateObjectMap_f4eab806-6278-40d4-83c5-45c2ed52c144 rr:objectMap km-dev:RefObjectMap_18a3e980-02e1-4645-a0fa-ac26ddfb27c7 .
+
+km-dev:TriplesMap_2ca41223-bc21-4814-8221-77768940d68a rr:predicateObjectMap km-dev:PredicateObjectMap_f4eab806-6278-40d4-83c5-45c2ed52c144 .
+
+km-dev:PredicateObjectMap_f4eab806-6278-40d4-83c5-45c2ed52c144 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1ijdu3fofx1 .
+
+_:node1ijdu3fofx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_f4eab806-6278-40d4-83c5-45c2ed52c144 .
+
+km-dev:PredicateObjectMap_ce98f123-a0fc-4719-b842-a3a921725865 rr:predicate etype:has_geometry .
+
+_:node1ijdu3fofx4 rr:column "geometry" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1ijdu3fofx1 .
+
+_:node1ijdu3fofx1 km-dev:hasObjectMap _:node1ijdu3fofx4 .
+
+km-dev:PredicateObjectMap_ce98f123-a0fc-4719-b842-a3a921725865 rr:objectMap _:node1ijdu3fofx4 .
+
+km-dev:TriplesMap_2ca41223-bc21-4814-8221-77768940d68a rr:predicateObjectMap km-dev:PredicateObjectMap_ce98f123-a0fc-4719-b842-a3a921725865 .
+
+km-dev:PredicateObjectMap_ce98f123-a0fc-4719-b842-a3a921725865 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1ijdu3fofx1 .
+
+_:node1ijdu3fofx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_ce98f123-a0fc-4719-b842-a3a921725865 .
+
+km-dev:PredicateObjectMap_ab0e72a7-8e40-462c-aec6-23d1093ec2f4 rr:predicate etype:has_amenity .
+
+_:node1ijdu3fofx5 rr:column "amenity" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1ijdu3fofx1 .
+
+_:node1ijdu3fofx1 km-dev:hasObjectMap _:node1ijdu3fofx5 .
+
+km-dev:PredicateObjectMap_ab0e72a7-8e40-462c-aec6-23d1093ec2f4 rr:objectMap _:node1ijdu3fofx5 .
+
+km-dev:TriplesMap_2ca41223-bc21-4814-8221-77768940d68a rr:predicateObjectMap km-dev:PredicateObjectMap_ab0e72a7-8e40-462c-aec6-23d1093ec2f4 .
+
+km-dev:PredicateObjectMap_ab0e72a7-8e40-462c-aec6-23d1093ec2f4 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1ijdu3fofx1 .
+
+_:node1ijdu3fofx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_ab0e72a7-8e40-462c-aec6-23d1093ec2f4 .
+
+km-dev:TriplesMap_450fedc7-f33f-4428-a80b-6aa1416261e0 a rr:TriplesMap .
+
+_:node1ijdu3fofx1 km-dev:hasTriplesMap km-dev:TriplesMap_450fedc7-f33f-4428-a80b-6aa1416261e0 .
+
+km-dev:TriplesMap_450fedc7-f33f-4428-a80b-6aa1416261e0 km-dev:isPartOfMapping _:node1ijdu3fofx1 .
+
+_:node1ijdu3fofx6 rr:tableName "waste_baskets.csv" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1ijdu3fofx1 .
+
+_:node1ijdu3fofx1 km-dev:hasLogicalTable _:node1ijdu3fofx6 .
+
+km-dev:TriplesMap_450fedc7-f33f-4428-a80b-6aa1416261e0 rr:logicalTable _:node1ijdu3fofx6 ;
+	rr:subjectMap _:node1ijdu3fofx7 .
+
+_:node1ijdu3fofx1 km-dev:hasSubjectMap _:node1ijdu3fofx7 .
+
+_:node1ijdu3fofx7 km-dev:isPartOfMapping _:node1ijdu3fofx1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Municipality1" ;
+	rr:class etype:Municipality ;
+	rr:template "{municipality}" .

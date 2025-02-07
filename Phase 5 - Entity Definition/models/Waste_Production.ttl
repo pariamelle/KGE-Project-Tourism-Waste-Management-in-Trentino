@@ -1,0 +1,712 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix etype: <http://knowdive.disi.unitn.it/etype#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix km-dev: <http://isi.edu/integration/karma/dev#> .
+
+_:node1ijduqc0cx1 a km-dev:R2RMLMapping ;
+	km-dev:sourceName "Waste_Production_final.csv" ;
+	km-dev:modelPublicationTime "1738856542221"^^xsd:long ;
+	km-dev:modelVersion "1.7" ;
+	km-dev:hasModelLabel "Waste_Production_final.csv" ;
+	km-dev:hasBaseURI "http://localhost:8080/source/" ;
+	km-dev:hasWorksheetHistory """[
+    {
+        \"commandName\": \"SetMetaPropertyCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"id\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"metaPropertyName\",
+                \"type\": \"other\",
+                \"value\": \"isUriOfClass\"
+            },
+            {
+                \"name\": \"metaPropertyUri\",
+                \"type\": \"other\",
+                \"value\": \"http://knowdive.disi.unitn.it/etype#WasteProduction\"
+            },
+            {
+                \"name\": \"metaPropertyId\",
+                \"type\": \"other\",
+                \"value\": \"http://knowdive.disi.unitn.it/etype#WasteProduction1\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#WasteProduction\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#WasteProduction1\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://isi.edu/integration/karma/dev#classLink\",
+                    \"DomainLabel\": \"etype:WasteProduction1 (add)\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"id\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"id\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetMetaPropertyCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"Municipality\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"metaPropertyName\",
+                \"type\": \"other\",
+                \"value\": \"isUriOfClass\"
+            },
+            {
+                \"name\": \"metaPropertyUri\",
+                \"type\": \"other\",
+                \"value\": \"http://knowdive.disi.unitn.it/etype#Municipality\"
+            },
+            {
+                \"name\": \"metaPropertyId\",
+                \"type\": \"other\",
+                \"value\": \"http://knowdive.disi.unitn.it/etype#Municipality1\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Municipality\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Municipality1\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://isi.edu/integration/karma/dev#classLink\",
+                    \"DomainLabel\": \"etype:Municipality1 (add)\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Municipality\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Municipality\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"ref: ISTAT\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#WasteProduction\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#WasteProduction1\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_ISTAT\",
+                    \"DomainLabel\": \"etype:WasteProduction1\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"ref: ISTAT\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"ref: ISTAT\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"year\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#WasteProduction\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#WasteProduction1\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_year\",
+                    \"DomainLabel\": \"etype:WasteProduction1\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"year\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"year\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"Waste type\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#WasteProduction\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#WasteProduction1\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_disposal_method\",
+                    \"DomainLabel\": \"etype:WasteProduction1\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Waste type\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Waste type\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"Quantity\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#WasteProduction\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#WasteProduction1\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_quantity\",
+                    \"DomainLabel\": \"etype:WasteProduction1\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Quantity\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Quantity\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetMetaPropertyCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"category\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"metaPropertyName\",
+                \"type\": \"other\",
+                \"value\": \"isUriOfClass\"
+            },
+            {
+                \"name\": \"metaPropertyUri\",
+                \"type\": \"other\",
+                \"value\": \"http://knowdive.disi.unitn.it/etype#WasteDisposalType\"
+            },
+            {
+                \"name\": \"metaPropertyId\",
+                \"type\": \"other\",
+                \"value\": \"http://knowdive.disi.unitn.it/etype#WasteDisposalType1\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#WasteDisposalType\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#WasteDisposalType1\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://isi.edu/integration/karma/dev#classLink\",
+                    \"DomainLabel\": \"etype:WasteDisposalType1 (add)\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"category\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"category\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"AddLinkCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"edge\",
+                \"type\": \"other\",
+                \"value\": {
+                    \"edgeTargetId\": \"http://knowdive.disi.unitn.it/etype#Municipality1\",
+                    \"edgeId\": \"http://knowdive.disi.unitn.it/etype#Generated_by\",
+                    \"edgeTargetUri\": \"http://knowdive.disi.unitn.it/etype#Municipality\",
+                    \"edgeSourceId\": \"http://knowdive.disi.unitn.it/etype#WasteProduction1\",
+                    \"edgeSourceUri\": \"http://knowdive.disi.unitn.it/etype#WasteProduction\"
+                }
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            }
+        ],
+        \"tags\": [\"Modeling\"]
+    },
+    {
+        \"commandName\": \"AddLinkCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"edge\",
+                \"type\": \"other\",
+                \"value\": {
+                    \"edgeTargetId\": \"http://knowdive.disi.unitn.it/etype#WasteDisposalType1\",
+                    \"edgeId\": \"http://knowdive.disi.unitn.it/etype#Category_of\",
+                    \"edgeTargetUri\": \"http://knowdive.disi.unitn.it/etype#WasteDisposalType\",
+                    \"edgeSourceId\": \"http://knowdive.disi.unitn.it/etype#WasteProduction1\",
+                    \"edgeSourceUri\": \"http://knowdive.disi.unitn.it/etype#WasteProduction\"
+                }
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            }
+        ],
+        \"tags\": [\"Modeling\"]
+    }
+]""" .
+
+km-dev:TriplesMap_018fad81-99a5-488f-9244-8cebff5683c4 a rr:TriplesMap .
+
+_:node1ijduqc0cx1 km-dev:hasTriplesMap km-dev:TriplesMap_018fad81-99a5-488f-9244-8cebff5683c4 .
+
+km-dev:TriplesMap_018fad81-99a5-488f-9244-8cebff5683c4 km-dev:isPartOfMapping _:node1ijduqc0cx1 .
+
+_:node1ijduqc0cx2 rr:tableName "Waste_Production_final.csv" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1ijduqc0cx1 .
+
+_:node1ijduqc0cx1 km-dev:hasLogicalTable _:node1ijduqc0cx2 .
+
+km-dev:TriplesMap_018fad81-99a5-488f-9244-8cebff5683c4 rr:logicalTable _:node1ijduqc0cx2 ;
+	rr:subjectMap _:node1ijduqc0cx3 .
+
+_:node1ijduqc0cx1 km-dev:hasSubjectMap _:node1ijduqc0cx3 .
+
+_:node1ijduqc0cx3 km-dev:isPartOfMapping _:node1ijduqc0cx1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#WasteProduction1" ;
+	rr:class etype:WasteProduction ;
+	rr:template "{id}" ;
+	a km-dev:steinerTreeRootNode .
+
+km-dev:PredicateObjectMap_73b23e76-7d8d-4ce3-aaaa-9b49e6aca807 rr:predicate etype:Generated_by .
+
+km-dev:RefObjectMap_9126abe0-1ad1-4026-981b-d25fc6d79ae2 a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_b2f5637d-9396-4bd4-b43f-a03d5113941b ;
+	km-dev:isPartOfMapping _:node1ijduqc0cx1 .
+
+_:node1ijduqc0cx1 km-dev:hasObjectMap km-dev:RefObjectMap_9126abe0-1ad1-4026-981b-d25fc6d79ae2 .
+
+km-dev:PredicateObjectMap_73b23e76-7d8d-4ce3-aaaa-9b49e6aca807 rr:objectMap km-dev:RefObjectMap_9126abe0-1ad1-4026-981b-d25fc6d79ae2 .
+
+km-dev:TriplesMap_018fad81-99a5-488f-9244-8cebff5683c4 rr:predicateObjectMap km-dev:PredicateObjectMap_73b23e76-7d8d-4ce3-aaaa-9b49e6aca807 .
+
+km-dev:PredicateObjectMap_73b23e76-7d8d-4ce3-aaaa-9b49e6aca807 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1ijduqc0cx1 .
+
+_:node1ijduqc0cx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_73b23e76-7d8d-4ce3-aaaa-9b49e6aca807 .
+
+km-dev:PredicateObjectMap_01f56a4c-fd66-470b-b8ca-608f39d178da rr:predicate etype:Category_of .
+
+km-dev:RefObjectMap_2d5f65e7-e4d1-4dcf-b84b-cd5febb67f8e a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_fed8303f-2587-4d33-8b75-aa90fc00b35a ;
+	km-dev:isPartOfMapping _:node1ijduqc0cx1 .
+
+_:node1ijduqc0cx1 km-dev:hasObjectMap km-dev:RefObjectMap_2d5f65e7-e4d1-4dcf-b84b-cd5febb67f8e .
+
+km-dev:PredicateObjectMap_01f56a4c-fd66-470b-b8ca-608f39d178da rr:objectMap km-dev:RefObjectMap_2d5f65e7-e4d1-4dcf-b84b-cd5febb67f8e .
+
+km-dev:TriplesMap_018fad81-99a5-488f-9244-8cebff5683c4 rr:predicateObjectMap km-dev:PredicateObjectMap_01f56a4c-fd66-470b-b8ca-608f39d178da .
+
+km-dev:PredicateObjectMap_01f56a4c-fd66-470b-b8ca-608f39d178da a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1ijduqc0cx1 .
+
+_:node1ijduqc0cx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_01f56a4c-fd66-470b-b8ca-608f39d178da .
+
+km-dev:PredicateObjectMap_7bea7f91-0194-45e9-961e-861ea90750c5 rr:predicate etype:has_ISTAT .
+
+_:node1ijduqc0cx4 rr:column "ref: ISTAT" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1ijduqc0cx1 .
+
+_:node1ijduqc0cx1 km-dev:hasObjectMap _:node1ijduqc0cx4 .
+
+km-dev:PredicateObjectMap_7bea7f91-0194-45e9-961e-861ea90750c5 rr:objectMap _:node1ijduqc0cx4 .
+
+km-dev:TriplesMap_018fad81-99a5-488f-9244-8cebff5683c4 rr:predicateObjectMap km-dev:PredicateObjectMap_7bea7f91-0194-45e9-961e-861ea90750c5 .
+
+km-dev:PredicateObjectMap_7bea7f91-0194-45e9-961e-861ea90750c5 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1ijduqc0cx1 .
+
+_:node1ijduqc0cx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_7bea7f91-0194-45e9-961e-861ea90750c5 .
+
+km-dev:PredicateObjectMap_c5e78820-cfb4-490b-9766-272b8956f263 rr:predicate etype:has_disposal_method .
+
+_:node1ijduqc0cx5 rr:column "Waste type" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1ijduqc0cx1 .
+
+_:node1ijduqc0cx1 km-dev:hasObjectMap _:node1ijduqc0cx5 .
+
+km-dev:PredicateObjectMap_c5e78820-cfb4-490b-9766-272b8956f263 rr:objectMap _:node1ijduqc0cx5 .
+
+km-dev:TriplesMap_018fad81-99a5-488f-9244-8cebff5683c4 rr:predicateObjectMap km-dev:PredicateObjectMap_c5e78820-cfb4-490b-9766-272b8956f263 .
+
+km-dev:PredicateObjectMap_c5e78820-cfb4-490b-9766-272b8956f263 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1ijduqc0cx1 .
+
+_:node1ijduqc0cx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_c5e78820-cfb4-490b-9766-272b8956f263 .
+
+km-dev:PredicateObjectMap_74226c77-e2f0-4b2c-86a9-d2ec797d2610 rr:predicate etype:has_year .
+
+_:node1ijduqc0cx6 rr:column "year" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1ijduqc0cx1 .
+
+_:node1ijduqc0cx1 km-dev:hasObjectMap _:node1ijduqc0cx6 .
+
+km-dev:PredicateObjectMap_74226c77-e2f0-4b2c-86a9-d2ec797d2610 rr:objectMap _:node1ijduqc0cx6 .
+
+km-dev:TriplesMap_018fad81-99a5-488f-9244-8cebff5683c4 rr:predicateObjectMap km-dev:PredicateObjectMap_74226c77-e2f0-4b2c-86a9-d2ec797d2610 .
+
+km-dev:PredicateObjectMap_74226c77-e2f0-4b2c-86a9-d2ec797d2610 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1ijduqc0cx1 .
+
+_:node1ijduqc0cx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_74226c77-e2f0-4b2c-86a9-d2ec797d2610 .
+
+km-dev:PredicateObjectMap_15081b60-d8f1-468d-979e-4f87e1308542 rr:predicate etype:has_quantity .
+
+_:node1ijduqc0cx7 rr:column "Quantity" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1ijduqc0cx1 .
+
+_:node1ijduqc0cx1 km-dev:hasObjectMap _:node1ijduqc0cx7 .
+
+km-dev:PredicateObjectMap_15081b60-d8f1-468d-979e-4f87e1308542 rr:objectMap _:node1ijduqc0cx7 .
+
+km-dev:TriplesMap_018fad81-99a5-488f-9244-8cebff5683c4 rr:predicateObjectMap km-dev:PredicateObjectMap_15081b60-d8f1-468d-979e-4f87e1308542 .
+
+km-dev:PredicateObjectMap_15081b60-d8f1-468d-979e-4f87e1308542 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1ijduqc0cx1 .
+
+_:node1ijduqc0cx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_15081b60-d8f1-468d-979e-4f87e1308542 .
+
+km-dev:TriplesMap_b2f5637d-9396-4bd4-b43f-a03d5113941b a rr:TriplesMap .
+
+_:node1ijduqc0cx1 km-dev:hasTriplesMap km-dev:TriplesMap_b2f5637d-9396-4bd4-b43f-a03d5113941b .
+
+km-dev:TriplesMap_b2f5637d-9396-4bd4-b43f-a03d5113941b km-dev:isPartOfMapping _:node1ijduqc0cx1 .
+
+_:node1ijduqc0cx8 rr:tableName "Waste_Production_final.csv" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1ijduqc0cx1 .
+
+_:node1ijduqc0cx1 km-dev:hasLogicalTable _:node1ijduqc0cx8 .
+
+km-dev:TriplesMap_b2f5637d-9396-4bd4-b43f-a03d5113941b rr:logicalTable _:node1ijduqc0cx8 ;
+	rr:subjectMap _:node1ijduqc0cx9 .
+
+_:node1ijduqc0cx1 km-dev:hasSubjectMap _:node1ijduqc0cx9 .
+
+_:node1ijduqc0cx9 km-dev:isPartOfMapping _:node1ijduqc0cx1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Municipality1" ;
+	rr:class etype:Municipality ;
+	rr:template "{Municipality}" .
+
+km-dev:TriplesMap_fed8303f-2587-4d33-8b75-aa90fc00b35a a rr:TriplesMap .
+
+_:node1ijduqc0cx1 km-dev:hasTriplesMap km-dev:TriplesMap_fed8303f-2587-4d33-8b75-aa90fc00b35a .
+
+km-dev:TriplesMap_fed8303f-2587-4d33-8b75-aa90fc00b35a km-dev:isPartOfMapping _:node1ijduqc0cx1 .
+
+_:node1ijduqc0cx10 rr:tableName "Waste_Production_final.csv" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1ijduqc0cx1 .
+
+_:node1ijduqc0cx1 km-dev:hasLogicalTable _:node1ijduqc0cx10 .
+
+km-dev:TriplesMap_fed8303f-2587-4d33-8b75-aa90fc00b35a rr:logicalTable _:node1ijduqc0cx10 ;
+	rr:subjectMap _:node1ijduqc0cx11 .
+
+_:node1ijduqc0cx1 km-dev:hasSubjectMap _:node1ijduqc0cx11 .
+
+_:node1ijduqc0cx11 km-dev:isPartOfMapping _:node1ijduqc0cx1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#WasteDisposalType1" ;
+	rr:class etype:WasteDisposalType ;
+	rr:template "{category}" .

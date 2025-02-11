@@ -1,1 +1,3 @@
-In this directory you have store all the material considered and created for the knowledge definition phase
+\subsection{Overview of the Fourth iTelos Phase}
+
+This fourth phase, along with the first, proved to be the most conceptually challenging. It required us to reflect on the structure of our schema at a higher level of abstraction compared to the ER model. This reflection led to the development of the EER model and the addition of a few terms to our domain language. The practical development of teleontology and teleology in this phase was carried out using Protégé, a tool whose functionality may also prove valuable to us in the future. Finally, the revision of our competency questions to ensure full alignment with the updated schema is an ongoing process and will remain a priority as we move forward, especially as further adjustments are likely to be required.

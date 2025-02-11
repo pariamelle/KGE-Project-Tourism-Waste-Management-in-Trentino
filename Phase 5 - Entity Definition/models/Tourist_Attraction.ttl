@@ -1,0 +1,946 @@
+
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix etype: <http://knowdive.disi.unitn.it/etype#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+@prefix rr: <http://www.w3.org/ns/r2rml#> .
+@prefix km-dev: <http://isi.edu/integration/karma/dev#> .
+
+_:node1ijdrh7dux1 a km-dev:R2RMLMapping ;
+	km-dev:sourceName "Tourist_Attractions_Final.csv" ;
+	km-dev:modelPublicationTime "1738853096894"^^xsd:long ;
+	km-dev:modelVersion "1.7" ;
+	km-dev:hasModelLabel "Tourist_Attractions_Final.csv" ;
+	km-dev:hasBaseURI "http://localhost:8080/source/" ;
+	km-dev:hasWorksheetHistory """[
+    {
+        \"commandName\": \"SetMetaPropertyCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"ID\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"metaPropertyName\",
+                \"type\": \"other\",
+                \"value\": \"isUriOfClass\"
+            },
+            {
+                \"name\": \"metaPropertyUri\",
+                \"type\": \"other\",
+                \"value\": \"http://knowdive.disi.unitn.it/etype#TouristAttraction\"
+            },
+            {
+                \"name\": \"metaPropertyId\",
+                \"type\": \"other\",
+                \"value\": \"http://knowdive.disi.unitn.it/etype#TouristAttraction1\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#TouristAttraction\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#TouristAttraction1\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://isi.edu/integration/karma/dev#classLink\",
+                    \"DomainLabel\": \"etype:TouristAttraction1 (add)\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"ID\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"ID\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"Name\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#TouristAttraction\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#TouristAttraction1\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_name\",
+                    \"DomainLabel\": \"etype:TouristAttraction1\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Name\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Name\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"Type\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#TouristAttraction\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#TouristAttraction1\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_type\",
+                    \"DomainLabel\": \"etype:TouristAttraction1\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Type\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Type\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"Latitude\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#TouristAttraction\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#TouristAttraction1\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_latitude\",
+                    \"DomainLabel\": \"etype:TouristAttraction1\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Latitude\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Latitude\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"Longitude\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#TouristAttraction\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#TouristAttraction1\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_longitude\",
+                    \"DomainLabel\": \"etype:TouristAttraction1\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Longitude\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Longitude\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"Description\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#TouristAttraction\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#TouristAttraction1\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_latitude\",
+                    \"DomainLabel\": \"etype:TouristAttraction1\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Description\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Description\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"Details\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#TouristAttraction\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#TouristAttraction1\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_details\",
+                    \"DomainLabel\": \"etype:TouristAttraction1\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Details\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Details\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"Address\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#TouristAttraction\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#TouristAttraction1\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_address\",
+                    \"DomainLabel\": \"etype:TouristAttraction1\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Address\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Address\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"Geometry\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#TouristAttraction\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#TouristAttraction1\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_geometry\",
+                    \"DomainLabel\": \"etype:TouristAttraction1\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Geometry\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Geometry\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetSemanticTypeCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"Contact\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#TouristAttraction\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#TouristAttraction1\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_contact_info\",
+                    \"DomainLabel\": \"etype:TouristAttraction1\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Contact\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Contact\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"SetMetaPropertyCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"hNodeId\",
+                \"type\": \"hNodeId\",
+                \"value\": [{\"columnName\": \"Municipality\"}]
+            },
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"selectionName\",
+                \"type\": \"other\",
+                \"value\": \"DEFAULT_TEST\"
+            },
+            {
+                \"name\": \"metaPropertyName\",
+                \"type\": \"other\",
+                \"value\": \"isUriOfClass\"
+            },
+            {
+                \"name\": \"metaPropertyUri\",
+                \"type\": \"other\",
+                \"value\": \"http://knowdive.disi.unitn.it/etype#Municipality\"
+            },
+            {
+                \"name\": \"metaPropertyId\",
+                \"type\": \"other\",
+                \"value\": \"http://knowdive.disi.unitn.it/etype#Municipality1\"
+            },
+            {
+                \"name\": \"SemanticTypesArray\",
+                \"type\": \"other\",
+                \"value\": [{
+                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Municipality\",
+                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Municipality1\",
+                    \"isPrimary\": true,
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://isi.edu/integration/karma/dev#classLink\",
+                    \"DomainLabel\": \"etype:Municipality1 (add)\"
+                }]
+            },
+            {
+                \"name\": \"trainAndShowUpdates\",
+                \"type\": \"other\",
+                \"value\": true
+            },
+            {
+                \"name\": \"rdfLiteralType\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"language\",
+                \"type\": \"other\",
+                \"value\": \"\"
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Municipality\\\"}]}]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"Municipality\\\"}]}]\"
+            }
+        ],
+        \"tags\": [\"SemanticType\"]
+    },
+    {
+        \"commandName\": \"AddLinkCommand\",
+        \"model\": \"new\",
+        \"inputParameters\": [
+            {
+                \"name\": \"worksheetId\",
+                \"type\": \"worksheetId\",
+                \"value\": \"W\"
+            },
+            {
+                \"name\": \"edge\",
+                \"type\": \"other\",
+                \"value\": {
+                    \"edgeTargetId\": \"http://knowdive.disi.unitn.it/etype#Municipality1\",
+                    \"edgeId\": \"http://knowdive.disi.unitn.it/etype#Located_in\",
+                    \"edgeTargetUri\": \"http://knowdive.disi.unitn.it/etype#Municipality\",
+                    \"edgeSourceId\": \"http://knowdive.disi.unitn.it/etype#TouristAttraction1\",
+                    \"edgeSourceUri\": \"http://knowdive.disi.unitn.it/etype#TouristAttraction\"
+                }
+            },
+            {
+                \"name\": \"inputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            },
+            {
+                \"name\": \"outputColumns\",
+                \"type\": \"hNodeIdList\",
+                \"value\": \"[]\"
+            }
+        ],
+        \"tags\": [\"Modeling\"]
+    }
+]""" .
+
+km-dev:TriplesMap_45afcf66-ed75-467b-a392-6b1288535072 a rr:TriplesMap .
+
+_:node1ijdrh7dux1 km-dev:hasTriplesMap km-dev:TriplesMap_45afcf66-ed75-467b-a392-6b1288535072 .
+
+km-dev:TriplesMap_45afcf66-ed75-467b-a392-6b1288535072 km-dev:isPartOfMapping _:node1ijdrh7dux1 .
+
+_:node1ijdrh7dux2 rr:tableName "Tourist_Attractions_Final.csv" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1ijdrh7dux1 .
+
+_:node1ijdrh7dux1 km-dev:hasLogicalTable _:node1ijdrh7dux2 .
+
+km-dev:TriplesMap_45afcf66-ed75-467b-a392-6b1288535072 rr:logicalTable _:node1ijdrh7dux2 ;
+	rr:subjectMap _:node1ijdrh7dux3 .
+
+_:node1ijdrh7dux1 km-dev:hasSubjectMap _:node1ijdrh7dux3 .
+
+_:node1ijdrh7dux3 km-dev:isPartOfMapping _:node1ijdrh7dux1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#TouristAttraction1" ;
+	rr:class etype:TouristAttraction ;
+	rr:template "{ID}" ;
+	a km-dev:steinerTreeRootNode .
+
+km-dev:PredicateObjectMap_1f34fc9d-1538-492e-8f33-db0478bb9b58 rr:predicate etype:Located_in .
+
+km-dev:RefObjectMap_efb2b966-1b4c-4c3e-a5ab-2c7c12030199 a rr:RefObjectMap , rr:ObjectMap ;
+	rr:parentTriplesMap km-dev:TriplesMap_96c05502-b733-4f24-975f-329685d11482 ;
+	km-dev:isPartOfMapping _:node1ijdrh7dux1 .
+
+_:node1ijdrh7dux1 km-dev:hasObjectMap km-dev:RefObjectMap_efb2b966-1b4c-4c3e-a5ab-2c7c12030199 .
+
+km-dev:PredicateObjectMap_1f34fc9d-1538-492e-8f33-db0478bb9b58 rr:objectMap km-dev:RefObjectMap_efb2b966-1b4c-4c3e-a5ab-2c7c12030199 .
+
+km-dev:TriplesMap_45afcf66-ed75-467b-a392-6b1288535072 rr:predicateObjectMap km-dev:PredicateObjectMap_1f34fc9d-1538-492e-8f33-db0478bb9b58 .
+
+km-dev:PredicateObjectMap_1f34fc9d-1538-492e-8f33-db0478bb9b58 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1ijdrh7dux1 .
+
+_:node1ijdrh7dux1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_1f34fc9d-1538-492e-8f33-db0478bb9b58 .
+
+km-dev:PredicateObjectMap_c59bb3a3-4be2-4eb0-9059-28a3051cd8f6 rr:predicate etype:has_name .
+
+_:node1ijdrh7dux4 rr:column "Name" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1ijdrh7dux1 .
+
+_:node1ijdrh7dux1 km-dev:hasObjectMap _:node1ijdrh7dux4 .
+
+km-dev:PredicateObjectMap_c59bb3a3-4be2-4eb0-9059-28a3051cd8f6 rr:objectMap _:node1ijdrh7dux4 .
+
+km-dev:TriplesMap_45afcf66-ed75-467b-a392-6b1288535072 rr:predicateObjectMap km-dev:PredicateObjectMap_c59bb3a3-4be2-4eb0-9059-28a3051cd8f6 .
+
+km-dev:PredicateObjectMap_c59bb3a3-4be2-4eb0-9059-28a3051cd8f6 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1ijdrh7dux1 .
+
+_:node1ijdrh7dux1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_c59bb3a3-4be2-4eb0-9059-28a3051cd8f6 .
+
+km-dev:PredicateObjectMap_84c41f9e-6d20-4333-a18f-d9a49527d6da rr:predicate etype:has_type .
+
+_:node1ijdrh7dux5 rr:column "Type" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1ijdrh7dux1 .
+
+_:node1ijdrh7dux1 km-dev:hasObjectMap _:node1ijdrh7dux5 .
+
+km-dev:PredicateObjectMap_84c41f9e-6d20-4333-a18f-d9a49527d6da rr:objectMap _:node1ijdrh7dux5 .
+
+km-dev:TriplesMap_45afcf66-ed75-467b-a392-6b1288535072 rr:predicateObjectMap km-dev:PredicateObjectMap_84c41f9e-6d20-4333-a18f-d9a49527d6da .
+
+km-dev:PredicateObjectMap_84c41f9e-6d20-4333-a18f-d9a49527d6da a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1ijdrh7dux1 .
+
+_:node1ijdrh7dux1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_84c41f9e-6d20-4333-a18f-d9a49527d6da .
+
+km-dev:PredicateObjectMap_fe3df0e5-4c64-4ef8-813d-c6915905c089 rr:predicate etype:has_latitude .
+
+_:node1ijdrh7dux6 rr:column "Description" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1ijdrh7dux1 .
+
+_:node1ijdrh7dux1 km-dev:hasObjectMap _:node1ijdrh7dux6 .
+
+km-dev:PredicateObjectMap_fe3df0e5-4c64-4ef8-813d-c6915905c089 rr:objectMap _:node1ijdrh7dux6 .
+
+km-dev:TriplesMap_45afcf66-ed75-467b-a392-6b1288535072 rr:predicateObjectMap km-dev:PredicateObjectMap_fe3df0e5-4c64-4ef8-813d-c6915905c089 .
+
+km-dev:PredicateObjectMap_fe3df0e5-4c64-4ef8-813d-c6915905c089 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1ijdrh7dux1 .
+
+_:node1ijdrh7dux1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_fe3df0e5-4c64-4ef8-813d-c6915905c089 .
+
+km-dev:PredicateObjectMap_ea58e9d3-3b3c-4c26-8dd2-e59f4d29fb85 rr:predicate etype:has_details .
+
+_:node1ijdrh7dux7 rr:column "Details" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1ijdrh7dux1 .
+
+_:node1ijdrh7dux1 km-dev:hasObjectMap _:node1ijdrh7dux7 .
+
+km-dev:PredicateObjectMap_ea58e9d3-3b3c-4c26-8dd2-e59f4d29fb85 rr:objectMap _:node1ijdrh7dux7 .
+
+km-dev:TriplesMap_45afcf66-ed75-467b-a392-6b1288535072 rr:predicateObjectMap km-dev:PredicateObjectMap_ea58e9d3-3b3c-4c26-8dd2-e59f4d29fb85 .
+
+km-dev:PredicateObjectMap_ea58e9d3-3b3c-4c26-8dd2-e59f4d29fb85 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1ijdrh7dux1 .
+
+_:node1ijdrh7dux1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_ea58e9d3-3b3c-4c26-8dd2-e59f4d29fb85 .
+
+km-dev:PredicateObjectMap_8e93a50d-ac58-44c0-86b0-471640af38d0 rr:predicate etype:has_latitude .
+
+_:node1ijdrh7dux8 rr:column "Latitude" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1ijdrh7dux1 .
+
+_:node1ijdrh7dux1 km-dev:hasObjectMap _:node1ijdrh7dux8 .
+
+km-dev:PredicateObjectMap_8e93a50d-ac58-44c0-86b0-471640af38d0 rr:objectMap _:node1ijdrh7dux8 .
+
+km-dev:TriplesMap_45afcf66-ed75-467b-a392-6b1288535072 rr:predicateObjectMap km-dev:PredicateObjectMap_8e93a50d-ac58-44c0-86b0-471640af38d0 .
+
+km-dev:PredicateObjectMap_8e93a50d-ac58-44c0-86b0-471640af38d0 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1ijdrh7dux1 .
+
+_:node1ijdrh7dux1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_8e93a50d-ac58-44c0-86b0-471640af38d0 .
+
+km-dev:PredicateObjectMap_d5cf0aef-f6a2-4211-a799-a56c89e12be3 rr:predicate etype:has_longitude .
+
+_:node1ijdrh7dux9 rr:column "Longitude" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1ijdrh7dux1 .
+
+_:node1ijdrh7dux1 km-dev:hasObjectMap _:node1ijdrh7dux9 .
+
+km-dev:PredicateObjectMap_d5cf0aef-f6a2-4211-a799-a56c89e12be3 rr:objectMap _:node1ijdrh7dux9 .
+
+km-dev:TriplesMap_45afcf66-ed75-467b-a392-6b1288535072 rr:predicateObjectMap km-dev:PredicateObjectMap_d5cf0aef-f6a2-4211-a799-a56c89e12be3 .
+
+km-dev:PredicateObjectMap_d5cf0aef-f6a2-4211-a799-a56c89e12be3 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1ijdrh7dux1 .
+
+_:node1ijdrh7dux1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_d5cf0aef-f6a2-4211-a799-a56c89e12be3 .
+
+km-dev:PredicateObjectMap_6b709c7c-6bae-4bbb-92c8-c51896198d35 rr:predicate etype:has_contact_info .
+
+_:node1ijdrh7dux10 rr:column "Contact" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1ijdrh7dux1 .
+
+_:node1ijdrh7dux1 km-dev:hasObjectMap _:node1ijdrh7dux10 .
+
+km-dev:PredicateObjectMap_6b709c7c-6bae-4bbb-92c8-c51896198d35 rr:objectMap _:node1ijdrh7dux10 .
+
+km-dev:TriplesMap_45afcf66-ed75-467b-a392-6b1288535072 rr:predicateObjectMap km-dev:PredicateObjectMap_6b709c7c-6bae-4bbb-92c8-c51896198d35 .
+
+km-dev:PredicateObjectMap_6b709c7c-6bae-4bbb-92c8-c51896198d35 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1ijdrh7dux1 .
+
+_:node1ijdrh7dux1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_6b709c7c-6bae-4bbb-92c8-c51896198d35 .
+
+km-dev:PredicateObjectMap_8c993d50-cef5-4d32-8d02-991f34b0ba3e rr:predicate etype:has_address .
+
+_:node1ijdrh7dux11 rr:column "Address" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1ijdrh7dux1 .
+
+_:node1ijdrh7dux1 km-dev:hasObjectMap _:node1ijdrh7dux11 .
+
+km-dev:PredicateObjectMap_8c993d50-cef5-4d32-8d02-991f34b0ba3e rr:objectMap _:node1ijdrh7dux11 .
+
+km-dev:TriplesMap_45afcf66-ed75-467b-a392-6b1288535072 rr:predicateObjectMap km-dev:PredicateObjectMap_8c993d50-cef5-4d32-8d02-991f34b0ba3e .
+
+km-dev:PredicateObjectMap_8c993d50-cef5-4d32-8d02-991f34b0ba3e a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1ijdrh7dux1 .
+
+_:node1ijdrh7dux1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_8c993d50-cef5-4d32-8d02-991f34b0ba3e .
+
+km-dev:PredicateObjectMap_c304870f-602c-44cb-b64a-e57f646fffa5 rr:predicate etype:has_geometry .
+
+_:node1ijdrh7dux12 rr:column "Geometry" ;
+	a rr:ObjectMap ;
+	km-dev:isPartOfMapping _:node1ijdrh7dux1 .
+
+_:node1ijdrh7dux1 km-dev:hasObjectMap _:node1ijdrh7dux12 .
+
+km-dev:PredicateObjectMap_c304870f-602c-44cb-b64a-e57f646fffa5 rr:objectMap _:node1ijdrh7dux12 .
+
+km-dev:TriplesMap_45afcf66-ed75-467b-a392-6b1288535072 rr:predicateObjectMap km-dev:PredicateObjectMap_c304870f-602c-44cb-b64a-e57f646fffa5 .
+
+km-dev:PredicateObjectMap_c304870f-602c-44cb-b64a-e57f646fffa5 a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1ijdrh7dux1 .
+
+_:node1ijdrh7dux1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_c304870f-602c-44cb-b64a-e57f646fffa5 .
+
+km-dev:TriplesMap_96c05502-b733-4f24-975f-329685d11482 a rr:TriplesMap .
+
+_:node1ijdrh7dux1 km-dev:hasTriplesMap km-dev:TriplesMap_96c05502-b733-4f24-975f-329685d11482 .
+
+km-dev:TriplesMap_96c05502-b733-4f24-975f-329685d11482 km-dev:isPartOfMapping _:node1ijdrh7dux1 .
+
+_:node1ijdrh7dux13 rr:tableName "Tourist_Attractions_Final.csv" ;
+	a rr:LogicalTable ;
+	km-dev:isPartOfMapping _:node1ijdrh7dux1 .
+
+_:node1ijdrh7dux1 km-dev:hasLogicalTable _:node1ijdrh7dux13 .
+
+km-dev:TriplesMap_96c05502-b733-4f24-975f-329685d11482 rr:logicalTable _:node1ijdrh7dux13 ;
+	rr:subjectMap _:node1ijdrh7dux14 .
+
+_:node1ijdrh7dux1 km-dev:hasSubjectMap _:node1ijdrh7dux14 .
+
+_:node1ijdrh7dux14 km-dev:isPartOfMapping _:node1ijdrh7dux1 ;
+	a rr:SubjectMap ;
+	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Municipality1" ;
+	rr:class etype:Municipality ;
+	rr:template "{Municipality}" .

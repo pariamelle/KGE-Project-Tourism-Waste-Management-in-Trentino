@@ -1,16 +1,18 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix etype: <http://knowdive.disi.unitn.it/etype#> .
+@prefix wgs84_pos: <http://www.w3.org/2003/01/geo/wgs84_pos#> .
 @prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix geosparql: <http://www.opengis.net/ont/geosparql#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
 @prefix rr: <http://www.w3.org/ns/r2rml#> .
 @prefix km-dev: <http://isi.edu/integration/karma/dev#> .
 
-_:node1ijdtduskx1 a km-dev:R2RMLMapping ;
-	km-dev:sourceName "Cleaned_Municipality.geojson" ;
-	km-dev:modelPublicationTime "1738855086996"^^xsd:long ;
+_:node1ijov6u24x1 a km-dev:R2RMLMapping ;
+	km-dev:sourceName "municipality_data.csv" ;
+	km-dev:modelPublicationTime "1739226052677"^^xsd:long ;
 	km-dev:modelVersion "1.7" ;
-	km-dev:hasModelLabel "Cleaned_Municipality.geojson" ;
+	km-dev:hasModelLabel "municipality_data.csv" ;
 	km-dev:hasBaseURI "http://localhost:8080/source/" ;
 	km-dev:hasWorksheetHistory """[
     {
@@ -20,10 +22,7 @@ _:node1ijdtduskx1 a km-dev:R2RMLMapping ;
             {
                 \"name\": \"hNodeId\",
                 \"type\": \"hNodeId\",
-                \"value\": [
-                    {\"columnName\": \"properties\"},
-                    {\"columnName\": \"ref:ISTAT\"}
-                ]
+                \"value\": [{\"columnName\": \"name\"}]
             },
             {
                 \"name\": \"worksheetId\",
@@ -80,12 +79,12 @@ _:node1ijdtduskx1 a km-dev:R2RMLMapping ;
             {
                 \"name\": \"inputColumns\",
                 \"type\": \"hNodeIdList\",
-                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"properties\\\"},{\\\"columnName\\\":\\\"ref:ISTAT\\\"}]}]\"
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"name\\\"}]}]\"
             },
             {
                 \"name\": \"outputColumns\",
                 \"type\": \"hNodeIdList\",
-                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"properties\\\"},{\\\"columnName\\\":\\\"ref:ISTAT\\\"}]}]\"
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"name\\\"}]}]\"
             }
         ],
         \"tags\": [\"SemanticType\"]
@@ -97,10 +96,7 @@ _:node1ijdtduskx1 a km-dev:R2RMLMapping ;
             {
                 \"name\": \"hNodeId\",
                 \"type\": \"hNodeId\",
-                \"value\": [
-                    {\"columnName\": \"properties\"},
-                    {\"columnName\": \"population\"}
-                ]
+                \"value\": [{\"columnName\": \"population\"}]
             },
             {
                 \"name\": \"worksheetId\",
@@ -142,12 +138,12 @@ _:node1ijdtduskx1 a km-dev:R2RMLMapping ;
             {
                 \"name\": \"inputColumns\",
                 \"type\": \"hNodeIdList\",
-                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"properties\\\"},{\\\"columnName\\\":\\\"population\\\"}]}]\"
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"population\\\"}]}]\"
             },
             {
                 \"name\": \"outputColumns\",
                 \"type\": \"hNodeIdList\",
-                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"properties\\\"},{\\\"columnName\\\":\\\"population\\\"}]}]\"
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"population\\\"}]}]\"
             }
         ],
         \"tags\": [\"SemanticType\"]
@@ -159,10 +155,7 @@ _:node1ijdtduskx1 a km-dev:R2RMLMapping ;
             {
                 \"name\": \"hNodeId\",
                 \"type\": \"hNodeId\",
-                \"value\": [
-                    {\"columnName\": \"properties\"},
-                    {\"columnName\": \"name\"}
-                ]
+                \"value\": [{\"columnName\": \"name\"}]
             },
             {
                 \"name\": \"worksheetId\",
@@ -181,8 +174,9 @@ _:node1ijdtduskx1 a km-dev:R2RMLMapping ;
                     \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Municipality\",
                     \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Municipality1\",
                     \"isPrimary\": true,
+                    \"isProvenance\": false,
                     \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_name\",
-                    \"DomainLabel\": \"Municipality1\"
+                    \"DomainLabel\": \"etype:Municipality1\"
                 }]
             },
             {
@@ -203,31 +197,24 @@ _:node1ijdtduskx1 a km-dev:R2RMLMapping ;
             {
                 \"name\": \"inputColumns\",
                 \"type\": \"hNodeIdList\",
-                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"properties\\\"},{\\\"columnName\\\":\\\"name\\\"}]}]\"
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"name\\\"}]}]\"
             },
             {
                 \"name\": \"outputColumns\",
                 \"type\": \"hNodeIdList\",
-                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"properties\\\"},{\\\"columnName\\\":\\\"name\\\"}]}]\"
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"name\\\"}]}]\"
             }
         ],
         \"tags\": [\"SemanticType\"]
     },
     {
-        \"commandName\": \"SetSemanticTypeCommand\",
+        \"commandName\": \"SetMetaPropertyCommand\",
         \"model\": \"new\",
         \"inputParameters\": [
             {
                 \"name\": \"hNodeId\",
                 \"type\": \"hNodeId\",
-                \"value\": [
-                    {\"columnName\": \"geometry\"},
-                    {\"columnName\": \"coordinates\"},
-                    {\"columnName\": \"nested array\"},
-                    {\"columnName\": \"nested array\"},
-                    {\"columnName\": \"nested array\"},
-                    {\"columnName\": \"values\"}
-                ]
+                \"value\": [{\"columnName\": \"ref:ISTAT\"}]
             },
             {
                 \"name\": \"worksheetId\",
@@ -240,14 +227,30 @@ _:node1ijdtduskx1 a km-dev:R2RMLMapping ;
                 \"value\": \"DEFAULT_TEST\"
             },
             {
+                \"name\": \"metaPropertyName\",
+                \"type\": \"other\",
+                \"value\": \"isUriOfClass\"
+            },
+            {
+                \"name\": \"metaPropertyUri\",
+                \"type\": \"other\",
+                \"value\": \"http://knowdive.disi.unitn.it/etype#Municipality\"
+            },
+            {
+                \"name\": \"metaPropertyId\",
+                \"type\": \"other\",
+                \"value\": \"http://knowdive.disi.unitn.it/etype#Municipality1\"
+            },
+            {
                 \"name\": \"SemanticTypesArray\",
                 \"type\": \"other\",
                 \"value\": [{
                     \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Municipality\",
                     \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Municipality1\",
                     \"isPrimary\": true,
-                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_geometry\",
-                    \"DomainLabel\": \"Municipality1\"
+                    \"isProvenance\": false,
+                    \"FullType\": \"http://isi.edu/integration/karma/dev#classLink\",
+                    \"DomainLabel\": \"etype:Municipality1\"
                 }]
             },
             {
@@ -268,12 +271,12 @@ _:node1ijdtduskx1 a km-dev:R2RMLMapping ;
             {
                 \"name\": \"inputColumns\",
                 \"type\": \"hNodeIdList\",
-                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"geometry\\\"},{\\\"columnName\\\":\\\"coordinates\\\"},{\\\"columnName\\\":\\\"nested array\\\"},{\\\"columnName\\\":\\\"nested array\\\"},{\\\"columnName\\\":\\\"nested array\\\"},{\\\"columnName\\\":\\\"values\\\"}]}]\"
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"ref:ISTAT\\\"}]}]\"
             },
             {
                 \"name\": \"outputColumns\",
                 \"type\": \"hNodeIdList\",
-                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"geometry\\\"},{\\\"columnName\\\":\\\"coordinates\\\"},{\\\"columnName\\\":\\\"nested array\\\"},{\\\"columnName\\\":\\\"nested array\\\"},{\\\"columnName\\\":\\\"nested array\\\"},{\\\"columnName\\\":\\\"values\\\"}]}]\"
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"ref:ISTAT\\\"}]}]\"
             }
         ],
         \"tags\": [\"SemanticType\"]
@@ -285,74 +288,7 @@ _:node1ijdtduskx1 a km-dev:R2RMLMapping ;
             {
                 \"name\": \"hNodeId\",
                 \"type\": \"hNodeId\",
-                \"value\": [
-                    {\"columnName\": \"geometry\"},
-                    {\"columnName\": \"coordinates\"},
-                    {\"columnName\": \"nested array\"},
-                    {\"columnName\": \"nested array\"},
-                    {\"columnName\": \"values\"}
-                ]
-            },
-            {
-                \"name\": \"worksheetId\",
-                \"type\": \"worksheetId\",
-                \"value\": \"W\"
-            },
-            {
-                \"name\": \"selectionName\",
-                \"type\": \"other\",
-                \"value\": \"DEFAULT_TEST\"
-            },
-            {
-                \"name\": \"SemanticTypesArray\",
-                \"type\": \"other\",
-                \"value\": [{
-                    \"DomainUri\": \"http://knowdive.disi.unitn.it/etype#Municipality\",
-                    \"DomainId\": \"http://knowdive.disi.unitn.it/etype#Municipality1\",
-                    \"isPrimary\": true,
-                    \"FullType\": \"http://knowdive.disi.unitn.it/etype#has_geometry\",
-                    \"DomainLabel\": \"Municipality1\"
-                }]
-            },
-            {
-                \"name\": \"trainAndShowUpdates\",
-                \"type\": \"other\",
-                \"value\": true
-            },
-            {
-                \"name\": \"rdfLiteralType\",
-                \"type\": \"other\",
-                \"value\": \"\"
-            },
-            {
-                \"name\": \"language\",
-                \"type\": \"other\",
-                \"value\": \"\"
-            },
-            {
-                \"name\": \"inputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"geometry\\\"},{\\\"columnName\\\":\\\"coordinates\\\"},{\\\"columnName\\\":\\\"nested array\\\"},{\\\"columnName\\\":\\\"nested array\\\"},{\\\"columnName\\\":\\\"values\\\"}]}]\"
-            },
-            {
-                \"name\": \"outputColumns\",
-                \"type\": \"hNodeIdList\",
-                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"geometry\\\"},{\\\"columnName\\\":\\\"coordinates\\\"},{\\\"columnName\\\":\\\"nested array\\\"},{\\\"columnName\\\":\\\"nested array\\\"},{\\\"columnName\\\":\\\"values\\\"}]}]\"
-            }
-        ],
-        \"tags\": [\"SemanticType\"]
-    },
-    {
-        \"commandName\": \"SetSemanticTypeCommand\",
-        \"model\": \"new\",
-        \"inputParameters\": [
-            {
-                \"name\": \"hNodeId\",
-                \"type\": \"hNodeId\",
-                \"value\": [
-                    {\"columnName\": \"geometry\"},
-                    {\"columnName\": \"type\"}
-                ]
+                \"value\": [{\"columnName\": \"geometry\"}]
             },
             {
                 \"name\": \"worksheetId\",
@@ -394,123 +330,89 @@ _:node1ijdtduskx1 a km-dev:R2RMLMapping ;
             {
                 \"name\": \"inputColumns\",
                 \"type\": \"hNodeIdList\",
-                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"geometry\\\"},{\\\"columnName\\\":\\\"type\\\"}]}]\"
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"geometry\\\"}]}]\"
             },
             {
                 \"name\": \"outputColumns\",
                 \"type\": \"hNodeIdList\",
-                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"geometry\\\"},{\\\"columnName\\\":\\\"type\\\"}]}]\"
+                \"value\": \"[{\\\"value\\\":[{\\\"columnName\\\":\\\"geometry\\\"}]}]\"
             }
         ],
         \"tags\": [\"SemanticType\"]
     }
 ]""" .
 
-km-dev:TriplesMap_7e74793d-0010-493c-a187-14f827a08ba3 a rr:TriplesMap .
+km-dev:TriplesMap_537cee90-1877-4bf3-8a6d-bb92a8e9535b a rr:TriplesMap .
 
-_:node1ijdtduskx1 km-dev:hasTriplesMap km-dev:TriplesMap_7e74793d-0010-493c-a187-14f827a08ba3 .
+_:node1ijov6u24x1 km-dev:hasTriplesMap km-dev:TriplesMap_537cee90-1877-4bf3-8a6d-bb92a8e9535b .
 
-km-dev:TriplesMap_7e74793d-0010-493c-a187-14f827a08ba3 km-dev:isPartOfMapping _:node1ijdtduskx1 .
+km-dev:TriplesMap_537cee90-1877-4bf3-8a6d-bb92a8e9535b km-dev:isPartOfMapping _:node1ijov6u24x1 .
 
-_:node1ijdtduskx2 rr:tableName "Cleaned_Municipality.geojson" ;
+_:node1ijov6u24x2 rr:tableName "municipality_data.csv" ;
 	a rr:LogicalTable ;
-	km-dev:isPartOfMapping _:node1ijdtduskx1 .
+	km-dev:isPartOfMapping _:node1ijov6u24x1 .
 
-_:node1ijdtduskx1 km-dev:hasLogicalTable _:node1ijdtduskx2 .
+_:node1ijov6u24x1 km-dev:hasLogicalTable _:node1ijov6u24x2 .
 
-km-dev:TriplesMap_7e74793d-0010-493c-a187-14f827a08ba3 rr:logicalTable _:node1ijdtduskx2 ;
-	rr:subjectMap _:node1ijdtduskx3 .
+km-dev:TriplesMap_537cee90-1877-4bf3-8a6d-bb92a8e9535b rr:logicalTable _:node1ijov6u24x2 ;
+	rr:subjectMap _:node1ijov6u24x3 .
 
-_:node1ijdtduskx1 km-dev:hasSubjectMap _:node1ijdtduskx3 .
+_:node1ijov6u24x1 km-dev:hasSubjectMap _:node1ijov6u24x3 .
 
-_:node1ijdtduskx3 km-dev:isPartOfMapping _:node1ijdtduskx1 ;
+_:node1ijov6u24x3 km-dev:isPartOfMapping _:node1ijov6u24x1 ;
 	a rr:SubjectMap ;
 	km-dev:alignmentNodeId "http://knowdive.disi.unitn.it/etype#Municipality1" ;
 	rr:class etype:Municipality ;
-	rr:template "{[\"properties\",\"ref:ISTAT\"]}" ;
+	rr:template "{ref:ISTAT}" ;
 	a km-dev:steinerTreeRootNode .
 
-km-dev:PredicateObjectMap_b6306505-b76e-461d-b1d1-612d0bc154b0 rr:predicate etype:has_name .
+km-dev:PredicateObjectMap_a13550df-520f-4456-9fe3-a8245cfc0c9f rr:predicate etype:has_population .
 
-_:node1ijdtduskx4 rr:column "[\"properties\",\"name\"]" ;
+_:node1ijov6u24x4 rr:column "population" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1ijdtduskx1 .
+	km-dev:isPartOfMapping _:node1ijov6u24x1 .
 
-_:node1ijdtduskx1 km-dev:hasObjectMap _:node1ijdtduskx4 .
+_:node1ijov6u24x1 km-dev:hasObjectMap _:node1ijov6u24x4 .
 
-km-dev:PredicateObjectMap_b6306505-b76e-461d-b1d1-612d0bc154b0 rr:objectMap _:node1ijdtduskx4 .
+km-dev:PredicateObjectMap_a13550df-520f-4456-9fe3-a8245cfc0c9f rr:objectMap _:node1ijov6u24x4 .
 
-km-dev:TriplesMap_7e74793d-0010-493c-a187-14f827a08ba3 rr:predicateObjectMap km-dev:PredicateObjectMap_b6306505-b76e-461d-b1d1-612d0bc154b0 .
+km-dev:TriplesMap_537cee90-1877-4bf3-8a6d-bb92a8e9535b rr:predicateObjectMap km-dev:PredicateObjectMap_a13550df-520f-4456-9fe3-a8245cfc0c9f .
 
-km-dev:PredicateObjectMap_b6306505-b76e-461d-b1d1-612d0bc154b0 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1ijdtduskx1 .
+km-dev:PredicateObjectMap_a13550df-520f-4456-9fe3-a8245cfc0c9f a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1ijov6u24x1 .
 
-_:node1ijdtduskx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_b6306505-b76e-461d-b1d1-612d0bc154b0 .
+_:node1ijov6u24x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_a13550df-520f-4456-9fe3-a8245cfc0c9f .
 
-km-dev:PredicateObjectMap_2a34e8c8-4c3a-47fa-8997-f9038b49f97f rr:predicate etype:has_geometry .
+km-dev:PredicateObjectMap_c6d6c3db-77da-488a-bfbc-e53cc088ad7c rr:predicate etype:has_name .
 
-_:node1ijdtduskx5 rr:column "[\"geometry\",\"type\"]" ;
+_:node1ijov6u24x5 rr:column "name" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1ijdtduskx1 .
+	km-dev:isPartOfMapping _:node1ijov6u24x1 .
 
-_:node1ijdtduskx1 km-dev:hasObjectMap _:node1ijdtduskx5 .
+_:node1ijov6u24x1 km-dev:hasObjectMap _:node1ijov6u24x5 .
 
-km-dev:PredicateObjectMap_2a34e8c8-4c3a-47fa-8997-f9038b49f97f rr:objectMap _:node1ijdtduskx5 .
+km-dev:PredicateObjectMap_c6d6c3db-77da-488a-bfbc-e53cc088ad7c rr:objectMap _:node1ijov6u24x5 .
 
-km-dev:TriplesMap_7e74793d-0010-493c-a187-14f827a08ba3 rr:predicateObjectMap km-dev:PredicateObjectMap_2a34e8c8-4c3a-47fa-8997-f9038b49f97f .
+km-dev:TriplesMap_537cee90-1877-4bf3-8a6d-bb92a8e9535b rr:predicateObjectMap km-dev:PredicateObjectMap_c6d6c3db-77da-488a-bfbc-e53cc088ad7c .
 
-km-dev:PredicateObjectMap_2a34e8c8-4c3a-47fa-8997-f9038b49f97f a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1ijdtduskx1 .
+km-dev:PredicateObjectMap_c6d6c3db-77da-488a-bfbc-e53cc088ad7c a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1ijov6u24x1 .
 
-_:node1ijdtduskx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_2a34e8c8-4c3a-47fa-8997-f9038b49f97f .
+_:node1ijov6u24x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_c6d6c3db-77da-488a-bfbc-e53cc088ad7c .
 
-km-dev:PredicateObjectMap_32ef5033-46cd-4677-90e9-66cd075475ab rr:predicate etype:has_geometry .
+km-dev:PredicateObjectMap_1f374ce7-817e-4568-a317-56b9bb44d34e rr:predicate etype:has_geometry .
 
-_:node1ijdtduskx6 rr:column "[\"geometry\",\"coordinates\",\"nested array\",\"nested array\",\"nested array\",\"values\"]" ;
+_:node1ijov6u24x6 rr:column "geometry" ;
 	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1ijdtduskx1 .
+	km-dev:isPartOfMapping _:node1ijov6u24x1 .
 
-_:node1ijdtduskx1 km-dev:hasObjectMap _:node1ijdtduskx6 .
+_:node1ijov6u24x1 km-dev:hasObjectMap _:node1ijov6u24x6 .
 
-km-dev:PredicateObjectMap_32ef5033-46cd-4677-90e9-66cd075475ab rr:objectMap _:node1ijdtduskx6 .
+km-dev:PredicateObjectMap_1f374ce7-817e-4568-a317-56b9bb44d34e rr:objectMap _:node1ijov6u24x6 .
 
-km-dev:TriplesMap_7e74793d-0010-493c-a187-14f827a08ba3 rr:predicateObjectMap km-dev:PredicateObjectMap_32ef5033-46cd-4677-90e9-66cd075475ab .
+km-dev:TriplesMap_537cee90-1877-4bf3-8a6d-bb92a8e9535b rr:predicateObjectMap km-dev:PredicateObjectMap_1f374ce7-817e-4568-a317-56b9bb44d34e .
 
-km-dev:PredicateObjectMap_32ef5033-46cd-4677-90e9-66cd075475ab a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1ijdtduskx1 .
+km-dev:PredicateObjectMap_1f374ce7-817e-4568-a317-56b9bb44d34e a rr:PredicateObjectMap ;
+	km-dev:isPartOfMapping _:node1ijov6u24x1 .
 
-_:node1ijdtduskx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_32ef5033-46cd-4677-90e9-66cd075475ab .
-
-km-dev:PredicateObjectMap_e1271af8-79ee-4615-8b2e-087e6080b911 rr:predicate etype:has_population .
-
-_:node1ijdtduskx7 rr:column "[\"properties\",\"population\"]" ;
-	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1ijdtduskx1 .
-
-_:node1ijdtduskx1 km-dev:hasObjectMap _:node1ijdtduskx7 .
-
-km-dev:PredicateObjectMap_e1271af8-79ee-4615-8b2e-087e6080b911 rr:objectMap _:node1ijdtduskx7 .
-
-km-dev:TriplesMap_7e74793d-0010-493c-a187-14f827a08ba3 rr:predicateObjectMap km-dev:PredicateObjectMap_e1271af8-79ee-4615-8b2e-087e6080b911 .
-
-km-dev:PredicateObjectMap_e1271af8-79ee-4615-8b2e-087e6080b911 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1ijdtduskx1 .
-
-_:node1ijdtduskx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_e1271af8-79ee-4615-8b2e-087e6080b911 .
-
-km-dev:PredicateObjectMap_d5ae2fc1-49bb-435e-a0e6-ff7861205cf9 rr:predicate etype:has_geometry .
-
-_:node1ijdtduskx8 rr:column "[\"geometry\",\"coordinates\",\"nested array\",\"nested array\",\"values\"]" ;
-	a rr:ObjectMap ;
-	km-dev:isPartOfMapping _:node1ijdtduskx1 .
-
-_:node1ijdtduskx1 km-dev:hasObjectMap _:node1ijdtduskx8 .
-
-km-dev:PredicateObjectMap_d5ae2fc1-49bb-435e-a0e6-ff7861205cf9 rr:objectMap _:node1ijdtduskx8 .
-
-km-dev:TriplesMap_7e74793d-0010-493c-a187-14f827a08ba3 rr:predicateObjectMap km-dev:PredicateObjectMap_d5ae2fc1-49bb-435e-a0e6-ff7861205cf9 .
-
-km-dev:PredicateObjectMap_d5ae2fc1-49bb-435e-a0e6-ff7861205cf9 a rr:PredicateObjectMap ;
-	km-dev:isPartOfMapping _:node1ijdtduskx1 .
-
-_:node1ijdtduskx1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_d5ae2fc1-49bb-435e-a0e6-ff7861205cf9 .
+_:node1ijov6u24x1 km-dev:hasPredicateObjectMap km-dev:PredicateObjectMap_1f374ce7-817e-4568-a317-56b9bb44d34e .

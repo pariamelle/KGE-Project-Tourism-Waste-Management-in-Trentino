@@ -1,1 +1,2 @@
-In this directory you have store all the material considered and created for the data definition phase
+\subsection{Overview of the Fifth iTelos Phase} 
+The main challenge of this phase was mastering the use of the Karma tool. We found its interface not always intuitive or user-friendly, and certain processes somewhat tedious, although we recognize the value of its output. We all contributed to this phase by reviewing and fixing the datasets where necessary, as well as learning how to use Karma and carrying out the mapping operations.

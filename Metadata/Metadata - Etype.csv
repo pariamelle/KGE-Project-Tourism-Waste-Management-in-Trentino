@@ -1,0 +1,5 @@
+EtypLicence ,EtypURL ,EtypCreator,EtypOwner,EtypLang,EtypName, EtypPubTime ,EtypDesc ,EtypVersion 
+W3C CLA,https://schema.org/Person,Schema.org,Schema.org,english,Person,22/11/2024,"A person (alive, dead, undead, or fictional).",V28.1
+W3C CLA,https://schema.org/Place,Schema.org,Schema.org,english,Place,22/11/2024,"Entities that have a somewhat fixed, physical extension.",V28.1
+W3C CLA,https://schema.org/City,Schema.org,Schema.org,english,City,22/11/2024,A city or town.,V28.1
+W3C CLA,https://schema.org/TouristAttraction,Schema.org,Schema.org,english,TouristAttraction,22/11/2024,"A tourist attraction. In principle any Thing can be a TouristAttraction, from a Mountain and LandmarksOrHistoricalBuildings to a LocalBusiness.",V28.1

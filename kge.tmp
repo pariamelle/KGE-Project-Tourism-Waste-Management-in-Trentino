@@ -67,13 +67,30 @@ pertains to individual cities, covers a yearly timeline from 2014 to 2022.</p>
                 <li>SPARQL Querying for Competency Questions</li>
             </ul>
         </div>
+        <div class = "section">
+       <h3>Reference schema</h3> 
+        <p>We have relied on schema.org</p>
+    </div>
+
         <div class="section">
-            <h3>Evaluation and Results</h3>
-            <p>The Knowledge Graph was evaluated for purpose satisfaction and reusability. Key metrics included entity and property connectivity, with strong performance across both dimensions.</p>
+            <h3>Core Components</h3>
+            <ul>
+                <li>ER Model</li>
+                <li>EER model</li>
+                <li>Final teleontolgy</li>
+                <li>Karma mapping</li>
+            </ul>
         </div>
         <div class="section">
-            <h3>Example SPARQL Query</h3>
-            <pre><code>SELECT ?municipality ?totalWaste 
+            <h3>Evaluation and Results</h3>
+            <p>The The evaluation metrics that assess the knowledge graph in terms of purpose satisfaction and reusability show good results. 
+                SPARQL queries were also conducted to validate our KG effectiveness in retrieving relevant information</p>
+<h4>Example SPARQL Query for competency question 2</h4>
+            <p>The query retrieves tourist
+attractions involved in skiing activities located in the municipality of Folgaria, and, for
+each attraction, it finds nearby recycling facilities (waste baskets) that accept Organic
+waste and are within a 5000 meter radius</p>
+
 WHERE {
   ?wasteProduction ex:generatedBy ?municipality .
   ?wasteProduction ex:wasteType "Plastic" .

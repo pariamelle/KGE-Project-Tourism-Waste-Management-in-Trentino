@@ -1,3 +1,10 @@
-\subsection{Overview of the Fourth iTelos Phase}
+## Overview of the Fourth iTelos Phase
 
-This fourth phase, along with the first, proved to be the most conceptually challenging. It required us to reflect on the structure of our schema at a higher level of abstraction compared to the ER model. This reflection led to the development of the EER model and the addition of a few terms to our domain language. The practical development of teleontology and teleology in this phase was carried out using Protégé, a tool whose functionality may also prove valuable to us in the future. Finally, the revision of our competency questions to ensure full alignment with the updated schema is an ongoing process and will remain a priority as we move forward, especially as further adjustments are likely to be required.
+The fourth phase, along with the first, was one of the most conceptually challenging stages of the project. It required us to think about the structure of our schema at a higher level of abstraction, moving beyond the **Entity-Relationship (ER) model**. This deeper reflection led to the development of the **Enhanced Entity-Relationship (EER) model** and the addition of new terms to our domain language.
+
+### Key Activities
+1. **Schema Abstraction**: We analyzed the schema at a higher conceptual level, refining its structure to better align with our project goals.
+2. **EER Model Development**: Building on the ER model, we developed the **EER model** to capture more complex relationships and constraints.
+3. **Teleontology and Teleology Development**: Using **Protégé**, we implemented teleontology and teleology, leveraging the tool's functionality for future scalability.
+4. **Competency Question Revision**: We revisited and revised our competency questions to ensure full alignment with the updated schema. This remains an ongoing priority, as further adjustments are likely as the project progresses.
+

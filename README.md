@@ -5,9 +5,9 @@
 This repository contains the iTelos project for the **Knowledge Graph Engineering** course (2024/25) taught by Professors Fausto Giunchiglia, Simone Bocca, and Mayukh Bagchi at the University of Trento. The project was developed by Gaudenzia Genoni, Maria Amalia Pelle, and Yishak Tadele Nigatu for the Master's in Data Science program.
 
 ## Purpose and Domain
+**Objective:** Offer comprehensive information regarding waste management and its relationship with tourism.
 **Geographic Focus:** Trentino Province (46°04′00″N, 11°07′00″E)  
 **Temporal Coverage:** 2014-2022  
-**Objective:** Offer comprehensive information regarding waste management and its relationship with tourism.
 
 ## Data Sources
 - 🗺️ [**OpenStreetMap**](https://www.openstreetmap.org/): Geospatial data for waste baskets and tourist attractions

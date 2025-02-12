@@ -2,7 +2,7 @@
 
 ### EType Level  
 **Coverage Calculation:**  
-CovE(CQE) = \(\frac{CQE \cap TE}{CQE} = \frac{6}{9} \approx 0.7\)
+CovE(CQE) = (CQE ∩ TE) / CQE = 6 / 9 ≈ 0.7
 
 ### Property Level  
 **Coverage Calculation:**  

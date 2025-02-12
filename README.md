@@ -25,10 +25,10 @@ Alignment with [schema.org](https://schema.org) vocabulary for entity modeling.
    - Enhanced Entity-Relationship (EER) Model
 2. **Knowledge Representation**
    - Teleontology using kTelos methodology
-   - Schema.org alignment
+   - Schema alignment
 3. **Implementation**
+   - Protege
    - Karma data mapping
-   - SPARQL query engine
   
 ## Evaluation
 - **Metrics:** Purpose satisfaction (85%), Reusability index (92%)

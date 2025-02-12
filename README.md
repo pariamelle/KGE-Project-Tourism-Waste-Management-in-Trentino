@@ -7,6 +7,7 @@ This repository contains the iTelos project for the **Knowledge Graph Engineerin
 
 ## Purpose and Domain
 The purpose is to offer comprehensive information regarding waste management and its relationship with tourism in the Province of Trento.
+
 **Geographic Focus:** Trentino Province (46°04′00″N, 11°07′00″E)  
 **Temporal Coverage:** 2014-2022  
 **Objective:** Analyze relationships between tourism patterns and waste management practices across municipalities.

@@ -1,2 +1,8 @@
-\subsection{Overview of the Fifth iTelos Phase} 
-The main challenge of this phase was mastering the use of the Karma tool. We found its interface not always intuitive or user-friendly, and certain processes somewhat tedious, although we recognize the value of its output. We all contributed to this phase by reviewing and fixing the datasets where necessary, as well as learning how to use Karma and carrying out the mapping operations.
+## Overview of the Fifth iTelos Phase
+
+The fifth phase presented a significant challenge: mastering the use of the **Karma tool**. While we found its interface to be less intuitive and user-friendly at times, and some processes somewhat tedious, we recognize the value of its output for our project.
+
+### Key Activities
+1. **Karma Tool Mastery**: We dedicated time to learning and navigating the Karma tool, despite its steep learning curve.
+2. **Dataset Review and Fixing**: All team members contributed to reviewing and fixing datasets as needed to ensure compatibility with Karma.
+3. **Mapping Operations**: We carried out mapping operations in Karma, aligning our datasets with the project's schema.

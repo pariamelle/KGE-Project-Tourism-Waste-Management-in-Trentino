@@ -35,8 +35,7 @@ Alignment with [schema.org](https://schema.org) vocabulary for entity modeling.
 - **Performance:** Average query response time < 1.2s
 
 ## Example SPARQL Query
-**Competency Question:** Find ski attractions in Folgaria with nearby organic waste facilities (≤5km)
-
+**Competency Question:** Find organic waste facilities within 5 km of ski tourist attractions in Folgaria.  
 ```sparql
 PREFIX etype: <http://knowdive.disi.unitn.it/etype#>
 PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>

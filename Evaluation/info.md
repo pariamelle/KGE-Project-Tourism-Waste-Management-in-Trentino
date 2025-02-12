@@ -2,19 +2,19 @@
 
 ### EType Level  
 **Coverage Calculation:**  
-CovE(CQE) = (CQE ∩ TE) / CQE = 6 / 9 ≈ 0.7
+CovE(CQE) = (CQe ∩ Te) / CQe = 6 / 9 ≈ 0.7
 
 ### Property Level  
 **Coverage Calculation:**  
-Covp(CQp) = (CQp ∩ Tp) / CQp = 30 / 42 ≈ 0.7
+CovP(CQp) = (CQp ∩ Tp) / CQp = 30 / 42 ≈ 0.7
 
 ### EType Level  
 **Coverage Calculation:**  
-CovE(ROE) = (ROe ∩ TE) / ROe = 6 / 6 = 1
+CovE(ROE) = (ROe ∩ Te) / ROe = 6 / 6 = 1
 
 ### Property Level  
 **Coverage Calculation:**  
-Covp(ROp) = (ROp ∩ Tp) / ROp = 17 / 17 = 1
+CovP(ROp) = (ROp ∩ Tp) / ROp = 17 / 17 = 1
 
 ### Entity Connectivity (EC)  
 **Overall Calculation:**  

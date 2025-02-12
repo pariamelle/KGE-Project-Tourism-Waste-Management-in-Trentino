@@ -2,4 +2,4 @@ title: KGE Project - Tourism and Waste Management in Trentino
 description: Knowledge Graph Engineering project for tourism and waste management analysis
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-  - jekyll-remote-theme
+- jekyll-remote-theme # add this line to the plugins list if you already have one

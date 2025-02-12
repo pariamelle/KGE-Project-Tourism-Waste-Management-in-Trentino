@@ -1,7 +1,6 @@
 
 # KGE Project - Tourism and Waste Management in Trentino
 
-![GitHub Pages](https://img.shields.io/badge/Hosted_on-GitHub_Pages-blue?style=flat-square)
 
 This repository contains the iTelos project for the **Knowledge Graph Engineering** course (2024/25) taught by Professors Fausto Giunchiglia, Simone Bocca, and Mayukh Bagchi at the University of Trento. The project was developed by Gaudenzia Genoni, Maria Amalia Pelle, and Yishak Tadele Nigatu for the Master's in Data Science program.
 
@@ -78,5 +77,5 @@ ORDER BY ASC(?distance)
 
 ---
 
-**Hosted on GitHub Pages** · Last updated: June 2024  
+**Hosted on GitHub Pages** · Last updated: Feb 2025  
 [View Project Documentation](Documentation/2024___2025_KGE_Project_Report_Template.pdf) · [Report Issue](https://github.com/pariamelle/KGE-Project-Tourism-Waste-Management-in-Trentino/issues)

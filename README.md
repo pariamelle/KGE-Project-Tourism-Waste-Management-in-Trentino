@@ -31,7 +31,7 @@ Alignment with [schema.org](https://schema.org) vocabulary for entity modeling.
   
 ## Evaluation
 - **Metrics:** Purpose satisfaction (70%), Reusability index (100%)
-- **Validation:** All competency questions answered, with varying degree of granularity
+- **Validation:** All competency questions answered, with varying degrees of granularity
 - **Performance:** Average query response time < 1.2s
 
 ## Example SPARQL Query

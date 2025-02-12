@@ -38,27 +38,49 @@ Alignment with [schema.org](https://schema.org) vocabulary for entity modeling.
 **Competency Question:** Find organic waste facilities within 5 km of ski tourist attractions in Folgaria.  
 ```sparql
 PREFIX etype: <http://knowdive.disi.unitn.it/etype#>
-PREFIX rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
-PREFIX geo: <http://www.opengis.net/ont/geosparql#>
-PREFIX geof: <http://www.opengis.net/def/function/geosparql/>
-PREFIX uom: <http://www.opengis.net/def/uom/OGC/1.0/>
+PREFIX rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#>
+PREFIX geo:   <http://www.opengis.net/ont/geosparql#>
+PREFIX geof:  <http://www.opengis.net/def/function/geosparql/>
+PREFIX uom:   <http://www.opengis.net/def/uom/OGC/1.0/>
 
-SELECT ?municipalityName ?attractionName ?distance WHERE {
+SELECT ?municipalityName ?attractionName ?attractionType ?attractionLocation ?basketLocation ?wasteDisposalType ?distance 
+WHERE {
+  # Retrieve tourist attractions located in Folgaria.
   ?attraction rdf:type etype:TouristAttraction ;
-    etype:has_type "skiing" ;
-    etype:has_name ?attractionName ;
-    etype:has_geometry ?attractionLoc ;
-    etype:Located_in [ etype:has_name "Folgaria" ].
+              etype:has_type ?attractionType ;
+              etype:has_name ?attractionName ;
+              etype:has_geometry ?attractionLocation ;
+              etype:Located_in ?municipality .
+  ?municipality etype:has_name ?municipalityName .
+  FILTER(?municipalityName = "Folgaria")
   
+  # Filter so that the attraction's type is exactly "skiing".
+  FILTER(?attractionType = "skiing")
+  
+  # Optionally include additional tourist attraction attributes.
+  OPTIONAL { ?attraction etype:has_description ?attractionDescription . }
+  
+  # For each attraction, find waste baskets (recycling facilities).
   ?wasteBasket rdf:type etype:WasteBasket ;
-    etype:has_amenity "recycling" ;
-    etype:has_geometry ?basketLoc ;
-    etype:Disposes [ etype:has_name "Organic" ].
+               etype:has_amenity "recycling" ;
+               etype:has_geometry ?basketLocation ;
+               etype:Disposes ?wasteDisposal .
   
-  BIND(geof:distance(?attractionLoc, ?basketLoc, uom:metre) AS ?distance)
+  # Compute the distance (in meters) from the attraction to the waste basket.
+  BIND(geof:distance(?attractionLocation, ?basketLocation, uom:metre) AS ?distance)
+  
+  # Only include waste baskets within 5000 meters.
   FILTER(?distance <= 5000)
+  
+  # Retrieve the waste disposal type name.
+  ?wasteDisposal rdf:type etype:WasteDisposalType ;
+                 etype:has_name ?wasteDisposalType .
+  
+  # Filter to only include waste baskets that accept Organic waste.
+  FILTER(?wasteDisposalType = "Organic")
 }
 ORDER BY ASC(?distance)
+
 ```
 
 ## Team

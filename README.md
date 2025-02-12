@@ -30,8 +30,8 @@ Alignment with [schema.org](https://schema.org) vocabulary for entity modeling.
    - Karma data mapping
   
 ## Evaluation
-- **Metrics:** Purpose satisfaction (85%), Reusability index (92%)
-- **Validation:** 15/20 competency questions fully answered
+- **Metrics:** Purpose satisfaction (70%), Reusability index (100%)
+- **Validation:** most competency questions fully answered
 - **Performance:** Average query response time < 1.2s
 
 ## Example SPARQL Query

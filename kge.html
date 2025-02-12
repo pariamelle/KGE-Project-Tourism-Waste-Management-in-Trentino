@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Knowledge Graph Engineering Project</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            width: 80%;
+            margin: 20px auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        h1, h2, h3 {
+            color: #444;
+        }
+        .section {
+            margin-bottom: 20px;
+        }
+        .footer {
+            text-align: center;
+            margin-top: 20px;
+            font-size: 0.9em;
+            color: #777;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Knowledge Graph Engineering Project</h1>
+        <h2>Tourism and Waste Management in Trentino</h2>
+        <div class="section">
+            <h3>Project Overview</h3>
+            <p>This project aims to create a Knowledge Graph (KG) that integrates data on tourism and waste management in the Province of Trento. The graph provides valuable insights for stakeholders such as tourists, facility owners, and policymakers to promote sustainable tourism and effective waste management practices.</p>
+        </div>
+        <div class="section">
+            <h3>Purpose and Scope</h3>
+            <p>The Knowledge Graph covers key domains such as waste production, tourist attractions, and municipal waste regulations. Data sources include OpenStreetMap, Dolomiti Ambiente, and the Italian Institute for Environmental Protection and Research (ISPRA).</p>
+        </div>
+        <div class="section">
+            <h3>Core Components</h3>
+            <ul>
+                <li>Entity-Relationship (ER) Model</li>
+                <li>Teleontology using the kTelos methodology</li>
+                <li>SPARQL Querying for Competency Questions</li>
+            </ul>
+        </div>
+        <div class="section">
+            <h3>Evaluation and Results</h3>
+            <p>The Knowledge Graph was evaluated for purpose satisfaction and reusability. Key metrics included entity and property connectivity, with strong performance across both dimensions.</p>
+        </div>
+        <div class="section">
+            <h3>Example SPARQL Query</h3>
+            <pre><code>SELECT ?municipality ?totalWaste 
+WHERE {
+  ?wasteProduction ex:generatedBy ?municipality .
+  ?wasteProduction ex:wasteType "Plastic" .
+  ?wasteProduction ex:year "2022" .
+  ?wasteProduction ex:quantity ?totalWaste .
+}</code></pre>
+            <p>This query retrieves the total amount of plastic waste generated in each municipality in 2022.</p>
+        </div>
+        <div class="section">
+            <h3>Credits and References</h3>
+            <p>Project by Maria Amalia Pelle, Gaudenzia Genoni, Yishak Tadele Nigatu.<br>
+            Data sources: OpenStreetMap, Dolomiti Ambiente, ISPRA.</p>
+        </div>
+        <div class="footer">
+            <p>&copy; 2025 Knowledge Graph Project | Hosted on GitHub Pages</p>
+        </div>
+    </div>
+</body>
+</html>

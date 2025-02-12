@@ -1,7 +1,7 @@
 # KGE Project - Tourism and Waste Management in Trentino
 This is the repository for the iTelos project of the course "Knowledge Graph Engineering" taught by Professors Fausto Giunchiglia, Simone Bocca and Mayukh Bagchi for UniTn, academic year 2024/25. 
 
-```html
+
 
     <div class="container">
         <h1>KGE project - Tourism and Waste Management in Trentino</h1>
@@ -114,6 +114,3 @@ ORDER BY ASC(?distance)
             <p>&copy; 2025 Knowledge Graph Project | Hosted on GitHub Pages</p>
         </div>
     </div>
-</body>
-</html>
-```

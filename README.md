@@ -68,8 +68,11 @@ ORDER BY ASC(?distance)
 - **Performance:** Average query response time < 1.2s
 
 ## Team
+
+<!-- Empty line before table -->
+    
 | Member                   | Contribution Area       |
-|--------------------------|-------------------------|
+|:-------------------------|:------------------------|
 | Gaudenzia Genoni         | Data Modeling           |
 | Maria Amalia Pelle       | Ontology Development    |
 | Yishak Tadele Nigatu     | Query Optimization      |
@@ -80,4 +83,4 @@ ORDER BY ASC(?distance)
 ---
 
 **Hosted on GitHub Pages** · Last updated: June 2024  
-[View Project Documentation](docs/) · [Report Issue](issues/)
+[View Project Documentation](Documentation/2024___2025_KGE_Project_Report_Template.pdf) · [Report Issue](issues/)

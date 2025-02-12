@@ -30,8 +30,13 @@ Alignment with [schema.org](https://schema.org) vocabulary for entity modeling.
 3. **Implementation**
    - Karma data mapping
    - SPARQL query engine
+  
+## Evaluation
+- **Metrics:** Purpose satisfaction (85%), Reusability index (92%)
+- **Validation:** 15/20 competency questions fully answered
+- **Performance:** Average query response time < 1.2s
 
-### Example SPARQL Query
+## Example SPARQL Query
 **Competency Question:** Find ski attractions in Folgaria with nearby organic waste facilities (≤5km)
 
 ```sparql
@@ -58,11 +63,6 @@ SELECT ?municipalityName ?attractionName ?distance WHERE {
 }
 ORDER BY ASC(?distance)
 ```
-
-## Evaluation
-- **Metrics:** Purpose satisfaction (85%), Reusability index (92%)
-- **Validation:** 15/20 competency questions fully answered
-- **Performance:** Average query response time < 1.2s
 
 ## Team
 

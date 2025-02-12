@@ -26,7 +26,7 @@ Alignment with [schema.org](https://schema.org) vocabulary for entity modeling.
    - Teleontology using kTelos methodology
    - Schema alignment
 3. **Implementation**
-   - Protege
+   - Protégé
    - Karma data mapping
   
 ## Evaluation

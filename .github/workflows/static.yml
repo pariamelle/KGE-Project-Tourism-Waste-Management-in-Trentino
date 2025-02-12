@@ -1,4 +1,4 @@
-name: Deploy Jekyll Site with Cayman Theme
+name: Deploy to GitHub Pages
 
 on:
   push:
@@ -15,35 +15,35 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  deploy:
-    runs-on: ubuntu-latest
+  build-deploy:
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
+      - name: Checkout
         uses: actions/checkout@v4
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.1 # Matches GitHub Pages' runtime
+          ruby-version: 3.1
+          bundler-cache: true
 
-      - name: Install dependencies
-        run: |
-          gem install bundler
-          bundle install
+      - name: Setup Pages
+        uses: actions/configure-pages@v3
 
       - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
-        with:
-          source: ./
-          destination: ./_site
+        run: |
+          bundle install
+          bundle exec jekyll build --baseurl "${{ steps.prep.outputs.base_path }}"
+        env:
+          JEKYLL_ENV: production
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
         with:
-          path: '_site/'
+          path: ./_site
 
       - name: Deploy to GitHub Pages
         id: deployment

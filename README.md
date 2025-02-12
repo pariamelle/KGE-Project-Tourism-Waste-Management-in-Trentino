@@ -13,10 +13,13 @@ The purpose is to offer comprehensive information regarding waste management and
 **Objective:** Analyze relationships between tourism patterns and waste management practices across municipalities.
 
 ## Data Sources
-- 🗺️ **OpenStreetMap**: Geospatial data for waste baskets and tourist attractions
-- ♻️ **Dolomiti Ambiente**: Waste disposal types and management practices
-- 📊 **ISPRA**: Annual municipal waste production data
-- 📈 **ISTAT**: Demographic statistics and municipal boundaries
+- 🗺️ [**OpenStreetMap**](https://www.openstreetmap.org/): Geospatial data for waste baskets and tourist attractions
+- ♻️ [**Dolomiti Ambiente**](https://dolomitiambiente.it/it/): Waste disposal types and management practices
+- 📊 [**ISPRA**](https://www.isprambiente.gov.it/it): Annual municipal waste production data
+- 📈 [**ISTAT**](https://www.istat.it/): Demographic statistics and municipal boundaries
+
+## Reference Schema
+Alignment with [schema.org](https://schema.org) vocabulary for entity modeling.
 
 ## Methodology
 ### Core Components
@@ -31,8 +34,7 @@ The purpose is to offer comprehensive information regarding waste management and
    - SPARQL query engine
 
 ## Technical Implementation
-### Reference Schema
-Alignment with [schema.org](https://schema.org) vocabulary for entity modeling.
+
 
 ### Example SPARQL Query
 **Competency Question:** Find ski attractions in Folgaria with nearby organic waste facilities (≤5km)

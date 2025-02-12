@@ -19,8 +19,7 @@ This repository contains the iTelos project for the **Knowledge Graph Engineerin
 ## Reference Schema
 Alignment with [schema.org](https://schema.org) vocabulary for entity modeling.
 
-## Methodology
-### Core Components
+## Methodology: Core Components
 1. **Conceptual Models**
    - Entity-Relationship (ER) Model
    - Enhanced Entity-Relationship (EER) Model

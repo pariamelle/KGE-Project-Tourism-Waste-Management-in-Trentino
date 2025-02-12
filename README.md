@@ -83,4 +83,4 @@ ORDER BY ASC(?distance)
 ---
 
 **Hosted on GitHub Pages** · Last updated: June 2024  
-[View Project Documentation](Documentation/2024___2025_KGE_Project_Report_Template.pdf) · [Report Issue](issues/)
+[View Project Documentation](Documentation/2024___2025_KGE_Project_Report_Template.pdf) · [Report Issue](https://github.com/pariamelle/KGE-Project-Tourism-Waste-Management-in-Trentino/issues)

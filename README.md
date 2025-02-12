@@ -68,9 +68,9 @@ ORDER BY ASC(?distance)
     
 | Member                   | Contribution Area       |
 |:-------------------------|:------------------------|
-| Gaudenzia Genoni         | Data Modeling           |
-| Maria Amalia Pelle       | Ontology Development    |
-| Yishak Tadele Nigatu     | Query Optimization      |
+| Gaudenzia Genoni         | Knowledge Engineer      |
+| Maria Amalia Pelle       | Project Manager    |
+| Yishak Tadele Nigatu     | Data Scientist      |
 
 ## License
 [![CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)

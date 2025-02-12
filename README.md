@@ -31,9 +31,6 @@ Alignment with [schema.org](https://schema.org) vocabulary for entity modeling.
    - Karma data mapping
    - SPARQL query engine
 
-## Technical Implementation
-
-
 ### Example SPARQL Query
 **Competency Question:** Find ski attractions in Folgaria with nearby organic waste facilities (≤5km)
 

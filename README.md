@@ -27,7 +27,7 @@ Alignment with [schema.org](https://schema.org) vocabulary for entity modeling.
    - [Schema alignment](https://github.com/pariamelle/KGE-Project-Tourism-Waste-Management-in-Trentino/blob/main/Phase%204%20-%20Knowledge%20Definition/images/Teleology_3.png)
 3. **Implementation**
    - Protégé
-   - Karma data mapping
+   - [Karma data mapping](https://github.com/pariamelle/KGE-Project-Tourism-Waste-Management-in-Trentino/blob/main/Phase%205%20-%20Entity%20Definition/pics/waste_production.png)
   
 ## Evaluation
 - **Metrics:** Purpose satisfaction (70%), Reusability index (100%)

@@ -20,7 +20,7 @@ Alignment with [schema.org](https://schema.org) vocabulary for entity modeling.
 
 ## Core Components
 1. **Conceptual Models**
-   - [Entity-Relationship (ER) Model](Phase 1 - Purpose Formalization/ER_model_2.svg)
+   - [Entity-Relationship (ER) Model]((Phase%201%20-%20Purpose%20Formalization/ER_model_2.svg))
    - Enhanced Entity-Relationship (EER) Model
 2. **Knowledge Representation**
    - Teleontology using kTelos methodology

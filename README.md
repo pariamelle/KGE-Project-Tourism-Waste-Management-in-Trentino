@@ -21,7 +21,7 @@ Alignment with [schema.org](https://schema.org) vocabulary for entity modeling.
 ## Core Components
 1. **Conceptual Models**
    - [Entity-Relationship (ER) Model](https://github.com/pariamelle/KGE-Project-Tourism-Waste-Management-in-Trentino/blob/main/Phase%201%20-%20Purpose%20Formalization/ER_model_2.svg)
-   - [Enhanced Entity-Relationship (EER) Model](https://github.com/username/repository-name/blob/main/Phase%204%20-%20Knowledge%20Definition/images/Teleology_3.png)
+   - [Enhanced Entity-Relationship (EER) Model]([https://github.com/username/repository-name/](https://github.com/pariamelle/KGE-Project-Tourism-Waste-Management-in-Trentino.git/blob/main/Phase%204%20-%20Knowledge%20Definition/images/Teleology_3.png)
 2. **Knowledge Representation**
    - Teleontology using kTelos methodology
    - Schema alignment

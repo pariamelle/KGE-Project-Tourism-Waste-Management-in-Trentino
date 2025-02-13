@@ -24,7 +24,7 @@ Alignment with [schema.org](https://schema.org) vocabulary for entity modeling.
    - [Enhanced Entity-Relationship (EER) Model](https://github.com/pariamelle/KGE-Project-Tourism-Waste-Management-in-Trentino/blob/main/Phase%204%20-%20Knowledge%20Definition/images/EER_Model.svg)
 2. **Knowledge Representation**
    - Teleontology using kTelos methodology
-   - Schema alignment(https://github.com/pariamelle/KGE-Project-Tourism-Waste-Management-in-Trentino/blob/main/Phase%204%20-%20Knowledge%20Definition/images/Teleology_3.png)
+   - [Schema alignment](https://github.com/pariamelle/KGE-Project-Tourism-Waste-Management-in-Trentino/blob/main/Phase%204%20-%20Knowledge%20Definition/images/Teleology_3.png)
 3. **Implementation**
    - Protégé
    - Karma data mapping
